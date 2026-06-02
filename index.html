@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Mind Map Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div>
+          <h1>JSON Mind Map Viewer</h1>
+          <p class="subtitle">
+            Select a numbered JSON file to render a left-to-right tree diagram.
+          </p>
+        </div>
+      </header>
+
+      <main>
+        <section id="landing" class="card panel visible">
+          <div class="panel-header">
+            <h2>Choose a file</h2>
+            <p>
+              Each JSON file should contain a nested `title` + `children` tree
+              structure.
+            </p>
+          </div>
+
+          <div class="controls">
+            <label for="fileSelect">Available mind-map sources</label>
+            <div class="select-row">
+              <select id="fileSelect"></select>
+              <button id="loadButton" class="primary">Load</button>
+            </div>
+          </div>
+
+          <div class="note">
+            <strong>Tip:</strong> Add more numbered JSON files and update
+            `files.json` to extend the list.
+          </div>
+        </section>
+
+        <section id="viewer" class="panel hidden">
+          <div class="viewer-header">
+            <button id="backButton" class="secondary">← Back</button>
+            <div>
+              <h2 id="chartTitle">Mind Map</h2>
+              <p id="chartSubtitle" class="subtitle">
+                Rendering JSON structure as a left-to-right tree.
+              </p>
+            </div>
+            <div class="viewer-actions">
+              <div class="zoom-controls">
+                <button
+                  id="zoomOutButton"
+                  class="secondary"
+                  aria-label="Zoom out"
+                >
+                  –
+                </button>
+                <button
+                  id="zoomInButton"
+                  class="secondary"
+                  aria-label="Zoom in"
+                >
+                  +
+                </button>
+                <button
+                  id="resetZoomButton"
+                  class="secondary"
+                  aria-label="Reset zoom"
+                >
+                  ⟲
+                </button>
+              </div>
+              <span id="nodeInfo"></span>
+            </div>
+          </div>
+          <div id="chart" class="chart"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://unpkg.com/d3@7/dist/d3.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
