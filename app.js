@@ -11,6 +11,7 @@ const zoomInButton = document.getElementById("zoomInButton");
 const zoomOutButton = document.getElementById("zoomOutButton");
 const resetZoomButton = document.getElementById("resetZoomButton");
 const chartContainer = document.getElementById("chart");
+const saveImageButton = document.getElementById("saveImageButton");
 
 loadButton.addEventListener("click", () => {
   const fileName = fileSelect.value;
@@ -335,4 +336,132 @@ function renderMindMap(data) {
   if (files.length) {
     fileSelect.value = files[0];
   }
+  if (saveImageButton) {
+    saveImageButton.addEventListener("click", async () => {
+      try {
+        await saveChartAsJpeg();
+      } catch (err) {
+        alert(err.message || "Unable to save image");
+      }
+    });
+  }
 })();
+
+async function saveChartAsJpeg() {
+  const svgNode = chartContainer.querySelector("svg");
+  if (!svgNode) throw new Error("No chart to export");
+
+  const padding = 60;
+  const graphGroup = svgNode.querySelector("g > g");
+  let vbX = 0;
+  let vbY = 0;
+  let vbW = 0;
+  let vbH = 0;
+
+  if (graphGroup) {
+    const graphBBox = graphGroup.getBBox();
+    const transform = graphGroup.transform.baseVal.consolidate();
+    const dx = transform?.matrix?.e || 0;
+    const dy = transform?.matrix?.f || 0;
+
+    vbX = graphBBox.x + dx - padding;
+    vbY = graphBBox.y + dy - padding;
+    vbW = graphBBox.width + padding * 2;
+    vbH = graphBBox.height + padding * 2;
+  } else {
+    vbX = 0;
+    vbY = 0;
+    vbW = svgNode.clientWidth || 1200;
+    vbH = svgNode.clientHeight || 800;
+    const viewBox = svgNode.getAttribute("viewBox");
+    if (viewBox) {
+      const parts = viewBox.split(/\s+|,/).map(Number);
+      if (parts.length === 4 && parts.every((n) => !Number.isNaN(n))) {
+        [vbX, vbY, vbW, vbH] = parts;
+      }
+    }
+  }
+
+  if (vbW <= 0 || vbH <= 0) {
+    throw new Error("Unable to determine chart bounds for export");
+  }
+
+  // Temporarily override the SVG viewBox so the serialized string covers the full tree
+  const originalViewBox = svgNode.getAttribute("viewBox");
+  const originalWidth   = svgNode.getAttribute("width");
+  const originalHeight  = svgNode.getAttribute("height");
+  svgNode.setAttribute("viewBox", `${vbX} ${vbY} ${vbW} ${vbH}`);
+  svgNode.setAttribute("width",  vbW);
+  svgNode.setAttribute("height", vbH);
+
+  const serializer = new XMLSerializer();
+  let svgString = serializer.serializeToString(svgNode);
+
+  // Restore original attributes right away (before any async work)
+  if (originalViewBox !== null) svgNode.setAttribute("viewBox", originalViewBox); else svgNode.removeAttribute("viewBox");
+  if (originalWidth   !== null) svgNode.setAttribute("width",   originalWidth);   else svgNode.removeAttribute("width");
+  if (originalHeight  !== null) svgNode.setAttribute("height",  originalHeight);  else svgNode.removeAttribute("height");
+
+  if (!svgString.match(/^<svg[^>]+xmlns="http:\/\/www.w3.org\/2000\/svg"/)) {
+    svgString = svgString.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
+  }
+  if (!svgString.includes("xmlns:xlink")) {
+    svgString = svgString.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"');
+  }
+
+  // Inline same-origin stylesheets so text/colors render correctly off-DOM
+  let cssText = "";
+  for (const sheet of Array.from(document.styleSheets)) {
+    try {
+      if (!sheet.cssRules) continue;
+      for (const rule of sheet.cssRules) cssText += rule.cssText;
+    } catch (e) { /* ignore CORS/readonly */ }
+  }
+
+  const openTagEnd = svgString.indexOf(">");
+  const withStyles =
+    svgString.slice(0, openTagEnd + 1) +
+    (cssText ? `<style>${cssText}</style>` : "") +
+    svgString.slice(openTagEnd + 1);
+
+  // Scale for readability — cap at 3840px wide, max 3×
+  const maxWidth = 3840;
+  const scale = Math.min(maxWidth / Math.max(1, vbW), 3);
+
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => {
+      try {
+        const canvas = document.createElement("canvas");
+        canvas.width  = Math.round(vbW * scale);
+        canvas.height = Math.round(vbH * scale);
+        const ctx = canvas.getContext("2d");
+        ctx.fillStyle = getComputedStyle(document.body).backgroundColor || "#0b1220";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        canvas.toBlob(
+          (blob) => {
+            if (!blob) return reject(new Error("Export failed"));
+            const a = document.createElement("a");
+            const fileName =
+              (chartTitle.textContent || "mindmap").replace(/[^a-z0-9_-]+/gi, "_") + ".jpg";
+            const url = URL.createObjectURL(blob);
+            a.href = url;
+            a.download = fileName;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            setTimeout(() => URL.revokeObjectURL(url), 5000);
+            resolve();
+          },
+          "image/jpeg",
+          0.92,
+        );
+      } catch (err) {
+        reject(err);
+      }
+    };
+    img.onerror = () => reject(new Error("Failed to load SVG for export"));
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(withStyles);
+  });
+}

@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JSON Mind Map Viewer</title>
+    <title>Mind Map Viewer</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <div class="page-shell">
       <header class="topbar">
         <div>
-          <h1>JSON Mind Map Viewer</h1>
+          <h1>Mind Map Viewer</h1>
           <p class="subtitle">
             Select a numbered JSON file to render a left-to-right tree diagram.
           </p>
@@ -33,11 +33,6 @@
               <select id="fileSelect"></select>
               <button id="loadButton" class="primary">Load</button>
             </div>
-          </div>
-
-          <div class="note">
-            <strong>Tip:</strong> Add more numbered JSON files and update
-            `files.json` to extend the list.
           </div>
         </section>
 
@@ -74,6 +69,7 @@
                   ⟲
                 </button>
               </div>
+              <button id="saveImageButton" class="primary">Save JPG</button>
               <span id="nodeInfo"></span>
             </div>
           </div>
