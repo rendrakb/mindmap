@@ -1,0 +1,1466 @@
+{
+  "title": "Neuro-Ophthalmology",
+  "type": "root",
+  "children": [
+    {
+      "title": "Neuro-Ophthalmic Anatomy",
+      "children": [
+        {
+          "title": "Bony Anatomy",
+          "children": [
+            {
+              "title": "Skull base foramina: optic canal (CN II + ophthalmic a.), superior orbital fissure (CN III/IV/V1/VI + superior ophthalmic v.), inferior orbital fissure (V2, infraorbital a.)"
+            },
+            {
+              "title": "Orbital apex: convergence of all structures entering orbit; apex syndrome = all cranial nerves affected"
+            },
+            {
+              "title": "Cavernous sinus: CN III, IV, V1, V2 in lateral wall; CN VI medial (most vulnerable); contains ICA"
+            }
+          ]
+        },
+        {
+          "title": "Vascular Anatomy",
+          "children": [
+            {
+              "title": "Anterior Circulation (ICA)",
+              "children": [
+                {
+                  "title": "ICA → ophthalmic artery (1st intracranial branch) → central retinal artery + posterior ciliary arteries"
+                },
+                {
+                  "title": "Ophthalmic artery supplies optic nerve, retina, choroid, orbit"
+                },
+                { "title": "ICA → ACA + MCA; ACoA connects bilateral ACAs" },
+                {
+                  "title": "PCoA connects ICA to PCA (posterior circulation); aneurysm here → CN III palsy"
+                }
+              ]
+            },
+            {
+              "title": "Posterior Circulation (Vertebrobasilar)",
+              "children": [
+                { "title": "Vertebral arteries → basilar artery → PCAs" },
+                {
+                  "title": "PICA (posterior inferior cerebellar a.) → lateral medulla; AICA → lateral pons; SCA → cerebellum"
+                },
+                {
+                  "title": "PCAs supply occipital cortex (V1); bilateral PCA stroke → cortical blindness"
+                },
+                {
+                  "title": "Basilar tip aneurysm → top-of-the-basilar syndrome (CN III palsy + somnolence)"
+                }
+              ]
+            },
+            {
+              "title": "Venous System",
+              "children": [
+                {
+                  "title": "Superior ophthalmic vein → cavernous sinus → petrosal sinuses → jugular vein"
+                },
+                {
+                  "title": "Cavernous sinus thrombosis: proptosis + chemosis + CN palsies + fever"
+                },
+                {
+                  "title": "Cerebral venous thrombosis: ICP elevation + headache ± vision loss; treat with anticoagulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Afferent Visual Pathways",
+          "children": [
+            {
+              "title": "Retinal ganglion cells → NFL → optic nerve → chiasm → optic tract → LGN → optic radiations → V1 (calcarine cortex)"
+            },
+            {
+              "title": "Chiasm: nasal fibers cross (representing temporal visual fields); temporal fibers stay ipsilateral"
+            },
+            {
+              "title": "Meyer loop (temporal lobe radiations): inferior visual field; 'pie in the sky' defect with temporal lesion"
+            },
+            {
+              "title": "Parietal radiations: superior visual field; 'pie on the floor' defect with parietal lesion"
+            },
+            {
+              "title": "V1 (striate cortex): primary visual; V2/V3/V4/V5: secondary; dorsal stream (where) vs ventral stream (what)"
+            }
+          ]
+        },
+        {
+          "title": "Efferent Visual System",
+          "children": [
+            {
+              "title": "Ocular Motor Cranial Nerves",
+              "children": [
+                {
+                  "title": "CN III nucleus (midbrain): SR subnucleus crosses; levator subnucleus is midline/single"
+                },
+                {
+                  "title": "CN III fascicle passes through red nucleus + cerebral peduncle; exits interpeduncular fossa"
+                },
+                {
+                  "title": "CN IV: only CN to exit dorsally; longest intracranial course; decussates in anterior medullary velum"
+                },
+                {
+                  "title": "CN VI nucleus (pons): contains CN VII genu (fascicle wraps around); PPRF nearby"
+                },
+                {
+                  "title": "MLF (medial longitudinal fasciculus): connects CN III/IV/VI nuclei + vestibular nuclei; internuclear pathway"
+                }
+              ]
+            },
+            {
+              "title": "Supranuclear Control",
+              "children": [
+                {
+                  "title": "Frontal eye fields (FEF, area 8): voluntary contralateral saccades"
+                },
+                {
+                  "title": "PPRF (paramedian pontine reticular formation): horizontal gaze center (ipsilateral)"
+                },
+                {
+                  "title": "riMLF (rostral interstitial MLF, midbrain): vertical gaze center"
+                },
+                {
+                  "title": "Cerebellum: smooth pursuit, VOR calibration, gaze-holding"
+                },
+                { "title": "Superior colliculus: reflexive saccades" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ocular Autonomic Pathways",
+          "children": [
+            {
+              "title": "Sympathetic (3-neuron arc)",
+              "children": [
+                {
+                  "title": "1st order: hypothalamus → ipsilateral ciliospinal center of Budge (C8-T2)"
+                },
+                {
+                  "title": "2nd order: over lung apex → around subclavian/carotid arteries → superior cervical ganglion"
+                },
+                {
+                  "title": "3rd order: along ICA → cavernous sinus → ophthalmic division → dilator muscle + Müller muscle + lower lid retractor"
+                },
+                {
+                  "title": "Horner syndrome: ptosis (2mm) + miosis + anhidrosis (1st/2nd order) + lower lid elevation"
+                },
+                {
+                  "title": "Pharmacologic testing: cocaine (blocks reuptake) → confirms Horner; hydroxyamphetamine → localizes 3rd order"
+                }
+              ]
+            },
+            {
+              "title": "Parasympathetic",
+              "children": [
+                {
+                  "title": "Edinger-Westphal nucleus → CN III → ciliary ganglion → short ciliary nerves → sphincter + ciliary muscle"
+                },
+                {
+                  "title": "Light reflex: retina → pretectal nucleus → bilateral EW → CN III → constriction"
+                },
+                {
+                  "title": "Near reflex triad: convergence + accommodation + miosis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sensory & Facial Motor Anatomy",
+          "children": [
+            {
+              "title": "CN V (trigeminal): V1 (ophthalmic) → corneal sensation, forehead; V2 (maxillary) → cheek; V3 (mandibular) → jaw + motor"
+            },
+            {
+              "title": "Corneal reflex: V1 afferent → bilateral CN VII efferent (blink)"
+            },
+            {
+              "title": "CN VII (facial): motor (upper face bilateral cortical input; lower face contralateral only); taste anterior 2/3 tongue; lacrimation"
+            },
+            {
+              "title": "Upper motor neuron CN VII lesion: spares forehead (bilateral cortical input); Lower motor neuron: entire face affected (Bell palsy)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Imaging in Neuro-Ophthalmology",
+      "children": [
+        {
+          "title": "CT",
+          "children": [
+            {
+              "title": "Best for: bone, acute hemorrhage (hyperdense), calcifications, foreign bodies, trauma"
+            },
+            { "title": "Fast; widely available; use in acute settings" },
+            {
+              "title": "CT angiography (CTA): rapid, high-res; detects aneurysms ≥3mm, arterial dissection, AVM"
+            }
+          ]
+        },
+        {
+          "title": "MRI",
+          "children": [
+            {
+              "title": "T1: fat/gadolinium bright; anatomy; T2/FLAIR: water/edema bright; demyelination, ischemia"
+            },
+            {
+              "title": "DWI (diffusion-weighted): acute infarction (bright within minutes-hours)"
+            },
+            {
+              "title": "FLAIR: suppresses CSF; ideal for periventricular MS plaques, cortical lesions"
+            },
+            {
+              "title": "Fat-suppressed T1+Gad: optic nerve enhancement (neuritis), meningeal disease"
+            },
+            {
+              "title": "MRA (MR angiography): non-invasive; detects large vessel aneurysms, stenosis"
+            },
+            { "title": "MRV (MR venography): cerebral venous thrombosis" }
+          ]
+        },
+        {
+          "title": "When & What to Order",
+          "children": [
+            {
+              "title": "Optic neuritis: MRI brain + orbits with fat-suppressed Gad (ON enhancement + MS plaques)"
+            },
+            {
+              "title": "CN III palsy: MRA or CTA urgently to r/o PCoA aneurysm (especially if pupil-involving)"
+            },
+            {
+              "title": "Proptosis/orbital disease: CT first (bone), then MRI if soft tissue/ON detail needed"
+            },
+            {
+              "title": "Papilledema/ICP: MRI brain + MRV (r/o venous thrombosis) + LP"
+            },
+            { "title": "Suspected stroke/TIA: MRI DWI + MRA" },
+            { "title": "Cavernous sinus syndrome: MRI with Gad" }
+          ]
+        },
+        {
+          "title": "Other Modalities",
+          "children": [
+            {
+              "title": "Catheter angiography (DSA): gold standard for aneurysms and AVM; allows intervention"
+            },
+            {
+              "title": "B-scan ultrasound: optic nerve sheath diameter >5mm → elevated ICP; also drusen, masses"
+            },
+            {
+              "title": "OCT (optic coherence tomography): NFL thickness (glaucoma/ON atrophy); GCL loss; disc swelling quantification"
+            },
+            {
+              "title": "OCT-A (angiography): flow-based; macular capillary dropout in ischemia"
+            },
+            {
+              "title": "VEP (visual evoked potential): delayed P100 → demyelination (optic neuritis)"
+            }
+          ]
+        },
+        {
+          "title": "Key Neuroimaging Terms",
+          "children": [
+            {
+              "title": "Hyperdense (CT): acute blood, calcification, dense vessel sign (MCA thrombosis)"
+            },
+            {
+              "title": "Hyperintense T2/FLAIR: edema, demyelination, infarction, tumor"
+            },
+            {
+              "title": "Enhancement (Gad): breakdown of blood-brain barrier; active inflammation, tumor, abscess"
+            },
+            {
+              "title": "Restricted diffusion (DWI bright + ADC dark): acute cytotoxic edema = ischemia"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Decreased Vision: Evaluation",
+      "children": [
+        {
+          "title": "History",
+          "children": [
+            {
+              "title": "Monocular vs binocular: monocular = pre-chiasmal; binocular = chiasmal or post-chiasmal"
+            },
+            { "title": "Acute vs subacute vs chronic; painful vs painless" },
+            {
+              "title": "Associated: headache, diplopia, proptosis, jaw claudication, preceding amaurosis fugax, neurologic Sx"
+            },
+            {
+              "title": "Cognitive/behavioral change: suggests cortical/higher visual pathway"
+            }
+          ]
+        },
+        {
+          "title": "Examination",
+          "children": [
+            {
+              "title": "Visual acuity: Snellen; pinhole improves refractive errors but NOT optic nerve/retinal disease"
+            },
+            {
+              "title": "Color vision (Ishihara/HRR): disproportionate loss in optic nerve disease vs retinal disease"
+            },
+            {
+              "title": "Pupil (RAPD): swinging flashlight test; RAPD = afferent defect; absent in bilateral symmetric disease"
+            },
+            {
+              "title": "Fundus: disc swelling (papilledema, NAION), pallor (atrophy), NFL defects, retinal changes"
+            },
+            {
+              "title": "Visual fields: confrontation (screening); automated perimetry (Humphrey 24-2 or 30-2) for threshold"
+            }
+          ]
+        },
+        {
+          "title": "Visual Field Patterns",
+          "children": [
+            {
+              "title": "Central scotoma: macular or optic nerve (especially demyelination)"
+            },
+            {
+              "title": "Arcuate/altitudinal defect: NAION, glaucoma (nerve fiber bundle)"
+            },
+            {
+              "title": "Bitemporal hemianopia: chiasmal compression (pituitary)"
+            },
+            {
+              "title": "Homonymous hemianopia: post-chiasmal; complete = occipital; incomplete = tract/radiation"
+            },
+            {
+              "title": "Quadrantanopia: temporal (Meyer loop, superior quadrant) or parietal (inferior quadrant)"
+            },
+            {
+              "title": "Constricted field: glaucoma, RP, papilledema (chronic)"
+            }
+          ]
+        },
+        {
+          "title": "Adjunct Testing",
+          "children": [
+            {
+              "title": "OCT: NFL thinning (chronic ON disease), RNFL thickening (acute disc swelling)"
+            },
+            {
+              "title": "FAF (fundus autofluorescence): RPE lipofuscin; hyper = active disease; hypo = atrophy"
+            },
+            { "title": "FFA/ICGA: vascular disease, CNV, ischemia" },
+            {
+              "title": "ERG: photoreceptor/retinal function; full-field vs multifocal (macular)"
+            },
+            {
+              "title": "VEP: optic nerve conduction; delayed P100 in demyelination"
+            },
+            {
+              "title": "Photostress recovery test: prolonged recovery → macular disease (not optic nerve)"
+            },
+            {
+              "title": "Contrast sensitivity: reduced in ON disease, amblyopia"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Decreased Vision: Retinal, ON & Chiasmal Disease",
+      "children": [
+        {
+          "title": "Optic Neuropathies",
+          "children": [
+            {
+              "title": "Optic Neuritis",
+              "children": [
+                {
+                  "title": "Typical: young woman; painful (retrobulbar); acute unilateral vision loss; RAPD; disc normal (retrobulbar) or swollen (papillitis)"
+                },
+                {
+                  "title": "Strongly associated with MS; MRI brain: >2 T2 lesions → high risk of MS conversion"
+                },
+                {
+                  "title": "ONTT: IV steroids speed recovery but don't change final VA; oral prednisone alone → ↑relapse risk"
+                },
+                {
+                  "title": "Atypical features (bilateral, painless, severe, no recovery, older patient) → r/o NMOSD, MOGAD, sarcoid, syphilis"
+                }
+              ]
+            },
+            {
+              "title": "NAION (Non-Arteritic Anterior Ischemic ON)",
+              "children": [
+                {
+                  "title": "Most common acute optic neuropathy >50 years; painless; altitudinal visual field loss (inferior > superior)"
+                },
+                {
+                  "title": "Crowded disc ('disc at risk'): small cup-to-disc ratio"
+                },
+                {
+                  "title": "Risk factors: hypertension, DM, hyperlipidemia, OSA, nocturnal hypotension, PDE5 inhibitors"
+                },
+                {
+                  "title": "No proven treatment; fellow eye risk ~15-20% lifetime; aspirin does not prevent recurrence"
+                }
+              ]
+            },
+            {
+              "title": "AAION (Arteritic - Giant Cell Arteritis)",
+              "children": [
+                {
+                  "title": "Age >50 (usually >70); jaw claudication, scalp tenderness, temporal headache, elevated ESR/CRP/platelets"
+                },
+                {
+                  "title": "Chalky white disc edema; fellow eye involvement risk within days without treatment"
+                },
+                {
+                  "title": "Diagnosis: temporal artery biopsy (skip lesions; do within 2 weeks of starting steroids)"
+                },
+                {
+                  "title": "Treatment: immediate high-dose IV methylprednisolone → oral prednisone taper; do NOT wait for biopsy"
+                }
+              ]
+            },
+            {
+              "title": "Papilledema",
+              "children": [
+                {
+                  "title": "Bilateral disc swelling due to ↑ICP; transient visual obscurations; preserved VA early"
+                },
+                {
+                  "title": "Causes: IIH, intracranial mass, venous sinus thrombosis, meningitis, hydrocephalus"
+                },
+                {
+                  "title": "Frisen grading: grade 1-5 (C-shaped halo to severe with hemorrhages)"
+                },
+                {
+                  "title": "IIH: obese young woman; LP opening pressure >25cmH₂O; normal MRI (empty sella, bilateral transverse sinus stenosis); treat with acetazolamide ± weight loss ± CSF diversion"
+                }
+              ]
+            },
+            {
+              "title": "Compressive Optic Neuropathy",
+              "children": [
+                {
+                  "title": "Slow progressive vision loss; color desaturation; central scotoma; optic atrophy late"
+                },
+                {
+                  "title": "Causes: meningioma, pituitary adenoma, thyroid eye disease (orbital apex), aneurysm"
+                },
+                {
+                  "title": "Optociliary shunt vessels: chronic compression (meningioma of ON sheath)"
+                }
+              ]
+            },
+            {
+              "title": "Leber Hereditary Optic Neuropathy (LHON)",
+              "children": [
+                {
+                  "title": "Mitochondrial (maternal); young males predominantly; bilateral sequential painless central vision loss"
+                },
+                {
+                  "title": "mt-ND1/4/6 mutations (11778 most common); peripapillary telangiectasias on exam"
+                },
+                {
+                  "title": "Treatment: idebenone; avoid smoking/alcohol (mitochondrial stressors)"
+                }
+              ]
+            },
+            {
+              "title": "Other Optic Neuropathies",
+              "children": [
+                {
+                  "title": "Toxic/nutritional: B12 deficiency, folate, tobacco-alcohol amblyopia, ethambutol, methanol, amiodarone → bilateral centrocecal scotomas"
+                },
+                {
+                  "title": "Traumatic: direct (laceration) or indirect (closed head trauma with canalicular fracture); no proven treatment"
+                },
+                {
+                  "title": "Infiltrative: lymphoma, leukemia, sarcoid, carcinomatous meningitis"
+                },
+                {
+                  "title": "Radiation optic neuropathy: delayed (months-years); painless; severe; bevacizumab may help"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chiasmal Disorders",
+          "children": [
+            {
+              "title": "Classic defect: bitemporal hemianopia (nasal fibers cross at chiasm)"
+            },
+            {
+              "title": "Junction scotoma: ipsilateral central + contralateral superior temporal (Wilbrand knee)"
+            },
+            {
+              "title": "Pituitary adenoma: most common cause; compresses chiasm from below; visual field recovery after surgery correlates with preop NFL thickness on OCT"
+            },
+            {
+              "title": "Other causes: meningioma, craniopharyngioma, glioma, aneurysm, sarcoid, arachnoid cyst"
+            }
+          ]
+        },
+        {
+          "title": "Retinal Causes",
+          "children": [
+            {
+              "title": "Autoimmune/paraneoplastic retinopathy (CAR, MAR): antibodies against retinal antigens; assoc. with small cell lung ca (CAR), melanoma (MAR)"
+            },
+            {
+              "title": "Cone dystrophy: central vision + color loss; photoaversion; ERG: reduced cone response"
+            },
+            {
+              "title": "AZOOR/AIBSE/MEWDS: white dot syndromes; unilateral; young women; visual field loss + photopsias; usually self-limited"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Retrochiasmal Visual Dysfunction",
+      "children": [
+        {
+          "title": "Optic Tract",
+          "children": [
+            {
+              "title": "Incongruous homonymous hemianopia (most incongruous of all post-chiasmal lesions)"
+            },
+            {
+              "title": "Contralateral RAPD (more temporal fibers than nasal cross)"
+            },
+            {
+              "title": "Bow-tie (band) atrophy of optic disc in ipsilateral eye"
+            }
+          ]
+        },
+        {
+          "title": "Lateral Geniculate Nucleus (LGN)",
+          "children": [
+            {
+              "title": "Rare; dual vascular supply → wedge-shaped sectoral defects sparing horizontal meridian"
+            },
+            {
+              "title": "Anterior choroidal artery (AChA) vs lateral posterior choroidal artery lesions produce distinct field patterns"
+            }
+          ]
+        },
+        {
+          "title": "Optic Radiations",
+          "children": [
+            {
+              "title": "Temporal lobe (Meyer loop): superior homonymous quadrantanopia ('pie in the sky')"
+            },
+            {
+              "title": "Parietal lobe: inferior homonymous quadrantanopia ('pie on the floor') ± visual neglect, optokinetic nystagmus asymmetry"
+            },
+            {
+              "title": "Occipital lobe (V1): congruous homonymous hemianopia, often with macular sparing"
+            }
+          ]
+        },
+        {
+          "title": "Cortical Visual Impairment",
+          "children": [
+            {
+              "title": "Bilateral occipital damage: cortical blindness; normal pupil reactions (midbrain intact)"
+            },
+            {
+              "title": "Anton syndrome: cortical blindness + denial of visual loss (confabulation)"
+            },
+            {
+              "title": "Balint syndrome: simultanagnosia + optic ataxia + ocular apraxia (bilateral parieto-occipital)"
+            },
+            { "title": "Causes: bilateral PCA infarcts, hypoxia, PRES, trauma" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Transient Visual Loss",
+      "children": [
+        {
+          "title": "Monocular Transient Visual Loss (TMVL)",
+          "children": [
+            {
+              "title": "Amaurosis fugax: embolic (carotid plaque, cardiac, hypercoagulable); positive scotoma; brief (seconds-minutes)"
+            },
+            {
+              "title": "Ocular causes: transient IOP elevation, angle closure, hyphema, vitreous hemorrhage"
+            },
+            {
+              "title": "Vascular: central retinal artery spasm, hypoperfusion (orthostatic), vasospasm (Raynaud-like, migraine)"
+            },
+            {
+              "title": "Orbital: orbital compartment syndrome (positional), vascular compression"
+            },
+            {
+              "title": "Workup: carotid Doppler/CTA, cardiac echo, lipids, CBC, coags, hypercoagulable panel"
+            }
+          ]
+        },
+        {
+          "title": "Binocular Transient Visual Loss",
+          "children": [
+            {
+              "title": "Migraine with aura: scintillating scotoma (positive); gradual spread over 20-30 min; followed by headache; binocular"
+            },
+            {
+              "title": "Vertebrobasilar TIA: bilateral vision loss + other posterior circulation Sx (vertigo, diplopia, ataxia)"
+            },
+            {
+              "title": "ICP-related: transient obscurations in papilledema; seconds; positional"
+            },
+            {
+              "title": "Occipital seizure: brief stereotyped colored visual phenomena"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Illusions, Hallucinations & Higher Cortical Function",
+      "children": [
+        {
+          "title": "Hallucinations",
+          "children": [
+            {
+              "title": "Charles Bonnet syndrome: formed hallucinations in visually impaired patients; normal cognition; no psychiatric disease"
+            },
+            {
+              "title": "Peduncular hallucinosis: vivid formed hallucinations; midbrain/thalamic lesion"
+            },
+            {
+              "title": "Migraine aura: unformed (fortification spectra, scintillations); unilateral or bilateral"
+            },
+            {
+              "title": "Seizure (occipital): simple colored blobs/circles; brief, stereotyped"
+            },
+            {
+              "title": "Drug-induced, psychiatric (distinguish from neurologic)"
+            }
+          ]
+        },
+        {
+          "title": "Disorders of Higher Cortical Function",
+          "children": [
+            {
+              "title": "Prosopagnosia: inability to recognize faces; bilateral fusiform gyrus (ventral stream)"
+            },
+            {
+              "title": "Visual agnosia: cannot recognize objects despite intact vision; ventral stream lesion"
+            },
+            {
+              "title": "Alexia without agraphia: can write but not read; left occipital + splenium of corpus callosum"
+            },
+            {
+              "title": "Simultanagnosia (Balint): cannot see multiple objects at once; bilateral parieto-occipital"
+            },
+            {
+              "title": "Neglect/hemi-inattention: right parietal lesion → left-sided visual neglect"
+            },
+            { "title": "Anosognosia/Anton syndrome: denial of blindness" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Abnormal Ocular Motility & Diplopia",
+      "children": [
+        {
+          "title": "Approach to Diplopia",
+          "children": [
+            {
+              "title": "Monocular (persists with fellow eye covered): ocular cause (irregular cornea, lens, retina)"
+            },
+            {
+              "title": "Binocular (resolves with cover): misalignment; classify by direction and gaze"
+            },
+            {
+              "title": "Comitant (deviation same in all gazes): strabismus, decompensated phoria"
+            },
+            {
+              "title": "Incomitant (varies with gaze): paretic or restrictive"
+            },
+            {
+              "title": "Paretic (forced duction negative) vs restrictive (forced duction positive)"
+            }
+          ]
+        },
+        {
+          "title": "CN III Palsy",
+          "children": [
+            {
+              "title": "Clinical: ptosis (complete) + down-and-out eye + mydriasis (if compressive)"
+            },
+            {
+              "title": "Pupil-involving → compressive until proven otherwise → urgent CTA/MRA → r/o PCoA aneurysm"
+            },
+            {
+              "title": "Pupil-sparing + complete = microvascular (DM, HTN); usually recovers in 3 months"
+            },
+            {
+              "title": "Aberrant regeneration: lid elevation on adduction/downgaze; never in microvascular → r/o mass"
+            },
+            {
+              "title": "Fascicular: with contralateral tremor (Benedict) or hemiplegia (Weber)"
+            }
+          ]
+        },
+        {
+          "title": "CN IV Palsy",
+          "children": [
+            {
+              "title": "Most common cause of isolated vertical diplopia; vertical/torsional"
+            },
+            {
+              "title": "Parks-Bielschowsky 3-step test: identifies paretic muscle"
+            },
+            {
+              "title": "Worse looking down + away; head tilt contralateral; excyclotorsion on double Maddox rod"
+            },
+            {
+              "title": "Cause: trauma (bilateral CN IV), congenital (decompensated), microvascular, mass"
+            }
+          ]
+        },
+        {
+          "title": "CN VI Palsy",
+          "children": [
+            {
+              "title": "Esotropia + horizontal diplopia worse at distance looking ipsilaterally"
+            },
+            {
+              "title": "Isolated CN VI palsy in adult: microvascular first; if young or persistent → MRI (pontine lesion, ICP elevation, tumor)"
+            },
+            {
+              "title": "Bilateral CN VI: ↑ICP (false localizing sign), trauma, meningitis"
+            },
+            {
+              "title": "Gradenigo syndrome: CN VI + ipsilateral facial pain (petrous apex infection/tumor)"
+            }
+          ]
+        },
+        {
+          "title": "Internuclear Ophthalmoplegia (INO)",
+          "children": [
+            {
+              "title": "MLF lesion: ipsilateral adduction deficit + contralateral abducting nystagmus"
+            },
+            { "title": "Young bilateral INO: MS until proven otherwise" },
+            { "title": "Older unilateral INO: brainstem infarct" },
+            {
+              "title": "One-and-a-half syndrome: ipsilateral PPRF/CN VI nucleus + MLF → ipsilateral gaze palsy + INO; only abduction of contralateral eye preserved"
+            }
+          ]
+        },
+        {
+          "title": "Cavernous Sinus & Orbital Apex Syndromes",
+          "children": [
+            {
+              "title": "Cavernous sinus: CN III + IV + V1 + V2 + VI ± Horner; causes: aneurysm, thrombosis, tumor, fistula, meningioma, pituitary apoplexy"
+            },
+            {
+              "title": "Orbital apex: CN III + IV + VI + V1 + optic nerve (vision loss distinguishes from CS syndrome)"
+            },
+            {
+              "title": "Tolosa-Hunt syndrome: painful ophthalmoplegia; granulomatous; steroid-responsive; diagnosis of exclusion"
+            }
+          ]
+        },
+        {
+          "title": "Restrictive & Myopathic Causes",
+          "children": [
+            {
+              "title": "Thyroid eye disease: IR most commonly affected → restriction in upgaze; forced duction positive"
+            },
+            {
+              "title": "Orbital blow-out fracture: IR or IO entrapment → restriction"
+            },
+            {
+              "title": "CPEO: bilateral ptosis + ophthalmoplegia; mitochondrial; Kearns-Sayre if <20yo + pigmentary retinopathy + heart block"
+            },
+            {
+              "title": "Brown syndrome: inability to elevate in adduction (SO tendon sheath restriction or trochlea)"
+            }
+          ]
+        },
+        {
+          "title": "Neuromuscular Junction",
+          "children": [
+            {
+              "title": "Myasthenia gravis: fatiguable ptosis + ophthalmoplegia; variable; Cogan lid twitch sign"
+            },
+            {
+              "title": "Ice test: improves ptosis in MG (cold inhibits AChE); useful bedside test"
+            },
+            {
+              "title": "AChR Ab (85% generalized, 50% ocular MG); anti-MuSK Ab; edrophonium test"
+            },
+            {
+              "title": "Lambert-Eaton: proximal weakness improving with repetition; lung cancer assoc."
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Supranuclear Ocular Motility Disorders",
+      "children": [
+        {
+          "title": "Eye Movement Systems",
+          "children": [
+            {
+              "title": "Saccades: fast, voluntary gaze shifts; FEF → contralateral PPRF; cerebellar vermis calibrates"
+            },
+            {
+              "title": "Smooth pursuit: follows moving target; ipsilateral parieto-occipital → PPRF; requires intact target"
+            },
+            {
+              "title": "VOR (vestibulo-ocular reflex): stabilizes gaze during head movement; gain = 1 normal"
+            },
+            {
+              "title": "Vergence: convergence (medial recti) + divergence; near reflex triad"
+            },
+            {
+              "title": "Optokinetic nystagmus (OKN): reflexive; asymmetric OKN → parietal lesion (ipsilesional pursuit failure)"
+            }
+          ]
+        },
+        {
+          "title": "Supranuclear Gaze Palsies",
+          "children": [
+            {
+              "title": "Horizontal gaze palsy: PPRF or CN VI nucleus lesion; eyes deviate toward lesion (pontine) or away (hemisphere/FEF)"
+            },
+            {
+              "title": "Dorsal midbrain (Parinaud) syndrome: upgaze palsy + convergence-retraction nystagmus + light-near dissociation + lid retraction (Collier sign); pineal region tumors, hydrocephalus"
+            },
+            {
+              "title": "PSP (progressive supranuclear palsy): downgaze palsy + vertical saccade slowing; Parkinson-plus"
+            },
+            {
+              "title": "Skew deviation: vertical misalignment; otolithic; indicates posterior fossa lesion (vs trochlear palsy)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Nystagmus & Spontaneous Eye Movement Disorders",
+      "children": [
+        {
+          "title": "Terminology",
+          "children": [
+            {
+              "title": "Jerk nystagmus: slow drift + fast corrective saccade; named by fast phase direction"
+            },
+            {
+              "title": "Pendular nystagmus: equal velocity in both directions; acquired = MS, oculopalatal tremor"
+            },
+            {
+              "title": "Alexander's law: jerk nystagmus increases in gaze toward fast phase direction"
+            }
+          ]
+        },
+        {
+          "title": "Early-Onset Nystagmus",
+          "children": [
+            {
+              "title": "Infantile nystagmus syndrome (INS/congenital): horizontal; dampened by convergence; null point; foveation periods present; associated with albinism, aniridia, achromatopsia"
+            },
+            {
+              "title": "Spasmus nutans: nystagmus + head nodding + torticollis; benign and self-resolving; must r/o chiasmal glioma (MRI)"
+            },
+            {
+              "title": "Latent/manifest latent nystagmus: worse when one eye covered; jerk toward viewing eye"
+            }
+          ]
+        },
+        {
+          "title": "Vestibular Nystagmus",
+          "children": [
+            {
+              "title": "Peripheral (labyrinth/CN VIII): horizontal-torsional; inhibited by fixation; unidirectional; BPPV (posterior canal, Dix-Hallpike positive), vestibular neuritis"
+            },
+            {
+              "title": "Central (brainstem/cerebellum): not inhibited by fixation; can be vertical or direction-changing; gaze-evoked; skew deviation"
+            },
+            {
+              "title": "HINTS test (bedside stroke vs neuritis): Head Impulse (normal = central), Nystagmus (direction-changing = central), Test of Skew (present = central) → any central feature → MRI urgently"
+            }
+          ]
+        },
+        {
+          "title": "Specific Nystagmus Types",
+          "children": [
+            {
+              "title": "Gaze-evoked nystagmus: drugs (AEDs, alcohol), cerebellar disease, Wernicke"
+            },
+            {
+              "title": "Downbeat nystagmus: fast phase down; cerebellar (Arnold-Chiari, paraneoplastic, Mg deficiency); treat with 4-aminopyridine or clonazepam"
+            },
+            {
+              "title": "Upbeat nystagmus: medulla or anterior vermis; Wernicke, MS, tumor"
+            },
+            {
+              "title": "See-saw nystagmus: one eye rises+intorts while other falls+extorts; parasellar/chiasmal lesion"
+            },
+            {
+              "title": "Convergence-retraction nystagmus: attempted upgaze triggers convergence saccades; dorsal midbrain (Parinaud)"
+            },
+            {
+              "title": "Acquired pendular nystagmus: MS, oculopalatal tremor; treat with memantine/gabapentin"
+            }
+          ]
+        },
+        {
+          "title": "Saccadic Intrusions",
+          "children": [
+            {
+              "title": "Square wave jerks: small saccades away + back; normal if rare; cerebellar disease if prominent"
+            },
+            {
+              "title": "Opsoclonus: chaotic multidirectional saccades; paraneoplastic (anti-Ri, neuroblastoma in children), encephalitis; treat underlying cause"
+            },
+            {
+              "title": "Superior oblique myokymia: monocular intorsion/vertical oscillopsia; microvascular compression of CN IV; treat with memantine or carbamazepine"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Pupillary Abnormalities",
+      "children": [
+        {
+          "title": "Approach to Anisocoria",
+          "children": [
+            { "title": "Step 1: Is anisocoria worse in bright or dim light?" },
+            {
+              "title": "Worse in bright light (larger pupil abnormal): CN III palsy (+ ptosis, ophthalmoplegia), Adie tonic pupil, pharmacologic mydriasis"
+            },
+            {
+              "title": "Worse in dim light (smaller pupil abnormal): Horner syndrome, pharmacologic miosis"
+            },
+            {
+              "title": "Equal in both conditions: physiologic anisocoria (~20% of normal people; <1mm difference)"
+            }
+          ]
+        },
+        {
+          "title": "Horner Syndrome",
+          "children": [
+            {
+              "title": "Ptosis (2mm, upper) + lower lid elevation (upside-down ptosis) + miosis + anhidrosis (1st/2nd order)"
+            },
+            {
+              "title": "Cocaine test: confirms Horner (both pupils dilate normally; Horner pupil does not)"
+            },
+            {
+              "title": "Hydroxyamphetamine test: dilates if 3rd order neuron intact; fails if 3rd order lesion"
+            },
+            {
+              "title": "Apraclonidine test: reverses anisocoria in Horner (denervation supersensitivity); preferred clinically"
+            },
+            {
+              "title": "Causes by order: 1st (hypothalamic stroke, MS, syrinx, tumor); 2nd (lung apex tumor - Pancoast, carotid dissection, aortic aneurysm); 3rd (ICA dissection, cavernous sinus, cluster headache)"
+            },
+            {
+              "title": "New Horner + ipsilateral neck pain = carotid/vertebral dissection until proven otherwise → urgent MRI/MRA"
+            }
+          ]
+        },
+        {
+          "title": "Adie Tonic Pupil",
+          "children": [
+            {
+              "title": "Young women; unilateral large pupil; poor or tonic light reaction; better near response (light-near dissociation)"
+            },
+            {
+              "title": "Sector palsy of iris sphincter on slit lamp; denervation supersensitivity to dilute pilocarpine (0.1%)"
+            },
+            {
+              "title": "Adie syndrome: tonic pupil + absent deep tendon reflexes"
+            },
+            {
+              "title": "Cause: ciliary ganglion damage (viral, ischemic); benign"
+            }
+          ]
+        },
+        {
+          "title": "CN III Palsy (Pupil-Involving)",
+          "children": [
+            {
+              "title": "Dilated, poorly reactive pupil + ophthalmoplegia + ptosis → compressive (aneurysm, uncal herniation)"
+            },
+            {
+              "title": "Pupil-sparing complete CN III → microvascular ischemia (DM/HTN); but beware: pupil may be spared in early compression"
+            }
+          ]
+        },
+        {
+          "title": "Light-Near Dissociation",
+          "children": [
+            { "title": "Poor light response but preserved near response" },
+            {
+              "title": "Causes: Adie tonic pupil, Argyll Robertson pupil (syphilis), dorsal midbrain syndrome, bilateral severe retinal/optic nerve disease, aberrant CN III regeneration"
+            },
+            {
+              "title": "Argyll Robertson: bilateral, small, irregular; accommodation intact; syphilis (neurosyphilis)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Eyelid & Facial Abnormalities",
+      "children": [
+        {
+          "title": "Ptosis",
+          "children": [
+            {
+              "title": "Neurogenic: CN III palsy (+ ophthalmoplegia), Horner (2mm), Marcus Gunn jaw-winking (CN V/III synkinesis)"
+            },
+            {
+              "title": "Myogenic: CPEO, myasthenia gravis (fatigable), myotonic dystrophy"
+            },
+            {
+              "title": "Aponeurotic (involutional): most common acquired; levator dehiscence; high lid crease"
+            },
+            { "title": "Mechanical: heavy lid (tumor, edema, chalazion)" },
+            {
+              "title": "Congenital: poor levator function; risk of amblyopia → treat early"
+            },
+            {
+              "title": "MRD1 (margin reflex distance): normal >3mm; levator function: >8mm normal"
+            }
+          ]
+        },
+        {
+          "title": "Eyelid Retraction",
+          "children": [
+            {
+              "title": "Thyroid eye disease (Dalrymple sign): most common cause; lid lag (von Graefe sign)"
+            },
+            {
+              "title": "Dorsal midbrain syndrome (Collier sign): bilateral lid retraction + upgaze palsy"
+            },
+            {
+              "title": "Contralateral ptosis: ipsilateral lid retraction via Hering's law"
+            }
+          ]
+        },
+        {
+          "title": "CN VII Disorders",
+          "children": [
+            {
+              "title": "Underactivity (Paresis/Palsy)",
+              "children": [
+                {
+                  "title": "LMN (Bell palsy): entire ipsilateral face; inability to close eye (Bell phenomenon = upward eye roll) → corneal exposure risk"
+                },
+                {
+                  "title": "Bell palsy: most common; HSV-1 reactivation likely; treat with oral steroids ± antivirals within 72h"
+                },
+                {
+                  "title": "UMN (stroke, tumor): forehead sparing (bilateral cortical representation of upper face)"
+                },
+                {
+                  "title": "Other LMN causes: Ramsay Hunt (VZV, ear vesicles), parotid tumor, sarcoid, Lyme, Melkersson-Rosenthal"
+                },
+                {
+                  "title": "Corneal protection: lubricants, patching, tarsal surgery (gold weight implant)"
+                }
+              ]
+            },
+            {
+              "title": "Overactivity",
+              "children": [
+                {
+                  "title": "Hemifacial spasm: unilateral, starts orbicularis; compression of CN VII by vessel at root entry zone; treat with botulinum toxin or MVD (microvascular decompression)"
+                },
+                {
+                  "title": "Blepharospasm: bilateral involuntary orbicularis contractions; functional blindness; treat with botulinum toxin"
+                },
+                {
+                  "title": "Synkinesis: aberrant regeneration after Bell palsy; crocodile tears (gustatory lacrimation)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Head, Ocular & Facial Pain",
+      "children": [
+        {
+          "title": "Migraine",
+          "children": [
+            {
+              "title": "Classic: unilateral throbbing + nausea/vomiting + photo/phonophobia; +/- aura (scintillating scotoma, fortification spectra)"
+            },
+            {
+              "title": "Retinal migraine: monocular; rare; diagnosis of exclusion (r/o embolic TMVL)"
+            },
+            {
+              "title": "Hemiplegic migraine: aura + motor symptoms; CACNA1A/ATP1A2/SCN1A mutations in familial form"
+            },
+            {
+              "title": "Treatment: acute (triptans, NSAIDs, antiemetics); preventive (topiramate, propranolol, amitriptyline, CGRP inhibitors)"
+            }
+          ]
+        },
+        {
+          "title": "Trigeminal Autonomic Cephalgias (TACs)",
+          "children": [
+            {
+              "title": "Cluster headache: severe unilateral periorbital + ipsilateral autonomic features (lacrimation, ptosis, nasal congestion); 15-180min; O2 + sumatriptan acute; verapamil preventive"
+            },
+            {
+              "title": "SUNCT/SUNA: very brief (seconds); multiple daily attacks; often trigeminal neuralgia-like"
+            },
+            {
+              "title": "Paroxysmal hemicrania: like cluster but shorter + more frequent; absolutely indomethacin responsive"
+            },
+            {
+              "title": "Hemicrania continua: continuous unilateral + autonomic; indomethacin responsive"
+            }
+          ]
+        },
+        {
+          "title": "Giant Cell Arteritis (GCA)",
+          "children": [
+            {
+              "title": "Age >50 (usually >70); temporal headache + scalp tenderness + jaw claudication + constitutional symptoms"
+            },
+            {
+              "title": "ESR >50, CRP elevated, platelets elevated; TAB: granulomatous inflammation with giant cells"
+            },
+            {
+              "title": "Ocular involvement: AAION (most common) + CRAO + CN palsies + cortical infarction"
+            },
+            {
+              "title": "EMERGENCY: start IV methylprednisolone 1g/day immediately; do NOT wait for biopsy"
+            }
+          ]
+        },
+        {
+          "title": "Trigeminal Neuralgia",
+          "children": [
+            {
+              "title": "Electric shock-like lancinating pain in CN V distribution; triggered by touch, eating, talking"
+            },
+            {
+              "title": "Classic: vascular compression of CN V root; symptomatic: MS (demyelinating plaque at root entry zone)"
+            },
+            {
+              "title": "Treatment: carbamazepine (1st line) → oxcarbazepine → MVD (surgery)"
+            }
+          ]
+        },
+        {
+          "title": "Other Pain Syndromes",
+          "children": [
+            {
+              "title": "Herpes zoster ophthalmicus (HZO): V1 distribution; Hutchinson sign (nose tip involvement) → high risk of ocular involvement; treat with antivirals"
+            },
+            {
+              "title": "ICA dissection: ipsilateral Horner + ipsilateral head/neck pain + pulsatile tinnitus; can cause stroke; anticoagulation vs antiplatelet"
+            },
+            {
+              "title": "Trochleitis: pain/tenderness over trochlea (superonasal orbit); worse with upgaze; treat with local steroid injection"
+            },
+            {
+              "title": "Occipital neuralgia: C2 distribution; occipital nerve block diagnostic + therapeutic"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Functional Neurological Symptom Disorder",
+      "children": [
+        {
+          "title": "Previously: conversion disorder; real symptoms, no structural disease; NOT malingering"
+        },
+        {
+          "title": "Clinical clues: tubular visual field (does not expand with distance), spiral visual field, normal VEP, normal ERG, inconsistency between claimed vision and behavior"
+        },
+        {
+          "title": "Positive signs: Hoover sign (hip extension weakness resolves with contralateral hip flexion resistance), give-way weakness"
+        },
+        {
+          "title": "Optokinetic nystagmus (OKN): present in functional blindness (demonstrates intact visual pathway)"
+        },
+        {
+          "title": "Management: non-judgmental explanation; multidisciplinary (neurology + psychiatry + physiotherapy); prognosis better if early diagnosis"
+        }
+      ]
+    },
+
+    {
+      "title": "Systemic Disease & Neuro-Ophthalmic Manifestations",
+      "children": [
+        {
+          "title": "Multiple Sclerosis",
+          "children": [
+            {
+              "title": "Most common demyelinating disease; relapsing-remitting most common form"
+            },
+            {
+              "title": "Neuro-ophthalmic: optic neuritis (most common presenting symptom), INO (bilateral = pathognomonic for MS), nystagmus, diplopia"
+            },
+            {
+              "title": "Uhthoff phenomenon: vision worsens with heat/exercise (NOT a new attack)"
+            },
+            {
+              "title": "MRI: periventricular T2 lesions (Dawson fingers), juxtacortical, infratentorial, spinal cord lesions"
+            },
+            {
+              "title": "McDonald criteria: dissemination in space + time; OCT NFL thinning as biomarker"
+            },
+            {
+              "title": "Treatment: disease-modifying therapy (interferons, glatiramer, natalizumab, ocrelizumab, alemtuzumab)"
+            }
+          ]
+        },
+        {
+          "title": "NMOSD & MOGAD",
+          "children": [
+            {
+              "title": "NMOSD: AQP4-IgG antibody; severe bilateral ON + transverse myelitis; area postrema syndrome (intractable hiccups/nausea)"
+            },
+            {
+              "title": "MOGAD: MOG-IgG; bilateral ON or disc-prominent ON; better prognosis than NMOSD; periorbital pain; disc swelling common"
+            },
+            {
+              "title": "Both: poor recovery from ON attacks vs MS; NOT treated with standard MS DMTs; use steroids + azathioprine/rituximab/eculizumab (NMOSD)"
+            }
+          ]
+        },
+        {
+          "title": "Myasthenia Gravis",
+          "children": [
+            {
+              "title": "AChR-Ab (85% generalized); ocular MG: ptosis + diplopia only; can mimic any eye movement disorder"
+            },
+            {
+              "title": "Fatigability: worse at end of day; ice test improves ptosis; Cogan lid twitch sign"
+            },
+            {
+              "title": "Diagnosis: AChR-Ab, anti-MuSK (seronegative), edrophonium test, single-fiber EMG (most sensitive)"
+            },
+            {
+              "title": "Thymoma in 15%; thymus hyperplasia in 60% → thymectomy"
+            },
+            {
+              "title": "Treatment: pyridostigmine (symptomatic); steroids + immunosuppression; IVIG/plasma exchange (crisis)"
+            },
+            {
+              "title": "Myasthenic crisis: respiratory failure; ICU; avoid precipitants (aminoglycosides, fluoroquinolones, Mg, beta blockers)"
+            }
+          ]
+        },
+        {
+          "title": "Thyroid Eye Disease",
+          "children": [
+            {
+              "title": "Graves disease; bilateral (often asymmetric); proptosis + EOM enlargement + lid retraction"
+            },
+            {
+              "title": "Restrictive myopathy: IR > MR > SR > LR; forced duction positive"
+            },
+            {
+              "title": "Dysthyroid optic neuropathy: compressive at apex; early treatment with steroids/decompression"
+            },
+            {
+              "title": "CAS (clinical activity score) guides immunosuppression; teprotumumab (anti-IGF-1R) for active disease"
+            }
+          ]
+        },
+        {
+          "title": "Cerebrovascular Disorders",
+          "children": [
+            {
+              "title": "CRAO: painless sudden monocular vision loss; cherry red spot; embolism (carotid, cardiac); workup same as stroke; rare reperfusion window"
+            },
+            {
+              "title": "Vertebrobasilar stroke: diplopia, nystagmus, ataxia, hemianopia; PICA (Wallenberg syndrome = ipsilateral face + contralateral body sensory loss)"
+            },
+            {
+              "title": "Cerebral aneurysm: Berry aneurysm; PCoA most common ophthalmic; sudden onset worst headache (SAH); urgent CTA/LP"
+            },
+            {
+              "title": "Carotid-cavernous fistula: direct (traumatic) or indirect (dural); pulsatile proptosis + chemosis + bruit + elevated IOP; treat with endovascular embolization"
+            },
+            {
+              "title": "AVM: headache, seizure, hemorrhage; bruit; neuroradiology intervention"
+            },
+            {
+              "title": "Cerebral venous thrombosis: papilledema + headache + venous infarcts; anticoagulation"
+            }
+          ]
+        },
+        {
+          "title": "Neurocutaneous Syndromes (Phakomatoses)",
+          "children": [
+            {
+              "title": "NF1 (neurofibromatosis 1): Lisch nodules (iris hamartomas), optic pathway glioma, plexiform neurofibroma; café-au-lait spots"
+            },
+            {
+              "title": "NF2: bilateral acoustic neuromas; posterior subcapsular cataract; meningiomas; epiretinal membranes"
+            },
+            {
+              "title": "Tuberous sclerosis (TSC1/TSC2): retinal astrocytic hamartoma ('giant drüsen'), depigmented skin patches, seizures, cortical tubers"
+            },
+            {
+              "title": "Sturge-Weber: port-wine stain (V1) + ipsilateral glaucoma + leptomeningeal angioma + choroidal hemangioma"
+            },
+            {
+              "title": "von Hippel-Lindau: retinal hemangioblastoma + CNS hemangioblastoma + clear cell renal cell carcinoma; VHL gene"
+            }
+          ]
+        },
+        {
+          "title": "Selected Infectious Diseases",
+          "children": [
+            {
+              "title": "HIV: CMV retinitis (CD4 <50; 'pizza pie' hemorrhagic necrosis); treat with ganciclovir/valganciclovir"
+            },
+            {
+              "title": "Herpes (HSV/VZV): ARN (acute retinal necrosis), ON, encephalitis; treat with IV acyclovir"
+            },
+            {
+              "title": "Syphilis: 'the great imitator'; CN palsies, ON, uveitis, Argyll Robertson pupils; treat with IV penicillin G"
+            },
+            {
+              "title": "Lyme: CN VII palsy most common ocular manifestation; also ON, uveitis; treat with doxycycline/ceftriaxone"
+            },
+            {
+              "title": "Toxoplasmosis: retinochoroiditis; 'headlight in the fog' appearance; immunocompromised at risk for CNS involvement"
+            },
+            {
+              "title": "Tuberculosis: granulomatous ON, choroiditis, cranial neuropathies (CN VI most common in meningitis)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Optic neuritis: young woman + painful VA loss + RAPD → MS association; IV steroids speed recovery only"
+        },
+        {
+          "title": "AAION (GCA): immediate IV steroids; do NOT wait for biopsy; jaw claudication + ESR/CRP elevated"
+        },
+        {
+          "title": "NAION: painless altitudinal loss; crowded disc; microvascular risk factors; no proven treatment"
+        },
+        {
+          "title": "IIH: obese young woman; bilateral papilledema; normal MRI; ↑LP opening pressure; acetazolamide"
+        },
+        {
+          "title": "Parinaud syndrome: upgaze palsy + convergence-retraction nystagmus + light-near dissociation + lid retraction; dorsal midbrain/pineal"
+        },
+        {
+          "title": "Bitemporal hemianopia → chiasmal compression (pituitary adenoma most common)"
+        },
+        {
+          "title": "CN III palsy + pupil involvement → PCoA aneurysm until proven otherwise; urgent CTA/MRA"
+        },
+        {
+          "title": "CN III palsy + pupil sparing + complete → microvascular ischemia; observe 3 months"
+        },
+        {
+          "title": "CN III aberrant regeneration → NOT ischemic; always r/o compressive mass"
+        },
+        {
+          "title": "INO (MLF lesion): adduction deficit ipsilateral + abducting nystagmus contralateral; bilateral → MS"
+        },
+        {
+          "title": "One-and-a-half syndrome: ipsilateral horizontal gaze palsy + INO; only contralateral abduction preserved"
+        },
+        {
+          "title": "CN IV palsy: most common cause of isolated vertical diplopia; Parks 3-step test"
+        },
+        {
+          "title": "Horner: ptosis + miosis + anhidrosis; new + neck pain → carotid dissection (urgent MRA)"
+        },
+        {
+          "title": "Adie tonic pupil: large + poor light reaction + better near response; dilute pilocarpine (0.1%) constricts"
+        },
+        {
+          "title": "Argyll Robertson pupils: bilateral small irregular, light-near dissociation → neurosyphilis"
+        },
+        {
+          "title": "HINTS test: normal head impulse + direction-changing nystagmus + skew deviation = CENTRAL cause"
+        },
+        {
+          "title": "Downbeat nystagmus: cerebellar (Arnold-Chiari); treat with 4-aminopyridine"
+        },
+        { "title": "See-saw nystagmus: parasellar/chiasmal lesion" },
+        {
+          "title": "Opsoclonus: paraneoplastic (neuroblastoma in children, lung/breast in adults)"
+        },
+        {
+          "title": "Bell palsy: LMN CN VII; entire face; HSV-1; steroids ± acyclovir within 72h; protect cornea"
+        },
+        {
+          "title": "Hemifacial spasm: CN VII compression at REZ; treat with botulinum toxin or MVD"
+        },
+        {
+          "title": "MG: fatigable ptosis + diplopia; AChR-Ab; ice test; thymoma in 15%; avoid aminoglycosides"
+        },
+        {
+          "title": "NMOSD (AQP4): severe ON + transverse myelitis; worse prognosis than MS; rituximab/eculizumab"
+        },
+        {
+          "title": "MOGAD (MOG-IgG): disc swelling + good recovery; bilateral ON common; better prognosis than NMOSD"
+        },
+        {
+          "title": "Uhthoff phenomenon: vision worsens with heat/exercise in MS; NOT a new attack"
+        },
+        {
+          "title": "Charles Bonnet: formed hallucinations in visually impaired; normal cognition; benign; no treatment needed"
+        },
+        {
+          "title": "Cortical blindness: normal pupils; Anton syndrome = denial of blindness; bilateral PCA infarcts"
+        },
+        {
+          "title": "NF1: Lisch nodules + optic glioma; NF2: bilateral acoustic neuromas + PSC cataract"
+        },
+        {
+          "title": "Von Hippel-Lindau: retinal hemangioblastoma → treat with laser/anti-VEGF; screen for systemic tumors"
+        },
+        {
+          "title": "Functional visual loss: tubular fields + normal VEP/ERG + OKN present + inconsistency = key features"
+        }
+      ]
+    }
+  ]
+}
