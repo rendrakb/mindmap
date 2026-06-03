@@ -12,6 +12,7 @@ const zoomOutButton = document.getElementById("zoomOutButton");
 const resetZoomButton = document.getElementById("resetZoomButton");
 const chartContainer = document.getElementById("chart");
 const saveImageButton = document.getElementById("saveImageButton");
+let requestResetZoom = null;
 
 loadButton.addEventListener("click", () => {
   const fileName = fileSelect.value;
@@ -138,12 +139,17 @@ function renderMindMap(data) {
     svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.8);
   };
 
-  resetZoomButton.onclick = () => {
-    svg
-      .transition()
-      .duration(300)
-      .call(zoomBehavior.transform, d3.zoomIdentity.translate(0, 0));
-  };
+  const resetZoom = () =>
+    new Promise((resolve) => {
+      svg
+        .transition()
+        .duration(300)
+        .call(zoomBehavior.transform, d3.zoomIdentity.translate(0, 0))
+        .on("end", resolve);
+    });
+
+  resetZoomButton.onclick = () => resetZoom();
+  requestResetZoom = resetZoom;
 
   function collapse(d) {
     if (d.children) {
@@ -339,6 +345,7 @@ function renderMindMap(data) {
   if (saveImageButton) {
     saveImageButton.addEventListener("click", async () => {
       try {
+        if (typeof requestResetZoom === "function") await requestResetZoom();
         await saveChartAsJpeg();
       } catch (err) {
         alert(err.message || "Unable to save image");
