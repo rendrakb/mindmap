@@ -118,9 +118,29 @@ select {
   padding: 12px 14px;
   border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.1);
-  background: rgba(255, 255, 255, 0.04);
+  background: var(--surface);
   color: var(--text);
   outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* Make native dropdown list items dark where supported */
+select option,
+select optgroup {
+  background: var(--surface-strong);
+  color: var(--text);
+}
+
+select:focus {
+  box-shadow: 0 0 0 3px rgba(124, 159, 255, 0.08);
+  border-color: rgba(124, 159, 255, 0.18);
+}
+
+/* Tweak native expand arrow on IE/Edge */
+select::-ms-expand {
+  filter: invert(1);
 }
 
 button {
