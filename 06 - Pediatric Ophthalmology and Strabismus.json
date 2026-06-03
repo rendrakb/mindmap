@@ -1,0 +1,1835 @@
+{
+  "title": "Pediatric Ophthalmology and Strabismus",
+  "type": "root",
+  "children": [
+    {
+      "title": "Pediatric Eye Evaluation",
+      "children": [
+        {
+          "title": "Vision Assessment by Age",
+          "children": [
+            {
+              "title": "Newborn: fix and follow (face/light); blink to light reflex"
+            },
+            { "title": "2-3 months: social smile; follows moving object 180°" },
+            { "title": "6 months: CSM (central, steady, maintained fixation)" },
+            {
+              "title": "Preverbal: preferential looking (Teller acuity cards); VEP acuity"
+            },
+            { "title": "2.5-3 years: HOTV, Lea symbols matching" },
+            { "title": "4+ years: Snellen or ETDRS; E-game" },
+            {
+              "title": "Crowding phenomenon: amblyopic eye reads single letters better than lines (use line charts)"
+            }
+          ]
+        },
+        {
+          "title": "Key Examination Elements",
+          "children": [
+            {
+              "title": "Cycloplegic refraction: mandatory; cyclopentolate 1% (standard) or atropine 1% (high hyperopia); reveals true refractive error"
+            },
+            {
+              "title": "Dynamic retinoscopy (MEM): assesses accommodative response; lag = tendency, lead = excess"
+            },
+            {
+              "title": "Brückner test: simultaneous red reflex comparison with direct ophthalmoscope; asymmetry → strabismus, anisometropia, media opacity"
+            },
+            {
+              "title": "Pupil testing: RAPD detection; swinging flashlight even in young children"
+            },
+            {
+              "title": "IOP: Icare rebound (no anaesthetic, portable), Tono-Pen, Perkins (handheld Goldmann); exam under anaesthesia if needed"
+            },
+            {
+              "title": "Fundus: indirect ophthalmoscopy + scleral depression; RetCam for ROP/documentation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART I: STRABISMUS",
+      "children": [
+        {
+          "title": "EOM Anatomy",
+          "children": [
+            {
+              "title": "Muscle Origins & Insertions",
+              "children": [
+                {
+                  "title": "4 recti + SO originate from annulus of Zinn (apex); IO originates from maxilla (anteromedial orbital floor)"
+                },
+                {
+                  "title": "Spiral of Tillaux: rectus insertions distances from limbus: MR 5.5mm → IR 6.5mm → LR 6.9mm → SR 7.7mm"
+                },
+                {
+                  "title": "SO: trochlea → inserts on posterosuperior globe (temporal to SR)"
+                },
+                {
+                  "title": "IO: inserts on posterolateral globe (inferior to SR foveal area)"
+                }
+              ]
+            },
+            {
+              "title": "Actions",
+              "children": [
+                { "title": "MR: adduction (primary); CN III" },
+                { "title": "LR: abduction (primary); CN VI" },
+                {
+                  "title": "SR: elevation (primary), intorsion, adduction; CN III"
+                },
+                {
+                  "title": "IR: depression (primary), extorsion, adduction; CN III"
+                },
+                {
+                  "title": "SO: intorsion (primary), depression in adduction, abduction; CN IV"
+                },
+                {
+                  "title": "IO: extorsion (primary), elevation in adduction, abduction; CN III"
+                },
+                { "title": "Mnemonic LR6 SO4 All III" }
+              ]
+            },
+            {
+              "title": "Pulley System",
+              "children": [
+                {
+                  "title": "Connective tissue pulleys (Tenon + check ligaments) define EOM functional axes"
+                },
+                {
+                  "title": "Pulley displacement explains some forms of A/V pattern and cyclovertical strabismus"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Motor Physiology",
+          "children": [
+            {
+              "title": "Agonist/antagonist: Sherrington's law of reciprocal innervation (agonist contracts, antagonist relaxes)"
+            },
+            {
+              "title": "Yoke muscles: Hering's law of equal innervation (conjugate gaze; e.g., RLLR + LLMR for right gaze)"
+            },
+            {
+              "title": "Versions: conjugate binocular movements (same direction)"
+            },
+            {
+              "title": "Vergences: disjunctive movements (convergence/divergence)"
+            },
+            { "title": "Ductions: monocular movements" },
+            { "title": "Primary position: eyes in straight-ahead gaze" },
+            {
+              "title": "Listing's law: eye movement from primary position lies in a single plane (Listing's plane)"
+            },
+            {
+              "title": "Supranuclear: PPRF (horizontal saccades), riMLF (vertical), FEF (voluntary), cerebellum (calibration)"
+            }
+          ]
+        },
+
+        {
+          "title": "Sensory Physiology & Pathology",
+          "children": [
+            {
+              "title": "Normal Binocular Vision",
+              "children": [
+                {
+                  "title": "Simultaneous perception → fusion → stereopsis (Worth 4-dot levels)"
+                },
+                {
+                  "title": "Retinal correspondence: corresponding retinal points produce single visual impression"
+                },
+                {
+                  "title": "Panum's fusional area: zone around horopter where fusion occurs"
+                },
+                {
+                  "title": "Stereopsis: finest form of binocular vision; requires <3500 arc sec disparity; Randot, Titmus fly, Lang"
+                }
+              ]
+            },
+            {
+              "title": "Abnormalities of Binocular Vision",
+              "children": [
+                {
+                  "title": "Diplopia: two images from misaligned eyes; physiological (outside Panum's area) vs pathological"
+                },
+                {
+                  "title": "Visual confusion: different objects on corresponding points; brain suppresses"
+                },
+                {
+                  "title": "Suppression: cortical inhibition of image from deviating eye; prevents diplopia/confusion; zone-dependent"
+                },
+                {
+                  "title": "Anomalous retinal correspondence (ARC): deviating eye remaps correspondence; harmonious ARC most common"
+                },
+                {
+                  "title": "Monofixation syndrome: small central suppression scotoma in deviating eye; peripheral fusion intact; ~25 prism dioptre ET typical; fine stereopsis absent, coarse stereopsis present"
+                }
+              ]
+            },
+            {
+              "title": "Visual Development & Critical Period",
+              "children": [
+                {
+                  "title": "Visual acuity matures to 20/20 by ~5 years; critical period birth to ~7-8 years (most sensitive first 2 years)"
+                },
+                {
+                  "title": "Abnormal visual experience during critical period → permanent cortical changes → amblyopia"
+                },
+                {
+                  "title": "LGN segregation: ocular dominance columns in V1; abnormal input → dominant eye columns expand"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Amblyopia",
+          "children": [
+            {
+              "title": "Definition & Epidemiology",
+              "children": [
+                {
+                  "title": "Decreased best-corrected visual acuity in an otherwise normal eye due to abnormal visual experience during critical period"
+                },
+                {
+                  "title": "Prevalence: 2-3% of general population; most common cause of monocular vision loss in children"
+                }
+              ]
+            },
+            {
+              "title": "Classification",
+              "children": [
+                {
+                  "title": "Strabismic: constant unilateral strabismus; suppression; most common cause"
+                },
+                {
+                  "title": "Anisometropic: ≥1.5D sphere or ≥1D cylinder difference between eyes; myopic anisometropia less amblyogenic"
+                },
+                {
+                  "title": "Isometropic (bilateral refractive): high bilateral refractive error; bilateral amblyopia; less obvious"
+                },
+                {
+                  "title": "Meridional: uncorrected astigmatism; poor acuity in one meridian"
+                },
+                {
+                  "title": "Deprivational: worst prognosis; ptosis (covering pupil), cataract, corneal opacity; dense and early = most severe; unilateral worse than bilateral"
+                }
+              ]
+            },
+            {
+              "title": "Treatment",
+              "children": [
+                {
+                  "title": "Step 1: optical correction (refractive error alone may improve VA 1-2 lines in 6-16 weeks)"
+                },
+                {
+                  "title": "Patching (occlusion therapy): fellow eye patching; dose by age and severity; 2 hrs/day for moderate, 6 hrs/day for severe"
+                },
+                {
+                  "title": "Atropine penalisation: 1% atropine to fellow eye weekly; effective as patching for moderate amblyopia; less stigma"
+                },
+                {
+                  "title": "Dichoptic/binocular treatment: gaming-based (Tetris, Amblyotech); both eyes receive different input; promising results"
+                },
+                { "title": "Levodopa: adjunct; modest benefit" },
+                {
+                  "title": "Reverse amblyopia: over-patching healthy eye → amblyopia in that eye; monitor patched eye VA"
+                },
+                {
+                  "title": "Upper age limit: treatment up to age 7-17 can still benefit (PEDIG trials); do not refuse treatment in older children"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Diagnostic Evaluation of Strabismus",
+          "children": [
+            {
+              "title": "Cover Tests",
+              "children": [
+                {
+                  "title": "Cover-uncover test: detects manifest (tropia); covering fixating eye forces deviating eye to take up fixation"
+                },
+                {
+                  "title": "Alternate cover test: dissociates fusion; reveals total deviation (tropia + phoria)"
+                },
+                {
+                  "title": "Prism + alternate cover test (PACT): measures magnitude with neutralising prism; gold standard measurement"
+                },
+                {
+                  "title": "Simultaneous prism + cover test: measures manifest tropia without dissociating"
+                }
+              ]
+            },
+            {
+              "title": "Corneal Light Reflex Tests",
+              "children": [
+                {
+                  "title": "Hirschberg: 1mm decentration ≈ 7° (≈ 14 prism dioptres)"
+                },
+                {
+                  "title": "Krimsky: prism over deviating eye to centre reflex"
+                },
+                { "title": "Modified Krimsky: prism over fixing eye" }
+              ]
+            },
+            {
+              "title": "Sensory Tests",
+              "children": [
+                {
+                  "title": "Worth 4-dot: tests fusion (near = central fusion, distance = peripheral); diplopia, suppression, or fusion"
+                },
+                {
+                  "title": "Bagolini striated lenses: most natural binocular test; tests retinal correspondence with lines through fixation light"
+                },
+                {
+                  "title": "Stereoacuity: Randot (400-20 arc sec), Titmus fly (3000 arc sec), TNO (random dot, 480 arc sec), Lang (1200 arc sec)"
+                },
+                {
+                  "title": "4Δ base-out prism test: detects central suppression scotoma (monofixation); no refixation movement in deviating eye"
+                },
+                {
+                  "title": "Afterimage test: tests retinal correspondence (normal = bifoveal, harmonious ARC = different angles)"
+                }
+              ]
+            },
+            {
+              "title": "Parks-Bielschowsky 3-Step Test",
+              "children": [
+                {
+                  "title": "Step 1: Which eye is hyper? (Identifies 2 possible muscles)"
+                },
+                {
+                  "title": "Step 2: Is hyper worse in right or left gaze? (Narrows to 2 muscles)"
+                },
+                {
+                  "title": "Step 3: Is hyper worse on right or left head tilt? (Bielschowsky head tilt) → identifies paretic muscle"
+                },
+                {
+                  "title": "Classic result for RSOP: right hyper, worse in left gaze, worse on right head tilt → RSO palsy"
+                }
+              ]
+            },
+            {
+              "title": "Torticollis Differential",
+              "children": [
+                {
+                  "title": "Ocular: SO palsy (chin down, head tilt), INS null point (head turn), nystagmus blockage (convergence)"
+                },
+                {
+                  "title": "Non-ocular: SCM (muscular torticollis), cervical spine, posterior fossa tumor, vestibular"
+                },
+                {
+                  "title": "Bielschowsky head tilt test: differentiates ocular from non-ocular"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Esodeviations",
+          "children": [
+            {
+              "title": "Pseudoesotropia",
+              "children": [
+                {
+                  "title": "Appears esotropic due to broad nasal bridge/epicanthal folds but corneal reflexes are symmetric"
+                },
+                {
+                  "title": "Normal Hirschberg/cover test; reassure parents; may resolve as nose develops"
+                }
+              ]
+            },
+            {
+              "title": "Accommodative Esotropia",
+              "children": [
+                {
+                  "title": "Refractive (pure): high hyperopia (+3.0 to +6.0D); AC/A ratio normal; corrects completely with glasses; onset 2-3 years"
+                },
+                {
+                  "title": "High AC/A ratio type: low hyperopia but excessive convergence per accommodation; distance ET < near ET; treat with bifocals (executive bifocal or PAL)"
+                },
+                {
+                  "title": "Treatment: full cycloplegic hyperopic correction; bifocals if AC/A high; no surgery for fully accommodative"
+                }
+              ]
+            },
+            {
+              "title": "Partially Accommodative Esotropia",
+              "children": [
+                {
+                  "title": "Residual ET persists despite full optical correction"
+                },
+                {
+                  "title": "Treat glasses component first; surgery for residual deviation"
+                }
+              ]
+            },
+            {
+              "title": "Infantile (Congenital) Esotropia",
+              "children": [
+                {
+                  "title": "Onset <6 months; large angle (>30 PD); cross-fixation common; not due to refractive error"
+                },
+                {
+                  "title": "Associated: DVD (dissociated vertical deviation), IO overaction, latent nystagmus, nystagmus blockage"
+                },
+                {
+                  "title": "Treatment: spectacles first (correct hyperopia), then surgery (bilateral MR recession); aim for alignment before 2 years → better binocular outcome"
+                },
+                {
+                  "title": "Goal: small-angle residual ET (monofixation syndrome) = acceptable outcome; true bifoveal fusion rare"
+                }
+              ]
+            },
+            {
+              "title": "Other Esodeviations",
+              "children": [
+                {
+                  "title": "Sensory ET: ET from unilateral visual loss; treat amblyopia; surgery for cosmesis"
+                },
+                {
+                  "title": "Divergence insufficiency: esophoria/tropia at distance only; adults; r/o intracranial lesion (VI palsy)"
+                },
+                {
+                  "title": "Cyclic esotropia: alternates every 48 hours (1 day ET, 1 day straight); treat with surgery"
+                },
+                {
+                  "title": "Spasm of near reflex: convergence + accommodation spasm + miosis; functional or posterior fossa; distinguish from CN VI palsy"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Exodeviations",
+          "children": [
+            {
+              "title": "Intermittent Exotropia (IXT)",
+              "children": [
+                {
+                  "title": "Most common exodeviation in children; onset 6 months to 4 years; deviation manifest at distance, controlled at near"
+                },
+                {
+                  "title": "Monocular eye closure in bright light (pathognomonic); suppression in deviating phase"
+                },
+                {
+                  "title": "Classification: basic (distance = near), divergence excess (distance > near by ≥10 PD), convergence insufficiency (near > distance)"
+                },
+                {
+                  "title": "Monitoring: Newcastle Control Score, Exeter score; operate before losing control"
+                },
+                {
+                  "title": "Treatment: observation (mild, well-controlled), minus lens therapy (over-corrects myopia to stimulate accommodation/convergence), patching (penalise near), convergence exercises, surgery (bilateral LR recession for divergence excess; unilateral recess-resect for basic)"
+                }
+              ]
+            },
+            {
+              "title": "Constant Exotropia",
+              "children": [
+                {
+                  "title": "Sensory XT: from unilateral visual loss; surgery for cosmesis"
+                },
+                {
+                  "title": "Infantile XT: rare; large angle at birth; early surgery; r/o neurological disease"
+                },
+                {
+                  "title": "Consecutive XT: after ET surgery (overcorrection); botulinum toxin or reoperation"
+                }
+              ]
+            },
+            {
+              "title": "Other Exodeviations",
+              "children": [
+                {
+                  "title": "Dissociated horizontal deviation (DHD): latent outward drift when eye covered (similar to DVD vertically)"
+                },
+                {
+                  "title": "Convergence insufficiency: exophoria at near, asthenopia; treat with base-in prisms or convergence exercises (pencil push-ups, Brock string)"
+                },
+                {
+                  "title": "Convergence paralysis: acute; r/o dorsal midbrain lesion"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Pattern Strabismus (A & V Patterns)",
+          "children": [
+            {
+              "title": "Definition: significant difference in horizontal deviation between upgaze and downgaze"
+            },
+            {
+              "title": "V pattern: more exo in upgaze / more eso in downgaze; significant if ≥15 PD difference; associated with IO overaction"
+            },
+            {
+              "title": "A pattern: more exo in downgaze / more eso in upgaze; significant if ≥10 PD difference; associated with SO overaction"
+            },
+            {
+              "title": "Oblique muscle dysfunction: IO overaction → V pattern; SO overaction → A pattern"
+            },
+            {
+              "title": "Surgery: if significant oblique overaction → weaken oblique (IO recession/myectomy or SO tenotomy); if no oblique dysfunction → vertical transposition of horizontal rectus (MR toward apex, LR toward open end of pattern)"
+            }
+          ]
+        },
+
+        {
+          "title": "Vertical Deviations",
+          "children": [
+            {
+              "title": "IO Overaction & SO Overaction",
+              "children": [
+                {
+                  "title": "IO overaction: elevation in adduction; most common cause of overelevation in adduction; V pattern; treat with IO weakening (recession, myectomy, anteriorisation)"
+                },
+                {
+                  "title": "SO overaction: depression in adduction; A pattern; treat with SO tenotomy or tenectomy"
+                }
+              ]
+            },
+            {
+              "title": "Superior Oblique Palsy",
+              "children": [
+                {
+                  "title": "CN IV palsy; most common cause of isolated cyclovertical strabismus"
+                },
+                {
+                  "title": "Hypertropia + extorsion + head tilt (away from paretic side)"
+                },
+                {
+                  "title": "Parks 3-step: contralateral hyper + worse in adduction + worse on ipsilateral head tilt = SO palsy"
+                },
+                {
+                  "title": "Congenital: large fusional vergence amplitude; longstanding head tilt on photos"
+                },
+                {
+                  "title": "Acquired: trauma (bilateral CN IV common after head injury); microvascular"
+                },
+                {
+                  "title": "Treatment: by size and torsion; ipsilateral IO weakening (mild-moderate HT, no torsion) → contralateral IR recession (large HT) → SO tucking/tuck (torsion + HT in adduction)"
+                }
+              ]
+            },
+            {
+              "title": "Brown Syndrome",
+              "children": [
+                {
+                  "title": "Limited elevation in adduction (SO tendon sheath restriction or trochlea problem)"
+                },
+                {
+                  "title": "Forced duction positive (restriction) unlike SO palsy (negative)"
+                },
+                {
+                  "title": "Congenital or acquired (RA, trochlea trauma/inflammation)"
+                },
+                {
+                  "title": "May spontaneously resolve; treat only if causing chin elevation or hypotropia in primary"
+                }
+              ]
+            },
+            {
+              "title": "Dissociated Vertical Deviation (DVD)",
+              "children": [
+                {
+                  "title": "Slow upward drift + excyclotorsion of eye when occluded or fatigued; returns when uncovered"
+                },
+                {
+                  "title": "Bilateral but asymmetric; associated with infantile ET and latent nystagmus"
+                },
+                {
+                  "title": "Not explained by Hering's law (no corresponding change in fellow eye)"
+                },
+                {
+                  "title": "Treatment: SR recession (large dose) or IO anteriorisation"
+                }
+              ]
+            },
+            {
+              "title": "Skew deviation: vertical ocular misalignment from otolithic pathway lesion (posterior fossa); associated with other brainstem signs; not explained by single muscle"
+            },
+            {
+              "title": "Monocular elevation deficiency (double elevator palsy): inability to elevate one eye from any horizontal position; SR paresis or IO paresis or restrictive (fibrosis); treat with Knapp (MR + LR transposed superiorly)"
+            }
+          ]
+        },
+
+        {
+          "title": "Special Motility Disorders",
+          "children": [
+            {
+              "title": "Congenital Cranial Dysinnervation Disorders (CCDD)",
+              "children": [
+                {
+                  "title": "Duane Syndrome",
+                  "children": [
+                    {
+                      "title": "Absent CN VI nucleus; CN III branch aberrantly innervates LR"
+                    },
+                    {
+                      "title": "Type 1 (most common): limited abduction + globe retraction + narrowing of palpebral fissure on adduction"
+                    },
+                    {
+                      "title": "Type 2: limited adduction; Type 3: limited abduction + adduction"
+                    },
+                    {
+                      "title": "Usually unilateral; left > right; female > male; associated with Goldenhar, Wildervanck, thalidomide"
+                    },
+                    {
+                      "title": "Treatment: surgery only if large deviation in primary or significant up/down-shoot; MR recession to straighten; no LR resection (worsens retraction)"
+                    }
+                  ]
+                },
+                {
+                  "title": "Congenital Fibrosis of EOMs (CFEOM): AD (KIF21A); bilateral ptosis + restrictive ophthalmoplegia (eyes fixed downward); surgery for chin-up posture"
+                },
+                {
+                  "title": "Möbius syndrome: bilateral CN VI + VII palsy; expressionless face, cannot abduct, cannot close eyes; associated systemic anomalies (limb defects); treat with bilateral MR recession"
+                }
+              ]
+            },
+            {
+              "title": "Acquired Special Motility Disorders",
+              "children": [
+                {
+                  "title": "Thyroid eye disease: IR restriction (most common) → limited upgaze; forced duction positive; treat underlying thyroid + orbital decompression + strabismus surgery (adjustable suture recession)"
+                },
+                {
+                  "title": "Myasthenia gravis: fatigable ptosis + variable ophthalmoplegia; any pattern; ice test; AChR-Ab; can mimic any strabismus"
+                },
+                {
+                  "title": "CPEO: bilateral symmetric ptosis + slowly progressive ophthalmoplegia; mitochondrial; Kearns-Sayre if <20 + retinal pigmentation + heart block; check ECG; no treatment for motility"
+                },
+                {
+                  "title": "INO: MLF lesion; adduction deficit ipsilateral + abducting nystagmus; bilateral = MS; unilateral = stroke"
+                },
+                {
+                  "title": "Heavy eye syndrome: high myopia + hypotropia/esotropia from superior temporal displacement of globe in enlarged orbit"
+                }
+              ]
+            },
+            {
+              "title": "Other Special Motility Disorders",
+              "children": [
+                {
+                  "title": "Ocular motor apraxia (Cogan): inability to generate voluntary saccades; compensatory head thrusting; association with Joubert syndrome, cerebellar vermis hypoplasia"
+                },
+                {
+                  "title": "Superior oblique myokymia: monocular intorsion/vertical oscillopsia episodes; CN IV microvascular compression; treat with memantine or carbamazepine; MVD in refractory"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Childhood Nystagmus",
+          "children": [
+            {
+              "title": "Infantile Nystagmus Syndrome (INS/Congenital Nystagmus)",
+              "children": [
+                {
+                  "title": "Onset <6 months; horizontal (even on upgaze); pendular or jerk; null point (gaze position of least nystagmus) + head turn to null"
+                },
+                {
+                  "title": "Paradoxically dampened by convergence; no oscillopsia (brain adapts)"
+                },
+                {
+                  "title": "Foveation periods: brief periods of slow nystagmus for foveal imaging"
+                },
+                {
+                  "title": "Associated: albinism (most common), aniridia, Leber congenital amaurosis, achromatopsia, optic nerve hypoplasia"
+                },
+                {
+                  "title": "Treatment: correct refractive error, contact lenses (dampen by convergence), prisms (shift null), Kestenbaum-Anderson surgery (shift null to primary position), memantine/gabapentin (reduce amplitude)"
+                }
+              ]
+            },
+            {
+              "title": "Fusion Maldevelopment Nystagmus (FMNS/Latent Nystagmus): jerk nystagmus appearing when one eye covered (latent) or constantly manifest; fast phase toward fixing eye; associated with infantile ET; treat underlying strabismus"
+            },
+            {
+              "title": "Spasmus nutans: triad of nystagmus + head nodding + torticollis; onset 4-12 months; self-resolving by age 2-3; MUST get MRI to r/o chiasmal glioma"
+            },
+            {
+              "title": "Convergence-retraction nystagmus: attempted upgaze → convergence saccades; dorsal midbrain (Parinaud syndrome); pineal tumor in children"
+            },
+            {
+              "title": "Opsoclonus: chaotic multidirectional saccades; neuroblastoma in children (OMS = opsoclonus-myoclonus syndrome); anti-Ri, GD2 antibodies; treat underlying tumor"
+            },
+            {
+              "title": "Central vestibular nystagmus: posterior fossa tumor (medulloblastoma, ependymoma); direction-changing; MRI urgently"
+            }
+          ]
+        },
+
+        {
+          "title": "Surgery of the Extraocular Muscles",
+          "children": [
+            {
+              "title": "Surgical Principles",
+              "children": [
+                {
+                  "title": "Weakening procedures: recession (moves insertion posteriorly); myotomy; myectomy; Faden (posterior fixation suture)"
+                },
+                {
+                  "title": "Strengthening procedures: resection (shortens muscle); tucking; advancement"
+                },
+                {
+                  "title": "Adjustable sutures: allows post-op fine-tuning while patient awake; used in adults, thyroid eye disease, re-operations"
+                },
+                {
+                  "title": "Dosing tables: e.g., MR recession 5mm ≈ 25 PD correction; LR recession 7mm ≈ 25 PD correction (approximate guides)"
+                }
+              ]
+            },
+            {
+              "title": "Oblique Muscle Surgery",
+              "children": [
+                {
+                  "title": "IO weakening: recession (graded) → myectomy → anteriorisation (strongest; moves insertion anterior to IR, eliminates extorsion contribution)"
+                },
+                {
+                  "title": "SO weakening: tenotomy (nasal or temporal), tenectomy; beware induced torsional problems"
+                },
+                {
+                  "title": "SO strengthening: tuck (tuck posterior tendon); treats SO palsy with torsion"
+                }
+              ]
+            },
+            {
+              "title": "Complications",
+              "children": [
+                {
+                  "title": "Lost/slipped muscle: most serious; early re-exploration; cannot reach with forceps"
+                },
+                {
+                  "title": "Scleral perforation: risk of endophthalmitis, retinal detachment; treat with cryotherapy + antibiotics"
+                },
+                {
+                  "title": "Anterior segment ischemia: ischaemia of anterior segment from disrupting anterior ciliary arteries; avoid operating >2 rectus muscles simultaneously; risk factors: age, vascular disease, tight muscles"
+                },
+                {
+                  "title": "Oculocardiac reflex: bradycardia on muscle traction; release pressure, atropine; commonest anaesthetic complication in strabismus surgery"
+                },
+                {
+                  "title": "Malignant hyperthermia: succinylcholine trigger; rare; treat with dantrolene"
+                },
+                {
+                  "title": "Consecutive deviation: undercorrection or overcorrection; observation (weeks-months) then revision or botulinum toxin"
+                }
+              ]
+            },
+            {
+              "title": "Botulinum Toxin",
+              "children": [
+                {
+                  "title": "Blocks acetylcholine release at NMJ → temporary muscle weakening (3-4 months)"
+                },
+                {
+                  "title": "Indications: acute CN VI palsy (prevents contracture of MR), small-angle deviations, consecutive deviations, MG diagnosis trial, post-op adjustments"
+                },
+                {
+                  "title": "Complications: ptosis, vertical deviation (spread to adjacent muscles), transient diplopia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART II: PEDIATRIC OPHTHALMOLOGY",
+      "children": [
+        {
+          "title": "Growth & Development of the Eye",
+          "children": [
+            {
+              "title": "Axial length: 17mm at birth → 24mm adult; most growth first 2 years; emmetropization process"
+            },
+            {
+              "title": "Corneal diameter: 9.5-10.5mm at birth → 11.5-12mm adult; >13mm = megalocornea; <10mm = microcornea"
+            },
+            {
+              "title": "IOP: slightly lower in infants; <16 mmHg normal in neonates"
+            },
+            {
+              "title": "Refractive state: most neonates hyperopic (+2 to +3D); emmetropizes by age 5-6; myopia uncommon at birth"
+            },
+            {
+              "title": "Foveal development: incomplete at birth; adult foveal pit not formed until ~4-5 months; foveal avascular zone not complete until 4 months"
+            },
+            {
+              "title": "Myopia development: school age (6-12 years); near work + outdoor time (protective 2+ hrs/day); control with orthokeratology, low-dose atropine 0.01%, MiSight contact lenses"
+            }
+          ]
+        },
+
+        {
+          "title": "Decreased Vision in Infants",
+          "children": [
+            {
+              "title": "Normal milestones: fix/follow by 6 weeks; social smile by 6-8 weeks; failure = abnormal"
+            },
+            {
+              "title": "Pregeniculate visual impairment: anterior to LGN (retina, ON); usually nystagmus present"
+            },
+            {
+              "title": "Cerebral visual impairment (CVI): damage to visual cortex/pathways; pupils reactive; most common cause of visual impairment in developed world; periventricular leukomalacia (premature birth) most common cause"
+            },
+            {
+              "title": "Delayed visual maturation (DVM): normal structure, slow cortical maturation; resolves by 3-6 months; may be associated with neurodevelopmental delay (type II/III)"
+            },
+            {
+              "title": "Workup: B-scan, ERG (Leber congenital amaurosis), VEP, MRI brain, genetics"
+            }
+          ]
+        },
+
+        {
+          "title": "Eyelid Disorders",
+          "children": [
+            {
+              "title": "Congenital Ptosis",
+              "children": [
+                {
+                  "title": "Most common cause of childhood ptosis; levator muscle dysgenesis (replaced by fibrous tissue)"
+                },
+                {
+                  "title": "Poor levator function (LF <4mm) + lid lag on downgaze (distinguishes from acquired)"
+                },
+                {
+                  "title": "Associations: superior rectus weakness (levator/SR share mesoderm origin), Marcus Gunn jaw-winking (CN V/III synkinesis, 5%), anisometropia, amblyopia"
+                },
+                {
+                  "title": "Treat urgently if: significant astigmatism, visual axis occlusion, abnormal head posture"
+                },
+                {
+                  "title": "Surgery: levator resection (if LF >4mm) or frontalis sling (if LF <4mm; silicone or fascia lata)"
+                }
+              ]
+            },
+            {
+              "title": "Eyelid Hemangioma",
+              "children": [
+                {
+                  "title": "Most common periocular tumor in children; strawberry hemangioma; appears weeks after birth, grows rapidly (6-12 months), then involutes (50% by age 5, 70% by age 7)"
+                },
+                {
+                  "title": "Amblyopia risk: ptosis blocking axis, induced astigmatism, anisometropia"
+                },
+                {
+                  "title": "Treatment: propranolol oral (first-line); topical timolol (small lesions); intralesional steroid or laser if unresponsive"
+                }
+              ]
+            },
+            {
+              "title": "Other Eyelid Disorders",
+              "children": [
+                {
+                  "title": "Epicanthus: skin fold from upper to lower lid; medial canthal area; most common in Asian populations; may simulate esotropia; types: inversus, tarsalis, palpebralis, supraciliaris"
+                },
+                {
+                  "title": "Epiblepharon: horizontal skin fold below lower lid lashes; lashes rotated inward; common in Asian children; often spontaneously resolves; treat if corneal erosion"
+                },
+                {
+                  "title": "Port-wine stain (PWS): capillary vascular malformation; V1 distribution → risk of glaucoma (Sturge-Weber); does not involute; treat with pulsed dye laser"
+                },
+                {
+                  "title": "Pilomatricoma: benign calcifying epithelioma; hard, 'tent sign' (tenting of overlying skin); excision"
+                },
+                {
+                  "title": "Distichiasis: see Ch 08 notes; treat with cryotherapy or lid split"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Orbital Disorders",
+          "children": [
+            {
+              "title": "Craniofacial Malformations",
+              "children": [
+                {
+                  "title": "Craniosynostosis: premature fusion of cranial sutures; may cause elevated ICP, papilledema, amblyopia, strabismus"
+                },
+                {
+                  "title": "Crouzon: bilateral coronal synostosis; hypertelorism, proptosis, midface hypoplasia; AD (FGFR2)"
+                },
+                {
+                  "title": "Apert: coronal synostosis + syndactyly; FGFR2; severe midface, exorbitism; increased ICP"
+                },
+                {
+                  "title": "Pfeiffer: FGFR1/2; similar to Apert with broad thumbs"
+                },
+                {
+                  "title": "Plagiocephaly: unilateral coronal fusion → facial asymmetry + V pattern strabismus"
+                },
+                {
+                  "title": "Treatment: neurosurgical vault expansion/remodelling; strabismus surgery after cranial reconstruction"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Cellulitis",
+              "children": [
+                {
+                  "title": "Preseptal (periorbital): anterior to orbital septum; lid swelling + erythema; NO proptosis, NO motility restriction, NO pain on eye movement; treat with oral antibiotics; usually Staphylococcus or Streptococcus"
+                },
+                {
+                  "title": "Orbital (postseptal): posterior to septum; proptosis + restricted motility + pain on movement + chemosis; most from sinusitis (ethmoid most common); risk of vision loss, cavernous sinus thrombosis"
+                },
+                {
+                  "title": "Chandler classification: I (inflammatory oedema) → V (cavernous sinus thrombosis)"
+                },
+                {
+                  "title": "Treatment: IV antibiotics (ceftriaxone ± vancomycin); CT scan; surgical drainage if subperiosteal/orbital abscess or no improvement in 24-48h"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Neoplasms",
+              "children": [
+                {
+                  "title": "Rhabdomyosarcoma: most common primary malignant orbital tumor in children; rapidly progressive proptosis; embroid/alveolar/pleomorphic types; CT shows soft tissue mass + bone erosion; biopsy + multimodal treatment (chemo + radiation); survival ~90%"
+                },
+                {
+                  "title": "Capillary hemangioma: most common benign orbital tumor in children; see eyelid hemangioma section; propranolol first-line"
+                },
+                {
+                  "title": "Dermoid cyst: most common benign orbital lesion; ectodermal inclusion; superotemporal (zygomaticofrontal suture, most common) or superonasal; deep orbital dermoids: erosion of bone; treat with excision (do not rupture)"
+                },
+                {
+                  "title": "Lymphangioma: orbital vascular malformation; non-involuting; bleeding into lesion = chocolate cyst; treat acutely with sclerotherapy or surgery"
+                },
+                {
+                  "title": "Neuroblastoma metastasis: raccoon eyes (periorbital ecchymosis); rapidly progressive proptosis; Hutchinson sign; urine catecholamines"
+                },
+                {
+                  "title": "Optic nerve glioma: NF1 associated (in 50%); tubular thickening of ON; proptosis; MRI (kinked ON = glioma); treatment controversial; observation vs chemo vs radiation"
+                },
+                {
+                  "title": "Plexiform neurofibroma: NF1 pathognomonic; S-shaped lid; pulsatile proptosis (bony defect); no treatment unless functional compromise"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Lacrimal Drainage System",
+          "children": [
+            {
+              "title": "Congenital Nasolacrimal Duct Obstruction (CNLDO)",
+              "children": [
+                {
+                  "title": "Most common (6% of neonates); valve of Hasner failure to open; epiphora + discharge from birth; no conjunctival injection (distinguishes from conjunctivitis)"
+                },
+                {
+                  "title": "Spontaneous resolution: 90% by age 1 year; observe and massage (Crigler massage) initially"
+                },
+                {
+                  "title": "Nasolacrimal massage (Crigler): compress lacrimal sac → hydrostatic pressure → open valve; 2-3 x/day"
+                },
+                {
+                  "title": "Probing: if persists after 12-13 months; office or under GA; >95% success; use silicone intubation if probe fails or older child"
+                },
+                {
+                  "title": "Balloon catheter dilation: if probing fails; DCR (dacryocystorhinostomy) if all else fails"
+                }
+              ]
+            },
+            {
+              "title": "Dacryocystocele (Dacryocele)",
+              "children": [
+                {
+                  "title": "Distended lacrimal sac at birth; blue/grey medial canthal swelling; from distal obstruction + imperforate common canaliculus"
+                },
+                {
+                  "title": "Risk: secondary infection (dacryocystitis) → abscess; nasal cyst can cause respiratory distress"
+                },
+                {
+                  "title": "Treatment: early massage + probing (within days); nasal cyst requires endoscopic marsupialization"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "External Diseases of the Eye (Pediatric)",
+          "children": [
+            {
+              "title": "Ophthalmia Neonatorum (Neonatal Conjunctivitis)",
+              "children": [
+                {
+                  "title": "Chemical (silver nitrate/erythromycin): first 24h; chemical irritation; self-limited"
+                },
+                {
+                  "title": "Gonococcal (N. gonorrhoeae): 2-5 days; hyperacute purulent discharge; corneal perforation risk; EMERGENCY; IV/IM ceftriaxone + topical antibiotics + saline irrigation"
+                },
+                {
+                  "title": "Chlamydial (C. trachomatis): 5-14 days; most common infectious; mucopurulent; systemic oral erythromycin (treats pneumonitis too)"
+                },
+                {
+                  "title": "HSV: 1-2 weeks; vesicular lid lesions; systemic acyclovir"
+                },
+                {
+                  "title": "Prophylaxis: erythromycin 0.5% ointment at birth (most countries)"
+                }
+              ]
+            },
+            {
+              "title": "Allergic Eye Disease in Children",
+              "children": [
+                {
+                  "title": "SAC/PAC: see Ch 08 notes; antihistamine/mast cell stabilisers"
+                },
+                {
+                  "title": "VKC: young males, tropical; cobblestone papillae (superior tarsus), Horner-Trantas dots, shield ulcer; cyclosporine A drops; tacrolimus"
+                },
+                {
+                  "title": "AKC: older; atopic dermatitis; inferior papillae + corneal involvement; dupilumab emerging"
+                }
+              ]
+            },
+            {
+              "title": "Ligneous conjunctivitis: rare; plasminogen deficiency; fibrin-rich pseudomembranes that recur after removal; treat with topical plasminogen drops (OTX-102)"
+            }
+          ]
+        },
+
+        {
+          "title": "Anterior Segment Disorders",
+          "children": [
+            {
+              "title": "Congenital Corneal Anomalies",
+              "children": [
+                {
+                  "title": "Peters anomaly: central corneal opacity + adherent iris strands ± lens; PAX6/FOXC1/PITX2; bilateral in 80%; glaucoma risk; manage opacity early; PKP in bilateral severe cases"
+                },
+                {
+                  "title": "Sclerocornea: sclera-like cornea; white opaque; associated anterior segment anomalies; bilateral PKP if visual potential"
+                },
+                {
+                  "title": "CHED (Congenital Hereditary Endothelial Dystrophy): AR (SLC4A11); ground-glass corneal oedema at birth; nystagmus; early PKP"
+                },
+                {
+                  "title": "Epibulbar dermoid: limbal or corneal solid choristoma; Goldenhar syndrome association; excision if visually significant or cosmetically unacceptable"
+                }
+              ]
+            },
+            {
+              "title": "Iris & Pupil Anomalies",
+              "children": [
+                {
+                  "title": "Aniridia: PAX6 mutation; near-complete iris absence; associated with glaucoma, cataracts, nystagmus, foveal hypoplasia, Wilms tumor (WAGR syndrome - WT1 deletion); screen with renal ultrasound"
+                },
+                {
+                  "title": "Persistent pupillary membrane (PPM): strands crossing pupil from minor iris circle; remnant of fetal vasculature; usually regresses; rarely visually significant"
+                },
+                {
+                  "title": "Coloboma: failure of fissure closure; keyhole inferior pupil; may involve iris, lens, retina, choroid, ON; associated CHARGE syndrome"
+                },
+                {
+                  "title": "Iris heterochromia differential: Horner syndrome (lighter iris on affected side, stellate appearance), Waardenburg syndrome, Parry-Romberg (hemifacial atrophy), ocular melanocytosis (darker iris)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Childhood Glaucomas",
+          "children": [
+            {
+              "title": "Primary Congenital Glaucoma (PCG)",
+              "children": [
+                {
+                  "title": "AR (CYP1B1); angle dysgenesis; obstruction of aqueous outflow; presents birth to 3 years"
+                },
+                {
+                  "title": "Classic triad: epiphora + photophobia + blepharospasm (due to corneal oedema)"
+                },
+                {
+                  "title": "Signs: Haab striae (horizontal Descemet breaks from elevated IOP), buphthalmos (enlarged globe, >13mm corneal diameter), corneal oedema/clouding, high IOP, increased C/D ratio"
+                },
+                {
+                  "title": "Treatment: SURGICAL (goniotomy or trabeculotomy); medical treatment temporising only; goniotomy: incise trabecular meshwork under direct visualisation (requires clear cornea); trabeculotomy: external approach (when cornea cloudy)"
+                }
+              ]
+            },
+            {
+              "title": "Secondary Childhood Glaucomas",
+              "children": [
+                {
+                  "title": "Aniridia: angle anomaly + absent iris; trabecular meshwork encroachment; goniotomy + medications; difficult management"
+                },
+                {
+                  "title": "Sturge-Weber: choroidal haemangioma + elevated episcleral venous pressure → glaucoma; medical then surgical (trabeculotomy)"
+                },
+                {
+                  "title": "Axenfeld-Rieger: angle anomaly; 50% develop glaucoma; medical + surgical"
+                },
+                {
+                  "title": "Aphakic glaucoma: after cataract surgery; pupillary block or angle dysgenesis unmasked; vigilant IOP monitoring post-paediatric cataract surgery"
+                },
+                {
+                  "title": "Juvenile open-angle glaucoma (JOAG): 3-35 years; AD (MYOC/GLC1A); similar to adult POAG; treat with medications first, trabeculectomy if uncontrolled"
+                }
+              ]
+            },
+            {
+              "title": "Surgical Options",
+              "children": [
+                {
+                  "title": "Goniotomy: direct incision of TM (requires gonioscopy + clear cornea); 70-90% success in PCG"
+                },
+                {
+                  "title": "Trabeculotomy: external approach ab externo; useful with corneal clouding; newer ab interno trabeculotomy with TRAB360/Omni"
+                },
+                {
+                  "title": "Trabeculectomy + MMC: if angle surgery fails; high risk of bleb infection (blebitis, endophthalmitis) in children"
+                },
+                {
+                  "title": "Glaucoma drainage devices (Baerveldt, Ahmed): for refractory cases"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Childhood Cataracts",
+          "children": [
+            {
+              "title": "Aetiology & Classification",
+              "children": [
+                {
+                  "title": "Morphology: nuclear (most visually significant; dense central), lamellar/zonular (most common overall), posterior capsular (PSC from steroids/systemic disease), anterior polar, sutural, cortical"
+                },
+                {
+                  "title": "Causes: idiopathic (most common), hereditary (AD nuclear cataract most common genetic), intrauterine infections (rubella: nuclear pearl-like cataract), metabolic (galactosaemia, galactokinase deficiency, Lowe syndrome), trauma, steroid, aniridia, trisomy 21"
+                },
+                {
+                  "title": "Red flags requiring urgent treatment: dense central/posterior cataract (visually significant); any unilateral cataract in infant"
+                }
+              ]
+            },
+            {
+              "title": "Workup",
+              "children": [
+                {
+                  "title": "Unilateral dense cataract in infant: workup for infection (TORCH), metabolic screen, genetics"
+                },
+                {
+                  "title": "Bilateral cataracts: galactosaemia screen (urine reducing substances, galactokinase assay), chromosomes, TORCH, calcium (hypoparathyroidism), glucose"
+                },
+                {
+                  "title": "Key exam: red reflex (Brückner test), cycloplegic refraction, B-scan (r/o PFV, retinoblastoma)"
+                }
+              ]
+            },
+            {
+              "title": "Surgery",
+              "children": [
+                {
+                  "title": "Timing: unilateral dense cataract: surgery by 6-8 weeks; bilateral dense: by 6-10 weeks; prevent deprivation amblyopia"
+                },
+                {
+                  "title": "IOL implantation: generally avoided <1 year (eye still growing, unpredictable refraction); consider after 12 months; target hyperopia (eye will grow shorter) - 'undercorrect'"
+                },
+                {
+                  "title": "Aphakic correction: contact lens (preferred for infants); glasses (bilateral aphakia); optical correction critical"
+                },
+                {
+                  "title": "Posterior capsulotomy + vitrectomy: always needed in young children (posterior capsule opacifies rapidly in children)"
+                },
+                {
+                  "title": "Post-op: amblyopia treatment essential (patching fellow eye 50% waking hours); frequent follow-up"
+                }
+              ]
+            },
+            {
+              "title": "Dislocated Lenses",
+              "children": [
+                {
+                  "title": "Marfan syndrome (FBN1): superotemporal displacement; iridodonesis; treat with glasses (keep lens in axis) or lensectomy"
+                },
+                {
+                  "title": "Homocystinuria (CBS): inferonasal; increased thromboembolic risk (avoid hypotension during surgery); pyridoxine treatment in responders"
+                },
+                {
+                  "title": "Weill-Marchesani: small spherical lens (microspherophakia) + myopia + short stature; lens subluxation; pupillary block glaucoma"
+                },
+                {
+                  "title": "Ectopia lentis et pupillae: lens and pupil displaced in opposite directions (coloboma-like appearance)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Optic Nerve Head Abnormalities",
+          "children": [
+            {
+              "title": "Optic Nerve Hypoplasia (ONH)",
+              "children": [
+                {
+                  "title": "Small optic disc with double ring sign (hypoplastic disc within normal-sized scleral canal)"
+                },
+                {
+                  "title": "Associations: septo-optic dysplasia (de Morsier syndrome): ONH + absent septum pellucidum + pituitary dysfunction (growth hormone deficiency in 70%); HESX1 gene"
+                },
+                {
+                  "title": "Maternal risk factors: young maternal age, diabetes, alcohol, valproate"
+                },
+                {
+                  "title": "Endocrine workup mandatory; MRI brain; visual rehabilitation + amblyopia treatment"
+                }
+              ]
+            },
+            {
+              "title": "Morning Glory Disc Anomaly: enlarged excavated disc with peripapillary pigmentation + radial vessels; funnel-shaped; associated with basal encephalocele (midline) + moyamoya; poor visual prognosis; risk of serous retinal detachment"
+            },
+            {
+              "title": "Optic Nerve Coloboma: inferior notching of disc from failed fissure closure; may be associated with microphthalmos, renal coloboma syndrome (PAX2)"
+            },
+            {
+              "title": "Optic Nerve Pit: grey oval depression in disc (usually temporal); risk of pit-associated maculopathy (serous RD); treat with laser + vitrectomy if macula involved"
+            },
+            {
+              "title": "Optic Nerve Head Drusen: hyaline bodies buried in disc; pseudopapilledema (no vessels obscured); B-scan shows calcification; autofluorescence; can cause visual field defects; no treatment"
+            },
+            {
+              "title": "Optic Atrophy",
+              "children": [
+                {
+                  "title": "Leber hereditary optic neuropathy (LHON): see Ch 05 notes; mitochondrial; young males; idebenone treatment"
+                },
+                {
+                  "title": "Dominant optic atrophy (DOA/Kjer disease): AD (OPA1); bilateral; insidious; color vision loss; temporal disc pallor; centrocecal scotoma; supportive treatment"
+                }
+              ]
+            },
+            {
+              "title": "Papilledema in Children",
+              "children": [
+                {
+                  "title": "Causes: intracranial mass, hydrocephalus, cerebral venous thrombosis, IIH"
+                },
+                {
+                  "title": "IIH in children: obese or associated with medications (tetracycline, vitamin A excess, steroid withdrawal, growth hormone); LP opening pressure >28cmH₂O (children); treat with acetazolamide + weight loss"
+                },
+                {
+                  "title": "Pseudopapilledema vs true papilledema: drusen (no vessels obscured, autofluorescent); myelinated nerve fibres (white feathery, peripapillary)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Disorders of the Retina and Vitreous",
+          "children": [
+            {
+              "title": "Retinopathy of Prematurity (ROP)",
+              "children": [
+                {
+                  "title": "Pathophysiology",
+                  "children": [
+                    {
+                      "title": "Premature birth → loss of maternal VEGF → relative hypoxia → abnormal neovascularisation"
+                    },
+                    {
+                      "title": "Phase 1: vaso-obliteration; Phase 2: vasoproliferation"
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification",
+                  "children": [
+                    {
+                      "title": "Zone: I (posterior, around disc ×2 OD distance to fovea), II (mid-periphery), III (most peripheral)"
+                    },
+                    {
+                      "title": "Stage: 1 (demarcation line), 2 (ridge), 3 (extraretinal fibrovascular proliferation), 4 (partial RD: 4A fovea spared, 4B fovea involved), 5 (total RD)"
+                    },
+                    {
+                      "title": "Plus disease: vascular dilation + tortuosity in at least 2 quadrants; pre-plus = not quite plus; marker of disease activity"
+                    },
+                    {
+                      "title": "Aggressive ROP (A-ROP, formerly AP-ROP): posterior, zone I/II, rapid progression, prominent plus disease; treat immediately"
+                    }
+                  ]
+                },
+                {
+                  "title": "Screening",
+                  "children": [
+                    {
+                      "title": "Criteria: BW <1500g or GA <32 weeks; selected 1500-2000g with unstable course"
+                    },
+                    {
+                      "title": "Start: 4-6 weeks postnatal age or 31 weeks postmenstrual age (whichever later)"
+                    },
+                    {
+                      "title": "RetCam documentation; dilated indirect exam with scleral depression"
+                    }
+                  ]
+                },
+                {
+                  "title": "Treatment",
+                  "children": [
+                    {
+                      "title": "Threshold disease (historical): treat when reached; now earlier treatment recommended"
+                    },
+                    {
+                      "title": "Type 1 ROP (treat): Zone I any stage + plus; Zone I Stage 3 no plus; Zone II Stage 2 or 3 + plus"
+                    },
+                    {
+                      "title": "Type 2 ROP (observe): Zone I Stage 1 or 2 no plus; Zone II Stage 3 no plus"
+                    },
+                    {
+                      "title": "Anti-VEGF (bevacizumab/ranibizumab): intravitreal injection; rapidly effective; allows continued peripheral vascularisation (laser ablates zone III); preferred for Zone I/A-ROP; systemic VEGF suppression concern (dose selection important)"
+                    },
+                    {
+                      "title": "Laser photocoagulation: ablates avascular retina (zone III); gold standard for Zone II disease; permanent ablation of peripheral retina"
+                    },
+                    {
+                      "title": "Surgery: scleral buckle (Stage 4A); vitrectomy (Stage 4B/5); poor prognosis for Stage 5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leber Congenital Amaurosis (LCA)",
+              "children": [
+                {
+                  "title": "Most severe early-onset inherited retinal dystrophy; presents birth-1 year; severe visual impairment, nystagmus, photophobia (or photoaversion), oculo-digital sign (eye pressing)"
+                },
+                {
+                  "title": "ERG: flat (extinguished) or markedly reduced; pupil responses sluggish/absent"
+                },
+                {
+                  "title": "Genes: RPE65, CEP290, GUCY2D, AIPL1, CRX, RPGRIP1 (>20 genes); AR"
+                },
+                {
+                  "title": "Gene therapy: voretigene neparvovec (Luxturna): AAV2-RPE65; FDA approved; remarkable visual improvement in RPE65-LCA; bilateral subretinal injection"
+                }
+              ]
+            },
+            {
+              "title": "Retinoblastoma",
+              "children": [
+                {
+                  "title": "Genetics & Pathology",
+                  "children": [
+                    {
+                      "title": "RB1 gene (13q14); two-hit hypothesis (Knudson)"
+                    },
+                    {
+                      "title": "Hereditary (germline, 40%): bilateral, multifocal, younger; AD; risk of osteosarcoma + other second malignancies (trilateral retinoblastoma = pineal)"
+                    },
+                    {
+                      "title": "Non-hereditary (sporadic, 60%): unilateral, unifocal, older; somatic mutation"
+                    }
+                  ]
+                },
+                {
+                  "title": "Presentation",
+                  "children": [
+                    {
+                      "title": "Leukocoria: most common (60%); white pupillary reflex (cat's eye reflex)"
+                    },
+                    {
+                      "title": "Strabismus: second most common (20%); any new strabismus needs dilated fundus exam"
+                    },
+                    {
+                      "title": "Other: red eye, hyphaema, heterochromia, orbital inflammation"
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification",
+                  "children": [
+                    {
+                      "title": "International Classification (IIRC): Group A (small tumours ≤3mm, away from macula/disc) → Group E (end-stage; enucleation indicated)"
+                    },
+                    {
+                      "title": "Imaging: B-scan (calcification), CT (calcification, avoid MRI radiation), MRI brain + orbits (extraocular extension, pineal, brain)"
+                    }
+                  ]
+                },
+                {
+                  "title": "Treatment",
+                  "children": [
+                    {
+                      "title": "Enucleation: Group D/E, unilateral; most definitive; long ON section; prosthesis"
+                    },
+                    {
+                      "title": "Intravenous chemotherapy (IVC): carboplatin + vincristine + etoposide; reduces tumour, allows focal treatment; Groups B-D"
+                    },
+                    {
+                      "title": "Intra-arterial chemotherapy (IAC): melphalan directly to ophthalmic artery; high local drug concentration; excellent Group C/D salvage"
+                    },
+                    {
+                      "title": "Intravitreal chemotherapy (IViC): melphalan + topotecan; vitreous seeds; requires negative extraocular disease"
+                    },
+                    {
+                      "title": "Focal treatments: laser photocoagulation, cryotherapy, thermotherapy (TTT); for small tumours or consolidation"
+                    },
+                    {
+                      "title": "Radiation: external beam (historical; risk of secondary malignancies in hereditary RB, orbital hypoplasia); now rarely used"
+                    },
+                    {
+                      "title": "Genetic counselling + family screening essential for hereditary cases"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Coats Disease",
+              "children": [
+                {
+                  "title": "Idiopathic retinal telangiectasia + exudation; unilateral; males (80%); young (mean age 8-10 years)"
+                },
+                {
+                  "title": "Presentation: leukocoria or strabismus; macular exudate; exudative retinal detachment"
+                },
+                {
+                  "title": "Stages: 1 (telangiectasia only) → 5 (end-stage with glaucoma); treat stages 1-3 with laser/cryotherapy; anti-VEGF adjunct; enucleation for stage 4-5 if blind painful eye"
+                }
+              ]
+            },
+            {
+              "title": "Persistent Fetal Vasculature (PFV)",
+              "children": [
+                {
+                  "title": "Failed regression of hyaloid vasculature; unilateral (90%); microphthalmos + leukocoria + cataract + fibrovascular stalk behind lens"
+                },
+                {
+                  "title": "Distinguish from retinoblastoma (PFV: no calcification, no family history, unilateral, microphthalmos)"
+                },
+                {
+                  "title": "Treatment: lensectomy + vitrectomy; prognosis variable; aggressive amblyopia therapy"
+                }
+              ]
+            },
+            {
+              "title": "Selected Inherited Retinal Disorders",
+              "children": [
+                {
+                  "title": "Achromatopsia: AR (CNGA3, CNGB3); complete loss of cone function; severe photophobia, poor VA, pendular nystagmus, absent colour vision; ERG: absent cone response; tinted lenses; gene therapy in trials"
+                },
+                {
+                  "title": "Congenital stationary night blindness (CSNB): non-progressive; night blindness from birth; myopia (complete type); ERG: reduced/absent b-wave; Schubert-Bornschein pattern"
+                },
+                {
+                  "title": "Stargardt disease: ABCA4 (AR); most common juvenile macular dystrophy; onset 6-20 years; central VA loss; 'beaten bronze' macula + pisciform flecks; dark choroid on FFA; no proven treatment; avoid vitamin A supplements (accumulates as bisretinoid)"
+                },
+                {
+                  "title": "X-linked juvenile retinoschisis (XLRS): RS1 gene; bilateral; foveal schisis (spoke-wheel OCT pattern) + peripheral schisis; reduce CA inhibitors (topical dorzolamide helps some); gene therapy in trials"
+                },
+                {
+                  "title": "Norrie disease: X-linked; NDP gene; bilateral retinal dysplasia → RD → blindness at birth; progressive sensorineural deafness; intellectual disability"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Pediatric Uveitis",
+          "children": [
+            {
+              "title": "General Principles",
+              "children": [
+                {
+                  "title": "Children rarely complain of symptoms (different from adults); diagnosed late; complications frequent"
+                },
+                {
+                  "title": "Most common: anterior uveitis; most common overall cause: JIA-associated (50% of pediatric anterior uveitis)"
+                },
+                {
+                  "title": "Complications: band keratopathy (calcium), synechiae, cataract (PSC), glaucoma, CMO; worse in JIA-uveitis (silent, chronic)"
+                }
+              ]
+            },
+            {
+              "title": "JIA-Associated Uveitis",
+              "children": [
+                {
+                  "title": "Most common and most feared childhood uveitis; chronic, non-granulomatous, anterior; often bilateral; ASYMPTOMATIC (silent)"
+                },
+                {
+                  "title": "JIA subtypes at risk: oligoarticular JIA (highest risk: 20-30% get uveitis), ANA-positive, RF-negative, young age of arthritis onset"
+                },
+                {
+                  "title": "Screen: slit-lamp exam every 3-6 months for high-risk; every 12 months for low-risk; even without symptoms"
+                },
+                {
+                  "title": "Treatment: topical steroids + cycloplegics → methotrexate (steroid-sparing) → biologics (adalimumab, abatacept for refractory)"
+                },
+                {
+                  "title": "Screening protocol: ACR recommends ANA status + age of onset + JIA type → screen frequency"
+                }
+              ]
+            },
+            {
+              "title": "Other Anterior Uveitis",
+              "children": [
+                {
+                  "title": "HLA-B27 associated: ankylosing spondylitis, reactive arthritis (Reiter); acute, unilateral, recurrent; HLA-B27 positive"
+                },
+                {
+                  "title": "Sarcoidosis: granulomatous; mutton-fat KP; band keratopathy; bilateral; skin/chest involvement"
+                },
+                {
+                  "title": "Fuchs heterochromic iridocyclitis: unilateral; diffuse fine stellate KP throughout endothelium; NO synechiae; iris heterochromia (affected eye lighter); cataract + glaucoma; treat: no steroids; manage complications"
+                }
+              ]
+            },
+            {
+              "title": "Posterior Uveitis",
+              "children": [
+                {
+                  "title": "Toxoplasmosis: most common cause of posterior uveitis worldwide; retinochoroiditis 'headlight in fog'; congenital (inactive scar) or acquired (active lesion); treat: pyrimethamine + sulfadiazine + leucovorin ± steroids; alternatives: TMP-SMX, clindamycin"
+                },
+                {
+                  "title": "Toxocariasis (visceral larva migrans): Toxocara canis from puppies/soil; child 1-10 years; unilateral; posterior pole granuloma or peripheral; leukocoria; ELISA serology; treat: steroids ± albendazole; enucleation if mistaken for Rb"
+                }
+              ]
+            },
+            {
+              "title": "Treatment Ladder",
+              "children": [
+                {
+                  "title": "Anterior: topical steroids + cycloplegics → systemic NSAIDs → DMARDs (MTX) → biologics"
+                },
+                {
+                  "title": "Posterior/panuveitis: periocular/intravitreal steroid → systemic steroids → immunosuppression (MTX, MMF, azathioprine) → biologics"
+                },
+                {
+                  "title": "Anti-VEGF for CMO if refractory; sustained-release implants (Ozurdex) for chronic cases"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Ocular Trauma in Childhood",
+          "children": [
+            {
+              "title": "General Considerations",
+              "children": [
+                {
+                  "title": "Leading cause of unilateral blindness in children; peak age 10-14 years; males > females; prevention most important"
+                },
+                {
+                  "title": "Particular concerns: uncooperative exam (GA often needed), amblyopia risk (any media opacity or prolonged patching), growth potential of injured eye"
+                }
+              ]
+            },
+            {
+              "title": "Non-Accidental Trauma (Abusive Head Trauma)",
+              "children": [
+                {
+                  "title": "Shaken baby syndrome (SBS): acceleration-deceleration injury; diffuse bilateral multilayered retinal haemorrhages extending to periphery = MOST CHARACTERISTIC sign"
+                },
+                {
+                  "title": "Retinal haemorrhages (RH): bilateral, multiple layers, extending to periphery; almost pathognomonic of AHT (rare in accidental trauma)"
+                },
+                {
+                  "title": "Other ocular: vitreous haemorrhage, retinoschisis, perimacular folds, papilledema, ON sheath haemorrhage"
+                },
+                {
+                  "title": "Associated: subdural haemorrhage, brain injury, metaphyseal fractures, rib fractures, inconsistent history"
+                },
+                {
+                  "title": "Assessment: complete ocular exam with documentation; ophthalmology report critical for legal proceedings; no other cause explains bilateral extensive multi-layer RH as reliably as AHT"
+                }
+              ]
+            },
+            {
+              "title": "Open Globe in Children",
+              "children": [
+                {
+                  "title": "Immediate shield (no patch), NPO, IV antibiotics, urgent repair; examine under GA"
+                },
+                {
+                  "title": "Prognosis: worse if posterior injury, lens disruption, vitreous haemorrhage; endophthalmitis risk higher"
+                },
+                {
+                  "title": "Post-repair: aggressive amblyopia treatment critical to outcome"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Ocular Manifestations of Systemic Disease",
+          "children": [
+            {
+              "title": "Chromosomal Abnormalities",
+              "children": [
+                {
+                  "title": "Trisomy 21 (Down syndrome): Brushfield spots (iris), upslanting palpebral fissures, epicanthus, keratoconus, cataracts (lamellar), strabismus (esotropia most common), nystagmus; regular ophthalmology review"
+                },
+                {
+                  "title": "Turner syndrome (45,X): ptosis, epicanthus, strabismus, colour vision defects, cataracts"
+                },
+                {
+                  "title": "Trisomy 13 (Patau): cyclopia, microphthalmia, coloboma, retinal dysplasia; usually fatal"
+                },
+                {
+                  "title": "Trisomy 18 (Edwards): corneal opacity, uveal coloboma, Peters anomaly; usually fatal"
+                }
+              ]
+            },
+            {
+              "title": "Inborn Errors of Metabolism",
+              "children": [
+                {
+                  "title": "Galactosaemia: nuclear cataract (oil-droplet appearance) in classic galactosaemia; galactokinase deficiency = cataract only; newborn screen + galactose-free diet"
+                },
+                {
+                  "title": "Homocystinuria: lens dislocation (inferonasal), thromboembolic risk, intellectual disability, Marfanoid habitus; pyridoxine-responsive (B6) and non-responsive types"
+                },
+                {
+                  "title": "Lowe syndrome (oculocerebrorenal): X-linked (OCRL); congenital cataracts (dense bilateral) + glaucoma + renal tubular acidosis + intellectual disability; females: lenticular dots (carrier sign)"
+                },
+                {
+                  "title": "Wilson disease: KF ring (Descemet copper); sunflower cataract; treat with penicillamine"
+                },
+                {
+                  "title": "Fabry disease: cornea verticillata; posterior lens spoke opacity; GLA gene; enzyme replacement"
+                },
+                {
+                  "title": "Tay-Sachs (GM2 gangliosidosis): cherry-red spot (white macular ring); progressive neurological decline; Ashkenazi Jewish; no treatment"
+                },
+                {
+                  "title": "Niemann-Pick Type A: cherry-red spot + hepatosplenomegaly; AR (SMPD1)"
+                }
+              ]
+            },
+            {
+              "title": "Phakomatoses (Neuro-Oculocutaneous Syndromes)",
+              "children": [
+                {
+                  "title": "NF1 (von Recklinghausen): AD (NF1/neurofibromin); Lisch nodules (iris hamartomas, pathognomonic; yellowish elevated spots), optic pathway glioma (15-20%; often asymptomatic; screen with MRI), plexiform neurofibroma (S-shaped lid), café-au-lait spots (>6, >5mm), freckling, neurofibromas"
+                },
+                {
+                  "title": "NF2: AD (NF2/merlin); bilateral acoustic neuromas (vestibular schwannomas); posterior subcapsular cataract (young adults); meningiomas; epiretinal membranes; fewer café-au-lait spots"
+                },
+                {
+                  "title": "Tuberous sclerosis (TSC1/TSC2): retinal astrocytic hamartoma (mulberry or flat translucent), depigmented skin patches, cortical tubers, subependymal giant cell astrocytoma (SEGA); seizures; mTOR inhibitors (everolimus) for SEGA"
+                },
+                {
+                  "title": "Sturge-Weber (encephalofacial angiomatosis): port-wine stain V1 distribution + ipsilateral glaucoma (from elevated episcleral venous pressure, angle anomaly) + choroidal haemangioma (diffuse; 'tomato ketchup fundus') + leptomeningeal angioma; non-hereditary"
+                },
+                {
+                  "title": "Von Hippel-Lindau (VHL): AD (VHL gene); retinal capillary haemangioblastoma (peripheral; 'feeding and draining vessels'; treat with laser/anti-VEGF/cryotherapy before exudation) + cerebellar haemangioblastoma + clear cell RCC; screen family members; semiannual ophthalmology"
+                },
+                {
+                  "title": "Ataxia-telangiectasia: AR (ATM); conjunctival telangiectasia (bulbar, from 3-5 years), cerebellar ataxia, immunodeficiency, high cancer risk (lymphoma); no effective treatment"
+                },
+                {
+                  "title": "Incontinentia pigmenti: X-linked dominant (IKBKG); lethal in males; retinal neovascularisation + RD (similar to ROP) → laser/anti-VEGF; skin (blisters → warty → hyperpigmentation → atrophy); seizures; dental anomalies"
+                }
+              ]
+            },
+            {
+              "title": "Albinism",
+              "children": [
+                {
+                  "title": "Reduced melanin in eye/skin/hair (oculocutaneous: OCA) or eye only (ocular: OA; X-linked)"
+                },
+                {
+                  "title": "Ocular features: iris transillumination, foveal hypoplasia (absent foveal pit), nystagmus (pendular), reduced visual acuity, misrouting of optic nerve fibres (most temporal fibres cross at chiasm = abnormal VEP asymmetry), photophobia, strabismus"
+                },
+                {
+                  "title": "Hermansky-Pudlak: OCA + platelet dysfunction (bleeding) + pulmonary fibrosis; AR"
+                },
+                {
+                  "title": "Chediak-Higashi: OCA + immunodeficiency + giant granules in neutrophils; AR; bone marrow transplant"
+                },
+                {
+                  "title": "Treatment: optimise refraction, tinted lenses/photochromic, low vision aids, treat amblyopia/strabismus"
+                }
+              ]
+            },
+            {
+              "title": "TORCH & Perinatal Infections",
+              "children": [
+                {
+                  "title": "Toxoplasmosis: retinochoroidal scar (congenital); inactive punched-out macular lesion; can reactivate"
+                },
+                {
+                  "title": "Rubella: 'salt and pepper' retinopathy (pigmentary retinopathy, does not affect VA), cataract (nuclear, dense; pearlescent), glaucoma, microphthalmia; risk in first trimester; MMR vaccination prevents"
+                },
+                {
+                  "title": "CMV: periphlebitis + haemorrhagic necrosis; necrotising retinitis; intranuclear inclusions"
+                },
+                {
+                  "title": "Herpes simplex: chorioretinitis; cataracts; microphthalmia; encephalitis"
+                },
+                {
+                  "title": "Syphilis: interstitial keratitis; chorioretinitis ('salt and pepper'); CN palsies; Argyll Robertson pupils in tertiary"
+                },
+                {
+                  "title": "Zika virus: macular atrophy + pigment mottling; microcephaly; congenital infection"
+                }
+              ]
+            },
+            {
+              "title": "Malignant Disease",
+              "children": [
+                {
+                  "title": "Leukaemia: hypopyon (leukaemic cells in AC), retinal haemorrhages, Roth spots, optic infiltration, papilledema; chloroma (granulocytic sarcoma) → proptosis in AML"
+                },
+                {
+                  "title": "Neuroblastoma: raccoon eyes (periorbital ecchymosis from orbital metastasis), opsoclonus-myoclonus syndrome (paraneoplastic)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Pediatric Chronic Eye Care & Low Vision",
+          "children": [
+            {
+              "title": "Transition: teenage patients need transition to adult ophthalmology; manage expectations + empower self-advocacy"
+            },
+            {
+              "title": "Low vision rehabilitation: optical aids (magnifiers, telescopes), non-optical (large print, lighting, contrast), electronic (CCTV, tablets, screen readers), orientation + mobility training"
+            },
+            {
+              "title": "Educational support: visual impairment (VI) team, IEP (individual education plan), braille vs print decision based on prognosis"
+            },
+            {
+              "title": "Myopia control: outdoor time (2+ hrs/day protective), low-dose atropine 0.01%, orthokeratology, MiSight 1-day CLs, DIMS spectacle lens (defocus incorporated)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Pseudoesotropia: epicanthal folds simulate ET; symmetric Hirschberg/corneal reflexes; no treatment needed"
+        },
+        {
+          "title": "Accommodative ET: full cycloplegic correction first; if high AC/A → bifocals; NO surgery for fully accommodative"
+        },
+        {
+          "title": "Infantile ET: onset <6 months, large angle, cross-fixation; surgery <2 years for best binocular outcome"
+        },
+        {
+          "title": "Intermittent XT: monocular eye closure in bright light is pathognomonic; most need surgery eventually"
+        },
+        {
+          "title": "Amblyopia: critical period birth to ~7 years; treat with optical correction first, then patching/atropine; upper age limit up to 17 years (PEDIG)"
+        },
+        {
+          "title": "Deprivational amblyopia: worst prognosis; dense unilateral cataract → treat within 6-8 weeks of birth"
+        },
+        {
+          "title": "Parks 3-step test: identifies paretic cyclovertical muscle; RSO palsy = R hyper, worse L gaze, worse R head tilt"
+        },
+        {
+          "title": "Duane syndrome: absent CN VI nucleus → CN III branch innervates LR; globe retraction + narrowing in adduction; do NOT resect LR"
+        },
+        {
+          "title": "DVD: upward drift when eye covered; associated with infantile ET and latent nystagmus; treat with SR recession or IO anteriorisation"
+        },
+        {
+          "title": "Brown syndrome: limited elevation in adduction; forced duction positive (restriction); Duane = globe retraction"
+        },
+        {
+          "title": "Infantile nystagmus syndrome: horizontal nystagmus (even on upgaze), null point, dampens with convergence; associated with albinism (most common)"
+        },
+        {
+          "title": "Spasmus nutans: triad (nystagmus + head nodding + torticollis); MRI mandatory to r/o chiasmal glioma"
+        },
+        {
+          "title": "Opsoclonus in children: r/o neuroblastoma; OMS (opsoclonus-myoclonus syndrome)"
+        },
+        {
+          "title": "Anterior segment ischaemia: from operating >2 recti simultaneously; risk with age, vascular disease"
+        },
+        {
+          "title": "Oculocardiac reflex: most common anaesthetic complication in strabismus surgery; bradycardia on traction; release + atropine"
+        },
+        {
+          "title": "Congenital NLD obstruction: 90% resolve by age 1 with massage; probe at 12-13 months if still blocked"
+        },
+        {
+          "title": "Dacryocystocele: urgent probing within days + nasal endoscopy for nasal cyst"
+        },
+        {
+          "title": "Primary congenital glaucoma: triad = epiphora + photophobia + blepharospasm; Haab striae; surgical treatment (goniotomy/trabeculotomy)"
+        },
+        {
+          "title": "CNLDO vs Gonococcal conjunctivitis: CNLDO = no conjunctival injection; gonococcal = hyperacute purulent, emergency treatment"
+        },
+        {
+          "title": "ROP screening: BW <1500g or GA <32 weeks; start at 31 weeks PMA or 4-6 weeks postnatal"
+        },
+        {
+          "title": "Anti-VEGF for Zone I/A-ROP: allows peripheral vascularization to continue; laser ablates peripheral retina permanently"
+        },
+        {
+          "title": "LCA: flat ERG + oculo-digital sign; gene therapy (Luxturna) for RPE65 mutations"
+        },
+        {
+          "title": "Retinoblastoma: leukocoria (60%) + strabismus (20%); RB1 gene, 2-hit hypothesis; hereditary = bilateral, younger; genetic counselling mandatory"
+        },
+        {
+          "title": "Abusive head trauma (SBS): bilateral, multilayered retinal haemorrhages extending to periphery = most characteristic ocular sign"
+        },
+        {
+          "title": "NF1: Lisch nodules (pathognomonic) + optic pathway glioma; NF2: bilateral acoustic neuromas + PSC cataract"
+        },
+        {
+          "title": "Tuberous sclerosis: retinal astrocytic hamartoma + depigmented skin patches + cortical tubers + SEGA; mTOR inhibitors"
+        },
+        {
+          "title": "Sturge-Weber: V1 port-wine stain + ipsilateral glaucoma + choroidal haemangioma; non-hereditary"
+        },
+        {
+          "title": "Von Hippel-Lindau: retinal capillary haemangioblastoma; treat before exudation; screen family (AD); associated RCC + CNS haemangioblastoma"
+        },
+        {
+          "title": "JIA-associated uveitis: silent, chronic, anterior; oligoarticular ANA-positive at highest risk; screen every 3-6 months even without symptoms"
+        },
+        {
+          "title": "Albinism: iris transillumination + foveal hypoplasia + nystagmus + misrouting of optic fibres (abnormal VEP)"
+        }
+      ]
+    }
+  ]
+}

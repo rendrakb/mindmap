@@ -1,0 +1,1761 @@
+{
+  "title": "External Disease and Cornea",
+  "type": "root",
+  "children": [
+    {
+      "title": "Structure & Function of the External Eye and Cornea",
+      "children": [
+        {
+          "title": "Eyelids",
+          "children": [
+            {
+              "title": "Layers (anterior → posterior): skin → orbicularis oculi → orbital septum → pre-tarsal fat → tarsus → conjunctiva"
+            },
+            {
+              "title": "Tarsus: dense fibrous plate; contains Meibomian glands (sebaceous; lipid layer of tear film)"
+            },
+            {
+              "title": "Upper lid retractors: levator palpebrae (CN III) + Müller muscle (sympathetic)"
+            },
+            {
+              "title": "Lower lid retractors: capsulopalpebral fascia + inferior tarsal muscle (sympathetic)"
+            },
+            {
+              "title": "Orbicularis oculi: CN VII; pretarsal (blink) + preseptal + orbital parts"
+            },
+            {
+              "title": "Glands of Zeis (sebaceous) and Moll (apocrine sweat): at lash line"
+            },
+            {
+              "title": "Lymphatics: medial (submandibular nodes) + lateral (preauricular nodes)"
+            }
+          ]
+        },
+        {
+          "title": "Lacrimal Functional Unit",
+          "children": [
+            {
+              "title": "Lacrimal gland: orbital + palpebral lobes; CN VII (greater superficial petrosal) secretomotor; accessory glands: Krause + Wolfring"
+            },
+            {
+              "title": "Tear drainage: puncta → canaliculi → common canaliculus → lacrimal sac → nasolacrimal duct → inferior meatus"
+            },
+            {
+              "title": "Valve of Hasner: mucosal fold at NLD opening; imperforate = congenital NLD obstruction"
+            }
+          ]
+        },
+        {
+          "title": "Tear Film",
+          "children": [
+            {
+              "title": "Modern model: mucoaqueous layer (mucin gradient, thicker at epithelium) + lipid layer (top)"
+            },
+            {
+              "title": "Lipid layer: Meibomian glands; prevents evaporation; ~0.1μm thick"
+            },
+            {
+              "title": "Aqueous layer: lacrimal gland (main + accessory); electrolytes, proteins, IgA, lysozyme, lactoferrin"
+            },
+            {
+              "title": "Mucin: goblet cells (MUC5AC) + surface epithelium (MUC1, MUC4, MUC16); wettability"
+            },
+            {
+              "title": "Tear break-up time (TBUT): normal >10 sec; <5 sec = abnormal"
+            },
+            {
+              "title": "Functions: lubrication, antimicrobial, oxygen supply to avascular cornea, smooth optical surface"
+            }
+          ]
+        },
+        {
+          "title": "Conjunctiva",
+          "children": [
+            {
+              "title": "Regions: palpebral (lines lids) + fornix + bulbar (covers globe to limbus)"
+            },
+            {
+              "title": "Epithelium: stratified non-keratinized squamous; goblet cells highest density in inferior nasal fornix"
+            },
+            {
+              "title": "Substantia propria: loose connective tissue; contains lymphocytes, mast cells, plasma cells"
+            },
+            {
+              "title": "Blood supply: anterior ciliary arteries + palpebral branches; lymphatics drain to preauricular + submandibular nodes"
+            },
+            {
+              "title": "Conjunctival-associated lymphoid tissue (CALT): local immune defense"
+            }
+          ]
+        },
+        {
+          "title": "Sclera",
+          "children": [
+            {
+              "title": "Dense irregular collagen (type I); avascular; blue tint in infants (thin), yellow with age (lipid deposition)"
+            },
+            {
+              "title": "Three layers: episclera (vascular) → stroma → lamina fusca (inner)"
+            },
+            {
+              "title": "Emissary canals: vortex veins, ciliary nerves/vessels pass through"
+            },
+            {
+              "title": "Lamina cribrosa: specialized scleral region where optic nerve exits; vulnerable in glaucoma"
+            }
+          ]
+        },
+        {
+          "title": "Cornea",
+          "children": [
+            {
+              "title": "Zones",
+              "children": [
+                {
+                  "title": "Central optical zone: ~3-4mm; most regular; most refractive power (~43D)"
+                },
+                { "title": "Paracentral: 4-7mm; flattens peripherally" },
+                { "title": "Peripheral: 7-11mm; junction with limbus" }
+              ]
+            },
+            {
+              "title": "5 Layers",
+              "children": [
+                {
+                  "title": "Epithelium: 5-7 cell layers; rapidly regenerating (~7 days); tight junctions (barrier); stem cells at limbus"
+                },
+                {
+                  "title": "Bowman layer: acellular condensed collagen; does NOT regenerate; breach = scar"
+                },
+                {
+                  "title": "Stroma: 90% of corneal thickness; collagen type I in regular orthogonal lamellae → transparency; keratocytes; proteoglycans (keratan sulfate, dermatan sulfate)"
+                },
+                {
+                  "title": "Descemet membrane: basement membrane of endothelium; thickens with age (3μm at birth → 10-12μm adult); elastic; resists perforation"
+                },
+                {
+                  "title": "Endothelium: single monolayer; Na/K-ATPase pump keeps stroma dehydrated; does NOT regenerate; normal density ~2500 cells/mm²; loss leads to corneal oedema"
+                }
+              ]
+            },
+            {
+              "title": "Properties: avascular, transparent, ~0.52mm central / ~0.67mm peripheral thickness"
+            },
+            {
+              "title": "Innervation: densely innervated by CN V1 (nasociliary → long ciliary nerves); most sensitive tissue in body"
+            }
+          ]
+        },
+        {
+          "title": "Limbus",
+          "children": [
+            {
+              "title": "Corneoscleral junction; site of limbal stem cells (LSC) for corneal epithelial regeneration"
+            },
+            {
+              "title": "Palisades of Vogt: radial stromal ridges housing LSC niche; most prominent superiorly and inferiorly"
+            },
+            { "title": "Site of surgical incisions (cataract, trabeculectomy)" }
+          ]
+        },
+        {
+          "title": "Defense Mechanisms",
+          "children": [
+            {
+              "title": "Physical: blink reflex, eyelid closure, tear drainage, epithelial barrier"
+            },
+            {
+              "title": "Chemical: lysozyme, lactoferrin, IgA, defensins, lacritin in tears"
+            },
+            {
+              "title": "Immune: CALT, conjunctival lymphocytes + mast cells; cornea is immune-privileged (avascularity, low MHC expression)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Examination Techniques",
+      "children": [
+        {
+          "title": "External Eye Exam",
+          "children": [
+            {
+              "title": "Inspection: symmetry, proptosis, lid position, ptosis, lagophthalmos, discharge, injection pattern"
+            },
+            {
+              "title": "Corneal sensation: cotton wisp or Cochet-Bonnet aesthesiometer; reduced in HSV keratitis, neurotrophic keratopathy, contact lens wear, post-LASIK"
+            },
+            {
+              "title": "Eversion of upper lid: essential to examine tarsal conjunctiva (giant papillae in VKC/GPC)"
+            }
+          ]
+        },
+        {
+          "title": "Slit-Lamp Biomicroscopy",
+          "children": [
+            {
+              "title": "Diffuse illumination: overview; general conjunctival and corneal assessment"
+            },
+            {
+              "title": "Direct focal illumination: most used; detailed focal exam at any depth"
+            },
+            {
+              "title": "Retro-illumination: backlit from iris/fundus; identifies corneal opacities, crystalline deposits, vacuoles"
+            },
+            {
+              "title": "Specular reflection: endothelial cell mosaic; guttae (Fuchs)"
+            },
+            {
+              "title": "Sclerotic scatter: total internal reflection; highlights corneal opacities (e.g., KC scarring)"
+            },
+            {
+              "title": "Indirect illumination: adjacent to beam; subtle infiltrates, nerves"
+            }
+          ]
+        },
+        {
+          "title": "Ocular Surface Staining",
+          "children": [
+            {
+              "title": "Fluorescein: stains disrupted epithelium (intercellular gaps, erosions, ulcers); TBUT; Seidel test (aqueous leak)"
+            },
+            {
+              "title": "Rose bengal: stains devitalized cells + mucus; very sensitive; stings; replaced by lissamine green"
+            },
+            {
+              "title": "Lissamine green: similar to rose bengal; stains dead/devitalized cells; better tolerated"
+            }
+          ]
+        },
+        {
+          "title": "Tear Function Tests",
+          "children": [
+            {
+              "title": "Schirmer test I (no anesthesia): basic + reflex secretion; <10mm/5min = reduced (borderline); <5mm/5min = abnormal"
+            },
+            {
+              "title": "Schirmer test II (with anesthesia): basic secretion only; <5mm/5min abnormal"
+            },
+            { "title": "Phenol red thread test: 15 sec; <9mm = reduced" },
+            {
+              "title": "Tear meniscus height: OCT measurement; <0.2mm = reduced"
+            },
+            {
+              "title": "MMP-9 (InflammaDry): rapid point-of-care; elevated in inflammatory dry eye"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Contour & Topography",
+          "children": [
+            {
+              "title": "Keratometry: measures central 3mm; K readings (K1 + K2); used for IOL calculations"
+            },
+            {
+              "title": "Corneal topography (Placido disc): anterior surface curvature map; detects irregular astigmatism, keratoconus (inferior steepening, skewed axes)"
+            },
+            {
+              "title": "Corneal tomography (Scheimpflug, e.g., Pentacam): anterior + posterior surface + pachymetry map; essential for refractive screening (detects forme fruste KC)"
+            },
+            {
+              "title": "Keratoconus indices: KISA%, Amsler-Krumeich grading, Belin-Ambrosio deviation"
+            }
+          ]
+        },
+        {
+          "title": "Endothelial Assessment",
+          "children": [
+            {
+              "title": "Specular microscopy: cell density (normal ~2500/mm²), morphology (polymegethism = size variation, pleomorphism = shape variation)"
+            },
+            {
+              "title": "Pachymetry: central corneal thickness; normal ~520-540μm; increased in endothelial dysfunction/oedema"
+            },
+            {
+              "title": "Confocal microscopy (in vivo): all corneal layers; identifies Acanthamoeba cysts, fungal hyphae, nerve fiber density/tortuosity, keratocytes"
+            },
+            {
+              "title": "Anterior segment OCT (AS-OCT): cross-sectional; angle assessment, corneal layers, pachymetry, epithelial mapping"
+            },
+            {
+              "title": "UBM (ultrasound biomicroscopy): anterior segment structures; angle, ciliary body; useful when media opaque"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Clinical Approach to Ocular Surface Disease",
+      "children": [
+        {
+          "title": "Conjunctival Signs of Inflammation",
+          "children": [
+            {
+              "title": "Hyperemia: superficial (conjunctival vessels; moveable with cotton tip) vs ciliary flush (deep, limbal, fixed; suggests anterior uveitis or keratitis)"
+            },
+            {
+              "title": "Discharge: watery (viral/allergic), mucopurulent (bacterial), ropy/stringy (allergic/VKC)"
+            },
+            {
+              "title": "Papillae: central vascular core + inflammatory cells; non-specific; giant papillae (>1mm): VKC, GPC (contact lens)"
+            },
+            {
+              "title": "Follicles: lymphoid aggregates without central vessel; viral/chlamydial/toxic conjunctivitis"
+            },
+            {
+              "title": "Pseudomembranes: fibrin on epithelium (removable); membranes: adherent (bleed on removal); severe inflammation (EKC, SJS, diphtheria)"
+            },
+            {
+              "title": "Chemosis: conjunctival oedema; allergy, thyroid, venous obstruction"
+            },
+            {
+              "title": "Subconjunctival haemorrhage: blood under conjunctiva; trauma, Valsalva, hypertension, bleeding diathesis"
+            },
+            {
+              "title": "Symblepharon: adhesion of palpebral to bulbar conjunctiva; SJS, MMP, chemical burn, trachoma"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Signs of Inflammation",
+          "children": [
+            {
+              "title": "Superficial punctate keratopathy (SPK): tiny epithelial erosions; pattern localizes cause (inferior: dry eye/exposure; superior: SLK/trachoma; diffuse: toxic/viral; interpalpebral: UV/dry eye)"
+            },
+            {
+              "title": "Epithelial defect: fluorescein positive; ulcer if stromal involvement"
+            },
+            {
+              "title": "Infiltrate: grey-white opacity; active cellular infiltration; marginal vs central; sterile vs infectious"
+            },
+            {
+              "title": "Ulcer: epithelial + stromal loss; may have hypopyon if severe"
+            },
+            {
+              "title": "Pannus: superficial vascularization; trachoma (superior), contact lens wear, limbal stem cell deficiency"
+            },
+            {
+              "title": "Keratic precipitates (KP): on endothelium; fine (non-granulomatous uveitis) vs mutton-fat (granulomatous)"
+            },
+            {
+              "title": "Corneal oedema: epithelial (microcysts, bullae) + stromal (Descemet folds, haziness)"
+            }
+          ]
+        },
+        {
+          "title": "Dry Eye Disease",
+          "children": [
+            {
+              "title": "Definition & Classification",
+              "children": [
+                {
+                  "title": "DEWS II: multifactorial disease of ocular surface characterized by loss of homeostasis of tear film"
+                },
+                {
+                  "title": "Aqueous-deficient dry eye (ADDE): lacrimal gland failure (Sjögren, non-Sjögren)"
+                },
+                {
+                  "title": "Evaporative dry eye (EDE): most common; Meibomian gland dysfunction (MGD), eyelid disorders, low blink rate"
+                },
+                { "title": "Often mixed mechanism" }
+              ]
+            },
+            {
+              "title": "Aqueous Tear Deficiency",
+              "children": [
+                {
+                  "title": "Sjögren syndrome: primary (dry eye + dry mouth) or secondary (RA, SLE, SS); ANA, anti-SSA/Ro, anti-SSB/La; lip biopsy (focal lymphocytic sialadenitis)"
+                },
+                {
+                  "title": "Non-Sjögren: age-related lacrimal gland atrophy, lacrimal gland scarring (SJS, MMP, trachoma, radiation), reflex hyposecretion (CN V damage)"
+                }
+              ]
+            },
+            {
+              "title": "Evaporative Dry Eye (MGD)",
+              "children": [
+                {
+                  "title": "Most common cause of dry eye; Meibomian gland atrophy, dropout, or obstruction → poor lipid layer"
+                },
+                {
+                  "title": "Signs: lid margin telangiectasia, gland inspissation, meibum quality (liquid → toothpaste-like), gland dropout on meibography"
+                },
+                {
+                  "title": "Associated with rosacea, seborrheic blepharitis, contact lens wear"
+                }
+              ]
+            },
+            {
+              "title": "Treatment (stepwise)",
+              "children": [
+                {
+                  "title": "Step 1: artificial tears (preserved vs preservative-free), environmental modifications, lid hygiene, omega-3 supplements"
+                },
+                {
+                  "title": "Step 2: unpreserved tears, cyclosporine A 0.05%/0.1% (Restasis/Cequa), lifitegrast 5% (Xiidra), punctal plugs (silicone > collagen), warm compress + lid massage"
+                },
+                {
+                  "title": "Step 3: serum tears, scleral lenses, intense pulsed light (IPL) for MGD, oral doxycycline (MGD/rosacea)"
+                },
+                {
+                  "title": "Step 4: amniotic membrane, tarsorrhaphy, salivary gland transplantation"
+                },
+                {
+                  "title": "Emerging: Reproxalap (TRPM8), OC-01 (varenicline nasal spray = Tyrvaya), perfluorohexyloctane (Miebo)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eyelid Conditions Associated With Ocular Surface Disease",
+          "children": [
+            {
+              "title": "Rosacea: chronic inflammatory skin disease; facial flushing, telangiectasia, acne; ocular = MGD + blepharitis + chalazia + SPK; treat with lid hygiene, doxycycline, IPL"
+            },
+            {
+              "title": "Seborrheic blepharitis: greasy scales at lash bases; associated with scalp seborrhoea; treat with lid scrubs, baby shampoo, dandruff shampoo"
+            },
+            {
+              "title": "Staphylococcal blepharitis: collarettes (fibrin cuffs) at lash bases; chronic infection + hypersensitivity; treat with lid hygiene + topical antibiotics"
+            },
+            {
+              "title": "Marginal keratitis: peripheral sterile infiltrate 2° to staph hypersensitivity; separated from limbus by clear zone; treat with topical steroid ± antibiotic"
+            },
+            {
+              "title": "Phlyctenular keratoconjunctivitis: nodular immune reaction (staph, TB antigen); limbal/corneal; treat topical steroids"
+            },
+            {
+              "title": "Hordeolum (stye): acute Staphylococcal infection; internal (Meibomian gland) vs external (Zeis/Moll); warm compress ± incision"
+            },
+            {
+              "title": "Chalazion: chronic lipogranulomatous inflammation of Meibomian gland; firm non-tender nodule; treat with warm compress → steroid injection → I&C"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Eyelid, Conjunctival & Corneal Surface Disorders",
+      "children": [
+        {
+          "title": "Eyelid Disorders",
+          "children": [
+            {
+              "title": "Floppy eyelid syndrome: rubbery, easily everted upper lid; obese middle-aged men; associated with OSA; papillary conjunctivitis; treat with lid hygiene, CPAP, lid taping at night"
+            },
+            {
+              "title": "Trichiasis: misdirected lashes touching globe; epilation, electrolysis, cryotherapy, laser, lid surgery"
+            },
+            {
+              "title": "Distichiasis: accessory row of lashes from Meibomian gland orifices; congenital (lymphoedema-distichiasis, FOXC2); treat with cryotherapy or lid split"
+            }
+          ]
+        },
+        {
+          "title": "Conjunctival Disorders",
+          "children": [
+            {
+              "title": "Superior limbic keratoconjunctivitis (SLK): superior bulbar injection + superior corneal SPK; associated with thyroid disease; treat with silver nitrate, vitamin A, surgical resection"
+            },
+            {
+              "title": "Conjunctivochalasis: redundant loose bulbar conjunctiva; mechanical dry eye symptoms; treat with lubrication → surgical resection/cautery"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Surface Disorders",
+          "children": [
+            {
+              "title": "Exposure keratopathy: incomplete lid closure (lagophthalmos) → desiccation → inferior SPK → erosion → ulcer; causes: CN VII palsy, proptosis, ectropion; treat with lubrication, taping, tarsorrhaphy"
+            },
+            {
+              "title": "Neurotrophic Keratopathy",
+              "children": [
+                {
+                  "title": "Decreased corneal sensation → poor epithelial healing + mucus accumulation"
+                },
+                {
+                  "title": "Causes: HSV/VZV, CN V lesions (acoustic neuroma, skull base surgery), diabetes, chemical burn, topical anaesthetic abuse"
+                },
+                {
+                  "title": "Stages (Mackie): 1 (SPK, mucus) → 2 (persistent epithelial defect) → 3 (stromal ulcer/melting)"
+                },
+                {
+                  "title": "Treatment: preservative-free lubrication, cenegermin (recombinant NGF, Oxervate), serum tears, scleral lens, tarsorrhaphy"
+                }
+              ]
+            },
+            {
+              "title": "Recurrent Corneal Erosion (RCE)",
+              "children": [
+                {
+                  "title": "Defective epithelial-stromal adhesion (hemidesmosome failure); painful awakening (epithelium tears on eyelid opening)"
+                },
+                {
+                  "title": "Causes: prior corneal abrasion (fingernail, paper), map-dot-fingerprint dystrophy (EBMD)"
+                },
+                {
+                  "title": "Treatment: hypertonic NaCl (5%) drops/ointment, bandage contact lens, anterior stromal micropuncture, PTK (phototherapeutic keratectomy)"
+                }
+              ]
+            },
+            {
+              "title": "Dellen: focal corneal thinning adjacent to elevated limbal lesion (pterygium, filtering bleb) → disrupted tear film; treat underlying cause + lubrication"
+            },
+            {
+              "title": "Limbal Stem Cell Deficiency (LSCD)",
+              "children": [
+                {
+                  "title": "Loss of limbal epithelial stem cells → conjunctival epithelium invades cornea (conjunctivalization)"
+                },
+                {
+                  "title": "Signs: vascularized pannus, irregular epithelium, recurrent erosions, chronic inflammation"
+                },
+                {
+                  "title": "Causes: chemical burns (most common), Stevens-Johnson syndrome, aniridia, contact lens abuse, iatrogenic"
+                },
+                {
+                  "title": "Treatment: mild (lubrication, CL), moderate (allograft limbal stem cell transplant), severe (keratolimbal allograft + systemic immunosuppression)"
+                }
+              ]
+            },
+            {
+              "title": "Toxic keratopathy: preservatives (BAC most common) + topical anaesthetic abuse → mitotoxic SPK, non-healing ulcer; treat by stopping offending agent"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Therapeutic Interventions for Ocular Surface Disorders",
+      "children": [
+        {
+          "title": "Conjunctival Interventions",
+          "children": [
+            {
+              "title": "Pterygium excision: bare sclera technique (high recurrence) vs conjunctival autograft (gold standard; <5% recurrence) ± mitomycin C"
+            },
+            {
+              "title": "Limbal stem cell transplantation: autologous (unilateral LSCD, from fellow eye) vs allograft (bilateral LSCD; needs immunosuppression); cultivated limbal epithelial transplant (CLET) technique"
+            },
+            {
+              "title": "Conjunctival flap (Gundersen flap): covers persistent corneal ulcer/perforation; provides vascularized support; rarely used now (superseded by amniotic membrane)"
+            },
+            {
+              "title": "Mucous membrane graft: from oral mucosa; used in lid reconstruction, symblepharon, MMP"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Interventions",
+          "children": [
+            {
+              "title": "Superficial keratectomy: removes anterior corneal lesions (Salzmann nodule, band keratopathy, scars); can be manual or PTK (excimer laser)"
+            },
+            {
+              "title": "Recurrent corneal erosion surgery: anterior stromal micropuncture (for non-dystrophy cases) vs PTK (for EBMD-related RCE)"
+            },
+            {
+              "title": "Amniotic membrane transplantation (AMT): biological scaffold; anti-inflammatory, promotes healing; sutured or sutureless (ProKera ring); for persistent epithelial defects, chemical burns, SJS acute phase"
+            },
+            {
+              "title": "Tarsorrhaphy: partial or complete lid closure; protects cornea in lagophthalmos, neurotrophic keratopathy, persistent ulcer; temporary (reversible) vs permanent"
+            },
+            {
+              "title": "Cyanoacrylate tissue glue: seals small corneal perforations (<2mm); temporary; covered with bandage CL"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Congenital Anomalies of the Cornea and Sclera",
+      "children": [
+        {
+          "title": "Size & Shape Anomalies",
+          "children": [
+            {
+              "title": "Megalocornea: diameter >13mm; bilateral; no glaucoma; X-linked (CHRDL1); stable"
+            },
+            {
+              "title": "Microcornea: diameter <10mm; may be isolated or with microphthalmos; associated with anterior segment dysgenesis"
+            },
+            {
+              "title": "Cornea plana: flat cornea (K <43D); hyperopic; associated with sclerocornea; KERA gene"
+            },
+            {
+              "title": "Keratoglobus: generalized corneal thinning + globular protrusion; associated with Ehlers-Danlos (type VI)"
+            }
+          ]
+        },
+        {
+          "title": "Anterior Segment Dysgenesis",
+          "children": [
+            {
+              "title": "Peters anomaly: central corneal leukoma + adherent iris/lens strands; Descemet absence centrally; PAX6/FOXC1 mutations; associated with glaucoma"
+            },
+            {
+              "title": "Posterior embryotoxon: prominent Schwalbe line; seen in Axenfeld-Rieger syndrome"
+            },
+            {
+              "title": "Axenfeld-Rieger syndrome: posterior embryotoxon + iris strands + iris hypoplasia ± glaucoma (50%); FOXC1/PITX2 mutations; systemic (dental, umbilical, facial anomalies)"
+            },
+            {
+              "title": "Aniridia: PAX6 mutation; almost complete iris absence; associated with glaucoma, cataracts, nystagmus, foveal hypoplasia, Wilms tumor (WAGR)"
+            },
+            {
+              "title": "Sclerocornea: cornea resembles sclera; opaque; unilateral or bilateral; associated with other anterior segment anomalies"
+            }
+          ]
+        },
+        {
+          "title": "Metabolic Disorders Causing Corneal Clouding",
+          "children": [
+            {
+              "title": "Mucopolysaccharidoses (MPS): diffuse stromal clouding; MPS I (Hurler/Scheie), IV, VI most common; enzyme replacement therapy"
+            },
+            {
+              "title": "Cystinosis: cystine crystals in corneal stroma; photophobia; treat with topical cysteamine drops"
+            },
+            {
+              "title": "Tyrosinaemia type II (Richner-Hanhart): corneal erosions + palmoplantar keratoderma + pseudoherpetic keratitis; FAH/HPD mutations"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Degenerations and Depositions",
+      "children": [
+        {
+          "title": "Conjunctival Degenerations",
+          "children": [
+            {
+              "title": "Pinguecula: yellow-white fibrous/elastotic deposit on bulbar conjunctiva; nasal > temporal; UV-related; no treatment usually needed"
+            },
+            {
+              "title": "Pterygium: fibrovascular growth from bulbar conjunctiva onto cornea; Stocker line (iron) at leading edge; nasal > temporal; UV + dust exposure; recurrence risk after excision"
+            },
+            {
+              "title": "Conjunctival concretions: small white calcified deposits in palpebral conjunctiva; age-related; remove if symptomatic"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Epithelial/Subepithelial Degenerations",
+          "children": [
+            {
+              "title": "Arcus senilis (gerontoxon): lipid deposition in peripheral stroma; normal >60 years; bilateral; if <40 and unilateral → r/o hypercholesterolaemia"
+            },
+            {
+              "title": "Vogt limbal girdle: white chalky deposits at nasal/temporal limbus; type I (with clear interval) vs type II; age-related"
+            },
+            {
+              "title": "Band keratopathy: calcium deposits in Bowman layer; interpalpebral; 'Swiss cheese' pattern (holes where nerves pass); causes: hypercalcaemia, chronic uveitis, JIAI; treat with EDTA chelation ± PTK"
+            },
+            {
+              "title": "Salzmann nodular degeneration: grey-white elevated subepithelial nodules; post-inflammatory; remove with superficial keratectomy if symptomatic"
+            },
+            {
+              "title": "Climatic droplet keratopathy (spheroidal degeneration): golden droplets in anterior stroma; UV/heat exposure"
+            }
+          ]
+        },
+        {
+          "title": "Mid & Deep Stromal Degenerations",
+          "children": [
+            {
+              "title": "Lipid keratopathy: white-yellow stromal lipid deposits; primary (rare) or secondary to neovascularisation; treat underlying cause, corneal transplant if severe"
+            },
+            {
+              "title": "Amyloid deposits: rare; primary or secondary to inflammation"
+            }
+          ]
+        },
+        {
+          "title": "Endothelial Degenerations",
+          "children": [
+            {
+              "title": "Hassall-Henle bodies: peripheral guttae; age-related; normal finding"
+            },
+            {
+              "title": "Fuchs endothelial corneal dystrophy: see dystrophies section"
+            }
+          ]
+        },
+        {
+          "title": "Drug-Induced Deposits",
+          "children": [
+            {
+              "title": "Cornea verticillata (vortex keratopathy): whorl-like epithelial deposits; amiodarone (most common), chloroquine/hydroxychloroquine, Fabry disease (α-galactosidase A deficiency)"
+            },
+            {
+              "title": "Chrysiasis: gold deposition; deep stromal; after chrysotherapy (gold treatment for RA)"
+            },
+            {
+              "title": "Silver (argyria): blue-grey conjunctival/corneal deposits; topical silver nitrate"
+            },
+            {
+              "title": "Chlorpromazine: anterior capsular lens deposits + corneal/conjunctival pigmentation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Corneal Dystrophies",
+      "children": [
+        {
+          "title": "General Principles",
+          "children": [
+            {
+              "title": "Definition: inherited, bilateral, symmetric, not associated with systemic disease, not due to inflammation/infection"
+            },
+            {
+              "title": "IC3D classification: Category 1 (well-defined gene mutation) → Category 4 (no clear genetic basis)"
+            },
+            {
+              "title": "Treatment: depends on visual impact; options: epithelial debridement, PTK, lamellar or penetrating keratoplasty"
+            }
+          ]
+        },
+        {
+          "title": "Epithelial & Subepithelial Dystrophies",
+          "children": [
+            {
+              "title": "Epithelial basement membrane dystrophy (EBMD/Map-dot-fingerprint): most common corneal dystrophy; sporadic or AD (TGFBI); map-like, dot, and fingerprint patterns; causes RCE"
+            },
+            {
+              "title": "Meesmann dystrophy: AD (KRT3/KRT12); fine intraepithelial vesicles; mild symptoms; usually no treatment needed"
+            },
+            {
+              "title": "Lisch epithelial corneal dystrophy: X-linked; bands and whorls of microcysts; asymptomatic usually"
+            }
+          ]
+        },
+        {
+          "title": "Epithelial-Stromal TGFBI Dystrophies",
+          "children": [
+            {
+              "title": "Reis-Bücklers dystrophy: AD (TGFBI R124L); Bowman layer replacement by fibrous tissue; painful erosions; treatment: PTK, PKP"
+            },
+            {
+              "title": "Thiel-Behnke dystrophy: AD (TGFBI R124H); honeycomb Bowman opacification; milder than RB"
+            },
+            {
+              "title": "Lattice dystrophy",
+              "children": [
+                {
+                  "title": "Type I (classic): AD (TGFBI R124C); refractile stromal lattice lines + amyloid; painful erosions; most common TGFBI dystrophy"
+                },
+                {
+                  "title": "Type II (Meretoja): AR (TGFBI); cranial nerve palsies + skin laxity (gelsolin mutation); systemic amyloidosis"
+                }
+              ]
+            },
+            {
+              "title": "Granular dystrophy type 1: AD (TGFBI R555W); discrete white 'breadcrumb' deposits; clear intervening stroma; treat with PTK or PKP"
+            },
+            {
+              "title": "Granular dystrophy type 2 (Avellino): AD (TGFBI R124H); combined granular + lattice features; worse recurrence after keratoplasty"
+            }
+          ]
+        },
+        {
+          "title": "Stromal Dystrophies",
+          "children": [
+            {
+              "title": "Macular dystrophy: AR (CHST6); most severe; diffuse clouding from limbus to limbus; keratan sulfate metabolism defect; treat with PKP"
+            },
+            {
+              "title": "Schnyder corneal dystrophy: AD (UBIAD1); central crystalline cholesterol deposits + arcus + central haze; hypercholesterolaemia in 50%; treat with PTK/PKP"
+            },
+            {
+              "title": "Congenital stromal dystrophy: AD (DCN); diffuse flaky/feathery opacification from birth"
+            },
+            {
+              "title": "Fleck dystrophy: AD (PIKFYVE); dandruff-like opacities throughout stroma; photophobia; usually non-progressive"
+            }
+          ]
+        },
+        {
+          "title": "Endothelial Dystrophies",
+          "children": [
+            {
+              "title": "Fuchs Endothelial Corneal Dystrophy (FECD)",
+              "children": [
+                {
+                  "title": "Most common endothelial dystrophy; AD (SLC4A11, ZEB1, TCF4 triplet repeat); females > males"
+                },
+                {
+                  "title": "Guttae (excrescences on Descemet) → endothelial decompensation → stromal + epithelial oedema → bullous keratopathy"
+                },
+                {
+                  "title": "Symptoms: worse in morning (nocturnal oedema), glare, blur, pain (ruptured bullae)"
+                },
+                {
+                  "title": "Treatment: hypertonic saline drops → DSAEK/DMEK (gold standard for surgical treatment)"
+                }
+              ]
+            },
+            {
+              "title": "Posterior polymorphous corneal dystrophy (PPCD): AD (OVOL2, ZEB1, GRHL2); vesicles, bands, diffuse haze at Descemet level; usually asymptomatic; can cause glaucoma/iridocorneal adhesion"
+            },
+            {
+              "title": "Congenital hereditary endothelial dystrophy (CHED): AR (SLC4A11); bilateral diffuse ground-glass corneal oedema at birth; nystagmus; treat with early PKP"
+            },
+            {
+              "title": "X-linked endothelial corneal dystrophy (XECD): rare; band-shaped clouding + 'moon crater' endothelium"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Corneal Ectatic Disease",
+      "children": [
+        {
+          "title": "Keratoconus",
+          "children": [
+            {
+              "title": "Features",
+              "children": [
+                {
+                  "title": "Progressive corneal thinning + anterior protrusion; non-inflammatory; bilateral (asymmetric)"
+                },
+                {
+                  "title": "Onset: puberty to 30s; stabilizes ~40s; associated with atopy (eye rubbing), Down syndrome, Leber congenital amaurosis, Marfan syndrome"
+                }
+              ]
+            },
+            {
+              "title": "Clinical Signs",
+              "children": [
+                {
+                  "title": "Fleischer ring: iron deposits in basal epithelium at cone base (slit lamp, cobalt blue)"
+                },
+                {
+                  "title": "Vogt striae: fine vertical stress lines in deep stroma (disappear with pressure)"
+                },
+                {
+                  "title": "Munson sign: V-shaped indentation of lower lid on downgaze"
+                },
+                {
+                  "title": "Rizutti sign: conical reflection on nasal iris when light shone from temporal side"
+                },
+                { "title": "Apical scarring: late finding" }
+              ]
+            },
+            {
+              "title": "Diagnosis",
+              "children": [
+                {
+                  "title": "Topography: inferior steepening, asymmetric bowtie, I-S value >1.4D"
+                },
+                {
+                  "title": "Tomography (Pentacam): posterior elevation, pachymetric map (thinnest point), BAD-D score"
+                },
+                {
+                  "title": "Amsler-Krumeich grading: I (eccentric steepening, slight thinning) → IV (K >55D, central scar, pachymetry <400μm)"
+                }
+              ]
+            },
+            {
+              "title": "Treatment",
+              "children": [
+                { "title": "Glasses/soft CLs: mild, regular astigmatism" },
+                { "title": "RGP lenses: moderate; vaults irregular surface" },
+                {
+                  "title": "Scleral lenses: vault entire cornea; severe + post-keratoplasty"
+                },
+                {
+                  "title": "Corneal crosslinking (CXL): halts progression; riboflavin + UV-A (Dresden protocol); standard vs accelerated; do before severe thinning"
+                },
+                {
+                  "title": "Intrastromal corneal ring segments (ICRS, Intacs): improve corneal regularity; contact lens tolerance; not curative"
+                },
+                {
+                  "title": "Deep anterior lamellar keratoplasty (DALK): preferred if no hydrops; preserves host endothelium"
+                },
+                {
+                  "title": "PKP: if DALK not possible or failed; hydrops with scar"
+                }
+              ]
+            },
+            {
+              "title": "Acute hydrops: Descemet rupture → aqueous influx into stroma → sudden vision loss + pain; manage conservatively (hypertonic saline, CycloSporin); resolves with scarring"
+            }
+          ]
+        },
+        {
+          "title": "Pellucid Marginal Degeneration (PMD)",
+          "children": [
+            {
+              "title": "Inferior peripheral thinning (4-8 o'clock); cornea protrudes above thin band; 'crab-claw' or 'kissing birds' topography pattern"
+            },
+            {
+              "title": "No Fleischer ring or Vogt striae; differentiate from inferior KC"
+            },
+            {
+              "title": "Treatment: RGP/scleral lenses; DALK/PKP for advanced cases"
+            }
+          ]
+        },
+        {
+          "title": "Keratoglobus",
+          "children": [
+            {
+              "title": "Global thinning of entire cornea (unlike focal KC); often congenital; associated with Ehlers-Danlos type VI (lysyl hydroxylase deficiency)"
+            },
+            {
+              "title": "Extremely fragile; risk of perforation with minimal trauma"
+            },
+            {
+              "title": "Treatment: large-diameter keratoplasty; very high risk; protective eyewear essential"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Systemic Disorders With Corneal Manifestations",
+      "children": [
+        {
+          "title": "Lysosomal Storage Diseases",
+          "children": [
+            {
+              "title": "Mucopolysaccharidoses (MPS): diffuse stromal clouding; MPS I (Hurler: severe; Scheie: mild), IV (Morquio), VI (Maroteaux-Lamy) most common; enzyme replacement therapy (laronidase for MPS I)"
+            },
+            {
+              "title": "Fabry disease: X-linked (GLA gene); cornea verticillata; also posterior spokewheel cataract + conjunctival aneurysms; enzyme replacement with agalsidase"
+            },
+            {
+              "title": "GM1 gangliosidosis: corneal clouding + cherry red spot"
+            }
+          ]
+        },
+        {
+          "title": "Metabolic/Amino Acid Disorders",
+          "children": [
+            {
+              "title": "Cystinosis: AR (CTNS); cystine crystals in cornea + conjunctiva + retina; photophobia; treat with topical cysteamine drops (dissolves crystals)"
+            },
+            {
+              "title": "Wilson disease: AR (ATP7B); Kayser-Fleischer ring (copper in Descemet, peripheral, green-brown); sunflower cataract; treat with D-penicillamine or trientine"
+            },
+            {
+              "title": "Gout: urate crystals in conjunctiva/cornea; band keratopathy"
+            },
+            {
+              "title": "Hypercalcaemia: band keratopathy (calcium in Bowman layer)"
+            }
+          ]
+        },
+        {
+          "title": "Skeletal & Connective Tissue Disorders",
+          "children": [
+            {
+              "title": "Marfan syndrome: FBN1 (AD); lens subluxation (superotemporal); keratoconus; flat cornea; high myopia"
+            },
+            {
+              "title": "Ehlers-Danlos syndrome: EDS type VI (lysyl hydroxylase deficiency) → keratoglobus; EDS type IV → spontaneous globe perforation risk"
+            },
+            {
+              "title": "Osteogenesis imperfecta: blue sclera (thin sclera shows choroidal pigment); cornea may be thin"
+            }
+          ]
+        },
+        {
+          "title": "Nutritional",
+          "children": [
+            {
+              "title": "Vitamin A deficiency: Bitot spots (foamy white conjunctival plaques), xerosis, keratomalacia (corneal melting); night blindness; treat with vitamin A supplements (emergency if keratomalacia)"
+            }
+          ]
+        },
+        {
+          "title": "Endocrine",
+          "children": [
+            {
+              "title": "Diabetes mellitus: decreased corneal sensitivity (peripheral neuropathy), poor epithelial healing, reduced TBUT, recurrent erosions, increased infection risk"
+            },
+            { "title": "Hyperparathyroidism/hypercalcaemia: band keratopathy" }
+          ]
+        },
+        {
+          "title": "Dermatologic Diseases",
+          "children": [
+            {
+              "title": "Ichthyosis: dry scaly skin; chronic cicatricial conjunctivitis, lid abnormalities, exposure keratopathy"
+            },
+            {
+              "title": "Ectodermal dysplasia: absent/sparse lashes, dry eye, corneal scarring"
+            },
+            {
+              "title": "Xeroderma pigmentosum: deficient UV repair (nucleotide excision repair); very high risk of conjunctival/corneal squamous cell carcinoma"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Viral Infections",
+      "children": [
+        {
+          "title": "Herpes Simplex Virus (HSV)",
+          "children": [
+            {
+              "title": "HSV-1 (primarily ocular/orofacial); HSV-2 (genital; neonatal ocular disease)",
+              "children": []
+            },
+            {
+              "title": "Clinical Forms",
+              "children": [
+                {
+                  "title": "Primary HSV: blepharoconjunctivitis ± follicular conjunctivitis; self-limited; vesicular lid lesions; treat with topical/oral acyclovir"
+                },
+                {
+                  "title": "Epithelial keratitis (dendritic ulcer): pathognomonic; branching dendrite with terminal bulbs; stains with fluorescein (ulcer) + rose bengal (halo); treat with topical antivirals (ganciclovir gel, trifluridine) ± oral acyclovir"
+                },
+                {
+                  "title": "Geographic ulcer: large amoeboid epithelial defect; often after steroid misuse; same treatment as dendritic"
+                },
+                {
+                  "title": "Stromal keratitis (necrotizing vs immune): necrotizing = viral invasion; immune = hypersensitivity to viral antigens; disc-shaped (disciform) = immune endotheliitis; treat: immune stromal → topical steroids + antiviral cover; necrotizing → oral antivirals"
+                },
+                {
+                  "title": "Endotheliitis: HSV-induced; keratic precipitates + Descemet folds + disc-shaped stromal oedema; treat with oral acyclovir + topical steroids"
+                },
+                {
+                  "title": "Neurotrophic keratopathy: post-infectious; reduced corneal sensation → poor healing; treat with lubricants, cenegermin, tarsorrhaphy"
+                }
+              ]
+            },
+            {
+              "title": "HEDS trial: prophylactic oral acyclovir 400mg BD reduces recurrence by 45%; important for stromal disease patients"
+            },
+            {
+              "title": "DO NOT use topical steroids alone without antiviral cover in HSV keratitis"
+            }
+          ]
+        },
+        {
+          "title": "Varicella-Zoster Virus (VZV)",
+          "children": [
+            {
+              "title": "Herpes zoster ophthalmicus (HZO): V1 dermatomal reactivation; vesicular rash + pain"
+            },
+            {
+              "title": "Hutchinson sign (tip of nose): nasociliary branch involvement → high risk of ocular disease (keratitis, uveitis, episcleritis)"
+            },
+            {
+              "title": "Ocular findings: pseudodendritic keratitis (no terminal bulbs; heaped epithelium), stromal keratitis, disciform keratitis, anterior uveitis, CN palsies, ARN (immunocompromised)"
+            },
+            {
+              "title": "Treatment: oral valaciclovir/acyclovir within 72h → reduces viral shedding, PHN, ocular complications; topical steroids for stromal/uveitis with antiviral cover"
+            },
+            {
+              "title": "Postherpetic neuralgia (PHN): most feared; treat with gabapentin, pregabalin, tricyclics"
+            }
+          ]
+        },
+        {
+          "title": "Adenovirus",
+          "children": [
+            {
+              "title": "Most common cause of viral conjunctivitis; epidemic keratoconjunctivitis (EKC): serotypes 8, 19, 37; highly contagious"
+            },
+            {
+              "title": "Pharyngoconjunctival fever (PCF): serotypes 3, 7; fever + pharyngitis + follicular conjunctivitis"
+            },
+            {
+              "title": "EKC: follicular conjunctivitis + pseudomembranes + pre-auricular LN + corneal subepithelial infiltrates (SEI) at 7-14 days (immune reaction, not virus)"
+            },
+            {
+              "title": "SEI: anterior stromal, cause glare/blur; treat with mild topical steroids if significant visual impact; may recur"
+            },
+            {
+              "title": "No proven antiviral; supportive; highly contagious (contact precautions, no work/school for 14 days)"
+            }
+          ]
+        },
+        {
+          "title": "CMV Keratitis",
+          "children": [
+            {
+              "title": "Endotheliitis with coin-shaped lesions; KP; raised IOP; linear/dendritiform epithelial lesions"
+            },
+            {
+              "title": "Immunocompetent or immunocompromised; recurrent anterior uveitis pattern"
+            },
+            {
+              "title": "Diagnose: anterior chamber tap + CMV PCR; treat with topical ganciclovir + oral valganciclovir"
+            }
+          ]
+        },
+        {
+          "title": "Other Viruses",
+          "children": [
+            {
+              "title": "Molluscum contagiosum (poxvirus): umbilicated skin nodule on lid margin → follicular conjunctivitis + SPK from viral shedding; treat by excising/expressing the molluscum lesion"
+            },
+            {
+              "title": "Papillomavirus (HPV): conjunctival squamous papilloma; sessile or pedunculated; treat with excision ± MMC/interferon; risk of malignant transformation (HPV 16/18)"
+            },
+            {
+              "title": "COVID-19 (SARS-CoV-2): mild follicular conjunctivitis; rarely corneal involvement; generally self-limited"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Bacterial, Fungal & Parasitic Infections",
+      "children": [
+        {
+          "title": "Bacterial Conjunctivitis",
+          "children": [
+            {
+              "title": "Hyperacute (within 24h): Neisseria gonorrhoeae; copious purulent discharge; risk of corneal perforation; urgent systemic ceftriaxone + topical antibiotics + eye wash"
+            },
+            {
+              "title": "Acute: Staphylococcus, Streptococcus, H. influenzae; mucopurulent discharge; treat with topical fluoroquinolone or broad-spectrum antibiotic"
+            },
+            {
+              "title": "Neonatal (ophthalmia neonatorum): Gonococcal (<5 days) or Chlamydial (5-14 days); prophylaxis: erythromycin ointment at birth"
+            },
+            {
+              "title": "Chronic: Chlamydia trachomatis (trachoma: serotypes A-C; follicles, scarring, trichiasis, blindness); STD conjunctivitis (D-K); treat with systemic azithromycin or doxycycline"
+            },
+            {
+              "title": "Parinaud oculoglandular syndrome: unilateral granulomatous conjunctivitis + ipsilateral preauricular LN; causes: cat-scratch disease (Bartonella), tularaemia, TB, syphilis; treat underlying cause"
+            }
+          ]
+        },
+        {
+          "title": "Bacterial Keratitis",
+          "children": [
+            {
+              "title": "Risk factors: contact lens wear (most common, especially soft extended-wear; Pseudomonas), trauma, ocular surface disease, topical steroids, immunosuppression"
+            },
+            {
+              "title": "Organisms: Pseudomonas aeruginosa (CL-related; rapid progression, ring infiltrate), Staphylococcus aureus/epidermidis, Streptococcus pneumoniae (hypopyon), Moraxella (immunocompromised, inferior)"
+            },
+            {
+              "title": "Workup: corneal scraping + culture + Gram/Giemsa stain; confocal microscopy for fungal/Acanthamoeba"
+            },
+            {
+              "title": "Treatment: intensive topical fluoroquinolone (moxifloxacin/ciprofloxacin) ± fortified antibiotics (vancomycin + ceftazidime); adjust based on culture; avoid steroids until pathogen identified"
+            },
+            {
+              "title": "Complications: corneal scar, perforation, endophthalmitis; surgery if perforation (patch graft, PKP)"
+            }
+          ]
+        },
+        {
+          "title": "Fungal Keratitis",
+          "children": [
+            {
+              "title": "Risk factors: vegetable/plant trauma (filamentous fungi: Fusarium, Aspergillus), contact lens wear, tropical climate, immunosuppression (Candida in immunocompromised)"
+            },
+            {
+              "title": "Filamentous: feathery infiltrate edges, satellite lesions, immune ring; Candida: more defined creamy ulcer"
+            },
+            {
+              "title": "Diagnosis: corneal scraping, KOH prep (fungal hyphae), culture (Sabouraud agar), confocal microscopy"
+            },
+            {
+              "title": "Treatment: natamycin 5% (first-line for filamentous), voriconazole (broad-spectrum, also intrastromal/intracameral injection), amphotericin B (Candida); long duration (6-12 weeks); avoid steroids"
+            }
+          ]
+        },
+        {
+          "title": "Acanthamoeba Keratitis",
+          "children": [
+            {
+              "title": "Protozoan; associated with contact lens wear in tap water/swimming; severe pain disproportionate to signs"
+            },
+            {
+              "title": "Classic signs: ring infiltrate (late), radial keratoneuritis (early; pathognomonic), pseudodendrite, anterior uveitis"
+            },
+            {
+              "title": "Diagnosis: confocal microscopy (double-walled cysts), corneal scraping + culture (non-nutrient agar with E. coli overlay), PCR"
+            },
+            {
+              "title": "Treatment: PHMB (polyhexamethylene biguanide) + propamidine isethionate (Brolene); very long course (12+ months); antifungals not effective; PKP for severe/unresponsive"
+            }
+          ]
+        },
+        {
+          "title": "Interstitial Keratitis",
+          "children": [
+            {
+              "title": "Stromal vascularization + inflammation without primary epithelial ulceration"
+            },
+            {
+              "title": "Syphilitic IK: most common cause historically; deep stromal vascularization; 'ghost vessels' (empty after healing); bilateral; treat with penicillin + topical steroids"
+            },
+            {
+              "title": "Cogan syndrome: bilateral IK + vestibulo-auditory dysfunction (Menière-like); autoimmune; treat with systemic steroids"
+            }
+          ]
+        },
+        {
+          "title": "Scleritis",
+          "children": [
+            {
+              "title": "Microbial scleritis: Pseudomonas (post-surgery, especially pterygium excision with MMC), Mycobacterium, Herpes, fungi; necrotizing; treat with targeted antimicrobials + surgery"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Immune-Mediated Disorders",
+      "children": [
+        {
+          "title": "Allergic Conjunctivitis",
+          "children": [
+            {
+              "title": "Seasonal (SAC) / Perennial (PAC): IgE-mediated; mast cell degranulation; itching = cardinal symptom; watery discharge; treat with antihistamines + mast cell stabilisers (olopatadine, ketotifen)"
+            },
+            {
+              "title": "Vernal Keratoconjunctivitis (VKC)",
+              "children": [
+                {
+                  "title": "Young males; tropical/subtropical; bilateral; seasonal (spring)"
+                },
+                {
+                  "title": "Cobblestone giant papillae on superior tarsal conjunctiva; limbal Horner-Trantas dots (eosinophilic aggregates); shield ulcer (superior corneal)"
+                },
+                {
+                  "title": "Ropy mucoid discharge; intense itching + photophobia"
+                },
+                {
+                  "title": "Treatment: topical mast cell stabilisers + antihistamines; topical steroids (short courses); cyclosporine A 0.05-1% drops; dupilumab for severe cases"
+                }
+              ]
+            },
+            {
+              "title": "Atopic Keratoconjunctivitis (AKC)",
+              "children": [
+                {
+                  "title": "Older patients (20s-50s); associated with atopic dermatitis; perennial; bilateral"
+                },
+                {
+                  "title": "Papillae inferior tarsus > superior; corneal vascularisation + scarring; shield ulcer; risk of herpes simplex and cataract (PSC)"
+                },
+                {
+                  "title": "Treatment: as VKC + systemic immunosuppression (cyclosporine, dupilumab) for severe cases; long-term steroid complications (cataract, glaucoma)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cicatricial Conjunctival Diseases",
+          "children": [
+            {
+              "title": "Stevens-Johnson Syndrome (SJS) / Toxic Epidermal Necrolysis (TEN)",
+              "children": [
+                {
+                  "title": "SJS (<10% BSA), SJS/TEN overlap (10-30%), TEN (>30%) based on epidermal detachment"
+                },
+                {
+                  "title": "Triggers: drugs (sulfonamides, anticonvulsants, NSAIDs, allopurinol), infections (Mycoplasma in children)"
+                },
+                {
+                  "title": "Acute ocular: pseudomembranes, symblepharon formation, severe dry eye, corneal epithelial defects"
+                },
+                {
+                  "title": "Chronic ocular: cicatricial entropion/trichiasis, LSCD, corneal scarring/vascularisation, severe dry eye"
+                },
+                {
+                  "title": "Acute treatment: amniotic membrane ASAP (within 48-72h) reduces chronic sequelae; aggressive lubrication; lysis of symblepharon; stop offending drug"
+                }
+              ]
+            },
+            {
+              "title": "Mucous Membrane Pemphigoid (MMP)",
+              "children": [
+                {
+                  "title": "Autoimmune (IgG/IgA vs basement membrane proteins: BP180, BP230, laminin-332); subepithelial blistering + scarring"
+                },
+                {
+                  "title": "Stages (Foster grading): I (subepithelial fibrosis) → II (fornix foreshortening) → III (symblepharon) → IV (ankyloblepharon, dry eye, corneal keratinisation, blindness)"
+                },
+                {
+                  "title": "Diagnosis: conjunctival biopsy for immunofluorescence (IgG/IgA linear BMZ)"
+                },
+                {
+                  "title": "Treatment: systemic immunosuppression (dapsone 1st line, cyclophosphamide, IVIG, rituximab for severe); avoid surgery in active disease (triggers progression)"
+                }
+              ]
+            },
+            {
+              "title": "Ocular graft-vs-host disease (GVHD): after allogeneic bone marrow transplant; dry eye, conjunctival inflammation, cicatrisation; treat with intensive lubrication, cyclosporine A, scleral lenses, systemic immunosuppression"
+            }
+          ]
+        },
+        {
+          "title": "Peripheral Corneal Disorders",
+          "children": [
+            {
+              "title": "Marginal keratitis: peripheral sterile infiltrate from Staph hypersensitivity; clear zone between infiltrate and limbus; responds to topical steroids + antibiotic"
+            },
+            {
+              "title": "Peripheral ulcerative keratitis (PUK): associated with systemic vasculitis (RA most common, GPA, PAN, SLE); crescent-shaped peripheral melt; workup for systemic vasculitis; treat underlying disease (systemic immunosuppression) + topical treatment; high mortality if untreated"
+            },
+            {
+              "title": "Mooren ulcer: idiopathic PUK; painful; bilateral in 25%; undermined advancing edge; r/o systemic disease; treat with steroids, immunosuppression, conjunctival resection"
+            },
+            {
+              "title": "Thygeson superficial punctate keratitis: bilateral coarse epithelial opacities; minimal conjunctival injection; unknown aetiology (possibly viral); treat with lubricants, mild steroids; recurrent but benign"
+            }
+          ]
+        },
+        {
+          "title": "Episcleritis & Scleritis",
+          "children": [
+            {
+              "title": "Episcleritis: superficial episcleral vessel inflammation; sectoral or diffuse; mildly uncomfortable; blanches with phenylephrine; usually idiopathic; treat with topical NSAIDs/steroids or oral NSAIDs"
+            },
+            {
+              "title": "Scleritis",
+              "children": [
+                {
+                  "title": "Deep inflammation; severe boring pain; does NOT blanch with phenylephrine"
+                },
+                {
+                  "title": "Anterior non-necrotizing (diffuse/nodular): most common; associated with RA, GPA, IBD, SLE in 50%"
+                },
+                {
+                  "title": "Anterior necrotizing: most severe; scleral melting; high associated mortality; requires urgent systemic immunosuppression"
+                },
+                {
+                  "title": "Posterior scleritis: pain, proptosis, choroidal folds, exudative RD; diagnose with B-scan (T-sign of posterior fluid)"
+                },
+                {
+                  "title": "Treatment: oral NSAIDs for mild; systemic steroids + immunosuppression for severe/necrotizing; treat underlying systemic disease"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Neoplastic Disorders of the Conjunctiva and Cornea",
+      "children": [
+        {
+          "title": "Approach & Management Principles",
+          "children": [
+            {
+              "title": "Excisional biopsy: 'no-touch' technique for OSSN; 2mm clear margins; avoid seeding"
+            },
+            {
+              "title": "Adjuvant topical chemotherapy: MMC 0.02-0.04%, 5-FU 1%, interferon α-2b; for OSSN, PAM with atypia, selected melanoma"
+            },
+            {
+              "title": "Treatment options: observation, excision ± cryotherapy, topical chemo, radiation, enucleation/exenteration for advanced"
+            }
+          ]
+        },
+        {
+          "title": "Epithelial Tumors",
+          "children": [
+            {
+              "title": "Squamous papilloma: HPV-related (6, 11); fleshy fronds; limbal or fornix; treat with excision ± MMC/interferon; recurrence common"
+            },
+            {
+              "title": "Ocular Surface Squamous Neoplasia (OSSN)",
+              "children": [
+                { "title": "Spectrum: CIN (intraepithelial) → invasive SCC" },
+                {
+                  "title": "Risk factors: UV, HPV (16/18), HIV, xeroderma pigmentosum, immunosuppression, old age, male"
+                },
+                {
+                  "title": "Clinical: gelatinous, leukoplakic, or papilliform lesion at limbus; interpalpebral; may have feeder vessels; +/- corneal involvement"
+                },
+                {
+                  "title": "Treatment: excision with 'no-touch' + cryotherapy + adjuvant MMC/5-FU; topical MMC or interferon as primary treatment in select cases; adjuvant treatment reduces recurrence"
+                }
+              ]
+            },
+            {
+              "title": "Sebaceous carcinoma: Meibomian or Zeis gland origin; masquerades as chronic blepharitis/chalazion; pagetoid spread to conjunctiva; high mortality; treat with wide excision + mapping biopsies"
+            }
+          ]
+        },
+        {
+          "title": "Pigmented Lesions",
+          "children": [
+            {
+              "title": "Conjunctival naevus: benign; cystic spaces (hallmark); immobile; treat with observation vs excision if concerning features"
+            },
+            {
+              "title": "PAM (primary acquired melanosis): acquired flat brown pigmentation; no atypia = benign (observe); with atypia = precursor to melanoma (50% progress); treat with excision + cryotherapy ± MMC"
+            },
+            {
+              "title": "Conjunctival melanoma: from PAM with atypia, de novo, or from naevus; nodular, multicoloured; high metastatic potential (sentinel lymph node biopsy); treat: excision + cryotherapy + adjuvant MMC/brachytherapy; systemic staging"
+            }
+          ]
+        },
+        {
+          "title": "Vascular & Lymphocytic Tumors",
+          "children": [
+            {
+              "title": "Pyogenic granuloma: vascular; rapidly growing red mass post-trauma/surgery; treats well with topical steroids or excision"
+            },
+            {
+              "title": "Kaposi sarcoma: HHV-8; flat red lesion in fornix; AIDS-defining; treat with chemo, radiation, or excision"
+            },
+            {
+              "title": "Lymphoma: usually MALT type (marginal zone); salmon-patch appearance in fornix; 25-30% systemic lymphoma; biopsy + staging; treat with radiation or systemic chemo"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Toxic & Traumatic Injuries of the Anterior Segment",
+      "children": [
+        {
+          "title": "Chemical Injuries",
+          "children": [
+            {
+              "title": "Alkali Burns (more severe)",
+              "children": [
+                {
+                  "title": "Liquefactive necrosis; penetrates rapidly (raises pH, saponifies cell membranes); damages all intraocular structures"
+                },
+                { "title": "Common: ammonia, NaOH (lye), Ca(OH)₂ (lime), KOH" },
+                {
+                  "title": "Roper-Hall classification: I (limited epithelial damage) → IV (>50% limbal ischaemia + total corneal opacification = worst prognosis)"
+                }
+              ]
+            },
+            {
+              "title": "Acid Burns",
+              "children": [
+                {
+                  "title": "Coagulative necrosis; protein precipitate limits penetration (self-limiting to some degree)"
+                },
+                {
+                  "title": "Exception: hydrofluoric acid penetrates like alkali (fluoride ions chelate Ca/Mg)"
+                }
+              ]
+            },
+            {
+              "title": "Management (EMERGENCY)",
+              "children": [
+                {
+                  "title": "Immediate copious irrigation (>30 min; goal pH 7.0-7.4); do NOT wait to check pH first"
+                },
+                {
+                  "title": "Double eversion of lids + sweep of fornices; remove particulate matter"
+                },
+                {
+                  "title": "Topical steroids (first 7-10 days) + vitamin C (ascorbate, promotes collagen synthesis) + citrate (inhibits neutrophil infiltration) + cycloplegia + prophylactic antibiotics"
+                },
+                {
+                  "title": "Amniotic membrane transplantation: acute phase for severe burns"
+                },
+                {
+                  "title": "Long-term: treat limbal stem cell deficiency, scarring, symblepharon, dry eye, glaucoma (raised IOP common)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Radiation Injuries",
+          "children": [
+            {
+              "title": "UV keratitis (photokeratitis/arc eye/welder's flash): diffuse punctate epithelial erosions; 6-10h delayed onset; severe pain; self-limiting (24-72h); treat with analgesics + bandage CL"
+            },
+            {
+              "title": "Ionising radiation: delayed corneal complications; dry eye, stem cell damage, cataract, retinopathy"
+            }
+          ]
+        },
+        {
+          "title": "Blunt Trauma",
+          "children": [
+            {
+              "title": "Corneal abrasion: epithelial defect; bandage CL + antibiotic + cycloplegia; avoid patching in CL wearers (Pseudomonas risk)"
+            },
+            {
+              "title": "Traumatic hyphema: blood in AC; Berlin grading (I-IV by % AC filled); manage with activity restriction + topical steroids + cycloplegia; IOP monitoring; risk of rebleed day 3-5; sickle cell = avoid CAIs (sickling in AC)"
+            },
+            {
+              "title": "Traumatic mydriasis: sphincter rupture; permanent; rule out CN III palsy"
+            },
+            {
+              "title": "Iridodialysis: iris root avulsion; visible crescent at limbus; peaked pupil"
+            },
+            {
+              "title": "Subconjunctival hemorrhage: benign; resolves 2-3 weeks; if spontaneous + bilateral → systemic workup (coagulopathy)"
+            }
+          ]
+        },
+        {
+          "title": "Penetrating/Perforating Trauma",
+          "children": [
+            {
+              "title": "Open globe: positive Seidel test (aqueous leak with fluorescein); DO NOT pressure on eye; shield (no patch); NPO; urgent surgical repair"
+            },
+            {
+              "title": "IOFB (intraocular foreign body): CT orbits (not MRI if metallic); remove; risk of endophthalmitis + siderosis (iron)/chalcosis (copper)"
+            },
+            {
+              "title": "Corneal foreign body: remove under slit lamp; rust ring removal (Alger brush); avoid corneal perforation"
+            },
+            {
+              "title": "Traumatic endophthalmitis: post-penetrating injury; Bacillus cereus (soil/vegetable matter) + Staphylococcus; treat urgently with intravitreal antibiotics + vitrectomy"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Corneal Transplantation",
+      "children": [
+        {
+          "title": "Eye Banking & Tissue",
+          "children": [
+            {
+              "title": "Donor criteria: exclude malignancy with anterior segment involvement, infectious corneal disease, prior refractive surgery, rabies, CJD, HTLV, HIV, hepatitis B/C (in most)"
+            },
+            {
+              "title": "Storage: McCarey-Kaufman (M-K) medium (4°C, up to 4 days) or Optisol-GS (4°C, up to 14 days); organ culture (34°C, up to 35 days; European preference)"
+            },
+            {
+              "title": "Minimum endothelial cell count for transplant: typically ≥2000-2500 cells/mm²"
+            }
+          ]
+        },
+        {
+          "title": "Penetrating Keratoplasty (PKP)",
+          "children": [
+            {
+              "title": "Full-thickness corneal replacement; trephine donor (0.25mm larger) and recipient"
+            },
+            {
+              "title": "Indications: full-thickness scar, keratoconus (if DALK not feasible), corneal perforation, failed lamellar graft"
+            },
+            {
+              "title": "Postop: high astigmatism (selectively cut sutures); risk of suture-related infection; topical steroids for months-years"
+            },
+            {
+              "title": "Complications: allograft rejection (endothelial most serious; Khodadoust line of KP at graft edge; treat urgently with intensive steroids), primary graft failure, wound dehiscence"
+            }
+          ]
+        },
+        {
+          "title": "Deep Anterior Lamellar Keratoplasty (DALK)",
+          "children": [
+            {
+              "title": "Replaces anterior stroma + epithelium; host Descemet + endothelium retained"
+            },
+            {
+              "title": "Indications: keratoconus, stromal dystrophies, anterior stromal scars; intact endothelium required"
+            },
+            {
+              "title": "Advantages: no endothelial rejection; better long-term graft survival vs PKP; host endothelium intact"
+            },
+            {
+              "title": "Big bubble technique (Anwar): pneumatic dissection of pre-Descemet plane (big bubble); facilitates deep dissection"
+            },
+            {
+              "title": "Main complication: microperforation of Descemet (may need conversion to PKP)"
+            }
+          ]
+        },
+        {
+          "title": "Endothelial Keratoplasty",
+          "children": [
+            {
+              "title": "DSAEK (Descemet Stripping Automated Endothelial Keratoplasty)",
+              "children": [
+                {
+                  "title": "Replaces host Descemet + endothelium with donor disc including thin stroma"
+                },
+                {
+                  "title": "Indications: Fuchs dystrophy, bullous keratopathy, failed PKP endothelial failure"
+                },
+                {
+                  "title": "Advantages over PKP: faster recovery, no sutures, no open sky, less astigmatism"
+                },
+                {
+                  "title": "Complications: graft dislocation (most common early; rebubble in AC), primary graft failure, rejection, interface haze"
+                }
+              ]
+            },
+            {
+              "title": "DMEK (Descemet Membrane Endothelial Keratoplasty)",
+              "children": [
+                {
+                  "title": "Thinnest possible graft: just Descemet + endothelium (no stroma)"
+                },
+                {
+                  "title": "Better visual outcomes vs DSAEK; lower rejection rate"
+                },
+                {
+                  "title": "Technically more demanding; higher dislocation rate; requires rebubbling more frequently"
+                }
+              ]
+            },
+            {
+              "title": "Cell injection / CIAES: emerging; inject donor endothelial cells + ROCK inhibitor; no graft surgery needed (future treatment)"
+            }
+          ]
+        },
+        {
+          "title": "Keratoprosthesis (KPro)",
+          "children": [
+            {
+              "title": "Boston KPro Type I: most common; PMMA optical core + titanium backplate; for eyes with multiple failed grafts or poor prognosis for conventional keratoplasty"
+            },
+            {
+              "title": "Boston KPro Type II: for end-stage ocular surface disease (SJS, MMP); transcutaneous"
+            },
+            {
+              "title": "Osteo-odonto-keratoprosthesis (OOKP): tooth root + lamina supports optical cylinder; for severe bilateral disease"
+            },
+            {
+              "title": "Complications: infectious keratitis (lifelong prophylactic antibiotics), retroprosthetic membrane, glaucoma, vitreous wick"
+            }
+          ]
+        },
+        {
+          "title": "Rejection vs Failure",
+          "children": [
+            {
+              "title": "Rejection: immune-mediated; reversible with treatment; types: endothelial (most serious, Khodadoust line), stromal, subepithelial (nummular = like EKC), epithelial"
+            },
+            {
+              "title": "Graft failure: irreversible endothelial decompensation; may need regraft"
+            },
+            {
+              "title": "Rejection treatment: URGENT intensive topical steroids (every hour); systemic steroids if severe; maintain long-term topical steroids"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Corneal endothelium does NOT regenerate; threshold for transplant ~400-500 cells/mm²"
+        },
+        {
+          "title": "5 corneal layers: Epithelium → Bowman → Stroma (90%) → Descemet → Endothelium"
+        },
+        {
+          "title": "Descemet is elastic and resistant to perforation; stroma is NOT"
+        },
+        {
+          "title": "Limbal stem cells: source of corneal epithelial regeneration; located at palisades of Vogt"
+        },
+        {
+          "title": "LSCD causes: chemical burns (most common), SJS, aniridia, contact lens abuse, iatrogenic"
+        },
+        {
+          "title": "HSV dendrite: branching with terminal bulbs; stains with fluorescein (epithelial ulcer)"
+        },
+        {
+          "title": "HEDS: oral acyclovir 400mg BD prophylaxis reduces HSV recurrence by 45%; no topical steroids alone in HSV"
+        },
+        {
+          "title": "HZO + Hutchinson sign → high risk of ocular disease; treat with systemic antivirals within 72h"
+        },
+        {
+          "title": "Adenovirus EKC: follicular conjunctivitis → subepithelial infiltrates at 7-14 days (immune); steroids for visual impact only; highly contagious"
+        },
+        {
+          "title": "Acanthamoeba: CL + water contact; radial keratoneuritis (pathognomonic); diagnose with confocal microscopy; treat with PHMB + propamidine"
+        },
+        {
+          "title": "Bacterial keratitis in CL wearer: Pseudomonas most common; treat with intensive topical fluoroquinolone"
+        },
+        {
+          "title": "Fungal keratitis: plant/vegetable trauma → filamentous (Fusarium, Aspergillus); treat with natamycin ± voriconazole; avoid steroids"
+        },
+        {
+          "title": "Keratoconus signs: Fleischer ring, Vogt striae, Munson sign, Rizzuti sign; treat progression with corneal CXL"
+        },
+        {
+          "title": "CXL (corneal crosslinking): riboflavin + UV-A; halts KC progression; must have adequate pachymetry (>400μm)"
+        },
+        {
+          "title": "DALK: preserves host endothelium; no endothelial rejection; preferred for KC over PKP"
+        },
+        {
+          "title": "DMEK: better vision than DSAEK; lower rejection; technically harder; for Fuchs dystrophy and bullous keratopathy"
+        },
+        {
+          "title": "Fuchs endothelial dystrophy: guttae → oedema; worse in morning; treat with DSAEK/DMEK"
+        },
+        {
+          "title": "Graft rejection: Khodadoust line = endothelial rejection; treat immediately with intensive topical steroids"
+        },
+        {
+          "title": "Alkali burns more dangerous than acid (liquefactive necrosis; deep penetration); FIRST treatment = immediate irrigation"
+        },
+        {
+          "title": "Chemical burn treatment: copious irrigation first (>30 min); then steroids + vitamin C + citrate + AMT for severe burns"
+        },
+        {
+          "title": "SJS/TEN: amniotic membrane transplant within 48-72h in acute phase reduces chronic sequelae"
+        },
+        {
+          "title": "MMP: biopsy shows IgG/IgA at BMZ; systemic immunosuppression (dapsone, cyclophosphamide); avoid surgery in active disease"
+        },
+        {
+          "title": "PUK (peripheral ulcerative keratitis): associated with RA/GPA/vasculitis; treat systemic disease urgently (high mortality if untreated)"
+        },
+        {
+          "title": "VKC: giant papillae (superior tarsus) + Horner-Trantas dots + shield ulcer; young males; treat with mast cell stabilisers ± cyclosporine"
+        },
+        {
+          "title": "Marginal keratitis: clear zone between infiltrate and limbus; Staph hypersensitivity; responds to mild topical steroid + antibiotic"
+        },
+        {
+          "title": "OSSN: limbal gelatinous/leukoplakic lesion; UV + HPV risk; treat with 'no-touch' excision + MMC/interferon"
+        },
+        {
+          "title": "PAM with atypia: 50% risk of conjunctival melanoma; treat with excision + cryotherapy ± topical MMC"
+        },
+        {
+          "title": "Traumatic hyphema: avoid CAIs in sickle cell (risk of sickling in AC); monitor IOP; restrict activity"
+        },
+        {
+          "title": "Open globe: shield, NPO, urgent surgery; positive Seidel test = aqueous leak; CT orbits for IOFB (not MRI if metallic)"
+        },
+        {
+          "title": "Cornea verticillata (whorl deposits): amiodarone, chloroquine, Fabry disease (GLA mutation)"
+        }
+      ]
+    }
+  ]
+}

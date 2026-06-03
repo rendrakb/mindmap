@@ -1,6 +1,9 @@
 const defaultFiles = ["02.json"];
 const fileSelect = document.getElementById("fileSelect");
 const loadButton = document.getElementById("loadButton");
+const downloadJsonButton = document.getElementById("downloadJsonButton");
+const uploadJsonButton = document.getElementById("uploadJsonButton");
+const uploadInput = document.getElementById("uploadInput");
 const backButton = document.getElementById("backButton");
 const landing = document.getElementById("landing");
 const viewer = document.getElementById("viewer");
@@ -282,6 +285,46 @@ async function loadTreeFile(fileName) {
   } catch (error) {
     alert(error.message || "Unable to render the JSON file.");
   }
+}
+
+function downloadJsonFile(fileName) {
+  if (!fileName) {
+    alert("Please select a JSON file to download.");
+    return;
+  }
+  fetch(fileName)
+    .then((response) => {
+      if (!response.ok) throw new Error(`Unable to download ${fileName}`);
+      return response.blob();
+    })
+    .then((blob) => {
+      downloadBlob(blob, fileName.replace(/^.*[\\/]/, ""));
+    })
+    .catch((error) => {
+      alert(error.message || "Unable to download the JSON file.");
+    });
+}
+
+function loadLocalJsonFile(file) {
+  const reader = new FileReader();
+  reader.onload = (event) => {
+    try {
+      const text = event.target.result;
+      const data = JSON.parse(text);
+      const fileName = file.name || "Uploaded JSON";
+      chartTitle.textContent = data.title || fileName;
+      chartSubtitle.textContent = `Rendering uploaded file ${fileName}.`;
+      landing.classList.add("hidden");
+      viewer.classList.remove("hidden");
+      renderMindMap(data);
+    } catch (error) {
+      alert("Invalid JSON file. Please upload a valid mindmap JSON.");
+    }
+  };
+  reader.onerror = () => {
+    alert("Unable to read the selected file.");
+  };
+  reader.readAsText(file, "UTF-8");
 }
 
 function renderMindMap(data) {
@@ -679,6 +722,29 @@ function renderMindMap(data) {
       }
     });
   }
+
+  if (downloadJsonButton) {
+    downloadJsonButton.addEventListener("click", () => {
+      downloadJsonFile(fileSelect.value);
+    });
+  }
+
+  if (uploadJsonButton) {
+    uploadJsonButton.addEventListener("click", () => {
+      uploadInput.value = "";
+      uploadInput.click();
+    });
+  }
+
+  if (uploadInput) {
+    uploadInput.addEventListener("change", (event) => {
+      const file = event.target.files?.[0];
+      if (file) {
+        loadLocalJsonFile(file);
+      }
+    });
+  }
+
   if (openSvgButton) {
     openSvgButton.addEventListener("click", async () => {
       try {

@@ -101,6 +101,13 @@ select {
   align-items: center;
 }
 
+.download-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
 .select-row select {
   flex: 1 1 220px;
   min-width: 180px;
