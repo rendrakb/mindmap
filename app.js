@@ -467,8 +467,10 @@ function renderMindMap(data) {
   function expand(d) {
     if (d._children) {
       d.children = d._children;
-      d.children.forEach(expand);
       d._children = null;
+    }
+    if (d.children) {
+      d.children.forEach(expand);
     }
   }
 
