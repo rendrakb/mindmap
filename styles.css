@@ -193,6 +193,17 @@ button.secondary {
   fill: url(#match-gradient);
 }
 
+.tree-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tree-controls button {
+  padding: 10px 14px;
+  font-size: 0.9rem;
+}
+
 .zoom-controls {
   display: flex;
   gap: 8px;
@@ -215,13 +226,21 @@ button.secondary {
 }
 
 .chart {
-  min-height: auto;
+  min-height: 480px;
   position: relative;
+  overflow: auto;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background:
+    radial-gradient(circle at top left, rgba(124, 159, 255, 0.08), transparent 42%),
+    rgba(4, 7, 14, 0.55);
 }
 
 #chart svg {
+  display: block;
   width: 100%;
-  height: 100%;
+  min-width: 100%;
+  height: auto;
   touch-action: none;
 }
 
@@ -245,6 +264,12 @@ button.secondary {
 
 .node-label {
   fill: #eef3ff;
+  letter-spacing: 0.01em;
+  paint-order: stroke fill;
+}
+
+.node-bg {
+  stroke-width: 1;
 }
 
 .node circle {
@@ -253,8 +278,18 @@ button.secondary {
     transform 0.18s ease;
 }
 
+.node:hover .node-bg {
+  stroke: rgba(124, 159, 255, 0.28);
+  fill: rgba(12, 18, 32, 0.88);
+}
+
 .node:hover circle {
-  transform: scale(1.05);
+  transform: scale(1.08);
+}
+
+.link {
+  stroke: rgba(255, 255, 255, 0.2);
+  stroke-linecap: round;
 }
 
 @media (max-width: 720px) {

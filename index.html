@@ -54,6 +54,10 @@
               />
             </div>
             <div class="viewer-actions">
+              <div class="tree-controls">
+                <button id="expandAllButton" class="secondary">Expand all</button>
+                <button id="collapseAllButton" class="secondary">Collapse all</button>
+              </div>
               <div class="zoom-controls">
                 <button
                   id="zoomOutButton"
@@ -72,11 +76,13 @@
                 <button
                   id="resetZoomButton"
                   class="secondary"
-                  aria-label="Reset zoom"
+                  aria-label="Fit to view"
+                  title="Fit to view"
                 >
-                  ⟲
+                  ⤢
                 </button>
               </div>
+              <button id="saveSvgButton" class="secondary">Save SVG</button>
               <button id="saveImageButton" class="primary">Save JPG</button>
               <span id="nodeInfo"></span>
             </div>

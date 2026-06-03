@@ -1,0 +1,1021 @@
+{
+  "title": "Fundamentals & Principles of Ophthalmology",
+  "type": "root",
+  "children": [
+    {
+      "title": "Anatomy",
+      "children": [
+        {
+          "title": "Orbit & Ocular Adnexa",
+          "children": [
+            {
+              "title": "Orbit",
+              "children": [
+                {
+                  "title": "7 bones: frontal, zygomatic, maxilla, palatine, lacrimal, ethmoid, sphenoid"
+                },
+                { "title": "Orbital roof → frontal bone (lacrimal fossa)" },
+                { "title": "Medial wall → thinnest (lamina papyracea)" },
+                { "title": "Floor → prone to blow-out fractures" },
+                { "title": "Lateral wall → strongest" },
+                {
+                  "title": "Foramina: optic canal (CN II + ophthalmic artery), superior orbital fissure (CN III/IV/V1/VI), inferior orbital fissure"
+                },
+                {
+                  "title": "Periorbital sinuses: frontal, ethmoid, maxillary, sphenoid"
+                },
+                { "title": "Blood supply: ophthalmic artery (branch of ICA)" }
+              ]
+            },
+            {
+              "title": "Extraocular Muscles",
+              "children": [
+                { "title": "Mnemonic: LR6 SO4 All III" },
+                { "title": "4 recti + 2 obliques + levator palpebrae" },
+                {
+                  "title": "Origins: annulus of Zinn (recti), trochlea (SO), orbital roof (IO)"
+                },
+                {
+                  "title": "Actions: SR (elevation+intorsion), IR (depression+extorsion), MR (adduction), LR (abduction), SO (intorsion+depression), IO (extorsion+elevation)"
+                },
+                {
+                  "title": "Diplopia patterns: know which muscle is weak by gaze direction"
+                }
+              ]
+            },
+            {
+              "title": "Ciliary Ganglion",
+              "children": [
+                { "title": "Located in posterior orbit" },
+                {
+                  "title": "Short ciliary nerves → pupil sphincter + ciliary muscle (parasympathetic)"
+                },
+                {
+                  "title": "3 roots: parasympathetic (CN III), sympathetic, sensory (nasociliary)"
+                }
+              ]
+            },
+            {
+              "title": "Eyelids",
+              "children": [
+                {
+                  "title": "Layers (anterior to posterior): skin → orbicularis → orbital septum → fat → levator/tarsus → conjunctiva"
+                },
+                {
+                  "title": "Tarsal plate: dense fibrous tissue, gives lid structure"
+                },
+                {
+                  "title": "Meibomian glands: sebaceous glands in tarsus → lipid layer of tears"
+                },
+                {
+                  "title": "Müller muscle: sympathetic, accessory upper lid retractor"
+                },
+                {
+                  "title": "Blood supply: medial & lateral palpebral arteries"
+                },
+                {
+                  "title": "Lymphatics: medial → submandibular; lateral → preauricular"
+                }
+              ]
+            },
+            {
+              "title": "Lacrimal System",
+              "children": [
+                {
+                  "title": "Lacrimal gland (orbital + palpebral lobes) → accessory glands (Krause, Wolfring)"
+                },
+                {
+                  "title": "Drainage: puncta → canaliculi → lacrimal sac → nasolacrimal duct → inferior meatus"
+                },
+                { "title": "Nasolacrimal duct opens under inferior turbinate" }
+              ]
+            },
+            {
+              "title": "Conjunctiva & Related",
+              "children": [
+                {
+                  "title": "Bulbar (covers globe) + palpebral (lines lids) + fornix"
+                },
+                { "title": "Goblet cells → mucin layer of tears" },
+                { "title": "Caruncle: modified skin at medial canthus" },
+                { "title": "Plica semilunaris: vestigial third eyelid" },
+                {
+                  "title": "Tenon capsule: fibrous envelope around globe (surgical plane for implants)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Eye",
+          "children": [
+            {
+              "title": "Cornea",
+              "children": [
+                {
+                  "title": "5 layers: Epithelium → Bowman → Stroma (90%) → Descemet → Endothelium"
+                },
+                {
+                  "title": "Transparent, avascular, highly innervated (CN V1 via nasociliary)"
+                },
+                {
+                  "title": "Endothelium: does NOT regenerate; pump-leak mechanism maintains dehydration/clarity"
+                },
+                { "title": "~43D of refracting power (total eye ~60D)" },
+                {
+                  "title": "Central thinner (~0.52mm) than periphery (~0.67mm)"
+                }
+              ]
+            },
+            {
+              "title": "Limbus & Sclera",
+              "children": [
+                {
+                  "title": "Limbus: corneoscleral junction; site of stem cells for corneal epithelium"
+                },
+                {
+                  "title": "Sclera: dense collagen, protects globe; emissary canals for vessels/nerves"
+                },
+                {
+                  "title": "Lamina cribrosa: sieve-like scleral region where ON exits (vulnerable in glaucoma)"
+                }
+              ]
+            },
+            {
+              "title": "Anterior Chamber",
+              "children": [
+                {
+                  "title": "Bounded by corneal endothelium anteriorly, iris/lens posteriorly"
+                },
+                { "title": "Filled with aqueous humor" },
+                {
+                  "title": "Angle structures: Schwalbe line → trabecular meshwork → scleral spur → ciliary band → iris"
+                }
+              ]
+            },
+            {
+              "title": "Trabecular Meshwork & Schlemm Canal",
+              "children": [
+                {
+                  "title": "3 layers: uveal → corneoscleral → juxtacanalicular (JCT)"
+                },
+                { "title": "JCT is site of main aqueous resistance" },
+                {
+                  "title": "Schlemm canal → collector channels → episcleral veins"
+                },
+                { "title": "Conventional (trabecular) outflow pathway" }
+              ]
+            },
+            {
+              "title": "Uvea",
+              "children": [
+                {
+                  "title": "Iris: sphincter (PS, miosis) + dilator (sympathetic, mydriasis); stroma from neural crest"
+                },
+                {
+                  "title": "Ciliary body: ciliary muscle (accommodation) + ciliary epithelium (aqueous production)"
+                },
+                {
+                  "title": "Choroid: highly vascular; choriocapillaris supplies outer retina; Bruch membrane between RPE and choroid"
+                }
+              ]
+            },
+            {
+              "title": "Lens",
+              "children": [
+                { "title": "Capsule → epithelium → cortex → nucleus" },
+                { "title": "Crystallins: major structural proteins (α, β, γ)" },
+                { "title": "Zonular fibers (from ciliary body) suspend lens" },
+                {
+                  "title": "Accommodation: ciliary contraction → zonules relax → lens rounds → more converging power"
+                },
+                { "title": "Avascular; nutrition via aqueous humor" }
+              ]
+            },
+            {
+              "title": "Vitreous",
+              "children": [
+                { "title": "~99% water + collagen type II + hyaluronan" },
+                { "title": "Hyalocytes: vitreous macrophages" },
+                {
+                  "title": "Base: strongest vitreoretinal adhesion (ora serrata region)"
+                },
+                {
+                  "title": "Posterior vitreous detachment (PVD): floaters + flashes; risk of retinal tear"
+                }
+              ]
+            },
+            {
+              "title": "Retina",
+              "children": [
+                {
+                  "title": "10 layers: ILM → NFL → GCL → IPL → INL → OPL → ONL → ELM → photoreceptors → RPE"
+                },
+                {
+                  "title": "Rods: ~120M; periphery; night/scotopic vision; rhodopsin"
+                },
+                {
+                  "title": "Cones: ~6M; macula/fovea; color/photopic vision; S/M/L opsins"
+                },
+                {
+                  "title": "Fovea: only cones, no inner layers (foveal pit); highest acuity"
+                },
+                {
+                  "title": "Macula: ~5mm, 2 disc diameters temporal to disc; contains xanthophyll pigment"
+                },
+                {
+                  "title": "Optic disc: no photoreceptors = blind spot; NFL converges here"
+                },
+                {
+                  "title": "Dual blood supply: central retinal artery (inner) + choriocapillaris via RPE (outer)"
+                }
+              ]
+            },
+            {
+              "title": "Retinal Pigment Epithelium (RPE)",
+              "children": [
+                {
+                  "title": "Monolayer of hexagonal pigmented cells between retina and Bruch membrane"
+                },
+                {
+                  "title": "Functions: vitamin A recycling, phagocytosis of photoreceptor outer segments, blood-retina barrier, nutrient transport, secretion (VEGF, PEDF)"
+                },
+                { "title": "Autophagy role in clearing cellular debris" },
+                { "title": "Central role in AMD pathogenesis" }
+              ]
+            },
+            {
+              "title": "Ora Serrata & Bruch Membrane",
+              "children": [
+                {
+                  "title": "Ora serrata: anterior termination of retina (3mm nasal, 6mm temporal to limbus)"
+                },
+                {
+                  "title": "Bruch membrane: 5 layers; pentalaminar structure; accumulates lipids/drusen in AMD"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Neuro-Ophthalmic Anatomy",
+          "children": [
+            {
+              "title": "Optic Nerve (CN II)",
+              "children": [
+                {
+                  "title": "4 segments: intraocular (1mm) → intraorbital (25mm) → intracanalicular (9mm) → intracranial (10mm)"
+                },
+                {
+                  "title": "Intraorbital ON is longer than orbit → allows eye movement without traction"
+                },
+                {
+                  "title": "Blood supply: posterior ciliary arteries (optic disc), ophthalmic artery branches"
+                }
+              ]
+            },
+            {
+              "title": "Visual Pathway & Field Defects",
+              "children": [
+                {
+                  "title": "Retina → ON → optic chiasm → optic tract → LGN → optic radiations → V1 (calcarine cortex)"
+                },
+                {
+                  "title": "Chiasm: nasal fibers cross; temporal fibers stay ipsilateral"
+                },
+                { "title": "Monocular blindness → optic nerve lesion" },
+                { "title": "Bitemporal hemianopia → chiasm (pituitary tumor)" },
+                {
+                  "title": "Homonymous hemianopia → post-chiasmal (tract/radiation/cortex)"
+                },
+                {
+                  "title": "Macular sparing → occipital cortex lesion (dual blood supply)"
+                }
+              ]
+            },
+            {
+              "title": "Key Cranial Nerves",
+              "children": [
+                {
+                  "title": "CN III (oculomotor): SR/IR/MR/IO + levator + pupil sphincter; palsy = down-and-out + ptosis + mydriasis"
+                },
+                {
+                  "title": "CN IV (trochlear): SO; palsy = vertical diplopia worse looking down/inward"
+                },
+                {
+                  "title": "CN V (trigeminal): corneal sensation (V1); blink reflex afferent"
+                },
+                {
+                  "title": "CN VI (abducens): LR; palsy = esotropia + horizontal diplopia"
+                },
+                {
+                  "title": "CN VII (facial): orbicularis + lacrimal reflex efferent; palsy = lagophthalmos"
+                }
+              ]
+            },
+            {
+              "title": "Pupil Pathways",
+              "children": [
+                {
+                  "title": "Afferent: CN II → pretectal nucleus → bilateral Edinger-Westphal → CN III → ciliary ganglion → sphincter"
+                },
+                {
+                  "title": "RAPD (Marcus Gunn pupil): afferent defect; swinging flashlight test"
+                },
+                {
+                  "title": "Horner syndrome: ptosis + miosis + anhidrosis (sympathetic chain lesion)"
+                }
+              ]
+            },
+            {
+              "title": "Cerebral Vascular",
+              "children": [
+                {
+                  "title": "Circle of Willis: ICA + ACA + MCA + PCA + basilar"
+                },
+                {
+                  "title": "Cavernous sinus: CN III, IV, V1, V2, VI pass through; CN VI most medial (vulnerable)"
+                },
+                {
+                  "title": "Posterior communicating artery aneurysm → CN III palsy (pupil-involving)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Embryology",
+      "children": [
+        {
+          "title": "Eye Development Timeline",
+          "children": [
+            { "title": "Week 3-4: optic vesicle evaginates from diencephalon" },
+            {
+              "title": "Week 4-5: optic cup forms (double-walled); lens placode invaginates"
+            },
+            {
+              "title": "Week 5-7: embryonic (choroidal) fissure closes; hyaloid vessels present"
+            },
+            { "title": "Week 7: failure of fissure closure → coloboma" },
+            {
+              "title": "Outer cup layer → RPE; inner cup → neurosensory retina"
+            }
+          ]
+        },
+        {
+          "title": "Tissue Origins",
+          "children": [
+            {
+              "title": "Neuroectoderm: retina, RPE, ciliary epithelium, iris epithelium, optic nerve"
+            },
+            {
+              "title": "Surface ectoderm: lens, corneal epithelium, lacrimal gland, conjunctival epithelium"
+            },
+            {
+              "title": "Neural crest: corneal stroma/endothelium, iris stroma, trabecular meshwork, sclera, orbital bones/cartilage, ciliary ganglion"
+            },
+            {
+              "title": "Mesoderm: extraocular muscles, vascular endothelium, vitreous"
+            }
+          ]
+        },
+        {
+          "title": "Genetic Cascades",
+          "children": [
+            {
+              "title": "Homeobox genes (PAX6, SOX2, LHX2): master regulators of eye development"
+            },
+            { "title": "PAX6 mutations → aniridia" },
+            {
+              "title": "Morphogens (Shh, Wnt, FGF): concentration gradients guide cell fate"
+            }
+          ]
+        },
+        {
+          "title": "Congenital Anomalies",
+          "children": [
+            {
+              "title": "Coloboma: failure of fissure closure (inferior-nasal location); affects iris, lens, retina, ON"
+            },
+            {
+              "title": "Microphthalmia: small eye; associated with CHARGE syndrome"
+            },
+            { "title": "Anophthalmia: absent eye" },
+            {
+              "title": "Persistent fetal vasculature (PFV): failed regression of hyaloid artery → leukocoria"
+            },
+            {
+              "title": "Aniridia: PAX6 mutation; associated with Wilms tumor (WAGR)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Genetics",
+      "children": [
+        {
+          "title": "Molecular Genetics",
+          "children": [
+            {
+              "title": "Cell cycle: G1 → S (DNA synthesis) → G2 → M (mitosis); regulated by cyclins/CDKs"
+            },
+            {
+              "title": "DNA repair mechanisms: base excision, nucleotide excision, mismatch repair"
+            },
+            {
+              "title": "Apoptosis: programmed cell death; p53 is key regulator"
+            },
+            {
+              "title": "Epigenetics: methylation + imprinting + X-inactivation (Lyonization)"
+            },
+            {
+              "title": "Alternative splicing → multiple proteins from one gene (isoforms)"
+            },
+            {
+              "title": "Gene therapy: viral vectors (AAV preferred for retina) for recessive disease; antisense/siRNA for dominant"
+            },
+            {
+              "title": "GWAS: genome-wide association studies; useful in AMD, glaucoma"
+            },
+            {
+              "title": "Anticipation: worsening with each generation (e.g., triplet repeat disorders)"
+            },
+            {
+              "title": "Penetrance vs expressivity: penetrance = does it manifest; expressivity = how much"
+            }
+          ]
+        },
+        {
+          "title": "Inheritance Patterns",
+          "children": [
+            {
+              "title": "Autosomal Dominant: 50% risk; one mutant allele sufficient; variable expressivity"
+            },
+            {
+              "title": "Autosomal Recessive: 25% risk; two mutant alleles needed; often enzyme deficiencies"
+            },
+            {
+              "title": "X-linked Recessive: males affected; females carriers (Lyonization → variable expression)"
+            },
+            {
+              "title": "Mitochondrial (maternal): all children of affected mother at risk; LHON, CPEO, MELAS, NARP"
+            }
+          ]
+        },
+        {
+          "title": "Clinical Genetics",
+          "children": [
+            { "title": "Pedigree analysis: identify pattern before testing" },
+            {
+              "title": "Chromosome analysis: FISH, karyotype; aneuploidy (Trisomy 21 → Brushfield spots)"
+            },
+            {
+              "title": "Pharmacogenetics: genetic variation affects drug metabolism (e.g., CYP450)"
+            },
+            {
+              "title": "Genetic counseling: accurate diagnosis → recurrence risk → reproductive options → support resources"
+            }
+          ]
+        },
+        {
+          "title": "High-Yield Ophthalmic Genetics",
+          "children": [
+            {
+              "title": "Retinoblastoma",
+              "children": [
+                { "title": "RB1 gene (13q14); two-hit hypothesis (Knudson)" },
+                {
+                  "title": "Hereditary: germline mutation → bilateral, younger onset"
+                },
+                { "title": "Sporadic: somatic mutations → unilateral" },
+                { "title": "Leukocoria + strabismus = key presentation" }
+              ]
+            },
+            {
+              "title": "LHON (Leber Hereditary Optic Neuropathy): mitochondrial; mt-ND genes; acute painless vision loss young males"
+            },
+            {
+              "title": "Retinitis Pigmentosa: AD/AR/X-linked; rhodopsin most common AD gene; night blindness → tunnel vision → eventual blindness"
+            },
+            {
+              "title": "Stargardt disease: ABCA4 (AR); macular dystrophy; 'beaten bronze' macula"
+            },
+            {
+              "title": "Marfan syndrome: FBN1 (AD); lens subluxation (superotemporal)"
+            },
+            {
+              "title": "Homocystinuria: CBS (AR); lens subluxation (inferonasal)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Biochemistry & Physiology",
+      "children": [
+        {
+          "title": "Tear Film",
+          "children": [
+            {
+              "title": "3 layers: lipid (Meibomian glands, prevents evaporation) → aqueous/mucin (lacrimal gland + goblet cells)"
+            },
+            {
+              "title": "Modern model: mucoaqueous layer (mucin gradient) + lipid layer on top"
+            },
+            {
+              "title": "Dry Eye: aqueous-deficient (Sjögren, lacrimal gland dysfunction) vs evaporative (Meibomian gland dysfunction)"
+            },
+            {
+              "title": "DEWS II: chronic inflammatory disease of ocular surface"
+            }
+          ]
+        },
+        {
+          "title": "Cornea",
+          "children": [
+            {
+              "title": "Stroma: collagen type I fibrils in regular orthogonal lamellae → transparency"
+            },
+            {
+              "title": "Endothelium: Na/K-ATPase pump keeps stroma dehydrated; density ~2500 cells/mm²; does NOT regenerate"
+            },
+            {
+              "title": "Epithelium: rapid turnover (~7 days); barrier function; tight junctions"
+            },
+            {
+              "title": "Keratoconus: Fleischer ring (iron in epithelium), Vogt striae (stress lines in stroma), Munson sign"
+            },
+            {
+              "title": "Drug penetration: lipophilic → through epithelium; hydrophilic → through stroma; biphasic drugs best"
+            }
+          ]
+        },
+        {
+          "title": "Aqueous Humor",
+          "children": [
+            {
+              "title": "Production: ciliary epithelium (active secretion 75% + ultrafiltration + diffusion)"
+            },
+            {
+              "title": "Flow: posterior chamber → pupil → anterior chamber → trabecular meshwork → Schlemm canal → episcleral veins"
+            },
+            {
+              "title": "Uveoscleral (unconventional) outflow: ~10-15% via ciliary muscle interstitium"
+            },
+            {
+              "title": "Blood-aqueous barrier: tight junctions of ciliary epithelium + iris vessels"
+            },
+            {
+              "title": "Composition: low protein, high ascorbate, glutathione"
+            },
+            {
+              "title": "IOP normal: 10-21 mmHg; Goldmann tonometry = gold standard"
+            }
+          ]
+        },
+        {
+          "title": "Iris & Ciliary Body",
+          "children": [
+            {
+              "title": "Sphincter: circular muscle, parasympathetic (CN III), miosis; blocked by atropine"
+            },
+            {
+              "title": "Dilator: radial muscle, sympathetic (superior cervical ganglion), mydriasis"
+            },
+            {
+              "title": "Horner syndrome: sympathetic lesion → ptosis + miosis + anhidrosis; 1st/2nd/3rd order neuron"
+            },
+            {
+              "title": "Ciliary muscle contraction (PS) → accommodation (lens rounds)"
+            }
+          ]
+        },
+        {
+          "title": "Lens",
+          "children": [
+            {
+              "title": "Metabolism: primarily anaerobic glycolysis; hexose monophosphate shunt"
+            },
+            {
+              "title": "Sorbitol pathway: in diabetes, glucose → sorbitol (aldose reductase) → osmotic damage → cortical cataract"
+            },
+            {
+              "title": "Cataract types: nuclear (brunescent, myopic shift), cortical (spoke-like), posterior subcapsular (steroids, radiation, DM)"
+            },
+            {
+              "title": "Crystallins: most abundant lens proteins; α-crystallin = chaperone; β/γ = structural"
+            }
+          ]
+        },
+        {
+          "title": "Vitreous",
+          "children": [
+            {
+              "title": "Collagen type II + hyaluronan gel; liquefaction with age → lacunae → PVD"
+            },
+            {
+              "title": "PVD: floaters + flashes; 10-15% risk of retinal tear → must dilate and examine"
+            },
+            {
+              "title": "Vitreous as angiogenesis inhibitor: PEDF from RPE suppresses neovascularization"
+            },
+            {
+              "title": "Enzymatic vitreolysis: ocriplasmin (microplasmin) cleaves fibronectin/laminin at vitreoretinal interface"
+            }
+          ]
+        },
+        {
+          "title": "Retina",
+          "children": [
+            {
+              "title": "Phototransduction (rods): photon → rhodopsin → transducin → PDE → ↓cGMP → channel closes → hyperpolarization → signal to ON bipolar cells"
+            },
+            {
+              "title": "Visual cycle: all-trans retinal → RPE → 11-cis retinal → rhodopsin; requires vitamin A"
+            },
+            {
+              "title": "Trivariant color vision: S (blue, ~420nm), M (green, ~530nm), L (red, ~560nm) cones"
+            },
+            {
+              "title": "Retinal cells: photoreceptors, bipolar, ganglion, horizontal, amacrine, Müller glia, astrocytes"
+            },
+            {
+              "title": "ERG: a-wave (photoreceptors), b-wave (bipolar/Müller cells)"
+            },
+            {
+              "title": "Major diseases: AMD, diabetic retinopathy, retinal detachment, RP"
+            }
+          ]
+        },
+        {
+          "title": "RPE",
+          "children": [
+            {
+              "title": "Vitamin A regeneration: isomerizes all-trans to 11-cis retinal for visual cycle"
+            },
+            {
+              "title": "Phagocytosis: daily phagocytosis of ~10% outer segment discs"
+            },
+            {
+              "title": "Transport: nutrients from choriocapillaris → retina; waste in reverse"
+            },
+            {
+              "title": "Secretion: VEGF (basal) + PEDF (apical) for choroidal homeostasis"
+            },
+            {
+              "title": "AMD: drusen accumulate in Bruch membrane; dry (geographic atrophy) vs wet (choroidal neovascularization)"
+            }
+          ]
+        },
+        {
+          "title": "Oxidative Stress",
+          "children": [
+            {
+              "title": "ROS sources: light, mitochondria, NADPH oxidase, xanthine oxidase"
+            },
+            {
+              "title": "Antioxidants: vitamin C (ascorbate), vitamin E, glutathione/GPx, SOD, catalase, carotenoids (lutein, zeaxanthin)"
+            },
+            {
+              "title": "Retina most vulnerable: high O₂ consumption, high light exposure, high PUFA content"
+            },
+            {
+              "title": "Implicated in: AMD (AREDS vitamins ↓risk by 25%), cataract, glaucoma, diabetic retinopathy"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Pharmacology",
+      "children": [
+        {
+          "title": "Drug Delivery Principles",
+          "children": [
+            {
+              "title": "Topical eyedrops: <5% bioavailability; nasolacrimal drainage = main loss route (also systemic absorption risk)"
+            },
+            {
+              "title": "Punctal occlusion: improves topical bioavailability + reduces systemic absorption"
+            },
+            {
+              "title": "Intravitreal injection: direct to target; avoids systemic exposure; risk of endophthalmitis"
+            },
+            {
+              "title": "Sustained-release: biodegradable implants (Ozurdex), non-biodegradable (Iluvien)"
+            },
+            {
+              "title": "Prodrugs: inactive until converted in eye (e.g., latanoprost → latanoprost acid)"
+            }
+          ]
+        },
+        {
+          "title": "Glaucoma Drugs",
+          "children": [
+            {
+              "title": "Prostaglandin analogues (latanoprost, bimatoprost): ↑uveoscleral outflow; 1st line; SEs: iris darkening, lash growth, periorbital fat atrophy"
+            },
+            {
+              "title": "Beta blockers (timolol, betaxolol): ↓aqueous production; CI: asthma, heart block; betaxolol = selective β1"
+            },
+            {
+              "title": "CAIs (dorzolamide topical; acetazolamide systemic): ↓aqueous production; SE: sulfa allergy, metabolic acidosis (systemic)"
+            },
+            {
+              "title": "Alpha-2 agonists (brimonidine): ↓production + ↑uveoscleral outflow; also neuroprotective in study"
+            },
+            {
+              "title": "ROCK inhibitors (netarsudil): ↑trabecular outflow + ↓aqueous production; conjunctival hyperemia SE"
+            },
+            {
+              "title": "Nitric oxide donors (latanoprostene bunod): ↑trabecular + uveoscleral outflow"
+            },
+            {
+              "title": "Miotics (pilocarpine): ↑trabecular outflow via ciliary contraction; rarely used now"
+            }
+          ]
+        },
+        {
+          "title": "Autonomic Drugs",
+          "children": [
+            {
+              "title": "Muscarinic agonists (pilocarpine): miosis, accommodation; used in glaucoma, reversal of dilation"
+            },
+            {
+              "title": "Muscarinic antagonists (atropine, cyclopentolate, tropicamide): cycloplegia + mydriasis; cyclopentolate = refraction"
+            },
+            {
+              "title": "Alpha agonists (phenylephrine): mydriasis only (no cycloplegia); nasal decongestant effect"
+            },
+            {
+              "title": "Anticholinesterases (echothiophate): irreversible; rarely used; cataract risk with long-term use"
+            }
+          ]
+        },
+        {
+          "title": "Anti-inflammatory Drugs",
+          "children": [
+            {
+              "title": "Corticosteroids: prednisolone, dexamethasone, loteprednol (soft steroid, less IOP rise)"
+            },
+            {
+              "title": "Steroid SEs: IOP elevation (steroid responders ~30%), posterior subcapsular cataract, delayed wound healing, reactivation of herpes"
+            },
+            {
+              "title": "NSAIDs (ketorolac, nepafenac): inhibit COX; post-op inflammation, CME prevention, allergy"
+            },
+            {
+              "title": "Anti-VEGF (ranibizumab, bevacizumab, aflibercept, faricimab): intravitreal; wet AMD, DME, CRVO"
+            }
+          ]
+        },
+        {
+          "title": "Anti-Infectives",
+          "children": [
+            {
+              "title": "Fluoroquinolones (ciprofloxacin, moxifloxacin, besifloxacin): broad-spectrum; 4th gen best gram-positive coverage"
+            },
+            {
+              "title": "Aminoglycosides (gentamicin, tobramycin): gram-negative; retinal toxicity risk intravitreally"
+            },
+            {
+              "title": "Vancomycin: gram-positive; endophthalmitis (intravitreal)"
+            },
+            {
+              "title": "Ceftazidime: gram-negative; endophthalmitis (intravitreal)"
+            },
+            {
+              "title": "Antifungals: natamycin (topical fungal keratitis), voriconazole, amphotericin B"
+            },
+            {
+              "title": "Antivirals: acyclovir/ganciclovir (HSV/VZV/CMV); foscarnet (resistant CMV)"
+            }
+          ]
+        },
+        {
+          "title": "Other Important Drugs",
+          "children": [
+            {
+              "title": "Local anesthetics: proparacaine/tetracaine (topical); lidocaine/bupivacaine (injection); block Na+ channels"
+            },
+            {
+              "title": "Osmotic agents (mannitol IV, glycerin oral): acute IOP lowering in angle-closure attack"
+            },
+            {
+              "title": "Botulinum toxin: treats blepharospasm, hemifacial spasm, strabismus (weakens EOM)"
+            },
+            {
+              "title": "OVDs (ophthalmic viscosurgical devices): sodium hyaluronante, HPMC; protect endothelium during surgery"
+            },
+            {
+              "title": "Dry eye: artificial tears, cyclosporine A (Restasis), lifitegrast (Xiidra), punctal plugs"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Imaging",
+      "children": [
+        {
+          "title": "CT Scan",
+          "children": [
+            {
+              "title": "Best for: bony orbit, foreign bodies (metallic), fractures, calcifications, sinus disease"
+            },
+            {
+              "title": "Disadvantages: radiation, poor soft tissue contrast vs MRI"
+            },
+            {
+              "title": "Use: trauma, thyroid eye disease (EOM enlargement), orbital cellulitis"
+            }
+          ]
+        },
+        {
+          "title": "MRI",
+          "children": [
+            {
+              "title": "Best for: optic nerve, intracranial disease, soft tissue, demyelination (MS/optic neuritis)"
+            },
+            { "title": "T1: fat bright; T2: water bright (edema, fluid)" },
+            {
+              "title": "Gadolinium: enhances areas with blood-brain barrier breakdown"
+            },
+            {
+              "title": "Disadvantages: no metallic implants, expensive, slow, contraindicated in pacemakers"
+            },
+            {
+              "title": "Use: optic neuritis, chiasmal lesions, cavernous sinus, orbital tumors"
+            }
+          ]
+        },
+        {
+          "title": "Ultrasonography",
+          "children": [
+            {
+              "title": "A-scan: 1D; measures axial length (biometry for IOL power); spikes = tissue interfaces"
+            },
+            {
+              "title": "B-scan: 2D cross-sectional; used with opaque media (cataract, vitreous hemorrhage)"
+            },
+            {
+              "title": "B-scan indications: retinal detachment (high reflective membrane), vitreous hemorrhage, intraocular tumor, PVD, choroidal detachment"
+            },
+            {
+              "title": "Ultrasound biomicroscopy (UBM): high frequency (50 MHz); images anterior segment, angle, ciliary body in detail"
+            },
+            {
+              "title": "Advantage: no radiation; safe in pregnancy; bedside capable"
+            }
+          ]
+        },
+        {
+          "title": "When to Order",
+          "children": [
+            {
+              "title": "Proptosis: CT first (bony detail) then MRI if soft tissue/ON involvement suspected"
+            },
+            {
+              "title": "Optic neuritis: MRI brain + orbits with gadolinium (MS workup)"
+            },
+            { "title": "Trauma: CT orbits (r/o fracture, foreign body)" },
+            { "title": "Opaque media: B-scan ultrasound" },
+            { "title": "Biometry: A-scan for IOL calculation" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Digital Ophthalmology",
+      "children": [
+        {
+          "title": "Data & Standards",
+          "children": [
+            {
+              "title": "EHR (Electronic Health Records): structured data entry; DICOM for imaging"
+            },
+            {
+              "title": "Big Data: aggregated patient data for research; registry-based studies"
+            }
+          ]
+        },
+        {
+          "title": "Teleophthalmology",
+          "children": [
+            {
+              "title": "Remote screening: diabetic retinopathy, ROP, glaucoma screening in underserved areas"
+            },
+            { "title": "Store-and-forward vs synchronous models" }
+          ]
+        },
+        {
+          "title": "Artificial Intelligence",
+          "children": [
+            {
+              "title": "Machine learning: trains on labeled data (supervised); deep learning uses CNNs for image classification"
+            },
+            {
+              "title": "FDA-approved AI: IDx-DR (autonomous DR grading), EyeArt"
+            },
+            {
+              "title": "Applications: AMD staging, glaucoma detection, ROP, retinal vessel analysis"
+            },
+            {
+              "title": "Bias: training data must be diverse; avoid underrepresentation of demographics"
+            },
+            {
+              "title": "Large Language Models (LLMs): text-based AI (e.g., GPT/Claude); clinical decision support, patient communication, documentation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        { "title": "LR6 SO4 All III" },
+        {
+          "title": "5 corneal layers: Epithelium, Bowman, Stroma, Descemet, Endothelium"
+        },
+        { "title": "Corneal endothelium does NOT regenerate" },
+        {
+          "title": "Aqueous pathway: ciliary body → posterior chamber → pupil → anterior chamber → trabecular meshwork → Schlemm canal → episcleral veins"
+        },
+        { "title": "JCT (juxtacanalicular) = main site of aqueous resistance" },
+        {
+          "title": "Rods: night vision/periphery; Cones: color/central (fovea)"
+        },
+        {
+          "title": "Fovea: only cones, highest acuity; Macula: highest cone density region"
+        },
+        {
+          "title": "Afferent pupil: CN II; Efferent: CN III; RAPD = afferent defect"
+        },
+        { "title": "Bitemporal hemianopia → chiasm (pituitary adenoma)" },
+        { "title": "Homonymous hemianopia → post-chiasmal lesion" },
+        { "title": "Horner: ptosis + miosis + anhidrosis (sympathetic loss)" },
+        {
+          "title": "Coloboma: failure of fissure closure → inferior-nasal defect"
+        },
+        {
+          "title": "Retinoblastoma: RB1, two-hit hypothesis; leukocoria presentation"
+        },
+        { "title": "PAX6 mutation → aniridia + Wilms tumor risk (WAGR)" },
+        {
+          "title": "Tear film: lipid (top) + mucoaqueous (bottom); goblet cells = mucin"
+        },
+        {
+          "title": "Keratoconus signs: Fleischer ring, Vogt striae, Munson sign"
+        },
+        {
+          "title": "Cataract types: nuclear (aging/myopia), cortical (DM), PSC (steroids/radiation/DM)"
+        },
+        { "title": "Sorbitol pathway in diabetes → osmotic cortical cataract" },
+        {
+          "title": "AMD: drusen in Bruch; dry (GA) vs wet (CNV → anti-VEGF treatment)"
+        },
+        {
+          "title": "AREDS vitamins (C, E, β-carotene, zinc, copper) → 25% risk reduction in intermediate AMD"
+        },
+        {
+          "title": "Diabetic retinopathy: NPDR → PDR (neovascularization); treat with laser/anti-VEGF"
+        },
+        {
+          "title": "Retinal detachment: floaters + flashes + curtain; rhegmatogenous most common"
+        },
+        {
+          "title": "PVD: floaters + flashes → dilate to check for retinal tear"
+        },
+        {
+          "title": "Prostaglandins (latanoprost): ↑uveoscleral outflow; 1st-line glaucoma"
+        },
+        {
+          "title": "Beta blockers (timolol): ↓aqueous production; beware asthma/COPD"
+        },
+        {
+          "title": "Steroids SEs: IOP rise + PSC cataract + herpes reactivation"
+        },
+        { "title": "Anti-VEGF (intravitreal): wet AMD + DME + CRVO" },
+        {
+          "title": "CT = bone/trauma; MRI = nerve/soft tissue; U/S = opaque media"
+        },
+        {
+          "title": "A-scan = axial length (biometry); B-scan = 2D vitreoretinal imaging"
+        },
+        {
+          "title": "Mitochondrial inheritance (maternal): LHON, CPEO, MELAS, NARP"
+        }
+      ]
+    }
+  ]
+}

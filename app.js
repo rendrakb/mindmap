@@ -12,14 +12,219 @@ const zoomOutButton = document.getElementById("zoomOutButton");
 const resetZoomButton = document.getElementById("resetZoomButton");
 const chartContainer = document.getElementById("chart");
 const saveImageButton = document.getElementById("saveImageButton");
+const saveSvgButton = document.getElementById("saveSvgButton");
+const expandAllButton = document.getElementById("expandAllButton");
+const collapseAllButton = document.getElementById("collapseAllButton");
 const searchInput = document.getElementById("searchInput");
 let requestResetZoom = null;
+let requestCollapseAll = null;
+let requestExpandAll = null;
+let performChartExport = null;
 let currentRoot = null;
 let searchQuery = "";
 let highlightMatches = null;
 
 function normalizeText(value) {
   return (value || "").toString().trim().toLowerCase();
+}
+
+function snapshotTreeState(root) {
+  const snapshot = new Map();
+  root.each((d) => {
+    snapshot.set(d.id, {
+      children: d.children,
+      _children: d._children,
+    });
+  });
+  return snapshot;
+}
+
+function restoreTreeState(root, snapshot) {
+  root.each((d) => {
+    const saved = snapshot.get(d.id);
+    if (saved) {
+      d.children = saved.children;
+      d._children = saved._children;
+    }
+  });
+}
+
+function waitForLayout() {
+  return new Promise((resolve) => {
+    requestAnimationFrame(() => requestAnimationFrame(resolve));
+  });
+}
+
+function computeFitZoomTransform(svgElement, zoomBehavior, contentGroup, padding = 48) {
+  const viewBox = svgElement.viewBox.baseVal;
+  const vbWidth = viewBox.width || svgElement.clientWidth || 1;
+  const vbHeight = viewBox.height || svgElement.clientHeight || 1;
+  const bounds = contentGroup.node().getBBox();
+  const matrix = contentGroup.node().transform.baseVal.consolidate();
+  const tx = matrix?.matrix?.e ?? 0;
+  const ty = matrix?.matrix?.f ?? 0;
+  const x0 = bounds.x + tx;
+  const y0 = bounds.y + ty;
+  const x1 = x0 + bounds.width;
+  const y1 = y0 + bounds.height;
+  const dx = x1 - x0;
+  const dy = y1 - y0;
+  if (dx <= 0 || dy <= 0) return d3.zoomIdentity;
+
+  const [minScale, maxScale] = zoomBehavior.scaleExtent();
+  const scale = Math.min(
+    maxScale,
+    Math.max(
+      minScale,
+      Math.min((vbWidth - padding * 2) / dx, (vbHeight - padding * 2) / dy),
+    ),
+  );
+  const cx = (x0 + x1) / 2;
+  const cy = (y0 + y1) / 2;
+  return d3.zoomIdentity
+    .translate(vbWidth / 2, vbHeight / 2)
+    .scale(scale)
+    .translate(-cx, -cy);
+}
+
+const LAYOUT = {
+  margin: { top: 48, right: 80, bottom: 48, left: 160 },
+  columnGap: 52,
+  minColumnWidth: 96,
+  lineHeight: 26,
+  minVerticalGap: 52,
+  maxLabelChars: 34,
+  labelOffsetX: 44,
+  labelPadX: 24,
+  searchIconX: 24,
+};
+
+function wrapLabel(title, maxChars = LAYOUT.maxLabelChars) {
+  const words = (title || "").toString().split(/\s+/).filter(Boolean);
+  if (!words.length) return { lines: [""], lineCount: 1 };
+
+  const lines = [];
+  let line = [];
+
+  words.forEach((word) => {
+    const candidate = line.length ? `${line.join(" ")} ${word}` : word;
+    if (candidate.length > maxChars && line.length) {
+      lines.push(line.join(" "));
+      line = [word];
+    } else {
+      line.push(word);
+    }
+  });
+
+  if (line.length) lines.push(line.join(" "));
+  return { lines, lineCount: lines.length };
+}
+
+function labelFontSize(depth) {
+  return Math.max(13, 16.5 - depth * 0.45);
+}
+
+function estimateLabelWidth(d) {
+  const lines = d.data._labelLines || [""];
+  const charWidth = labelFontSize(d.depth) * 0.58;
+  const textWidth = d3.max(lines, (line) => line.length * charWidth) || 0;
+  return LAYOUT.labelOffsetX + textWidth + LAYOUT.labelPadX;
+}
+
+function prepareNodeLabels(root) {
+  root.each((d) => {
+    const wrapped = wrapLabel(d.data?.title);
+    d.data._labelLines = wrapped.lines;
+    d.data._lineCount = wrapped.lineCount;
+    d.data._labelWidth = estimateLabelWidth(d);
+  });
+}
+
+function assignColumnPositions(root) {
+  const nodes = root.descendants();
+  const maxDepth = d3.max(nodes, (d) => d.depth) ?? 0;
+  const byDepth = d3.group(nodes, (d) => d.depth);
+  let columnStart = 0;
+
+  for (let depth = 0; depth <= maxDepth; depth += 1) {
+    const columnNodes = byDepth.get(depth) || [];
+    columnNodes.forEach((d) => {
+      d.y = columnStart;
+    });
+
+    if (depth < maxDepth) {
+      const columnLabelExtent =
+        d3.max(columnNodes, (d) => d.data._labelWidth || estimateLabelWidth(d)) ??
+        LAYOUT.minColumnWidth;
+      columnStart +=
+        Math.max(LAYOUT.minColumnWidth, columnLabelExtent) + LAYOUT.columnGap;
+    }
+  }
+}
+
+function nodeSeparation(a, b) {
+  const siblingFactor = a.parent === b.parent ? 1.15 : 1.75;
+  const aLines = a.data._lineCount || 1;
+  const bLines = b.data._lineCount || 1;
+  const lineFactor = Math.max(1, (aLines + bLines) / 2);
+  return siblingFactor * lineFactor;
+}
+
+function computeChartDimensions(root, margin = LAYOUT.margin) {
+  const nodes = root.descendants();
+  const xMin = d3.min(nodes, (d) => d.x) ?? 0;
+  const xMax = d3.max(nodes, (d) => d.x) ?? 0;
+  const yMax = d3.max(nodes, (d) => d.y) ?? 0;
+  const maxDepth = d3.max(nodes, (d) => d.depth) ?? 0;
+  const maxLineCount = d3.max(nodes, (d) => d.data._lineCount || 1) || 1;
+  const lastColumnNodes = nodes.filter((d) => d.depth === maxDepth);
+  const trailingLabel =
+    d3.max(lastColumnNodes, (d) => d.data._labelWidth || estimateLabelWidth(d)) ||
+    LAYOUT.minColumnWidth;
+  const verticalSpan = Math.max(LAYOUT.minVerticalGap, xMax - xMin);
+  const height =
+    verticalSpan + margin.top + margin.bottom + maxLineCount * 6 + 24;
+  const width = margin.left + margin.right + yMax + trailingLabel + 32;
+
+  return { width, height, xMin, xMax, nodes };
+}
+
+function applyLabelText(selection) {
+  selection.each(function (d) {
+    const self = d3.select(this);
+    const lines = d.data._labelLines || [d.data?.title || ""];
+    self.selectAll("tspan").remove();
+    self.text(null);
+    lines.forEach((line, index) => {
+      self
+        .append("tspan")
+        .text(line)
+        .attr("x", LAYOUT.labelOffsetX)
+        .attr("dy", index ? "1.35em" : 0);
+    });
+  });
+}
+
+function syncLabelBackgrounds(selection) {
+  selection.each(function () {
+    const group = d3.select(this);
+    const label = group.select("text.node-label");
+    const labelNode = label.node();
+    if (!labelNode) return;
+
+    const bbox = labelNode.getBBox();
+    const padX = 10;
+    const padY = 6;
+    const bg = group.select("rect.node-bg");
+
+    (bg.empty() ? group.insert("rect", "circle") : bg)
+      .attr("class", "node-bg")
+      .attr("x", bbox.x - padX)
+      .attr("y", bbox.y - padY)
+      .attr("width", Math.max(0, bbox.width + padX * 2))
+      .attr("height", Math.max(0, bbox.height + padY * 2))
+      .attr("rx", 8);
+  });
 }
 
 loadButton.addEventListener("click", () => {
@@ -73,10 +278,7 @@ async function loadTreeFile(fileName) {
 function renderMindMap(data) {
   chartContainer.innerHTML = "";
 
-  const margin = { top: 40, right: 60, bottom: 40, left: 140 };
-  const baseWidth = chartContainer.clientWidth;
-  const baseHeight = Math.max(chartContainer.clientHeight, 700);
-
+  const margin = LAYOUT.margin;
   const root = d3.hierarchy(data);
   root.each((d) => {
     if (d.children) {
@@ -84,19 +286,16 @@ function renderMindMap(data) {
     }
   });
 
+  prepareNodeLabels(root);
+
   const treeLayout = d3
     .tree()
-    .nodeSize([72, 260])
-    .separation((a, b) => (a.parent === b.parent ? 1.6 : 2.6) / a.depth);
+    .nodeSize([LAYOUT.lineHeight, 1])
+    .separation(nodeSeparation);
   treeLayout(root);
+  assignColumnPositions(root);
 
-  const nodes = root.descendants();
-  const xMin = d3.min(nodes, (d) => d.x);
-  const xMax = d3.max(nodes, (d) => d.x);
-
-  const height = xMax - xMin + margin.top + margin.bottom + 10;
-  const width = margin.left + margin.right + (root.height + 1) * 100 + 10;
-  const innerHeight = height - margin.top - margin.bottom;
+  let { width, height, xMin } = computeChartDimensions(root, margin);
 
   chartContainer.style.height = `${height}px`;
 
@@ -104,7 +303,7 @@ function renderMindMap(data) {
     .select(chartContainer)
     .append("svg")
     .attr("viewBox", [0, 0, width, height])
-    .style("font", "14px Inter, sans-serif")
+    .style("font", "15px Inter, sans-serif")
     .style("touch-action", "none")
     .style("cursor", "grab")
     .style("user-select", "none");
@@ -208,17 +407,40 @@ function renderMindMap(data) {
     svg.transition().duration(200).call(zoomBehavior.scaleBy, 0.8);
   };
 
-  const resetZoom = () =>
+  const fitZoom = (duration = 300) =>
     new Promise((resolve) => {
-      svg
-        .transition()
-        .duration(300)
-        .call(zoomBehavior.transform, d3.zoomIdentity.translate(0, 0))
-        .on("end", resolve);
+      const transform = computeFitZoomTransform(svg.node(), zoomBehavior, g);
+      const runner = duration ? svg.transition().duration(duration) : svg;
+      runner.call(zoomBehavior.transform, transform).on("end", resolve);
     });
 
-  resetZoomButton.onclick = () => resetZoom();
-  requestResetZoom = resetZoom;
+  resetZoomButton.onclick = () => fitZoom();
+  requestResetZoom = fitZoom;
+
+  performChartExport = async (exportFn) => {
+    const treeSnap = snapshotTreeState(root);
+    const zoomSnap = d3.zoomTransform(svg.node());
+
+    expand(root);
+    update(root, { animate: false });
+    await waitForLayout();
+    svg.call(zoomBehavior.transform, d3.zoomIdentity);
+
+    try {
+      await exportFn();
+    } finally {
+      restoreTreeState(root, treeSnap);
+      update(root, { animate: false });
+      await waitForLayout();
+      await new Promise((resolve) => {
+        svg
+          .transition()
+          .duration(300)
+          .call(zoomBehavior.transform, zoomSnap)
+          .on("end", resolve);
+      });
+    }
+  };
 
   function collapse(d) {
     if (d.children) {
@@ -236,6 +458,16 @@ function renderMindMap(data) {
     }
   }
 
+  requestCollapseAll = () => {
+    collapse(root);
+    update(root);
+  };
+
+  requestExpandAll = () => {
+    expand(root);
+    update(root);
+  };
+
   function toggle(d) {
     if (d.children) {
       d._children = d.children;
@@ -246,40 +478,52 @@ function renderMindMap(data) {
     }
   }
 
-  function update(source) {
+  function resizeChart() {
+    const dims = computeChartDimensions(root, margin);
+    width = dims.width;
+    height = dims.height;
+    xMin = dims.xMin;
+    chartContainer.style.height = `${height}px`;
+    svg.attr("viewBox", [0, 0, width, height]);
+    svg.select("rect").attr("width", width).attr("height", height);
+    g.attr("transform", `translate(${margin.left},${margin.top - xMin})`);
+  }
+
+  function update(source, options = {}) {
+    const animate = options.animate !== false;
     treeLayout(root);
+    assignColumnPositions(root);
+    resizeChart();
 
     const nodes = root.descendants();
     const links = root.links();
+    const linkPath = d3
+      .linkHorizontal()
+      .x((d) => d.y)
+      .y((d) => d.x);
 
     const link = linkGroup
       .selectAll("path.link")
       .data(links, (d) => d.target.id);
 
-    link
+    const linkUpdate = link
       .enter()
       .append("path")
       .attr("class", "link")
       .attr("fill", "none")
-      .attr("stroke", "rgba(255,255,255,0.24)")
-      .attr("stroke-width", 1.8)
+      .attr("stroke", "rgba(255,255,255,0.2)")
+      .attr("stroke-width", 1.6)
       .attr("d", (d) => {
         const o = { x: source.x0, y: source.y0 };
-        return d3
-          .linkHorizontal()
-          .x((p) => p.y)
-          .y((p) => p.x)({ source: o, target: o });
+        return linkPath({ source: o, target: o });
       })
-      .merge(link)
-      .transition()
-      .duration(250)
-      .attr(
-        "d",
-        d3
-          .linkHorizontal()
-          .x((d) => d.y)
-          .y((d) => d.x),
-      );
+      .merge(link);
+
+    if (animate) {
+      linkUpdate.transition().duration(250).attr("d", linkPath);
+    } else {
+      linkUpdate.attr("d", linkPath);
+    }
 
     link.exit().remove();
 
@@ -313,7 +557,7 @@ function renderMindMap(data) {
     nodeEnter
       .append("text")
       .attr("class", "node-search")
-      .attr("x", 22)
+      .attr("x", LAYOUT.searchIconX)
       .attr("dy", "0.32em")
       .text("🔍")
       .attr("pointer-events", "all")
@@ -334,51 +578,28 @@ function renderMindMap(data) {
     const label = nodeEnter
       .append("text")
       .attr("class", "node-label")
-      .attr("x", 42)
-      .attr("dy", "0.32em")
+      .attr("x", LAYOUT.labelOffsetX)
+      .attr("dy", "0.35em")
       .attr("text-anchor", "start")
-      .text((d) => d.data.title)
       .attr("fill", "#eef3ff")
-      .style("font-size", (d) => `${Math.max(12, 18 - d.depth)}px`);
+      .style("font-size", (d) => `${labelFontSize(d.depth)}px`);
 
-    label.each(function (d) {
-      const self = d3.select(this);
-      const words = self.text().split(" ");
-      if (words.length > 6) {
-        self.text("");
-        let line = [];
-        let lineNumber = 0;
-        words.forEach((word) => {
-          line.push(word);
-          const testLine = line.join(" ");
-          if (testLine.length > 22) {
-            line.pop();
-            self
-              .append("tspan")
-              .text(line.join(" "))
-              .attr("x", 42)
-              .attr("dy", lineNumber ? "1.2em" : 0);
-            line = [word];
-            lineNumber += 1;
-          }
-        });
-        if (line.length) {
-          self
-            .append("tspan")
-            .text(line.join(" "))
-            .attr("x", 42)
-            .attr("dy", lineNumber ? "1.2em" : 0);
-        }
-      }
-    });
+    applyLabelText(label);
 
     const nodeUpdate = nodeEnter.merge(node);
 
-    nodeUpdate
-      .classed("match", (d) => Boolean(d.match))
-      .transition()
-      .duration(250)
-      .attr("transform", (d) => `translate(${d.y},${d.x})`);
+    nodeUpdate.select("text.node-label").call(applyLabelText);
+    nodeUpdate.call(syncLabelBackgrounds);
+
+    const positionNodes = (selection) =>
+      selection.attr("transform", (d) => `translate(${d.y},${d.x})`);
+
+    nodeUpdate.classed("match", (d) => Boolean(d.match));
+    if (animate) {
+      nodeUpdate.transition().duration(250).call(positionNodes);
+    } else {
+      nodeUpdate.call(positionNodes);
+    }
 
     nodeUpdate
       .select("circle")
@@ -398,6 +619,15 @@ function renderMindMap(data) {
       .select("text.node-label")
       .attr("fill", (d) => (d.match ? "#05070d" : "#eef3ff"));
 
+    nodeUpdate
+      .select("rect.node-bg")
+      .attr("fill", (d) =>
+        d.match ? "rgba(140, 255, 199, 0.18)" : "rgba(8, 12, 22, 0.72)",
+      )
+      .attr("stroke", (d) =>
+        d.match ? "rgba(140, 255, 199, 0.55)" : "rgba(255, 255, 255, 0.08)",
+      );
+
     node.exit().remove();
 
     nodes.forEach((d) => {
@@ -410,10 +640,13 @@ function renderMindMap(data) {
     nodeInfo.textContent = `${totalNodes} nodes · ${maxDepth} levels`;
   }
 
-  update(root);
+  collapse(root);
   if (searchQuery && typeof highlightMatches === "function") {
     highlightMatches(searchQuery);
+  } else {
+    update(root, { animate: false });
   }
+  fitZoom(0);
 }
 
 (async function init() {
@@ -433,21 +666,63 @@ function renderMindMap(data) {
   if (saveImageButton) {
     saveImageButton.addEventListener("click", async () => {
       try {
-        if (typeof requestResetZoom === "function") await requestResetZoom();
-        await saveChartAsJpeg();
+        if (typeof performChartExport === "function") {
+          await performChartExport(() => saveChartAsJpeg());
+        } else {
+          await saveChartAsJpeg();
+        }
       } catch (err) {
         alert(err.message || "Unable to save image");
       }
     });
   }
+  if (saveSvgButton) {
+    saveSvgButton.addEventListener("click", async () => {
+      try {
+        if (typeof performChartExport === "function") {
+          await performChartExport(() => saveChartAsSvg());
+        } else {
+          saveChartAsSvg();
+        }
+      } catch (err) {
+        alert(err.message || "Unable to save SVG");
+      }
+    });
+  }
+  if (collapseAllButton) {
+    collapseAllButton.addEventListener("click", () => {
+      if (typeof requestCollapseAll === "function") requestCollapseAll();
+    });
+  }
+  if (expandAllButton) {
+    expandAllButton.addEventListener("click", () => {
+      if (typeof requestExpandAll === "function") requestExpandAll();
+    });
+  }
 })();
 
-async function saveChartAsJpeg() {
-  const svgNode = chartContainer.querySelector("svg");
+function downloadBlob(blob, fileName) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = fileName;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 5000);
+}
+
+function exportFileBaseName() {
+  return (chartTitle.textContent || "mindmap").replace(/[^a-z0-9_-]+/gi, "_");
+}
+
+function buildExportableSvgString(svgNode) {
   if (!svgNode) throw new Error("No chart to export");
 
   const padding = 60;
-  const graphGroup = svgNode.querySelector("g > g");
+  const graphGroup =
+    svgNode.querySelector("g.nodes")?.parentElement ||
+    svgNode.querySelector("g > g");
   let vbX = 0;
   let vbY = 0;
   let vbW = 0;
@@ -481,21 +756,22 @@ async function saveChartAsJpeg() {
     throw new Error("Unable to determine chart bounds for export");
   }
 
-  // Temporarily override the SVG viewBox so the serialized string covers the full tree
   const originalViewBox = svgNode.getAttribute("viewBox");
-  const originalWidth   = svgNode.getAttribute("width");
-  const originalHeight  = svgNode.getAttribute("height");
+  const originalWidth = svgNode.getAttribute("width");
+  const originalHeight = svgNode.getAttribute("height");
   svgNode.setAttribute("viewBox", `${vbX} ${vbY} ${vbW} ${vbH}`);
-  svgNode.setAttribute("width",  vbW);
+  svgNode.setAttribute("width", vbW);
   svgNode.setAttribute("height", vbH);
 
   const serializer = new XMLSerializer();
   let svgString = serializer.serializeToString(svgNode);
 
-  // Restore original attributes right away (before any async work)
-  if (originalViewBox !== null) svgNode.setAttribute("viewBox", originalViewBox); else svgNode.removeAttribute("viewBox");
-  if (originalWidth   !== null) svgNode.setAttribute("width",   originalWidth);   else svgNode.removeAttribute("width");
-  if (originalHeight  !== null) svgNode.setAttribute("height",  originalHeight);  else svgNode.removeAttribute("height");
+  if (originalViewBox !== null) svgNode.setAttribute("viewBox", originalViewBox);
+  else svgNode.removeAttribute("viewBox");
+  if (originalWidth !== null) svgNode.setAttribute("width", originalWidth);
+  else svgNode.removeAttribute("width");
+  if (originalHeight !== null) svgNode.setAttribute("height", originalHeight);
+  else svgNode.removeAttribute("height");
 
   if (!svgString.match(/^<svg[^>]+xmlns="http:\/\/www.w3.org\/2000\/svg"/)) {
     svgString = svgString.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
@@ -504,13 +780,14 @@ async function saveChartAsJpeg() {
     svgString = svgString.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"');
   }
 
-  // Inline same-origin stylesheets so text/colors render correctly off-DOM
   let cssText = "";
   for (const sheet of Array.from(document.styleSheets)) {
     try {
       if (!sheet.cssRules) continue;
       for (const rule of sheet.cssRules) cssText += rule.cssText;
-    } catch (e) { /* ignore CORS/readonly */ }
+    } catch (e) {
+      /* ignore CORS/readonly */
+    }
   }
 
   const openTagEnd = svgString.indexOf(">");
@@ -518,6 +795,20 @@ async function saveChartAsJpeg() {
     svgString.slice(0, openTagEnd + 1) +
     (cssText ? `<style>${cssText}</style>` : "") +
     svgString.slice(openTagEnd + 1);
+
+  return { svgString: withStyles, vbW, vbH };
+}
+
+function saveChartAsSvg() {
+  const svgNode = chartContainer.querySelector("svg");
+  const { svgString } = buildExportableSvgString(svgNode);
+  const blob = new Blob([svgString], { type: "image/svg+xml;charset=utf-8" });
+  downloadBlob(blob, `${exportFileBaseName()}.svg`);
+}
+
+async function saveChartAsJpeg() {
+  const svgNode = chartContainer.querySelector("svg");
+  const { svgString: withStyles, vbW, vbH } = buildExportableSvgString(svgNode);
 
   // Scale for readability — cap at 3840px wide, max 3×
   const maxWidth = 3840;
@@ -537,16 +828,7 @@ async function saveChartAsJpeg() {
         canvas.toBlob(
           (blob) => {
             if (!blob) return reject(new Error("Export failed"));
-            const a = document.createElement("a");
-            const fileName =
-              (chartTitle.textContent || "mindmap").replace(/[^a-z0-9_-]+/gi, "_") + ".jpg";
-            const url = URL.createObjectURL(blob);
-            a.href = url;
-            a.download = fileName;
-            document.body.appendChild(a);
-            a.click();
-            a.remove();
-            setTimeout(() => URL.revokeObjectURL(url), 5000);
+            downloadBlob(blob, `${exportFileBaseName()}.jpg`);
             resolve();
           },
           "image/jpeg",
