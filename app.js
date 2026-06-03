@@ -11,7 +11,7 @@ const zoomInButton = document.getElementById("zoomInButton");
 const zoomOutButton = document.getElementById("zoomOutButton");
 const resetZoomButton = document.getElementById("resetZoomButton");
 const chartContainer = document.getElementById("chart");
-const saveImageButton = document.getElementById("saveImageButton");
+const openSvgButton = document.getElementById("openSvgButton");
 const saveSvgButton = document.getElementById("saveSvgButton");
 const expandAllButton = document.getElementById("expandAllButton");
 const collapseAllButton = document.getElementById("collapseAllButton");
@@ -668,16 +668,16 @@ function renderMindMap(data) {
       }
     });
   }
-  if (saveImageButton) {
-    saveImageButton.addEventListener("click", async () => {
+  if (openSvgButton) {
+    openSvgButton.addEventListener("click", async () => {
       try {
         if (typeof performChartExport === "function") {
-          await performChartExport(() => saveChartAsJpeg());
+          await performChartExport(() => openChartSvgInNewTab());
         } else {
-          await saveChartAsJpeg();
+          openChartSvgInNewTab();
         }
       } catch (err) {
-        alert(err.message || "Unable to save image");
+        alert(err.message || "Unable to open SVG");
       }
     });
   }
@@ -725,7 +725,7 @@ function exportFileBaseName() {
   return (chartTitle.textContent || "mindmap").replace(/[^a-z0-9_-]+/gi, "_");
 }
 
-function buildExportableSvgString(svgNode) {
+function buildExportableSvgString(svgNode, omitSelector = null) {
   if (!svgNode) throw new Error("No chart to export");
 
   const padding = 60;
@@ -765,22 +765,17 @@ function buildExportableSvgString(svgNode) {
     throw new Error("Unable to determine chart bounds for export");
   }
 
-  const originalViewBox = svgNode.getAttribute("viewBox");
-  const originalWidth = svgNode.getAttribute("width");
-  const originalHeight = svgNode.getAttribute("height");
-  svgNode.setAttribute("viewBox", `${vbX} ${vbY} ${vbW} ${vbH}`);
-  svgNode.setAttribute("width", vbW);
-  svgNode.setAttribute("height", vbH);
+  const exportSvg = svgNode.cloneNode(true);
+  if (omitSelector) {
+    exportSvg.querySelectorAll(omitSelector).forEach((node) => node.remove());
+  }
+
+  exportSvg.setAttribute("viewBox", `${vbX} ${vbY} ${vbW} ${vbH}`);
+  exportSvg.setAttribute("width", vbW);
+  exportSvg.setAttribute("height", vbH);
 
   const serializer = new XMLSerializer();
-  let svgString = serializer.serializeToString(svgNode);
-
-  if (originalViewBox !== null) svgNode.setAttribute("viewBox", originalViewBox);
-  else svgNode.removeAttribute("viewBox");
-  if (originalWidth !== null) svgNode.setAttribute("width", originalWidth);
-  else svgNode.removeAttribute("width");
-  if (originalHeight !== null) svgNode.setAttribute("height", originalHeight);
-  else svgNode.removeAttribute("height");
+  let svgString = serializer.serializeToString(exportSvg);
 
   if (!svgString.match(/^<svg[^>]+xmlns="http:\/\/www.w3.org\/2000\/svg"/)) {
     svgString = svgString.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
@@ -810,44 +805,16 @@ function buildExportableSvgString(svgNode) {
 
 function saveChartAsSvg() {
   const svgNode = chartContainer.querySelector("svg");
-  const { svgString } = buildExportableSvgString(svgNode);
+  const { svgString } = buildExportableSvgString(svgNode, ".node-search");
   const blob = new Blob([svgString], { type: "image/svg+xml;charset=utf-8" });
   downloadBlob(blob, `${exportFileBaseName()}.svg`);
 }
 
-async function saveChartAsJpeg() {
+function openChartSvgInNewTab() {
   const svgNode = chartContainer.querySelector("svg");
-  const { svgString: withStyles, vbW, vbH } = buildExportableSvgString(svgNode);
-
-  // Scale for readability — cap at 3840px wide, max 3×
-  const maxWidth = 3840;
-  const scale = Math.min(maxWidth / Math.max(1, vbW), 3);
-
-  return new Promise((resolve, reject) => {
-    const img = new Image();
-    img.onload = () => {
-      try {
-        const canvas = document.createElement("canvas");
-        canvas.width  = Math.round(vbW * scale);
-        canvas.height = Math.round(vbH * scale);
-        const ctx = canvas.getContext("2d");
-        ctx.fillStyle = getComputedStyle(document.body).backgroundColor || "#0b1220";
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-        canvas.toBlob(
-          (blob) => {
-            if (!blob) return reject(new Error("Export failed"));
-            downloadBlob(blob, `${exportFileBaseName()}.jpg`);
-            resolve();
-          },
-          "image/jpeg",
-          0.92,
-        );
-      } catch (err) {
-        reject(err);
-      }
-    };
-    img.onerror = () => reject(new Error("Failed to load SVG for export"));
-    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(withStyles);
-  });
+  const { svgString } = buildExportableSvgString(svgNode, ".node-search");
+  const blob = new Blob([svgString], { type: "image/svg+xml;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  window.open(url, "_blank");
+  setTimeout(() => URL.revokeObjectURL(url), 5000);
 }
