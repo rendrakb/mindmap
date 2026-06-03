@@ -298,9 +298,7 @@ button.secondary {
   overflow: auto;
   border-radius: 18px;
   border: 1px solid rgba(255, 255, 255, 0.06);
-  background:
-    radial-gradient(circle at top left, rgba(124, 159, 255, 0.08), transparent 42%),
-    rgba(4, 7, 14, 0.55);
+  background: rgba(4, 7, 14, 0.55);
 }
 
 #chart svg {
@@ -376,5 +374,10 @@ button.secondary {
 
   .viewer-actions {
     text-align: left;
+  }
+
+  .chart {
+    max-height: var(--chart-max-height, calc(100vh - 220px));
+    overflow: auto;
   }
 }

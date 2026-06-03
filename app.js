@@ -55,7 +55,12 @@ function waitForLayout() {
   });
 }
 
-function computeFitZoomTransform(svgElement, zoomBehavior, contentGroup, padding = 48) {
+function computeFitZoomTransform(
+  svgElement,
+  zoomBehavior,
+  contentGroup,
+  padding = 48,
+) {
   const viewBox = svgElement.viewBox.baseVal;
   const vbWidth = viewBox.width || svgElement.clientWidth || 1;
   const vbHeight = viewBox.height || svgElement.clientHeight || 1;
@@ -154,8 +159,10 @@ function assignColumnPositions(root) {
 
     if (depth < maxDepth) {
       const columnLabelExtent =
-        d3.max(columnNodes, (d) => d.data._labelWidth || estimateLabelWidth(d)) ??
-        LAYOUT.minColumnWidth;
+        d3.max(
+          columnNodes,
+          (d) => d.data._labelWidth || estimateLabelWidth(d),
+        ) ?? LAYOUT.minColumnWidth;
       columnStart +=
         Math.max(LAYOUT.minColumnWidth, columnLabelExtent) + LAYOUT.columnGap;
     }
@@ -179,8 +186,10 @@ function computeChartDimensions(root, margin = LAYOUT.margin) {
   const maxLineCount = d3.max(nodes, (d) => d.data._lineCount || 1) || 1;
   const lastColumnNodes = nodes.filter((d) => d.depth === maxDepth);
   const trailingLabel =
-    d3.max(lastColumnNodes, (d) => d.data._labelWidth || estimateLabelWidth(d)) ||
-    LAYOUT.minColumnWidth;
+    d3.max(
+      lastColumnNodes,
+      (d) => d.data._labelWidth || estimateLabelWidth(d),
+    ) || LAYOUT.minColumnWidth;
   const verticalSpan = Math.max(LAYOUT.minVerticalGap, xMax - xMin);
   const height =
     verticalSpan + margin.top + margin.bottom + maxLineCount * 6 + 24;
@@ -361,9 +370,7 @@ function renderMindMap(data) {
     .attr("offset", (d) => d.offset)
     .attr("stop-color", (d) => d.color);
 
-  const glowFilter = defs
-    .append("filter")
-    .attr("id", "match-glow");
+  const glowFilter = defs.append("filter").attr("id", "match-glow");
 
   glowFilter
     .append("feGaussianBlur")
@@ -385,7 +392,9 @@ function renderMindMap(data) {
 
     currentRoot.each((d) => {
       const title = normalizeText(d.data?.title);
-      d.match = terms.length ? terms.every((term) => title.includes(term)) : false;
+      d.match = terms.length
+        ? terms.every((term) => title.includes(term))
+        : false;
     });
 
     if (terms.length) {
@@ -778,10 +787,16 @@ function buildExportableSvgString(svgNode, omitSelector = null) {
   let svgString = serializer.serializeToString(exportSvg);
 
   if (!svgString.match(/^<svg[^>]+xmlns="http:\/\/www.w3.org\/2000\/svg"/)) {
-    svgString = svgString.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
+    svgString = svgString.replace(
+      /^<svg/,
+      '<svg xmlns="http://www.w3.org/2000/svg"',
+    );
   }
   if (!svgString.includes("xmlns:xlink")) {
-    svgString = svgString.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"');
+    svgString = svgString.replace(
+      /^<svg/,
+      '<svg xmlns:xlink="http://www.w3.org/1999/xlink"',
+    );
   }
 
   let cssText = "";
