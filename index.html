@@ -12,23 +12,16 @@
         <div>
           <h1>Mind Map Viewer</h1>
           <p class="subtitle">
-            Select a numbered JSON file to render a left-to-right tree diagram.
+            Select a JSON file to render a left-to-right tree diagram.
           </p>
         </div>
       </header>
 
       <main>
         <section id="landing" class="card panel visible">
-          <div class="panel-header">
-            <h2>Choose a file</h2>
-            <p>
-              Each JSON file should contain a nested `title` + `children` tree
-              structure.
-            </p>
-          </div>
+          <div class="panel-header"></div>
 
           <div class="controls">
-            <label for="fileSelect">Available mind-map sources</label>
             <div class="select-row">
               <select id="fileSelect"></select>
               <button id="loadButton" class="primary">Load</button>
@@ -55,8 +48,12 @@
             </div>
             <div class="viewer-actions">
               <div class="tree-controls">
-                <button id="expandAllButton" class="secondary">Expand all</button>
-                <button id="collapseAllButton" class="secondary">Collapse all</button>
+                <button id="expandAllButton" class="secondary">
+                  Expand all
+                </button>
+                <button id="collapseAllButton" class="secondary">
+                  Collapse all
+                </button>
               </div>
               <div class="zoom-controls">
                 <button
