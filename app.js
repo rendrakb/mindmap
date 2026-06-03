@@ -12,7 +12,15 @@ const zoomOutButton = document.getElementById("zoomOutButton");
 const resetZoomButton = document.getElementById("resetZoomButton");
 const chartContainer = document.getElementById("chart");
 const saveImageButton = document.getElementById("saveImageButton");
+const searchInput = document.getElementById("searchInput");
 let requestResetZoom = null;
+let currentRoot = null;
+let searchQuery = "";
+let highlightMatches = null;
+
+function normalizeText(value) {
+  return (value || "").toString().trim().toLowerCase();
+}
 
 loadButton.addEventListener("click", () => {
   const fileName = fileSelect.value;
@@ -130,6 +138,67 @@ function renderMindMap(data) {
     });
 
   svg.call(zoomBehavior);
+
+  const defs = svg.append("defs");
+
+  defs
+    .append("linearGradient")
+    .attr("id", "match-gradient")
+    .attr("x1", "0%")
+    .attr("y1", "0%")
+    .attr("x2", "100%")
+    .attr("y2", "0%")
+    .selectAll("stop")
+    .data([
+      { offset: "0%", color: "#8cffc7" },
+      { offset: "100%", color: "#7c9fff" },
+    ])
+    .join("stop")
+    .attr("offset", (d) => d.offset)
+    .attr("stop-color", (d) => d.color);
+
+  const glowFilter = defs
+    .append("filter")
+    .attr("id", "match-glow");
+
+  glowFilter
+    .append("feGaussianBlur")
+    .attr("in", "SourceGraphic")
+    .attr("stdDeviation", 1.2)
+    .attr("result", "blur");
+
+  glowFilter
+    .append("feMerge")
+    .selectAll("feMergeNode")
+    .data(["blur", "SourceGraphic"])
+    .join("feMergeNode")
+    .attr("in", (d) => d);
+
+  currentRoot = root;
+  highlightMatches = (query) => {
+    const normalizedQuery = normalizeText(query);
+    const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+
+    currentRoot.each((d) => {
+      const title = normalizeText(d.data?.title);
+      d.match = terms.length ? terms.every((term) => title.includes(term)) : false;
+    });
+
+    if (terms.length) {
+      currentRoot.each((d) => {
+        if (d.match) {
+          d.ancestors().forEach((ancestor) => {
+            if (ancestor._children) {
+              ancestor.children = ancestor._children;
+              ancestor._children = null;
+            }
+          });
+        }
+      });
+    }
+
+    update(currentRoot);
+  };
 
   zoomInButton.onclick = () => {
     svg.transition().duration(200).call(zoomBehavior.scaleBy, 1.2);
@@ -307,6 +376,7 @@ function renderMindMap(data) {
     const nodeUpdate = nodeEnter.merge(node);
 
     nodeUpdate
+      .classed("match", (d) => Boolean(d.match))
       .transition()
       .duration(250)
       .attr("transform", (d) => `translate(${d.y},${d.x})`);
@@ -314,12 +384,20 @@ function renderMindMap(data) {
     nodeUpdate
       .select("circle")
       .attr("fill", (d) =>
-        d._children
-          ? "#7c9fff"
-          : d.depth === 0
+        d.match
+          ? "#8cffc7"
+          : d._children
             ? "#7c9fff"
-            : "rgba(124, 159, 255, 0.92)",
-      );
+            : d.depth === 0
+              ? "#7c9fff"
+              : "rgba(124, 159, 255, 0.92)",
+      )
+      .attr("stroke", (d) => (d.match ? "#ffffff" : "rgba(255,255,255,0.24)"))
+      .attr("stroke-width", (d) => (d.match ? 2.5 : 1.5));
+
+    nodeUpdate
+      .select("text.node-label")
+      .attr("fill", (d) => (d.match ? "#05070d" : "#eef3ff"));
 
     node.exit().remove();
 
@@ -334,6 +412,9 @@ function renderMindMap(data) {
   }
 
   update(root);
+  if (searchQuery && typeof highlightMatches === "function") {
+    highlightMatches(searchQuery);
+  }
 }
 
 (async function init() {
@@ -341,6 +422,14 @@ function renderMindMap(data) {
   populateFileSelect(files);
   if (files.length) {
     fileSelect.value = files[0];
+  }
+  if (searchInput) {
+    searchInput.addEventListener("input", (event) => {
+      searchQuery = normalizeText(event.target.value);
+      if (typeof highlightMatches === "function") {
+        highlightMatches(searchQuery);
+      }
+    });
   }
   if (saveImageButton) {
     saveImageButton.addEventListener("click", async () => {

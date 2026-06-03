@@ -172,6 +172,41 @@ button.secondary {
   text-align: right;
 }
 
+.viewer-search {
+  flex: 1 1 240px;
+  max-width: 360px;
+}
+
+.viewer-search input {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  outline: none;
+}
+
+.viewer-search input::placeholder {
+  color: var(--muted);
+}
+
+.node.match circle {
+  fill: #8cffc7;
+  stroke: #fff;
+  stroke-width: 2.5;
+}
+
+.node.match text.node-label {
+  fill: url(#match-gradient);
+  filter: url(#match-glow);
+  font-weight: 700;
+}
+
+.node.match text.node-label tspan {
+  fill: url(#match-gradient);
+}
+
 .zoom-controls {
   display: flex;
   gap: 8px;
