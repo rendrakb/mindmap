@@ -88,7 +88,7 @@ function computeFitZoomTransform(svgElement, zoomBehavior, contentGroup, padding
 }
 
 const LAYOUT = {
-  margin: { top: 48, right: 80, bottom: 48, left: 160 },
+  margin: { top: 12, right: 80, bottom: 48, left: 160 },
   columnGap: 52,
   minColumnWidth: 96,
   lineHeight: 26,
@@ -297,7 +297,12 @@ function renderMindMap(data) {
 
   let { width, height, xMin } = computeChartDimensions(root, margin);
 
-  chartContainer.style.height = `${height}px`;
+  function setChartContainerHeight(rawHeight) {
+    const chartHeight = Math.max(380, rawHeight);
+    chartContainer.style.height = `${chartHeight}px`;
+  }
+
+  setChartContainerHeight(height);
 
   const svg = d3
     .select(chartContainer)
@@ -331,7 +336,7 @@ function renderMindMap(data) {
 
   const zoomBehavior = d3
     .zoom()
-    .scaleExtent([0.5, 4])
+    .scaleExtent([0.15, 10])
     .on("zoom", (event) => {
       zoomGroup.attr("transform", event.transform);
     });
@@ -483,7 +488,7 @@ function renderMindMap(data) {
     width = dims.width;
     height = dims.height;
     xMin = dims.xMin;
-    chartContainer.style.height = `${height}px`;
+    setChartContainerHeight(height);
     svg.attr("viewBox", [0, 0, width, height]);
     svg.select("rect").attr("width", width).attr("height", height);
     g.attr("transform", `translate(${margin.left},${margin.top - xMin})`);
@@ -699,6 +704,10 @@ function renderMindMap(data) {
       if (typeof requestExpandAll === "function") requestExpandAll();
     });
   }
+
+  window.addEventListener("resize", () => {
+    if (typeof requestResetZoom === "function") requestResetZoom(0);
+  });
 })();
 
 function downloadBlob(blob, fileName) {
