@@ -326,10 +326,9 @@ function renderMindMap(data) {
     function buildSearchQuery(node) {
       const ancestry = node
         .ancestors()
-        .reverse()
         .map((item) => item.data.title)
         .filter(Boolean);
-      return encodeURIComponent(ancestry.join(" "));
+      return encodeURIComponent(ancestry.join(", "));
     }
 
     const label = nodeEnter
