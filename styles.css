@@ -85,10 +85,6 @@ select {
   display: block;
 }
 
-.panel-header {
-  margin-bottom: 24px;
-}
-
 .controls {
   display: grid;
   gap: 16px;
@@ -363,6 +359,10 @@ button.secondary {
 .link {
   stroke: rgba(255, 255, 255, 0.2);
   stroke-linecap: round;
+}
+
+.instructions {
+  font-size: 0.9rem;
 }
 
 @media (max-width: 720px) {

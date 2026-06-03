@@ -20,16 +20,32 @@
       <main>
         <section id="landing" class="card panel visible">
           <div class="panel-header"></div>
-
           <div class="controls">
             <div class="select-row">
               <select id="fileSelect"></select>
               <button id="loadButton" class="primary">Load</button>
             </div>
+            <div class="instructions">
+              <p>How to make your own mindmap:</p>
+              <ol>
+                <li>Download the example JSON file as reference</li>
+                <li>Make your own JSON file accordingly</li>
+                <li>Upload your JSON file to load the mind map</li>
+              </ol>
+            </div>
             <div class="download-row">
-              <button id="downloadJsonButton" class="secondary">Download JSON</button>
-              <button id="uploadJsonButton" class="secondary">Upload JSON</button>
-              <input id="uploadInput" type="file" accept=".json,application/json" hidden />
+              <button id="downloadJsonButton" class="secondary">
+                Download JSON
+              </button>
+              <button id="uploadJsonButton" class="secondary">
+                Upload JSON
+              </button>
+              <input
+                id="uploadInput"
+                type="file"
+                accept=".json,application/json"
+                hidden
+              />
             </div>
           </div>
         </section>
