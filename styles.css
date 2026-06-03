@@ -385,6 +385,13 @@ button.secondary {
   font-size: 0.9rem;
 }
 
+.footer {
+  font-size: 0.5em;
+  position: fixed;
+  bottom: 0px;
+  left: 50%;
+}
+
 @media (max-width: 720px) {
   .page-shell {
     padding: 32px;

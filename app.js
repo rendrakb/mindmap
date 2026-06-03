@@ -847,6 +847,54 @@ function buildExportableSvgString(svgNode, omitSelector = null) {
     exportSvg.querySelectorAll(omitSelector).forEach((node) => node.remove());
   }
 
+  const computedStyle = window.getComputedStyle(svgNode);
+  const watermarkFontSize = computedStyle.fontSize || "15px";
+  const watermarkFontFamily = computedStyle.fontFamily || "Inter, sans-serif";
+  const watermarkText = "rendrakb.github.io/mindmap";
+  const watermarkColor = "rgba(255,255,255,0.18)";
+  const watermarkOffset = 12;
+  const fontSizeValue = parseFloat(watermarkFontSize) || 15;
+  const watermarkTextLengthEstimate =
+    watermarkText.length * fontSizeValue * 0.55;
+  const watermarkSpacing = Math.max(
+    watermarkTextLengthEstimate + 28,
+    fontSizeValue * 6,
+    140,
+  );
+  const availableHeight = vbH - watermarkOffset * 2;
+  const repeatCount = Math.max(
+    1,
+    Math.floor(availableHeight / watermarkSpacing),
+  );
+  const firstY =
+    vbY +
+    watermarkOffset +
+    (availableHeight - (repeatCount - 1) * watermarkSpacing) / 2;
+
+  const createWatermarkColumn = (xPos) => {
+    for (let i = 0; i < repeatCount; i += 1) {
+      const yPos = firstY + i * watermarkSpacing;
+      const textElement = document.createElementNS(
+        "http://www.w3.org/2000/svg",
+        "text",
+      );
+      textElement.setAttribute("x", `${xPos}`);
+      textElement.setAttribute("y", `${yPos}`);
+      textElement.setAttribute("fill", watermarkColor);
+      textElement.setAttribute("font-size", watermarkFontSize);
+      textElement.setAttribute("font-family", watermarkFontFamily);
+      textElement.setAttribute("text-anchor", "middle");
+      textElement.setAttribute("dominant-baseline", "middle");
+      textElement.setAttribute("transform", `rotate(-90 ${xPos} ${yPos})`);
+      textElement.textContent = watermarkText;
+      exportSvg.appendChild(textElement);
+    }
+  };
+
+  [vbX + watermarkOffset, vbX + vbW - watermarkOffset].forEach(
+    createWatermarkColumn,
+  );
+
   exportSvg.setAttribute("viewBox", `${vbX} ${vbY} ${vbW} ${vbH}`);
   exportSvg.setAttribute("width", vbW);
   exportSvg.setAttribute("height", vbH);
