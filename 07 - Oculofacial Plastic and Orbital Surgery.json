@@ -1,0 +1,1546 @@
+{
+  "title": "Oculofacial Plastic and Orbital Surgery",
+  "type": "root",
+  "children": [
+    {
+      "title": "PART I: ORBIT",
+      "children": [
+        {
+          "title": "Orbital Anatomy",
+          "children": [
+            {
+              "title": "Bony Orbit",
+              "children": [
+                {
+                  "title": "Volume: ~30mL adult; pear-shaped; widest 1cm behind orbital rim"
+                },
+                {
+                  "title": "7 bones: frontal, zygomatic, maxilla, palatine, lacrimal, ethmoid, sphenoid"
+                },
+                {
+                  "title": "Roof: frontal bone (lacrimal fossa anterolateral; trochlear fossa anteromedial); thin posteriorly → frontal lobe"
+                },
+                {
+                  "title": "Lateral wall: strongest; zygomatic (anterior) + greater wing of sphenoid (posterior); separates orbit from temporal fossa/middle cranial fossa"
+                },
+                {
+                  "title": "Medial wall: thinnest (lamina papyracea = ethmoid); adjacent to ethmoid sinuses; fractures easily; conducts infection from sinuses"
+                },
+                {
+                  "title": "Floor: maxilla (body) + zygomatic + palatine; thinnest at infraorbital groove; overlies maxillary sinus; blow-out fracture site"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Apertures",
+              "children": [
+                {
+                  "title": "Optic canal: lesser wing of sphenoid; CN II + ophthalmic artery; 5-6mm long"
+                },
+                {
+                  "title": "Superior orbital fissure (SOF): between greater and lesser wings of sphenoid; CN III, IV, V1 (lacrimal, frontal, nasociliary), VI, superior ophthalmic vein, sympathetic fibers"
+                },
+                {
+                  "title": "SOF mnemonic: 'Lazy French Tarts Sit Naked In Anticipation' (Lacrimal, Frontal, Trochlear, Superior div CN III, Nasociliary, Inferior div CN III, Abducens)"
+                },
+                {
+                  "title": "Inferior orbital fissure: between greater sphenoid wing and maxilla/palatine; V2 (infraorbital), inferior ophthalmic vein, zygomatic nerve"
+                },
+                {
+                  "title": "Anterior ethmoid foramen: medial wall; anterior ethmoid artery + nerve (~24mm from anterior lacrimal crest)"
+                },
+                {
+                  "title": "Posterior ethmoid foramen: ~12mm posterior to anterior; posterior ethmoid artery"
+                },
+                {
+                  "title": "Nasolacrimal canal: medial floor; carries nasolacrimal duct to inferior meatus"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Soft Tissues",
+              "children": [
+                {
+                  "title": "Periorbita: periosteum lining orbit; loosely attached except at sutures and foramina; surgical plane for subperiosteal dissection"
+                },
+                {
+                  "title": "Intraorbital ON: 25-30mm long; redundant (allows eye movement); surrounded by meninges"
+                },
+                {
+                  "title": "Annulus of Zinn: fibrous ring at orbital apex; origin of 4 recti; SOF structures inside vs outside ring"
+                },
+                {
+                  "title": "Orbital fat: extraocular (between periorbita and muscle cone) + intraconal; maintains globe position; herniation through septum = dermatochalasis"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Vasculature",
+              "children": [
+                {
+                  "title": "Ophthalmic artery: first branch of ICA; enters optic canal; branches: central retinal artery, posterior ciliary arteries, muscular branches, anterior ethmoid, posterior ethmoid, lacrimal, supraorbital, supratrochlear"
+                },
+                {
+                  "title": "Venous drainage: superior ophthalmic vein → cavernous sinus; inferior ophthalmic vein → cavernous sinus or pterygoid plexus; no valves → bidirectional flow"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Nerves",
+              "children": [
+                {
+                  "title": "CN V1 (ophthalmic): lacrimal nerve (LG + lateral lid) + frontal nerve (supraorbital + supratrochlear) + nasociliary nerve (corneal sensation, ciliary ganglion)"
+                },
+                {
+                  "title": "Ciliary ganglion: lies lateral to ON; parasympathetic (CN III) + sympathetic + sensory (nasociliary) roots; short ciliary nerves → sphincter + ciliary muscle"
+                },
+                {
+                  "title": "Lacrimal gland: secretomotor from CN VII via greater petrosal nerve → vidian nerve → pterygopalatine ganglion → maxillary nerve → zygomatic nerve → lacrimal nerve"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Evaluation of Orbital Disorders",
+          "children": [
+            {
+              "title": "History",
+              "children": [
+                {
+                  "title": "Pain: acute + severe → hemorrhage, infection, mucormycosis, acute angle closure; dull aching → inflammation (TED, scleritis, pseudotumor); sharp lancinating → nerve involvement"
+                },
+                {
+                  "title": "Onset speed: seconds-hours → hemorrhage, CCF; days → cellulitis, pseudotumor; weeks-months → neoplasm, TED"
+                },
+                {
+                  "title": "Proptosis: axial (intraconal) vs eccentric (extraconal, localises to direction away from lesion)"
+                }
+              ]
+            },
+            {
+              "title": "Physical Examination",
+              "children": [
+                {
+                  "title": "Proptosis measurement: Hertel exophthalmometer; normal <20mm; asymmetry >2mm significant"
+                },
+                {
+                  "title": "Resistance to retropulsion: increased in TED, tumour; pulsatile = CCF or bony defect (NF1)"
+                },
+                {
+                  "title": "Globe position: axial (intraconal mass) vs displacement (extraconal; displaced away from lesion)"
+                },
+                {
+                  "title": "Palpation: anterior orbital rim for masses; lymph nodes; scalp for neurofibromas"
+                },
+                {
+                  "title": "Auscultation: bruit → CCF (pulsatile tinnitus + red eye + raised IOP + dilated episcleral vessels)"
+                }
+              ]
+            },
+            {
+              "title": "Imaging",
+              "children": [
+                {
+                  "title": "CT: bone detail (fractures, erosion, calcification); metallic foreign bodies; fast; no MRI contraindication issues; axial + coronal cuts; IV contrast for vascular lesions"
+                },
+                {
+                  "title": "MRI: soft tissue, ON, brain; T1 (fat bright, anatomy), T2 (water/fluid bright, inflammation), fat-suppressed Gad (ON enhancement, active inflammation)"
+                },
+                {
+                  "title": "CT preferred: trauma, bony lesions, thyroid eye disease (EOM measurements), acute setting, pre-op decompression planning"
+                },
+                {
+                  "title": "MRI preferred: ON/brain involvement, optic nerve sheath meningioma, soft tissue characterisation, cavernous sinus"
+                },
+                {
+                  "title": "Ultrasound: A + B scan; acoustic characteristics of lesions; cavernous hemangioma (high internal reflectivity); compressibility; ONSD >5mm → raised ICP"
+                },
+                {
+                  "title": "Angiography/MRA/CTA: CCF, AVM, vascular malformations; preoperative planning for highly vascular tumors"
+                }
+              ]
+            },
+            {
+              "title": "Biopsy: anterior orbitotomy for accessible lesions; fine needle aspiration (FNA) for lymphoma, metastasis; incisional biopsy if FNA insufficient; excisional for small encapsulated lesions"
+            }
+          ]
+        },
+
+        {
+          "title": "Congenital Orbital Anomalies",
+          "children": [
+            {
+              "title": "Anophthalmia: absent globe; stimulate socket growth with progressively sized conformers from birth; prevents orbital hypoplasia; dermis fat graft or implant later"
+            },
+            {
+              "title": "Microphthalmia: small globe; conformers/expanders for socket development; associated CHARGE syndrome, coloboma, chromosomal anomalies"
+            },
+            {
+              "title": "Craniofacial Syndromes",
+              "children": [
+                {
+                  "title": "Crouzon: bilateral coronal synostosis; hypertelorism; proptosis (shallow orbits); exorbitism; midface hypoplasia; FGFR2; no syndactyly (unlike Apert)"
+                },
+                {
+                  "title": "Apert: coronal synostosis + syndactyly; exorbitism; V-shaped palate; FGFR2"
+                },
+                {
+                  "title": "Treatment: multidisciplinary; neurosurgical vault expansion in infancy; Le Fort III / monobloc advancement for midface; orbital decompression if corneal exposure"
+                }
+              ]
+            },
+            {
+              "title": "Congenital Orbital Tumors",
+              "children": [
+                {
+                  "title": "Dermoid cyst: most common benign orbital tumor in children; ectodermal inclusion at suture lines; superotemporal (zygomaticofrontal suture, most common); deep orbital dermoids erode bone; excise intact (rupture = intense inflammation)"
+                },
+                {
+                  "title": "Teratoma: rare; all 3 germ layers; massive proptosis at birth; surgical excision"
+                },
+                {
+                  "title": "Ectopic lacrimal gland: superotemporal orbit; no ductal connection; slow proptosis; excision"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Orbital Inflammatory & Infectious Disorders",
+          "children": [
+            {
+              "title": "Orbital Cellulitis",
+              "children": [
+                {
+                  "title": "Preseptal (periorbital): anterior to orbital septum; lid swelling + erythema; no proptosis, no motility restriction; usually Staph/Strep; oral antibiotics; admit if young, systemic, no improvement"
+                },
+                {
+                  "title": "Orbital (postseptal): proptosis + restricted motility + pain on movement + chemosis + fever; most from ethmoidal sinusitis; Staph aureus, Strep, H. influenzae; risk: cavernous sinus thrombosis, ON compression, vision loss"
+                },
+                {
+                  "title": "Chandler classification: I (inflammatory oedema) → II (orbital oedema) → III (subperiosteal abscess) → IV (orbital abscess) → V (cavernous sinus thrombosis)"
+                },
+                {
+                  "title": "Management: IV antibiotics (ceftriaxone + vancomycin); CT scan; surgical drainage for: SPA not responding 24-48h, large abscess, vision threat, frontal sinusitis, all type IV/V"
+                },
+                {
+                  "title": "Cavernous sinus thrombosis: bilateral signs, meningism, high fever, septic emboli; IV heparin (controversial) + broad antibiotics"
+                }
+              ]
+            },
+            {
+              "title": "Life-Threatening Infections",
+              "children": [
+                {
+                  "title": "Mucormycosis: Rhizopus/Mucor; diabetic ketoacidosis or immunocompromised (HIV, haematologic malignancy); rapidly fatal; black eschar nasal mucosa; angioinvasive → cavernous sinus; orbital apex syndrome; treatment: liposomal amphotericin B + aggressive surgical debridement ± exenteration; high mortality"
+                },
+                {
+                  "title": "Necrotising fasciitis: rare periorbital; polymicrobial; rapidly progressive; systemic toxicity; crepitus (gas on CT); immediate surgical debridement + IV antibiotics; high mortality"
+                },
+                {
+                  "title": "Aspergillosis: chronic invasive (immunocompetent) vs acute invasive (immunocompromised); CT: hyperdense mass in sinus; treat with voriconazole + surgical debridement"
+                }
+              ]
+            },
+            {
+              "title": "Thyroid Eye Disease (TED/Graves Ophthalmopathy)",
+              "children": [
+                {
+                  "title": "Pathophysiology",
+                  "children": [
+                    {
+                      "title": "Autoimmune: TSH-R Ab activates orbital fibroblasts → glycosaminoglycan accumulation + adipogenesis → EOM + fat expansion → proptosis"
+                    },
+                    {
+                      "title": "IGF-1R (insulin-like growth factor 1 receptor) also implicated; target for teprotumumab"
+                    }
+                  ]
+                },
+                {
+                  "title": "Clinical Features",
+                  "children": [
+                    {
+                      "title": "Lid retraction (most common sign; Dalrymple sign) + lid lag (von Graefe sign); proptosis; periorbital oedema; chemosis"
+                    },
+                    {
+                      "title": "Restrictive myopathy: IR most common → limited upgaze; then MR → limited abduction; SO + LR least affected"
+                    },
+                    {
+                      "title": "Dysthyroid optic neuropathy (DON): apical crowding → compressive optic neuropathy; RAPD; colour desaturation; urgent treatment"
+                    }
+                  ]
+                },
+                {
+                  "title": "Assessment Tools",
+                  "children": [
+                    {
+                      "title": "CAS (Clinical Activity Score): 7-point scale; ≥3/7 = active disease; assess: pain at rest, pain on movement, redness of lid, redness of conjunctiva, chemosis, swelling of caruncle, lid oedema"
+                    },
+                    {
+                      "title": "NOSPECS classification: severity grading (No signs, Only signs, Soft tissue, Proptosis, EOM, Cornea, Sight)"
+                    },
+                    {
+                      "title": "Hertel exophthalmometer: proptosis measurement; normal <20mm; >21mm or asymmetry >2mm = significant"
+                    }
+                  ]
+                },
+                {
+                  "title": "Management",
+                  "children": [
+                    {
+                      "title": "Thyroid control: euthyroid state; avoid radioiodine in active moderate-severe TED (worsens)"
+                    },
+                    {
+                      "title": "Smoking cessation: strongly worsens TED; doubles risk; must advise"
+                    },
+                    {
+                      "title": "Active disease (CAS ≥3): IV methylprednisolone pulse (European standard; 500mg weekly ×6 then 250mg ×6); teprotumumab (anti-IGF-1R; FDA approved; reduces proptosis ~2-3mm); selenium supplementation for mild disease"
+                    },
+                    {
+                      "title": "DON: IV steroids immediately; orbital decompression if no improvement within 2 weeks"
+                    },
+                    {
+                      "title": "Surgical sequence (inactive disease only): 1. Orbital decompression (if needed) → 2. Strabismus surgery (adjustable sutures) → 3. Eyelid surgery (lid retraction/ptosis)"
+                    },
+                    {
+                      "title": "Orbital decompression: remove fat ± bony walls; 1-wall (lateral, safest; ~3mm), 2-wall (medial+floor, most common; ~4-5mm), 3-wall (lateral+medial+floor; up to 6mm); balanced decompression (medial+lateral) reduces induced strabismus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-Infectious Orbital Inflammation",
+              "children": [
+                {
+                  "title": "Nonspecific Orbital Inflammation (NSOI / Orbital Pseudotumor)",
+                  "children": [
+                    {
+                      "title": "Most common cause of painful orbital mass in adults; no identifiable aetiology; idiopathic inflammatory; any orbital structure"
+                    },
+                    {
+                      "title": "Subtypes: myositic (EOM, including tendon = distinguishes from TED), dacryoadenitis (lacrimal gland), sclerosing (fibrous, least responsive to steroids), diffuse, Tolosa-Hunt (cavernous sinus)"
+                    },
+                    {
+                      "title": "Diagnosis of exclusion: r/o lymphoma (biopsy!), TED, IgG4-RD, sarcoid, vasculitis, infection"
+                    },
+                    {
+                      "title": "Treatment: oral prednisolone 1mg/kg/day; dramatic response (within 48-72h) is characteristic and diagnostic; if no response → biopsy urgently (may be lymphoma)"
+                    }
+                  ]
+                },
+                {
+                  "title": "IgG4-Related Disease (IgG4-RD): systemic fibro-inflammatory; elevated serum IgG4; orbital + lacrimal gland involvement; bilateral; sclerosing lesions; biopsy essential (storiform fibrosis, obliterative phlebitis, IgG4:IgG ratio >40%); treat with steroids ± rituximab"
+                },
+                {
+                  "title": "Sarcoidosis: granulomatous; lacrimal gland most common orbital site; bilateral parotid + lacrimal enlargement (Heerfordt syndrome); CN VII palsy; serum ACE, chest CT; treat with systemic steroids"
+                },
+                {
+                  "title": "GPA (Granulomatosis with polyangiitis/Wegener): c-ANCA; orbital mass (sclerosing NSOI-like); saddle-nose deformity; renal/pulmonary; treat with rituximab or cyclophosphamide + steroids"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Orbital Neoplasms and Malformations",
+          "children": [
+            {
+              "title": "Vascular Lesions",
+              "children": [
+                {
+                  "title": "Infantile (capillary) hemangioma: most common orbital tumor in children; rapid growth (6-18 months) then involutes; proptosis + amblyopia risk; propranolol oral (first-line); intralesional triamcinolone if unresponsive"
+                },
+                {
+                  "title": "Lymphatic malformation: non-involuting; infiltrative; worsens with URTI (lymphoid hyperplasia); chocolate cyst (spontaneous haemorrhage); treat acutely for compressive symptoms; sclerotherapy (doxycycline, OK-432) or surgical debulking"
+                },
+                {
+                  "title": "Distensible venous malformation (orbital varix): dilates with Valsalva/head-down; intermittent proptosis; CT in Valsalva position; sclerotherapy or surgical excision"
+                },
+                {
+                  "title": "Cavernous venous malformation (cavernous hemangioma): most common benign orbital tumor in adults; well-circumscribed; intraconal; slow painless proptosis; high internal reflectivity on A-scan; no spontaneous regression; surgical excision if symptomatic"
+                },
+                {
+                  "title": "Carotid-Cavernous Fistula (CCF)",
+                  "children": [
+                    {
+                      "title": "Direct (high-flow): ICA → CS; usually traumatic; pulsatile proptosis + bruit + chemosis + elevated IOP + dilated arterialized episcleral vessels + CN palsies"
+                    },
+                    {
+                      "title": "Indirect/dural (low-flow): dural branches → CS; spontaneous; older women; subtle; red eye + raised IOP"
+                    },
+                    {
+                      "title": "Diagnosis: CT/MRI shows dilated superior ophthalmic vein; DSA (gold standard) confirms and allows treatment"
+                    },
+                    {
+                      "title": "Treatment: endovascular embolisation (transarterial coil; direct CCF) or transvenous (via inferior petrosal sinus or SOV); direct compression of carotid can help indirect CCF"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neural Tumors",
+              "children": [
+                {
+                  "title": "Optic Nerve Glioma",
+                  "children": [
+                    {
+                      "title": "Pilocytic astrocytoma; most in children <10 years; 50% associated with NF1"
+                    },
+                    {
+                      "title": "NF1-associated: usually bilateral; indolent; observe; rarely treated"
+                    },
+                    {
+                      "title": "Sporadic: more aggressive; may involve chiasm/hypothalamus; vision loss; proptosis"
+                    },
+                    {
+                      "title": "MRI: fusiform thickening of ON; kinked appearance; no kinking = dolichoectasia (tortuous)"
+                    },
+                    {
+                      "title": "Treatment: controversial; observe if stable/NF1; chemotherapy (carboplatin+vincristine) if progressive; radiation if severe; surgery only if blind eye and disfiguring proptosis"
+                    }
+                  ]
+                },
+                {
+                  "title": "Optic nerve sheath meningioma: adult women; ON compression; optociliary shunt vessels (chronic compression); CT: tram-track calcification; MRI fat-sat: enhancement around ON; treatment: fractionated stereotactic radiotherapy (FSRT); surgery sacrifices vision"
+                },
+                {
+                  "title": "Neurofibroma: NF1; plexiform = pathognomonic (S-shaped lid, pulsatile proptosis from absent greater wing of sphenoid); diffuse + solitary types; surgery if disfiguring; high recurrence"
+                },
+                {
+                  "title": "Schwannoma: encapsulated; usually superior orbit; well-defined; surgical excision"
+                }
+              ]
+            },
+            {
+              "title": "Mesenchymal Tumors",
+              "children": [
+                {
+                  "title": "Rhabdomyosarcoma: most common PRIMARY malignant orbital tumor in children; mean age 7-8 years; rapidly progressive proptosis; superior nasal orbit most common; CT: poorly defined soft tissue ± bone erosion; biopsy then multimodal (chemotherapy + radiation); 90% survival"
+                },
+                {
+                  "title": "Fibrous histiocytoma (solitary fibrous tumor): adults; well-encapsulated; surgical excision; low malignant potential"
+                }
+              ]
+            },
+            {
+              "title": "Lymphoproliferative Disorders",
+              "children": [
+                {
+                  "title": "Orbital lymphoma: most common primary orbital malignancy in adults; usually MALT (marginal zone B-cell); salmon-colored conjunctival/forniceal lesion ('salmon patch'); painless; bilateral in 25%; 20-30% systemic lymphoma"
+                },
+                {
+                  "title": "Staging: PET-CT + bone marrow biopsy; treatment: radiation (local MALT) or systemic chemo (high-grade/bilateral/systemic)"
+                },
+                {
+                  "title": "Distinction from pseudotumor: lymphoma = no pain, no dramatic steroid response; biopsy essential"
+                }
+              ]
+            },
+            {
+              "title": "Lacrimal Gland Tumors",
+              "children": [
+                {
+                  "title": "Epithelial tumors: 50% of lacrimal gland masses (other 50% = lymphoid/inflammatory)"
+                },
+                {
+                  "title": "Pleomorphic adenoma (benign mixed cell tumor): most common epithelial; painless, slow, superotemporal; CT: smooth bony fossa (remodelling, no erosion); EXCISE INTACT (capsule violation → malignant transformation/recurrence); do NOT biopsy first"
+                },
+                {
+                  "title": "Adenoid cystic carcinoma (ACC): most common malignant; PAINFUL (perineural invasion); rapid; bone erosion on CT; cylindromatous (cribriform) pattern with Swiss-cheese appearance; aggressive surgery + radiation; 5-year survival ~20-50%; perineural spread to intracranial"
+                },
+                {
+                  "title": "Rule of 50s: 50% LG masses = epithelial; 50% epithelial = benign; 50% benign = pleomorphic adenoma"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Metastases",
+              "children": [
+                {
+                  "title": "Adults: breast (most common; can cause enophthalmos = scirrhous type), lung (2nd), prostate, renal cell, GI; any age: neuroblastoma (raccoon eyes in children)"
+                },
+                {
+                  "title": "Presentation: rapid proptosis, motility restriction, pain; enophthalmos (breast scirrhous type)"
+                },
+                {
+                  "title": "Management: palliation; systemic treatment; radiation for pain/vision; biopsy if no known primary"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Orbital Trauma",
+          "children": [
+            {
+              "title": "Orbital Floor Fractures (Blow-Out)",
+              "children": [
+                {
+                  "title": "Mechanism: blunt trauma to globe/orbit → increased intraorbital pressure → floor fractures at infraorbital groove (thinnest)"
+                },
+                {
+                  "title": "Signs: enophthalmos (fat/muscle herniation into maxillary sinus), hypoglobus, diplopia (inferior/upgaze restriction from IR/IO entrapment), infraorbital hypoaesthesia (V2)"
+                },
+                {
+                  "title": "CT: coronal and axial; shows fracture defect, herniation of orbital contents, 'trapdoor' fracture (children = hinge; EOM entrapment)"
+                },
+                {
+                  "title": "Indications for surgery: enophthalmos >2mm, restricted motility with strabismus (forced duction positive), trapdoor with muscle entrapment (URGENT in children; oculocardiac reflex, ischaemic muscle), large defect >50% floor"
+                },
+                {
+                  "title": "Timing: early (within 2 weeks) if indicated; delay for oedema resolution (7-10 days) unless trapdoor with entrapment (children = same day)"
+                },
+                {
+                  "title": "Surgical approach: subciliary, transconjunctival, or transantral; implant (titanium mesh, porous polyethylene, nylon foil) to cover defect"
+                }
+              ]
+            },
+            {
+              "title": "Other Orbital Fractures",
+              "children": [
+                {
+                  "title": "Zygomatic (tripod) fracture: zygomatic arch + ZF suture + ZM suture; malar flattening; trismus; lateral canthal dystopia; orbital floor involvement; ORIF via multiple approaches"
+                },
+                {
+                  "title": "Orbital roof fracture: pneumocephalus; pulsatile proptosis (dural tear → CSF); enophthalmos; frontal lobe injury; neurosurgical consultation"
+                },
+                {
+                  "title": "Medial wall fracture: medial rectus entrapment → adduction restriction; nose blowing contraindicated (emphysema); often observed unless significant entrapment"
+                },
+                {
+                  "title": "Le Fort fractures: midfacial; I = floating palate; II = pyramidal; III = craniofacial dysjunction; all involve pterygoid plates; panfacial fractures"
+                },
+                {
+                  "title": "Orbital apex fracture: ON injury + CN palsy; optic canal decompression if significant vision loss"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Compartment Syndrome (OCS)",
+              "children": [
+                {
+                  "title": "OPHTHALMIC EMERGENCY; retrobulbar haemorrhage → elevated intraorbital pressure → ON ischaemia → irreversible blindness within 90-120 minutes"
+                },
+                {
+                  "title": "Signs: proptosis + rock-hard orbit + loss of RAPD + vision loss + markedly elevated IOP; severe pain"
+                },
+                {
+                  "title": "Treatment: IMMEDIATE lateral canthotomy + inferior cantholysis at bedside (do NOT wait for CT or theatre); releases orbital septum; reduces orbital pressure; then inferior cantholysis if needed; then CT and surgery"
+                },
+                {
+                  "title": "Also: IV mannitol, acetazolamide, high-flow O₂ adjuncts; definitive treatment is surgical drainage of haematoma"
+                }
+              ]
+            },
+            {
+              "title": "Traumatic optic neuropathy: indirect injury (forces transmitted to optic canal); no proven treatment; high-dose steroids controversial (IONTS showed no benefit over observation)"
+            },
+            {
+              "title": "Intraorbital foreign body: CT orbits (not MRI if metallic); organic (wood) can mimic fat on CT; remove if causing symptoms, infection, or in contact with globe; inert metal can often observe"
+            }
+          ]
+        },
+
+        {
+          "title": "Orbital Surgery",
+          "children": [
+            {
+              "title": "Surgical Approaches",
+              "children": [
+                {
+                  "title": "Superior approach: eyelid crease incision; upper eyelid; access to superior orbit, LG, superior rectus; risk: ptosis, LPS injury"
+                },
+                {
+                  "title": "Inferior approach: transconjunctival (inside lower fornix) or subciliary; floor, inferior orbit; risk: ectropion, lower lid retraction"
+                },
+                {
+                  "title": "Medial approach: Lynch incision (skin between medial canthus and nose) or transcaruncular (through caruncle); medial orbit, ethmoid; risk: DCR injury, epiphora"
+                },
+                {
+                  "title": "Lateral approach: lateral canthotomy + cantholysis; Kronlein approach (removes lateral wall); deep lateral intraconal access; lacrimal gland, lateral rectus; risk: lateral canthal dystopia"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Decompression",
+              "children": [
+                {
+                  "title": "Indications: DON (urgent), disfiguring proptosis, corneal exposure, pain, headache due to orbital pressure (TED, IIH-related)"
+                },
+                {
+                  "title": "Approaches: endoscopic (medial/medial+floor, most common for TED; ENT collaboration), lateral (fat ± bone), balanced (medial+lateral, fewer strabismus complications), 3-wall"
+                },
+                {
+                  "title": "Complications: CSF leak (roof), infraorbital hypoaesthesia (floor), new strabismus (medial wall — displaces IR medially), enophthalmos (overcorrection), haemorrhage, worsened ptosis"
+                }
+              ]
+            },
+            {
+              "title": "Complications of Orbital Surgery",
+              "children": [
+                {
+                  "title": "Retrobulbar haemorrhage: most feared; lateral canthotomy + inferior cantholysis immediately"
+                },
+                { "title": "Infection: orbital cellulitis post-operatively" },
+                {
+                  "title": "Strabismus: new or worsened; most common after medial wall decompression"
+                },
+                {
+                  "title": "Enophthalmos: over-decompression; may need re-implantation"
+                },
+                {
+                  "title": "CSF leak: roof surgery; persistent drainage → urgent neurosurgical consultation"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "The Anophthalmic Socket",
+          "children": [
+            {
+              "title": "Enucleation vs Evisceration vs Exenteration",
+              "children": [
+                {
+                  "title": "Evisceration: removes intraocular contents; preserves scleral shell; better motility; risk of sympathetic ophthalmia (remove all uveal tissue); contraindicated if intraocular malignancy"
+                },
+                {
+                  "title": "Enucleation: removes entire globe; indicated for intraocular tumour (retinoblastoma, uveal melanoma), blind painful eye, severe trauma, infection; long optic nerve stump needed for Rb staging"
+                },
+                {
+                  "title": "Exenteration: removes all orbital contents (globe + lids + orbital fat ± bony walls); for malignancy (sebaceous carcinoma, invasive SCC, invasive melanoma, mucormycosis); lid-sparing if possible for prosthetic fitting"
+                }
+              ]
+            },
+            {
+              "title": "Orbital Implants",
+              "children": [
+                {
+                  "title": "Placed at enucleation/evisceration to restore volume and provide motility"
+                },
+                {
+                  "title": "Porous polyethylene (Medpor): allows fibrovascular ingrowth; pegged implants for direct prosthesis coupling; good motility"
+                },
+                {
+                  "title": "Hydroxyapatite: porous coralline calcium phosphate; biological; fibrovascular ingrowth; can be pegged"
+                },
+                {
+                  "title": "Acrylic/PMMA: non-porous; simple; less motility; no pegging"
+                },
+                {
+                  "title": "Size: 20-22mm diameter to fill volume; fat graft adjunct for additional volume"
+                }
+              ]
+            },
+            {
+              "title": "Socket Complications",
+              "children": [
+                {
+                  "title": "Implant exposure/extrusion: most common complication; thin conjunctiva over implant; treat with patch graft (buccal mucosa, amniotic membrane) or scleral patch; if extrusion → remove implant"
+                },
+                {
+                  "title": "Deep superior sulcus: inadequate volume; add subconjunctival fat graft or larger prosthesis"
+                },
+                {
+                  "title": "Contracted socket: cicatricial process; progressive fornix shortening; treat with spacer grafts (buccal mucosa, dermis fat graft)"
+                },
+                {
+                  "title": "Ptosis/ectropion/entropion: mechanical or due to poor socket volume; lid surgery after optimising socket volume"
+                }
+              ]
+            },
+            {
+              "title": "Prosthesis: custom acrylic; painted to match fellow eye; polished every 6-12 months; re-made every 5 years; motility from implant + socket tissue transmitted to prosthesis"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART II: PERIOCULAR SOFT TISSUES",
+      "children": [
+        {
+          "title": "Facial & Eyelid Anatomy",
+          "children": [
+            {
+              "title": "Facial Layers",
+              "children": [
+                {
+                  "title": "SMAS (superficial musculoaponeurotic system): fibromuscular layer deep to subcutaneous fat; connects mimetic muscles; continuations: galea (forehead), platysma (neck), temporoparietal fascia (temple)"
+                },
+                {
+                  "title": "Facial danger zones: superficial temporal region (temporal branch of CN VII), nasolabial fold (buccal branches), marginal mandibular nerve (along mandible)"
+                },
+                {
+                  "title": "Fascial spaces: potential spaces between layers; surgical dissection planes"
+                }
+              ]
+            },
+            {
+              "title": "Mimetic Muscles",
+              "children": [
+                {
+                  "title": "Orbicularis oculi: CN VII; pretarsal (blink + lacrimal pump) + preseptal (eyelid closure) + orbital (forced closure + brow depression)"
+                },
+                {
+                  "title": "Frontalis: CN VII; raises brow; no bony attachments; inserts into skin + procerus + corrugators"
+                },
+                {
+                  "title": "Corrugators: glabellar frown lines; depresses medial brow; CN VII"
+                },
+                {
+                  "title": "Procerus: CN VII; transverse nasal root lines (bunny lines)"
+                }
+              ]
+            },
+            {
+              "title": "Facial Nerve (CN VII)",
+              "children": [
+                {
+                  "title": "Exits stylomastoid foramen → parotid gland → 5 terminal branches: Temporal (forehead, upper lid), Zygomatic (lateral canthus, lower lid), Buccal (midface, orbicularis), Marginal mandibular (lower lip depressors), Cervical (platysma)"
+                },
+                { "title": "Mnemonic: To Zanzibar By Motor Car" },
+                {
+                  "title": "Temporal branch: crosses zygomatic arch in superficial temporal fascia; most vulnerable in temporal dissection (facelift)"
+                },
+                {
+                  "title": "Marginal mandibular: runs below mandible; vulnerable in neck dissection + parotid surgery; injury → lower lip asymmetry"
+                }
+              ]
+            },
+            {
+              "title": "Eyelid Layers",
+              "children": [
+                {
+                  "title": "Anterior lamella: skin (thinnest in body, 0.5-1mm) + orbicularis oculi"
+                },
+                {
+                  "title": "Middle lamella: orbital septum (from arcus marginalis to levator aponeurosis [upper] or capsulopalpebral fascia [lower])"
+                },
+                {
+                  "title": "Posterior lamella: tarsus (dense fibrous; upper = 8-10mm, lower = 4-5mm) + conjunctiva"
+                },
+                {
+                  "title": "Critical principle: in reconstruction, replace like with like; use at least 2 of 3 layers from different sources to avoid scarring"
+                }
+              ]
+            },
+            {
+              "title": "Upper Eyelid Retractors",
+              "children": [
+                {
+                  "title": "Levator palpebrae superioris: CN III; origin lesser wing sphenoid (above annulus of Zinn); 37-40mm long; aponeurosis inserts into upper third of tarsus + skin (creates lid crease)"
+                },
+                {
+                  "title": "Müller (superior tarsal) muscle: sympathetic; inserts superior tarsus; 10-12mm; contributes 2mm of lid elevation; Horner syndrome: 2mm ptosis from Müller dysfunction"
+                },
+                {
+                  "title": "Whitnall ligament: condensation of levator sheath 10-12mm above tarsus; fulcrum changes direction of levator force from posterior-anterior to superior-inferior"
+                }
+              ]
+            },
+            {
+              "title": "Canthal Tendons",
+              "children": [
+                {
+                  "title": "Medial canthal tendon (MCT): anterior limb (to anterior lacrimal crest) + posterior limb (to posterior lacrimal crest) + superior limb (to frontal bone)"
+                },
+                {
+                  "title": "Posterior limb of MCT: most important for lid apposition to globe; must be reattached in medial canthal reconstruction"
+                },
+                {
+                  "title": "Lateral canthal tendon (LCT): inserts into Whitnall tubercle (2-3mm inside lateral orbital rim); weaker than MCT; important in lid tightening procedures"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Eyelid Disorders and Neoplasms",
+          "children": [
+            {
+              "title": "Congenital Eyelid Anomalies",
+              "children": [
+                {
+                  "title": "BPES (Blepharophimosis-Ptosis-Epicanthus Inversus Syndrome): AD (FOXL2); bilateral ptosis + blepharophimosis (horizontal fissure shortening) + epicanthus inversus + telecanthus; type I (with premature ovarian failure) + type II (without); surgery: epicanthus correction + ptosis repair + lateral canthoplasty"
+                },
+                {
+                  "title": "Congenital ptosis: poor levator function (LF <4mm); levator dysgenesis (fibrous replacement); lid lag on downgaze; treat urgently if amblyopia risk; frontalis sling if LF <4mm; levator resection if LF 4-7mm"
+                },
+                {
+                  "title": "Epiblepharon: horizontal skin fold rides over lid margin; lashes rotated inward; common Asian children; spontaneous resolution; surgical correction if corneal erosion"
+                },
+                {
+                  "title": "Epicanthus: skin fold from upper to lower lid at medial canthus; types: inversus (most common), tarsalis, palpebralis, supraciliaris; corrected with Y-V or Mustardé procedure if functional/cosmetic issue"
+                }
+              ]
+            },
+            {
+              "title": "Acquired Eyelid Disorders",
+              "children": [
+                {
+                  "title": "Chalazion: chronic sterile lipogranulomatous inflammation of Meibomian gland; firm non-tender nodule; warm compresses → steroid injection (triamcinolone 0.1-0.2mL) → incision and curettage (I&C) from posterior approach; recurrent = biopsy (r/o sebaceous carcinoma)"
+                },
+                {
+                  "title": "Hordeolum: acute Staphylococcal infection; external (Zeis/Moll glands, at lash base) vs internal (Meibomian gland); warm compresses; topical antibiotics; I&C if pointing"
+                },
+                {
+                  "title": "Floppy eyelid syndrome: rubbery upper tarsus; spontaneous eversion overnight; papillary conjunctivitis; obese middle-aged men; associated OSA (70%); CPAP + lid taping; pentagonal wedge resection"
+                }
+              ]
+            },
+            {
+              "title": "Benign Eyelid Lesions",
+              "children": [
+                {
+                  "title": "Squamous papilloma: HPV or unrelated; filiform or sessile; excision ± base cautery"
+                },
+                {
+                  "title": "Seborrhoeic keratosis: verrucous stuck-on; greasy brown; shave excision or cryotherapy"
+                },
+                {
+                  "title": "Keratoacanthoma: rapidly growing; volcano crater; may spontaneously regress; excise to confirm (resembles SCC)"
+                },
+                {
+                  "title": "Xanthelasma: yellow plaques medial eyelids; lipid-laden histiocytes; check lipids; not always associated with hyperlipidaemia; treat with TCA peel, CO₂ laser, surgical excision; high recurrence rate"
+                },
+                {
+                  "title": "Syringoma: eccrine sweat duct adenoma; small flesh-coloured papules; lower eyelids; women; multiple; CO₂ laser ablation"
+                },
+                {
+                  "title": "Sebaceous hyperplasia: enlarged sebaceous glands; donut-shaped; telangiectasia; biopsy vs sebaceous carcinoma"
+                },
+                {
+                  "title": "Pilomatricoma: calcifying epithelioma (hair matrix cells); children; hard; tent sign; excision"
+                },
+                {
+                  "title": "Naevus: melanocytic; junctional, compound, intradermal types; intradermal most common eyelid naevus; observe or excise"
+                },
+                {
+                  "title": "Capillary hemangioma: see orbital section; strawberry; propranolol"
+                }
+              ]
+            },
+            {
+              "title": "Malignant Eyelid Tumors",
+              "children": [
+                {
+                  "title": "Basal Cell Carcinoma (BCC)",
+                  "children": [
+                    {
+                      "title": "Most common malignant eyelid tumor (90%); lower lid > medial canthus > upper lid > lateral canthus"
+                    },
+                    {
+                      "title": "Subtypes: nodular (most common; pearly, telangiectatic), morphoeaform/sclerosing (most aggressive; scar-like; ill-defined; higher recurrence), superficial, pigmented"
+                    },
+                    {
+                      "title": "Treatment: Mohs micrographic surgery (gold standard; margin-controlled); wide local excision with frozen sections; complete excision essential; radiation for non-surgical candidates"
+                    },
+                    {
+                      "title": "Rarely metastasizes (<0.1%); recurrence risk: morphoeaform, medial canthus, large tumors"
+                    }
+                  ]
+                },
+                {
+                  "title": "Squamous Cell Carcinoma (SCC)",
+                  "children": [
+                    {
+                      "title": "Second most common; upper lid and medial canthus; sun exposure, radiation, HPV, xeroderma pigmentosum"
+                    },
+                    {
+                      "title": "Keratinizing; ulcerating; indurated; perineural invasion; metastases possible (5-10%)"
+                    },
+                    {
+                      "title": "Treatment: wide excision with margin control; sentinel lymph node biopsy if large/perineural; adjuvant radiation for +margins/perineural invasion"
+                    }
+                  ]
+                },
+                {
+                  "title": "Sebaceous Carcinoma",
+                  "children": [
+                    {
+                      "title": "Arises from Meibomian glands or Zeis glands; upper lid most common (more Meibomian glands)"
+                    },
+                    {
+                      "title": "Great masquerader: mimics chronic chalazion, blepharitis, unilateral papillary conjunctivitis"
+                    },
+                    {
+                      "title": "Pagetoid spread: intraepithelial spread to conjunctiva/cornea; map biopsies essential"
+                    },
+                    {
+                      "title": "High mortality (14-25%); regional lymph node mets; radical wide excision + map biopsies + sentinel LN biopsy; consider exenteration if pagetoid spread extensive"
+                    }
+                  ]
+                },
+                {
+                  "title": "Melanoma",
+                  "children": [
+                    {
+                      "title": "Rare (<1% eyelid malignancies); nodular or superficial spreading"
+                    },
+                    {
+                      "title": "Lentigo maligna melanoma: common periocular; arises from lentigo maligna; slow-growing; treat with wide excision; Mohs or staged excision"
+                    },
+                    {
+                      "title": "Wide excision + sentinel LN biopsy; systemic staging"
+                    }
+                  ]
+                },
+                {
+                  "title": "Merkel cell carcinoma: rare; aggressive neuroendocrine carcinoma; elderly immunocompromised; violaceous nodule; wide excision + sentinel LN biopsy + radiation; high recurrence/mets"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Reconstructive Eyelid Surgery",
+          "children": [
+            {
+              "title": "Eyelid Trauma",
+              "children": [
+                {
+                  "title": "Principles: clean wound, copious irrigation, close in layers, preserve tissue, realign grey line and lash line precisely"
+                },
+                {
+                  "title": "Canalicular laceration: medial lid laceration (especially if dog bite); assume canalicular involvement until proven otherwise; repair with silicone tube (monocanalicular stent) under operating microscope"
+                },
+                {
+                  "title": "Dog bites: high infection risk (Pasteurella, Capnocytophaga); irrigate copiously; primary closure (face heals well); IV amoxicillin-clavulanate; rabies prophylaxis if needed"
+                },
+                {
+                  "title": "Burns: thermal → contracture → cicatricial ectropion; initial lubrication and wound care; delayed reconstruction after maturation (6-12 months)"
+                }
+              ]
+            },
+            {
+              "title": "Eyelid Reconstruction Principles",
+              "children": [
+                {
+                  "title": "Goal: restore functional anatomy and cosmesis; avoid corneal exposure; re-create posterior and anterior lamellae"
+                },
+                {
+                  "title": "<25% defect: primary closure; advance tissue with canthotomy/cantholysis"
+                },
+                { "title": "25-50% defect: lateral cantholysis + advancement" },
+                {
+                  "title": "50-75% defect: Tenzel semicircular flap (lateral advancement flap for upper or lower lid)"
+                },
+                {
+                  "title": ">50% lower lid: Hughes tarsoconjunctival flap (posterior lamella from upper lid tarsus) + skin graft for anterior lamella; bilamellar; second stage at 4-6 weeks to open"
+                },
+                {
+                  "title": ">50% upper lid: Cutler-Beard flap (full-thickness lower lid advancement through lower eyelid) + tarsus graft; bilamellar; second stage at 6-8 weeks"
+                },
+                {
+                  "title": "Medial canthal reconstruction: need to reconstruct posterior MCT; Mustardé flap (large cheek rotation flap); paramedian forehead flap for large defects; forehead flap for nasal defects"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Periocular Malpositions and Involutional Changes",
+          "children": [
+            {
+              "title": "Ectropion (lid turns outward)",
+              "children": [
+                {
+                  "title": "Involutional (most common): horizontal lid laxity + lower lid retractor weakness; medial and/or lateral; medial punctal eversion → epiphora"
+                },
+                {
+                  "title": "Surgery: lateral tarsal strip (LTS) for horizontal laxity; medial spindle excision for medial ectropion; retractor advancement for lower lid"
+                },
+                {
+                  "title": "Paralytic: CN VII palsy → orbicularis weakness → lid falls; weight tape + lubrication; gold weight implant (upper lid); lateral tarsorrhaphy; LTS"
+                },
+                {
+                  "title": "Cicatricial: anterior lamellar shortening (scar, actinic damage, SJS); release scar + skin graft (full-thickness skin graft, usually from upper lid or retroauricular)"
+                },
+                {
+                  "title": "Mechanical: lesion/mass pulling lid outward; treat underlying cause"
+                }
+              ]
+            },
+            {
+              "title": "Entropion (lid turns inward)",
+              "children": [
+                {
+                  "title": "Involutional (most common): horizontal lid laxity + lower lid retractor disinsertion + overriding preseptal orbicularis; lower lid; lashes abrade cornea"
+                },
+                {
+                  "title": "Quick fix: tape (temporary), Quickert sutures (outpatient; vertically placed sutures evert lid); definitive: LTS + retractor advancement + orbicularis tuck"
+                },
+                {
+                  "title": "Cicatricial: posterior lamellar shortening (trachoma, SJS, MMP); lashes turn in; mucous membrane graft (buccal or conjunctival) to lengthen posterior lamella; lamella splitting"
+                },
+                {
+                  "title": "Congenital: horizontal laxity; often resolves; surgery if corneal erosion"
+                }
+              ]
+            },
+            {
+              "title": "Trichiasis",
+              "children": [
+                {
+                  "title": "Misdirected lashes touching globe; posterior cornea/conjunctiva"
+                },
+                {
+                  "title": "Epilation (temporary); electrolysis (single lashes); cryotherapy (lid margin; most effective for multiple lashes; risk: depigmentation, lid notching); argon laser ablation; lash bulb excision"
+                }
+              ]
+            },
+            {
+              "title": "Blepharoptosis (Ptosis)",
+              "children": [
+                {
+                  "title": "Evaluation",
+                  "children": [
+                    {
+                      "title": "MRD1 (margin reflex distance): distance from corneal light reflex to upper lid margin; normal 4-5mm; MRD1 <2mm = significant ptosis"
+                    },
+                    {
+                      "title": "Levator function (LF): excursion from full downgaze to full upgaze while fixing brow; normal >12mm; good = 8-12mm; fair = 5-7mm; poor = <4mm"
+                    },
+                    {
+                      "title": "Rule out: Horner (phenylephrine test lifts lid — Müller muscle dependent), MG (ice test, fatigue), CN III palsy, jaw-winking (Marcus Gunn)"
+                    },
+                    {
+                      "title": "Phenylephrine test: 1 drop 2.5% → if lid rises >1.5mm → Müller muscle-dependent → Müller muscle conjunctival resection (MMCR/Fasanella-Servat) will work"
+                    }
+                  ]
+                },
+                {
+                  "title": "Classification",
+                  "children": [
+                    {
+                      "title": "Aponeurotic (involutional): most common acquired; high lid crease; normal LF; aponeurosis disinsertion; treat with levator aponeurosis advancement"
+                    },
+                    {
+                      "title": "Myogenic: CPEO (bilateral; mitochondrial; see MG for diagnosis); myotonic dystrophy (facial diplegia); MG (fatigable; variable)"
+                    },
+                    {
+                      "title": "Neurogenic: CN III palsy (+ ophthalmoplegia + mydriasis if compressive); Horner (2mm ptosis; miosis; anhidrosis)"
+                    },
+                    { "title": "Mechanical: lid mass, oedema, scarring" },
+                    {
+                      "title": "Congenital: poor levator function; fibrous replacement"
+                    }
+                  ]
+                },
+                {
+                  "title": "Management",
+                  "children": [
+                    {
+                      "title": "LF >8mm: levator aponeurosis advancement (external approach; most common ptosis procedure)"
+                    },
+                    { "title": "LF 5-7mm (fair): maximal levator resection" },
+                    {
+                      "title": "LF <4mm (poor): frontalis sling (silicone rod or autologous fascia lata from thigh)"
+                    },
+                    {
+                      "title": "Phenylephrine test positive: MMCR (Müller muscle conjunctival resection / Fasanella-Servat); posterior approach; amount of tissue resected = mm determined by phenylephrine response"
+                    },
+                    {
+                      "title": "Children: treat urgently if visual axis obstructed (deprivation amblyopia) or abnormal head posture; frontalis sling usually required"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Eyelid Retraction",
+              "children": [
+                {
+                  "title": "Most common cause: thyroid eye disease (Dalrymple sign); others: contralateral ptosis (Hering's law), dorsal midbrain syndrome (Collier sign), high myopia, surgical overcorrection"
+                },
+                {
+                  "title": "Treatment: treat underlying cause; TED-related: recession of levator aponeurosis (posterior approach) + Müller muscle recession; injectable hyaluronic acid (temporary, office procedure)"
+                }
+              ]
+            },
+            {
+              "title": "Facial Paralysis (CN VII)",
+              "children": [
+                {
+                  "title": "Lagophthalmos: inability to close eye → corneal exposure; Bell's phenomenon (upward eye roll) protective"
+                },
+                {
+                  "title": "Corneal protection: lubricants (q1h day + ointment night), moisture chamber, scleral lens, taping/patching"
+                },
+                {
+                  "title": "Short-term/reversible: gold weight implant (upper lid; 1.0-1.6g; gravity assists closure); spring implant; botulinum toxin to lower lid (lifts lower lid)"
+                },
+                {
+                  "title": "Long-term/permanent: platinum chain implant; lower lid elevation (LTS + spacer graft); medial canthoplasty; brow elevation (direct or endoscopic)"
+                }
+              ]
+            },
+            {
+              "title": "Facial Dystonia",
+              "children": [
+                {
+                  "title": "Benign essential blepharospasm (BEB): involuntary bilateral orbicularis spasm; functional blindness; middle-aged women; distinguish from hemifacial spasm (unilateral) and apraxia of lid opening (agonist failure not orbicularis spasm)"
+                },
+                {
+                  "title": "Treatment: botulinum toxin (OnabotulinumtoxinA/Botox; AbobotulinumtoxinA/Dysport) injections to orbicularis; repeat every 3-4 months; myectomy for severe cases unresponsive to BoNT"
+                },
+                {
+                  "title": "Hemifacial spasm: unilateral; CN VII compression at root entry zone; treat with BoNT or MVD (microvascular decompression)"
+                }
+              ]
+            },
+            {
+              "title": "Involutional Periorbital Changes",
+              "children": [
+                {
+                  "title": "Dermatochalasis: excess upper eyelid skin ± herniated orbital fat; causes visual field loss (superior field); functional blepharoplasty covered by insurance if field impaired; cosmetic if asymptomatic"
+                },
+                {
+                  "title": "Blepharochalasis: episodic lid oedema → skin laxity → ptosis; young adults; rare; repair between attacks"
+                },
+                {
+                  "title": "Brow ptosis: frontalis compensation for ptosis; low medial brow (CN VII innervates lateral frontalis more) + lateral brow ptosis; assess brow position before upper blepharoplasty; fix brow first or simultaneous"
+                }
+              ]
+            },
+            {
+              "title": "Blepharoplasty",
+              "children": [
+                {
+                  "title": "Upper lid: skin mark with lid open and closed; excise skin ± muscle ± fat; preserve >20mm skin above lashes to lid crease; do not remove too much fat (causes deep superior sulcus)"
+                },
+                {
+                  "title": "Lower lid approaches: skin/skin-muscle flap (anterior) or transconjunctival (no skin scar; fat only); fat excision vs repositioning (repositioning preferred in Asian anatomy, prevents hollowed look)"
+                },
+                {
+                  "title": "Complications: lagophthalmos/exposure (over-resection of skin), ectropion, dry eye, diplopia (fat haemostasis trauma to IR), retrobulbar haemorrhage (rare, vision-threatening), asymmetry"
+                },
+                {
+                  "title": "Asian blepharoplasty: create or enhance lid crease (absent or low in monolid); suture or incisional technique"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Facial Rejuvenation",
+          "children": [
+            {
+              "title": "Pathogenesis of Facial Ageing",
+              "children": [
+                {
+                  "title": "Gravitational descent: skin + SMAS laxity; ptosis of fat compartments"
+                },
+                {
+                  "title": "Volume deflation: fat atrophy, bone resorption (orbital rim expansion, maxillary retrusion), muscle atrophy"
+                },
+                {
+                  "title": "Skin changes: UV damage, collagen/elastin degradation, actinic keratoses; thinning epidermis"
+                },
+                {
+                  "title": "Dynamic rhytids: wrinkles from repeated mimetic muscle contraction (glabellar, crow's feet, forehead)"
+                }
+              ]
+            },
+            {
+              "title": "Non-Surgical Rejuvenation",
+              "children": [
+                {
+                  "title": "Chemical peels: superficial (glycolic acid, TCA 10-30%: epidermis); medium (TCA 35%, Jessner+TCA); deep (phenol: dermis; profound rejuvenation but prolonged healing, hypopigmentation risk)"
+                },
+                {
+                  "title": "Laser resurfacing: ablative (CO₂ 10,600nm; Er:YAG 2940nm; full dermis; significant downtime; best results); non-ablative (Nd:YAG, diode; less downtime, multiple sessions); fractional (ablates columns leaving bridges for rapid re-epithelialization)"
+                },
+                {
+                  "title": "Botulinum toxin A (cosmetic): temporarily weakens mimetic muscles; glabellar lines (#1 indication; corrugators + procerus); forehead (frontalis); crow's feet (lateral orbicularis); brow shaping; hyperhidrosis; platysmal bands; onset 3-5 days, peak 2 weeks, duration 3-4 months"
+                },
+                {
+                  "title": "Soft tissue fillers: hyaluronic acid (Juvederm, Restylane; reversible with hyaluronidase; most commonly used); calcium hydroxyapatite (Radiesse; collagen stimulator); PLLA (Sculptra; gradual volumisation); autologous fat (permanent but unpredictable resorption)"
+                },
+                {
+                  "title": "Filler vascular complications: blindness from inadvertent intra-arterial injection (glabella, nasolabial fold); immediate hyaluronidase for HA fillers; high-flow O₂; ocular massage; anterior chamber paracentesis; prevention: aspiration, low pressure, small boluses"
+                }
+              ]
+            },
+            {
+              "title": "Surgical Rejuvenation",
+              "children": [
+                {
+                  "title": "Lower blepharoplasty: fat excision vs repositioning; skin-muscle flap vs transconjunctival; lateral canthal support essential; complications: ectropion, scleral show, dry eye"
+                },
+                {
+                  "title": "Forehead rejuvenation: direct brow lift (scar visible, for men); transpalpebral corrugator resection (through upper blepharoplasty incision); endoscopic brow lift (5 scalp ports; releases forehead tissue; internal fixation; minimal scar; most popular); coronal brow lift (scar behind hairline; severe brow ptosis)"
+                },
+                {
+                  "title": "Midface rejuvenation: malar fat pad descent → nasolabial fold; midface lift (endoscopic or open); fat grafting to restore volume"
+                },
+                {
+                  "title": "Lower face + neck: SMAS plication or SMASectomy; deep plane facelift (elevates SMAS as flap); platysma correction (platysmaplasty); good results but significant surgery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART III: LACRIMAL SYSTEM",
+      "children": [
+        {
+          "title": "Lacrimal System: Development, Anatomy & Physiology",
+          "children": [
+            {
+              "title": "Secretory System Anatomy",
+              "children": [
+                {
+                  "title": "Main lacrimal gland: orbital (larger) + palpebral lobes; separated by levator aponeurosis; superotemporal fornix; parasympathetic secretomotor (CN VII → greater petrosal → vidian → pterygopalatine ganglion → zygomatic → lacrimal)"
+                },
+                {
+                  "title": "Accessory glands: Krause (deep fornix) + Wolfring (above tarsal border); produce basal tear secretion"
+                },
+                {
+                  "title": "Tear film layers: lipid (Meibomian glands; prevents evaporation) + mucoaqueous (lacrimal + goblet cells)"
+                }
+              ]
+            },
+            {
+              "title": "Drainage System Anatomy",
+              "children": [
+                {
+                  "title": "Puncta: 2 per lid; 6mm from medial canthus; upper punctum slightly lateral to lower"
+                },
+                {
+                  "title": "Canaliculi: 2mm vertical + 8mm horizontal; upper + lower join to form common canaliculus (90%); common canaliculus enters lacrimal sac at valve of Rosenmuller (valve against reflux)"
+                },
+                {
+                  "title": "Lacrimal sac: in lacrimal fossa (between anterior and posterior lacrimal crests); 12-15mm tall; nasolacrimal duct starts at fundus"
+                },
+                {
+                  "title": "Nasolacrimal duct: 12-15mm long in bone; opens into inferior meatus below inferior turbinate; valve of Hasner at lower end"
+                }
+              ]
+            },
+            {
+              "title": "Physiology",
+              "children": [
+                {
+                  "title": "Lacrimal pump (Rosenmuller-Jones): blink → pretarsal orbicularis compresses ampullae → suction draws tears into canaliculi; relaxation → sac expands drawing tears in; requires lid apposition to globe"
+                },
+                {
+                  "title": "Tear production: 1-2μL/min basal; up to 30× reflex tearing; drainage: 80% via lacrimal system, 20% evaporation"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Abnormalities of the Lacrimal System",
+          "children": [
+            {
+              "title": "Congenital Lacrimal Drainage Obstruction",
+              "children": [
+                {
+                  "title": "Congenital NLD Obstruction (CNLDO)",
+                  "children": [
+                    {
+                      "title": "Most common (6%); imperforate valve of Hasner; epiphora + discharge from birth; mucoid discharge (Staphylococcus); no conjunctival injection (distinguishes from conjunctivitis)"
+                    },
+                    {
+                      "title": "REGURGITATION test: pressure on lacrimal sac → mucoid material from punctum = sac-to-punctum patent; obstruction is at NLD level"
+                    },
+                    {
+                      "title": "90% resolve spontaneously within 12 months; lacrimal massage (Crigler technique: compress sac, stroke downward) 2-3×/day; topical antibiotics for acute episodes"
+                    },
+                    {
+                      "title": "Probing: age 12-13 months (if persists); office or GA; success >90%; silicone tube intubation if probing fails; nasolacrimal balloon dilation as alternative"
+                    },
+                    {
+                      "title": "DCR: if intubation fails or older child (>3-4 years)"
+                    }
+                  ]
+                },
+                {
+                  "title": "Dacryocystocele (Dacryocele)",
+                  "children": [
+                    {
+                      "title": "Distended lacrimal sac at birth; blue-grey medial canthal mass; from distal NLD obstruction + imperforate common canaliculus (valve acts as one-way valve)"
+                    },
+                    {
+                      "title": "Nasal cyst: often extends into inferior meatus; can cause respiratory distress (neonates are obligate nasal breathers)"
+                    },
+                    {
+                      "title": "Treatment: early massage + probing; endoscopic nasal cyst marsupialization if nasal cyst causing respiratory distress; aggressive management in first days"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Acquired Lacrimal Drainage Obstruction",
+              "children": [
+                {
+                  "title": "Evaluation of Epiphora",
+                  "children": [
+                    {
+                      "title": "Dye disappearance test (DDT): fluorescein in conjunctival fornix; normal = disappears in 5 min; retained = delayed drainage"
+                    },
+                    {
+                      "title": "Jones 1 test: primary dye test; fluorescein in nose with applicator at 5 min → positive = drainage patent under physiological conditions"
+                    },
+                    {
+                      "title": "Jones 2 test: secondary dye test; irrigate with saline after Jones 1; fluorescein in nose → partial obstruction; clear fluid → complete functional obstruction; no fluid → complete anatomical obstruction"
+                    },
+                    {
+                      "title": "Irrigation/probing: hard stop (metal on bone = patent to sac) vs soft stop (obstruction at common canaliculus or canaliculus)"
+                    },
+                    {
+                      "title": "Dacryocystography (DCG): radiographic; delineates anatomy of obstruction"
+                    },
+                    {
+                      "title": "Lacrimal scintigraphy: functional; physiological assessment"
+                    }
+                  ]
+                },
+                {
+                  "title": "Punctal Disorders",
+                  "children": [
+                    {
+                      "title": "Punctal stenosis: involutional (most common), drug-induced (docetaxel, 5-FU, epinephrine drops); epiphora; treat with punctal dilation → punctoplasty (1-snip, 2-snip, 3-snip)"
+                    },
+                    {
+                      "title": "Ectropion of punctum: see involutional ectropion; medial lid laxity; punctum turns outward; medial spindle procedure"
+                    }
+                  ]
+                },
+                {
+                  "title": "Canalicular Obstruction",
+                  "children": [
+                    {
+                      "title": "Common causes: herpes simplex (canaliculitis from scarring), actinomyces (see below), trauma, drugs (docetaxel, 5-FU, eye drops, radiation)"
+                    },
+                    {
+                      "title": "Monocanalicular obstruction: silicone tube stenting; Jones tube if uncorrectable"
+                    }
+                  ]
+                },
+                {
+                  "title": "Acquired NLD Obstruction (ANLDO)",
+                  "children": [
+                    {
+                      "title": "Most common cause of epiphora in adults; primary acquired (idiopathic, mostly postmenopausal women; chronic inflammation/fibrosis) or secondary (trauma, tumour, systemic disease, iatrogenic)"
+                    },
+                    { "title": "Treatment: DCR (dacryocystorhinostomy)" }
+                  ]
+                },
+                {
+                  "title": "DCR (Dacryocystorhinostomy)",
+                  "children": [
+                    {
+                      "title": "Gold standard for NLD obstruction; creates direct anastomosis between lacrimal sac and nasal cavity (middle meatus)"
+                    },
+                    {
+                      "title": "External DCR: Lynch incision; osteotomy; anterior + posterior flaps anastomosed; silicone tube intubation; ~95% success"
+                    },
+                    {
+                      "title": "Endoscopic (endonasal) DCR: no skin incision; transnasal laser or powered osteotomy; similar success rates; preferred for revision, bleeding disorders, cosmetic concerns; requires ENT collaboration or training"
+                    },
+                    {
+                      "title": "Silicone tube: Crawford or Ritleng; removed at 2-3 months post-op"
+                    }
+                  ]
+                },
+                {
+                  "title": "Therapeutic Closure (Punctal Plugs)",
+                  "children": [
+                    {
+                      "title": "For dry eye disease: plugs canaliculus to retain tears on ocular surface"
+                    },
+                    {
+                      "title": "Temporary: collagen (dissolves in days-weeks); silicone (removable); intracanalicular (Oasis, EagleFlex)"
+                    },
+                    {
+                      "title": "Permanent: thermal punctal cautery or argon laser punctal occlusion"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lacrimal Infections",
+              "children": [
+                {
+                  "title": "Dacryoadenitis",
+                  "children": [
+                    {
+                      "title": "Inflammation of lacrimal gland; S-shaped ptosis (upper lid follows gland shape); superotemporal swelling; pre-auricular lymphadenopathy"
+                    },
+                    {
+                      "title": "Acute: usually viral (mumps, EBV, CMV, herpes); self-limited; treat symptoms"
+                    },
+                    {
+                      "title": "Chronic: sarcoidosis, TB, IgG4-RD, lymphoma; biopsy essential; treat underlying disease"
+                    }
+                  ]
+                },
+                {
+                  "title": "Canaliculitis",
+                  "children": [
+                    {
+                      "title": "Actinomyces israelii (most common; gram-positive anaerobic filamentous bacterium); sulphur granules from punctum; 'lumpy punctum'; pouting punctum"
+                    },
+                    {
+                      "title": "Chronic unilateral red eye; medial lid; often misdiagnosed as blepharitis/conjunctivitis"
+                    },
+                    {
+                      "title": "Treatment: canaliculotomy (incise canaliculus to express concretions) + penicillin VK 250mg QID or topical penicillin irrigation; curettage of canaliculus"
+                    }
+                  ]
+                },
+                {
+                  "title": "Dacryocystitis",
+                  "children": [
+                    {
+                      "title": "Infection of lacrimal sac; from NLD obstruction + stasis; erythema + swelling + tenderness below medial canthus (BELOW MCT = lacrimal sac; above MCT = ethmoidal)"
+                    },
+                    {
+                      "title": "Organisms: Staph aureus (acute), Strep pneumoniae, H. influenzae; chronic: Staph epidermidis, Actinomyces"
+                    },
+                    {
+                      "title": "Acute: IV/oral antibiotics; warm compresses; do NOT probe during acute infection; drain abscess if pointing; DCR when acute episode resolved"
+                    },
+                    {
+                      "title": "Chronic: recurrent; fibrosis; mucocoele; definitive DCR"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lacrimal Neoplasms",
+              "children": [
+                {
+                  "title": "Lacrimal gland tumours: see orbital neoplasms (pleomorphic adenoma, adenoid cystic carcinoma); epithelial tumours require different approach from lymphoid/inflammatory (do not biopsy pleomorphic adenoma)"
+                },
+                {
+                  "title": "Lacrimal drainage system tumours: papilloma (most common benign), oncocytoma, transitional cell carcinoma (most common malignant); epiphora + bloody discharge; CT/MRI for staging; DCR with tumour excision or radical excision"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Orbital floor = thinnest at infraorbital groove (overlies maxillary sinus); medial wall = thinnest overall (lamina papyracea)"
+        },
+        {
+          "title": "SOF contents inside annulus of Zinn: CN III (superior + inferior divisions), CN VI, nasociliary nerve; outside: lacrimal, frontal, trochlear (CN IV), superior ophthalmic vein"
+        },
+        {
+          "title": "Optic canal: CN II + ophthalmic artery; lesser wing of sphenoid"
+        },
+        {
+          "title": "Orbital compartment syndrome: LATERAL CANTHOTOMY + INFERIOR CANTHOLYSIS immediately; do not wait for imaging"
+        },
+        {
+          "title": "Mucormycosis: DKA/immunocompromised; black nasal eschar; angioinvasive; liposomal amphotericin B + aggressive debridement; very high mortality"
+        },
+        {
+          "title": "TED surgical sequence: decompression → strabismus surgery → eyelid surgery (in that order, only when disease inactive)"
+        },
+        {
+          "title": "CAS ≥3/7 = active TED; IV methylprednisolone pulse; teprotumumab for proptosis reduction"
+        },
+        {
+          "title": "Cavernous venous malformation (cavernous hemangioma): most common benign orbital tumor ADULTS; high internal reflectivity A-scan; surgical excision if symptomatic"
+        },
+        {
+          "title": "Infantile capillary hemangioma: most common orbital tumor CHILDREN; propranolol first-line"
+        },
+        {
+          "title": "Rhabdomyosarcoma: most common PRIMARY malignant orbital tumor in children; biopsy + chemo + radiation; 90% survival"
+        },
+        {
+          "title": "Orbital lymphoma: MALT most common; salmon patch conjunctiva; painless; 25% systemic; radiation for local disease"
+        },
+        {
+          "title": "Pleomorphic adenoma: excise INTACT (no biopsy first); capsule violation → malignant transformation"
+        },
+        {
+          "title": "Adenoid cystic carcinoma: most common MALIGNANT lacrimal gland tumor; PAINFUL; perineural invasion; poor prognosis"
+        },
+        {
+          "title": "Rule of 50s for lacrimal gland: 50% epithelial; 50% of epithelial = benign; 50% of benign = pleomorphic adenoma"
+        },
+        {
+          "title": "Blow-out fracture: trapdoor + muscle entrapment in children = URGENT same-day surgery (oculocardiac reflex + ischaemic muscle)"
+        },
+        {
+          "title": "Orbital NSOI (pseudotumor): painful; dramatic steroid response in 48-72h; if no response → biopsy urgently (r/o lymphoma)"
+        },
+        {
+          "title": "CCF: pulsatile proptosis + bruit + red eye + raised IOP + arterialized vessels; treat with endovascular embolisation"
+        },
+        {
+          "title": "Enucleation (not evisceration) for intraocular malignancy; long ON section for retinoblastoma staging"
+        },
+        {
+          "title": "BCC most common malignant eyelid tumor (90%); morphoeaform = most aggressive; lower lid > medial canthus > upper lid"
+        },
+        {
+          "title": "Sebaceous carcinoma: masquerades as chalazion/blepharitis; upper lid most common; pagetoid spread; map biopsies essential; high mortality"
+        },
+        {
+          "title": "Hughes flap: tarsoconjunctival from upper lid to reconstruct >50% lower lid defect; second stage 4-6 weeks"
+        },
+        {
+          "title": "Levator function determines ptosis surgery: LF <4mm → frontalis sling; LF >8mm → levator advancement; phenylephrine test positive → MMCR"
+        },
+        {
+          "title": "MRD1 normal: 4-5mm; <2mm = significant ptosis; levator function normal: >12mm"
+        },
+        {
+          "title": "Involutional entropion: lateral tarsal strip + retractor advancement + orbicularis tuck; Quickert sutures for temporary fix"
+        },
+        {
+          "title": "Paralytic ectropion (CN VII palsy): gold weight implant upper lid; lateral tarsorrhaphy; lubrication to protect cornea"
+        },
+        {
+          "title": "Dacryocystitis: swelling BELOW medial canthal tendon; do NOT probe during acute infection; IV antibiotics + delayed DCR"
+        },
+        {
+          "title": "Canaliculitis: Actinomyces; sulphur granules + pouting punctum; canaliculotomy + penicillin; often misdiagnosed as conjunctivitis"
+        },
+        {
+          "title": "DCR success rate: external ~95%; endoscopic similar; creates sac-to-nasal cavity anastomosis at middle meatus"
+        },
+        {
+          "title": "Botulinum toxin cosmetic: glabellar lines #1 indication; duration 3-4 months; filler vascular complication → hyaluronidase immediately for HA fillers"
+        },
+        {
+          "title": "Orbital NF1 signs: Lisch nodules (iris), optic nerve glioma, plexiform neurofibroma (S-shaped lid), pulsatile proptosis (absent greater sphenoid wing), café-au-lait spots"
+        }
+      ]
+    }
+  ]
+}

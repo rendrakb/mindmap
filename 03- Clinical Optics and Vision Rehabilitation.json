@@ -1,0 +1,1566 @@
+{
+  "title": "Clinical Optics and Vision Rehabilitation",
+  "type": "root",
+  "children": [
+    {
+      "title": "Quick-Start: Optics, Refraction & Retinoscopy",
+      "children": [
+        {
+          "title": "Core Optics Concepts",
+          "children": [
+            {
+              "title": "Pinhole imaging: small aperture → sharp image regardless of lens power; eliminates blur from defocus; basis of pinhole VA test (improves refractive error blur, NOT optic nerve/macular disease)"
+            },
+            {
+              "title": "Vergence: measure of ray divergence/convergence; unit = dioptre (D) = 1/distance in metres; vergence = n/d"
+            },
+            {
+              "title": "Vergence equation: V' = V + P; where V = incident vergence, P = lens power, V' = emergent vergence"
+            },
+            {
+              "title": "Convex (plus) lens: converges light; real focal point; corrects hyperopia"
+            },
+            {
+              "title": "Concave (minus) lens: diverges light; virtual focal point; corrects myopia"
+            },
+            { "title": "Combining lenses in contact: P_total = P₁ + P₂" }
+          ]
+        },
+        {
+          "title": "Refraction Overview (8 Steps)",
+          "children": [
+            {
+              "title": "Step 1: Preliminaries — VA, old Rx, keratometry, auto-refractor estimate"
+            },
+            { "title": "Step 2: Occlude one eye" },
+            {
+              "title": "Step 3: Initial estimate — retinoscopy or auto-refractor"
+            },
+            {
+              "title": "Step 4: Refine cylinder axis (JCC flip at axis) then cylinder power (JCC flip at 45° to axis)"
+            },
+            {
+              "title": "Step 5: Refine sphere (fog then reduce + until best acuity; 'maximum plus for best VA')"
+            },
+            { "title": "Step 6: Repeat for other eye" },
+            {
+              "title": "Step 7: Binocular balance (prism dissociation or fogging); control accommodation"
+            },
+            {
+              "title": "Step 8: Near add (presbyopia); assess near point, determine add power"
+            }
+          ]
+        },
+        {
+          "title": "Retinoscopy Quick-Start",
+          "children": [
+            {
+              "title": "With motion (WTM): reflex moves same direction as streak → add plus lenses to neutralise"
+            },
+            {
+              "title": "Against motion (ATM): reflex moves opposite to streak → add minus lenses to neutralise"
+            },
+            {
+              "title": "Neutralisation: reflex fills entire pupil with no motion; brightest and widest reflex"
+            },
+            {
+              "title": "Working distance: 67cm = +1.50D, 50cm = +2.00D subtract from gross retinoscopy Rx"
+            },
+            {
+              "title": "Fogging: keep fellow eye fogged (+5D) to control accommodation during retinoscopy"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Geometric Optics",
+      "children": [
+        {
+          "title": "Fundamental Principles",
+          "children": [
+            {
+              "title": "Refractive index (n): n = c/v; speed of light in vacuum / speed in medium; higher n = slower, more bending"
+            },
+            {
+              "title": "Snell's law: n₁ sinθ₁ = n₂ sinθ₂; light bends toward normal entering denser medium"
+            },
+            {
+              "title": "Critical angle: angle above which total internal reflection occurs; sinθc = n₂/n₁; basis of gonioscopy (contact lens changes critical angle)"
+            },
+            {
+              "title": "Fermat's principle: light takes path of least optical path length (explains refraction and reflection)"
+            }
+          ]
+        },
+        {
+          "title": "Prisms",
+          "children": [
+            { "title": "Light bends toward base; image displaced toward apex" },
+            {
+              "title": "Prism power: 1 prism dioptre (Δ) = 1cm displacement at 1m distance"
+            },
+            {
+              "title": "Prentice's rule: prism power (Δ) = lens power (D) × decentration (cm); P = Fc"
+            },
+            {
+              "title": "Base direction: base-in (BI) = convergence aid; base-out (BO) = divergence; base-up/down for vertical deviations"
+            },
+            {
+              "title": "Fresnel prisms: thin press-on plastic prisms; lightweight; reduce image quality; used for temporary/large corrections"
+            },
+            {
+              "title": "Minimum deviation: prism bends light most efficiently at this angle; used in spectrophotometry"
+            }
+          ]
+        },
+        {
+          "title": "Lenses",
+          "children": [
+            {
+              "title": "Single Curved Surface",
+              "children": [
+                {
+                  "title": "Vergence equation: n'/v = n/u + (n'-n)/r; where r = radius of curvature"
+                },
+                { "title": "Power of surface: P = (n' - n) / r" }
+              ]
+            },
+            {
+              "title": "Thin Lens",
+              "children": [
+                {
+                  "title": "Lensmaker's equation: P = (n_lens - 1)(1/r₁ - 1/r₂)"
+                },
+                {
+                  "title": "Focal length: f = 1/P (in metres); positive f = converging; negative f = diverging"
+                },
+                {
+                  "title": "Real image: formed by converging rays on same side as outgoing light"
+                },
+                {
+                  "title": "Virtual image: rays appear to diverge from a point; cannot be projected on screen"
+                }
+              ]
+            },
+            {
+              "title": "Thick Lens / Principal Planes",
+              "children": [
+                {
+                  "title": "Front and back principal planes (H and H'): reference planes for measuring object/image distances in thick lens system"
+                },
+                {
+                  "title": "Nodal points: ray aimed at front nodal point exits parallel from back nodal point (no angular deviation)"
+                },
+                {
+                  "title": "Back vertex power (BVP): power measured from back surface to rear focal point; what lensmeter measures"
+                }
+              ]
+            },
+            {
+              "title": "Magnification",
+              "children": [
+                {
+                  "title": "Transverse (lateral) magnification: m = -v/u = image height / object height; negative = inverted"
+                },
+                {
+                  "title": "Axial (longitudinal) magnification: m_axial = m_transverse²; always positive (same orientation axially)"
+                },
+                {
+                  "title": "Angular magnification: ratio of angles subtended; relevant for telescopes and magnifiers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Astigmatism & Sturm",
+          "children": [
+            {
+              "title": "Regular astigmatism: two principal meridians at 90° to each other; correctable with cylinder lens"
+            },
+            {
+              "title": "Conoid of Sturm: 3D optical figure formed by astigmatic pencil; two focal lines at 90°; circle of least confusion at spherical equivalent between them"
+            },
+            {
+              "title": "Spherical equivalent (SE): SE = sphere + ½ cylinder; represents best single focal point"
+            },
+            {
+              "title": "Power cross: shows power in each meridian of cylinder lens"
+            },
+            {
+              "title": "WTR astigmatism: steeper meridian horizontal (90°); corrected with minus cylinder axis 180° or plus cylinder axis 90°"
+            },
+            {
+              "title": "ATR astigmatism: steeper meridian vertical (180°); corrected with minus cylinder axis 90°"
+            }
+          ]
+        },
+        {
+          "title": "Aberrations",
+          "children": [
+            {
+              "title": "Chromatic aberration: different wavelengths focus at different distances; blue light focuses anteriorly; basis of duochrome/bichrome test"
+            },
+            {
+              "title": "Spherical aberration: peripheral rays focus differently than paraxial rays; reduced by aspheric IOLs"
+            },
+            { "title": "Coma: off-axis aberration; comet-shaped blur" },
+            {
+              "title": "Wavefront theory: ideally flat wavefront; aberrations described as wavefront deviations from ideal sphere"
+            },
+            {
+              "title": "Zernike polynomials: mathematical description of wavefront aberrations; lower order (defocus, astigmatism) and higher order (coma, trefoil, spherical)"
+            },
+            {
+              "title": "Point spread function (PSF): image of a point source; affected by all aberrations; ideal = Airy disc"
+            }
+          ]
+        },
+        {
+          "title": "Mirrors & Telescopes",
+          "children": [
+            {
+              "title": "Concave mirror: f = r/2; converging; vergence equation: V' = V + 2n/r; inverts image when object beyond f"
+            },
+            {
+              "title": "Convex mirror: diverging; virtual, erect, minified image; used as rear-view mirrors"
+            },
+            {
+              "title": "Astronomical telescope: objective (plus) + eyepiece (plus); inverted image; M = -f_objective/f_eyepiece"
+            },
+            {
+              "title": "Galilean telescope: objective (plus) + eyepiece (minus); erect image; M = -f_objective/f_eyepiece; shorter, field of view narrower"
+            },
+            {
+              "title": "Spectacle magnifier: simple plus lens used close to eye; M = D/4 (for standard 25cm reference distance)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Physical Optics",
+      "children": [
+        {
+          "title": "Nature of Light",
+          "children": [
+            {
+              "title": "Visible light: 400nm (violet) → 700nm (red); electromagnetic radiation"
+            },
+            {
+              "title": "Wave-particle duality: wavelike (interference, diffraction) and particle (photoelectric effect, photons)"
+            },
+            {
+              "title": "Photon energy: E = hf = hc/λ; shorter wavelength = higher energy; UV > visible > IR"
+            }
+          ]
+        },
+        {
+          "title": "Polarization",
+          "children": [
+            {
+              "title": "Unpolarized light: electric field in all planes; polarized: restricted to one plane"
+            },
+            {
+              "title": "Brewster's angle: angle at which reflected light is fully polarized (tangent = n)"
+            },
+            {
+              "title": "Clinical use: polarized filters in Worth 4-dot test, Titmus stereoacuity, reducing glare (sunglasses)"
+            }
+          ]
+        },
+        {
+          "title": "Interference & Coherence",
+          "children": [
+            {
+              "title": "Constructive interference: waves in phase → amplitude adds; destructive: out of phase → cancellation"
+            },
+            {
+              "title": "Coherence: temporal (same frequency) and spatial (same wavefront origin); required for interference"
+            },
+            {
+              "title": "Anti-reflection coating: thin film of thickness λ/4 → destructive interference of reflected light"
+            },
+            {
+              "title": "OCT: uses low-coherence interferometry (Michelson interferometer) to measure optical path length differences"
+            }
+          ]
+        },
+        {
+          "title": "Diffraction",
+          "children": [
+            {
+              "title": "Light bends around edges of apertures; limits optical resolution"
+            },
+            {
+              "title": "Rayleigh criterion: minimum resolvable angle θ = 1.22λ/D; D = aperture diameter"
+            },
+            {
+              "title": "Airy disc: central bright spot of diffraction pattern; 84% of light energy; smaller disc with larger pupil"
+            },
+            {
+              "title": "Diffractive IOLs: use diffraction rings to split light to multiple focal distances"
+            }
+          ]
+        },
+        {
+          "title": "Measures of Light",
+          "children": [
+            {
+              "title": "Radiometry: physical energy (watts); irradiance = W/m²"
+            },
+            {
+              "title": "Photometry: perceptual (visual system weighted); luminance (candela/m²); illuminance (lux = lm/m²)"
+            },
+            {
+              "title": "Luminous efficiency function: peaks at 555nm (photopic); 507nm (scotopic)"
+            }
+          ]
+        },
+        {
+          "title": "Lasers",
+          "children": [
+            {
+              "title": "Fundamentals",
+              "children": [
+                {
+                  "title": "LASER: Light Amplification by Stimulated Emission of Radiation"
+                },
+                {
+                  "title": "Properties: monochromatic, coherent, collimated (low divergence)"
+                },
+                {
+                  "title": "Components: gain medium (determines wavelength) + pump energy + optical cavity (mirrors)"
+                },
+                {
+                  "title": "CW (continuous wave) vs pulsed; pulsed: Q-switching (nanoseconds), mode-locking (femtoseconds)"
+                }
+              ]
+            },
+            {
+              "title": "Laser-Tissue Interactions",
+              "children": [
+                {
+                  "title": "Photocoagulation: thermal; protein denaturation; retinal laser (Argon 514nm, green; 532nm), trabeculoplasty"
+                },
+                {
+                  "title": "Photodisruption: ionisation → plasma → shock wave; Nd:YAG (1064nm); posterior capsulotomy, PI"
+                },
+                {
+                  "title": "Photoablation: UV photons break molecular bonds directly; cold; Excimer laser (ArF 193nm); LASIK, PRK"
+                },
+                {
+                  "title": "Photodynamic therapy (PDT): photosensitiser (verteporfin) + 689nm laser → singlet oxygen → vessel occlusion; wet AMD (historical/niche)"
+                },
+                {
+                  "title": "Selective laser trabeculoplasty (SLT): 532nm, Q-switched; selectively targets pigmented TM cells; no thermal damage; repeatable"
+                }
+              ]
+            },
+            {
+              "title": "Common Ophthalmic Lasers",
+              "children": [
+                {
+                  "title": "Argon (514nm green/488nm blue-green): retinal photocoagulation, trabeculoplasty (ALT)"
+                },
+                { "title": "Nd:YAG (1064nm): capsulotomy, PI, vitreolysis" },
+                {
+                  "title": "Diode (810nm): retinal photocoagulation, cyclophotocoagulation (CPC)"
+                },
+                {
+                  "title": "Excimer ArF (193nm): corneal ablation (LASIK, PRK, SMILE, PTK)"
+                },
+                {
+                  "title": "Pascal/IRIDEX pattern scan: multi-spot retinal laser; faster; less pain"
+                }
+              ]
+            },
+            {
+              "title": "Light hazards: thermal retinal damage (infrared), photochemical (UV, blue light); ANSI MPE (maximum permissible exposure) standards; protective eyewear mandatory in laser suites"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Optics of the Human Eye",
+      "children": [
+        {
+          "title": "Schematic Eye",
+          "children": [
+            {
+              "title": "Gullstrand schematic eye: total power ~60D (cornea ~43D + lens ~17D); axial length 24mm"
+            },
+            {
+              "title": "Reduced eye: simplified 1-surface model; n=4/3; P=60D; nodal point 7mm behind cornea"
+            },
+            {
+              "title": "Important axes: optical axis (through centres of curvature); visual axis (fovea to fixation point through nodal point); pupillary axis; line of sight"
+            },
+            {
+              "title": "Angle kappa: angle between pupillary axis and line of sight; positive kappa = fovea temporal to optical axis (common); important in LASIK centration"
+            }
+          ]
+        },
+        {
+          "title": "Pupil & Resolution",
+          "children": [
+            {
+              "title": "Optimal pupil: ~3mm for best resolution (balance between diffraction and aberration)"
+            },
+            {
+              "title": "Large pupil: aberrations dominate; halos, glare; reduced by miosis (bright light, pilocarpine)"
+            },
+            {
+              "title": "Small pupil: diffraction dominates; reduced resolution; pinhole effect (depth of focus increases)"
+            },
+            { "title": "Photopic vision: cones; 3-6mm pupil; daylight" },
+            { "title": "Scotopic vision: rods; >6mm pupil; night" }
+          ]
+        },
+        {
+          "title": "Visual Acuity",
+          "children": [
+            {
+              "title": "Minimum angle of resolution (MAR): finest detail resolved; normal = 1 arc minute (20/20 = MAR of 1')"
+            },
+            {
+              "title": "LogMAR: logarithm of MAR; 20/20 = logMAR 0.0; 20/200 = logMAR 1.0; 20/10 = logMAR -0.1"
+            },
+            {
+              "title": "Snellen fraction: 20/X = testing distance / distance at which letter subtends 5' arc"
+            },
+            {
+              "title": "ETDRS chart: 5 letters per line, each line 0.1 logMAR; more accurate than Snellen; standard for clinical trials"
+            },
+            {
+              "title": "VA influenced by: contrast, luminance, pupil size, refractive error, media clarity, retinal/cortical function"
+            }
+          ]
+        },
+        {
+          "title": "Contrast Sensitivity",
+          "children": [
+            {
+              "title": "CSF (contrast sensitivity function): peaks at 3-6 cpd (cycles per degree); falls off at low and high spatial frequencies"
+            },
+            {
+              "title": "Pelli-Robson chart: letter contrast threshold at constant size; tests overall CSF"
+            },
+            {
+              "title": "CS reduced in: early cataract, optic neuritis, glaucoma, amblyopia, before Snellen VA drops"
+            },
+            {
+              "title": "Important for functional vision: driving, face recognition, low-light performance"
+            }
+          ]
+        },
+        {
+          "title": "Refractive States",
+          "children": [
+            {
+              "title": "Emmetropia: parallel rays focus exactly on retina (with relaxed accommodation)"
+            },
+            {
+              "title": "Myopia: focus in front of retina; axial (longer eye, most common) or refractive (steeper cornea)"
+            },
+            {
+              "title": "Hyperopia: focus behind retina; axial (shorter eye) or refractive; latent hyperopia masked by accommodation"
+            },
+            {
+              "title": "Astigmatism: different powers in different meridians; regular (orthogonal principal meridians) or irregular"
+            },
+            {
+              "title": "Far point: conjugate of fovea with relaxed accommodation; myope: real, in front of eye; hyperope: virtual, behind eye"
+            }
+          ]
+        },
+        {
+          "title": "Accommodation & Presbyopia",
+          "children": [
+            {
+              "title": "Accommodation: ciliary muscle contracts → zonules relax → lens rounds → increases power; amplitude decreases with age"
+            },
+            {
+              "title": "Amplitude of accommodation: max (16D at age 8) → ~1D at age 50 (presbyopia)"
+            },
+            {
+              "title": "Near point: closest point of clear focus; near point = 1/amplitude of accommodation"
+            },
+            {
+              "title": "Presbyopia: insufficient amplitude for comfortable near work; onset ~age 40-45 years"
+            },
+            {
+              "title": "Cycloplegia: pharmacologic paralysis of ciliary muscle → reveals full latent hyperopia; cyclopentolate 1% (children), cyclopentolate 1% or tropicamide 1% (adults)"
+            }
+          ]
+        },
+        {
+          "title": "Myopia Development & Control",
+          "children": [
+            {
+              "title": "Risk factors: near work, low outdoor time, Asian ethnicity, parental myopia"
+            },
+            {
+              "title": "Emmetropisation: guided by image quality; peripheral defocus hypothesis: myopic defocus signals stop; hyperopic defocus signals growth"
+            },
+            {
+              "title": "Control strategies: low-dose atropine 0.01% (reduces progression ~50%); orthokeratology; MiSight contact lenses; DIMS spectacle lenses; outdoor time >2hrs/day"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Clinical Refraction",
+      "children": [
+        {
+          "title": "Retinoscopy",
+          "children": [
+            {
+              "title": "Principles",
+              "children": [
+                {
+                  "title": "Observing reflex from patient's retina; when far point is at retinoscope → neutralisation (bright, full, no motion)"
+                },
+                {
+                  "title": "WTM reflex: far point behind examiner → patient is hyperopic or less myopic than working distance; ADD PLUS"
+                },
+                {
+                  "title": "ATM reflex: far point between patient and examiner → patient more myopic than working distance; ADD MINUS"
+                },
+                {
+                  "title": "Working distance correction: subtract +1.50D (67cm) or +2.00D (50cm) from total lenses in place"
+                }
+              ]
+            },
+            {
+              "title": "Retinoscopy Technique",
+              "children": [
+                {
+                  "title": "Streak retinoscope: rotate sleeve to control convergence (spot/streak) and direction; use streak parallel to meridian being assessed"
+                },
+                {
+                  "title": "Neutralise most plus meridian first (least against motion or most with motion)"
+                },
+                {
+                  "title": "Reflex quality: narrow reflex = far from neutralisation; wide bright reflex = near neutralisation"
+                },
+                {
+                  "title": "Scissors reflex: irregular astigmatism (keratoconus); reflex splits like scissors"
+                },
+                {
+                  "title": "Pseudoneutralisation: reflex appears neutral at distance but is not true neutralisation; verify with subjective"
+                },
+                {
+                  "title": "Cycloplegic retinoscopy: mandatory in children; reveals true refractive error; subract +0.75 to +1.25D for residual cycloplegia effect"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subjective Refraction",
+          "children": [
+            {
+              "title": "Cross-Cylinder (JCC) Technique",
+              "children": [
+                {
+                  "title": "Jackson Cross Cylinder (JCC): ±0.25D or ±0.50D cylinder lens; finds cylinder axis then power"
+                },
+                {
+                  "title": "Axis refinement: JCC axes at 45° to estimated cylinder axis; patient chooses preferred position → rotate axis toward minus axis of preferred position"
+                },
+                {
+                  "title": "Power refinement: JCC axes aligned with cylinder axis; patient chooses preferred position → add or subtract cylinder power"
+                },
+                {
+                  "title": "Rule: for every 0.50D cylinder added, reduce sphere by 0.25D (maintains circle of least confusion on retina)"
+                }
+              ]
+            },
+            {
+              "title": "Refining the Sphere",
+              "children": [
+                {
+                  "title": "Fogging: start with +2 to +3D extra plus → all lines blurred; slowly reduce plus until best VA (prevents over-minusing)"
+                },
+                {
+                  "title": "Duochrome (bichrome) test: chromatic aberration principle; red light focuses behind green; balanced when green = red sharpness; more plus if green clearer; more minus if red clearer"
+                },
+                {
+                  "title": "'Maximum plus for best VA': endpoint of sphere refinement"
+                }
+              ]
+            },
+            {
+              "title": "Binocular Balance",
+              "children": [
+                { "title": "Goal: equal accommodation in both eyes" },
+                {
+                  "title": "Prism dissociation: BO prism one eye creates vertical diplopia; patient reports equal sharpness"
+                },
+                {
+                  "title": "Fogging technique: fog one eye with +1D, refine other, then swap"
+                },
+                {
+                  "title": "Cycloplegic vs non-cycloplegic: cycloplegic gives maximum plus; non-cycloplegic used for final spectacle Rx; adjust for residual accommodation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prescription Writing",
+          "children": [
+            {
+              "title": "Format: Sphere / Cylinder × Axis (e.g., -2.50 / -1.25 × 180)"
+            },
+            {
+              "title": "Transposition: to change sign of cylinder; 1) algebraically add sphere + cylinder to get new sphere; 2) change sign of cylinder; 3) change axis by 90°"
+            },
+            {
+              "title": "Minus vs plus cylinder convention: ophthalmologists typically use minus cylinder; optometrists may use plus cylinder; same Rx different notation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Eyeglasses",
+      "children": [
+        {
+          "title": "Spectacle Correction Principles",
+          "children": [
+            {
+              "title": "Far point concept: correcting lens must place image of infinity at patient's far point"
+            },
+            {
+              "title": "Vertex distance: distance from back of spectacle lens to cornea (~12-14mm); critical for high powers; changing vertex distance changes effective power"
+            },
+            {
+              "title": "Vertex distance effect: for powers >±4D, must account for vertex distance in conversion from trial frame to spectacle Rx; formula: P_actual = P_trial / (1 - d × P_trial)"
+            },
+            {
+              "title": "Pantoscopic tilt: spectacle frame tilts down anteriorly; introduces small cylinder effect; correct by adjusting axis"
+            }
+          ]
+        },
+        {
+          "title": "Prescribing by Refractive Error",
+          "children": [
+            {
+              "title": "Myopia: full correction improves distance VA; undercorrecting may worsen progression (controversial); overcorrecting causes asthenopia"
+            },
+            {
+              "title": "Hyperopia: young patients may not need full correction (accommodate to compensate); prescribe full correction if: accommodative ET, amblyopia risk, symptoms; prescribe partial correction if asymptomatic"
+            },
+            {
+              "title": "Astigmatism: full correction if VA improves and tolerated; axis accurate within 5-10° for large cylinders"
+            },
+            {
+              "title": "Anisometropia: spectacles cause aniseikonia (image size difference) for large differences; CLs minimise this; prism imbalance at near (Prentice's rule)"
+            }
+          ]
+        },
+        {
+          "title": "Accommodation Problems",
+          "children": [
+            {
+              "title": "Presbyopia: onset ~45 years; amplitude <3D; add power based on working distance and residual amplitude"
+            },
+            {
+              "title": "Add power calculation: working distance power - (reserve amplitude kept = ½ total); e.g., working at 40cm = 2.5D; reserve ½ of 1D amplitude; add = 2.5 - 0.5 = +2.0D"
+            },
+            {
+              "title": "Accommodative insufficiency: reduced amplitude for age; add power required"
+            },
+            {
+              "title": "Accommodative excess/spasm: pseudomyopia; cycloplegia reveals true Rx; treat with rest and cycloplegia"
+            },
+            {
+              "title": "AC/A ratio: prism dioptres of convergence per dioptre of accommodation; normal 4:1 to 6:1; high AC/A → over-converge with near work"
+            }
+          ]
+        },
+        {
+          "title": "Multifocal Lenses",
+          "children": [
+            {
+              "title": "Bifocals",
+              "children": [
+                {
+                  "title": "Flat-top (FT28/FT35): most common; D-shaped segment; sharp segment edge"
+                },
+                { "title": "Round segment: older style; round add segment" },
+                {
+                  "title": "Executive (full-width): segment runs full width; used in children with accommodative ET (clear full near field)"
+                },
+                {
+                  "title": "Image jump: prismatic effect at segment top; occurs in round segments; absent in executive"
+                },
+                {
+                  "title": "Segment height: usually at lower limbus; adjusted for occupation"
+                }
+              ]
+            },
+            {
+              "title": "Trifocals: add distance, intermediate (~+1.5 add), and near adds; intermediate for arm's length work"
+            },
+            {
+              "title": "Progressive Addition Lenses (PALs)",
+              "children": [
+                {
+                  "title": "Continuous power change from distance (top) to near (bottom); no visible line"
+                },
+                {
+                  "title": "Corridor: narrow channel of clear vision; peripheral distortion ('swim effect') in lateral zones"
+                },
+                {
+                  "title": "Hard design: narrow corridor, less distortion in centre; soft design: wider corridor, more peripheral distortion"
+                },
+                {
+                  "title": "Advantage over bifocal: no image jump, better cosmesis, intermediate vision; disadvantage: adaptation needed, distortion"
+                }
+              ]
+            },
+            {
+              "title": "Prentice's rule in bifocals: prismatic imbalance at near due to different powers; BO prism in myopes (base splits = tolerating); BI in hyperopes; slab-off prism corrects vertical imbalance in anisometropia"
+            }
+          ]
+        },
+        {
+          "title": "Special Lenses",
+          "children": [
+            {
+              "title": "Aphakic spectacles: ~+12D; high plus; significant magnification (~25-30%); ring scotoma; jack-in-the-box effect; replaced by IOLs and CLs"
+            },
+            {
+              "title": "Absorptive lenses: tinted, photochromic (darken in UV), polarized; UV protection important for all sunglasses; UV400 blocks UV-A and UV-B"
+            },
+            {
+              "title": "Lens materials: glass (heavy, best optics, shatters), CR-39 plastic (standard), polycarbonate (impact-resistant, high n=1.586, mandatory for children/athletes), Trivex (similar to poly, better optics), high-index (n=1.67, 1.74; thinner for high powers)"
+            },
+            {
+              "title": "Anti-reflection (AR) coating: reduces reflections; improves cosmesis and VA; multilayer thin film; increases scratch susceptibility"
+            },
+            {
+              "title": "Prism in spectacles: base direction and Prentice's rule; slab-off for vertical anisometropic imbalance; yoked prisms (both BO or both BI) for field loss"
+            },
+            {
+              "title": "Pharmacologic presbyopia treatment: pilocarpine 1.25% (Vuity) drops; creates miosis → increased depth of focus; trade-off dim light/night driving"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Contact Lenses",
+      "children": [
+        {
+          "title": "Contact Lens Optics",
+          "children": [
+            {
+              "title": "Tear lens: fluid between contact lens and cornea acts as lens; for RGP CLs, liquid tear film fills corneal irregularities (corrects irregular astigmatism)"
+            },
+            {
+              "title": "Anisometropia and image size: CLs closer to nodal point → less aniseikonia than spectacles; preferred for >3D anisometropia"
+            },
+            {
+              "title": "Accommodation: myopes need less accommodation with CLs than spectacles (reverse for hyperopes)"
+            },
+            {
+              "title": "Correcting astigmatism: toric soft CLs (cylindrical correction) or RGP CLs (tear lens masks corneal astigmatism; only lenticular astigmatism needs correction)"
+            }
+          ]
+        },
+        {
+          "title": "Contact Lens Materials",
+          "children": [
+            {
+              "title": "Hydrogel soft CL: HEMA-based; Dk (oxygen transmissibility); standard daily/monthly wear; water content 38-75%"
+            },
+            {
+              "title": "Silicone hydrogel: high Dk (Dk/t >100); allows extended/continuous wear; stiffer, more deposits; replaces hydrogel as standard"
+            },
+            {
+              "title": "RGP (rigid gas-permeable): PMMA-derived + silicone-acrylate; high Dk; durable; better optics; corrects irregular astigmatism; adaptation period needed"
+            },
+            {
+              "title": "Scleral RGP: large diameter (>18mm); vaults cornea completely; fluid reservoir; for keratoconus, irregular cornea, severe dry eye, post-surgical"
+            }
+          ]
+        },
+        {
+          "title": "Fitting Principles",
+          "children": [
+            {
+              "title": "Soft CLs",
+              "children": [
+                {
+                  "title": "Base curve (BC): slightly flatter than flat K; standard 8.4 or 8.6mm"
+                },
+                { "title": "Diameter: usually 14-14.5mm; covers limbus" },
+                {
+                  "title": "Fit assessment: centration, coverage, movement (0.5-1.0mm on blink), push-up test"
+                },
+                {
+                  "title": "Too tight: no movement, conjunctival injection, 3 and 9 o'clock staining; Too loose: excessive movement, edge stand-off"
+                }
+              ]
+            },
+            {
+              "title": "RGP CLs",
+              "children": [
+                {
+                  "title": "Three-point touch: slight apical clearance + mid-peripheral bearing + edge lift"
+                },
+                {
+                  "title": "Fluorescein pattern: green pooling = clearance; dark = bearing; assess with cobalt blue"
+                },
+                {
+                  "title": "SAM (Steeper Add Minus): steeper BC → more minus power needed; FAP (Flatter Add Plus)"
+                },
+                {
+                  "title": "Steep fit: bubble under lens; excessive corneal moulding; flat fit: edge fluting, poor centration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Special Applications",
+          "children": [
+            {
+              "title": "Toric soft CLs: stabilisation mechanisms: prism ballast (base-down weight), truncation, peri-ballast; stability critical; rotation documented and Rx adjusted"
+            },
+            {
+              "title": "Multifocal CLs for presbyopia: simultaneous vision (concentric or aspheric zones); modified monovision (dominant eye distance, non-dominant near)"
+            },
+            {
+              "title": "Orthokeratology (OrthoK): reverse geometry RGP worn overnight; reshapes cornea temporarily; corrects low-medium myopia; approved for myopia control; monitor for Acanthamoeba risk"
+            },
+            {
+              "title": "Bandage CLs: silicone hydrogel on extended wear; protects epithelium; for RCE, bullous keratopathy, post-PKP; must add topical antibiotic"
+            }
+          ]
+        },
+        {
+          "title": "Care and Complications",
+          "children": [
+            {
+              "title": "Solutions: multipurpose (clean/rinse/disinfect/store); hydrogen peroxide (most effective disinfection; neutralise before insertion); saline (rinse only)"
+            },
+            { "title": "No tap water: risk of Acanthamoeba keratitis" },
+            {
+              "title": "Complications",
+              "children": [
+                {
+                  "title": "Microbial keratitis: Pseudomonas (soft CL), Acanthamoeba (OrthoK/tap water); sight-threatening emergency"
+                },
+                {
+                  "title": "Hypoxic: corneal neovascularisation (extended wear), corneal oedema, polymegethism (endothelium), epithelial microcysts"
+                },
+                {
+                  "title": "GPC (giant papillary conjunctivitis): immune response to deposits; giant papillae superior tarsus; switch to daily disposables or take break"
+                },
+                {
+                  "title": "CLPC/superior epithelial arcuate lesion (SEAL): mechanical; superior limbal arcuate SPK; flatten or reduce wearing time"
+                },
+                {
+                  "title": "3 and 9 o'clock staining: desiccation at margins of RGP; improve tear film, increase lens diameter"
+                },
+                {
+                  "title": "Contact lens-induced acute red eye (CLARE): inflammatory; hypoxia + bacterial toxins; discontinue CL; manage with topical antibiotics ± steroids"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Intraocular Lenses",
+      "children": [
+        {
+          "title": "IOL Power Calculation",
+          "children": [
+            {
+              "title": "Biometry Parameters",
+              "children": [
+                {
+                  "title": "Axial length (AL): most critical; 1mm error → ~2.5D refractive surprise; optical biometry (IOLMaster, Lenstar) preferred over ultrasound (A-scan)"
+                },
+                {
+                  "title": "Keratometry (K readings): corneal power; measured over central 3mm; errors common post-refractive surgery"
+                },
+                {
+                  "title": "Anterior chamber depth (ACD): predicts IOL position (ELP = effective lens position)"
+                },
+                {
+                  "title": "Lens thickness, WTW, CCT: used in newer generation formulas"
+                }
+              ]
+            },
+            {
+              "title": "IOL Formulas",
+              "children": [
+                {
+                  "title": "SRK/T: 3rd generation; regression + theoretical; still widely used; less accurate in extreme AL"
+                },
+                {
+                  "title": "Holladay 1 & 2: theoretical; Holladay 2 uses 7 parameters; better for unusual eyes"
+                },
+                {
+                  "title": "Hoffer Q: best for short eyes (<22mm); SRK/T best for long eyes (>26mm)"
+                },
+                {
+                  "title": "Barrett Universal II: 5th generation; outperforms 3rd generation in most studies; accounts for posterior cornea"
+                },
+                {
+                  "title": "Kane formula: AI-assisted; among best performers in recent studies"
+                },
+                {
+                  "title": "Hill-RBF (radial basis function): pattern recognition algorithm; excellent for normal eyes"
+                },
+                {
+                  "title": "ELP (effective lens position): predicted position of IOL principal plane; main source of formula error"
+                }
+              ]
+            },
+            {
+              "title": "IOL Calculation After Refractive Surgery",
+              "children": [
+                {
+                  "title": "Problem 1: instrument error — keratometer/topographer overestimates corneal power post-LASIK (measures anterior only)"
+                },
+                {
+                  "title": "Problem 2: index of refraction error — keratometer assumes standard anterior/posterior ratio (altered by laser)"
+                },
+                {
+                  "title": "Problem 3: formula error — ELP predicted from K readings; if K falsely low, ELP underestimated → hyperopic surprise"
+                },
+                {
+                  "title": "Solutions: use ASCRS online calculator; Masket/Modified Masket method; Shammas no-history method; Barrett True-K (no history needed); double-K method"
+                },
+                {
+                  "title": "General rule post-myopic LASIK: expect hyperopic surprise if not corrected → aim slightly myopic target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "IOL Types",
+          "children": [
+            {
+              "title": "Monofocal: single focal point; best distance (or near) vision; spectacle-dependent for other distances; acrylic or PMMA; most commonly implanted"
+            },
+            {
+              "title": "Toric IOL: corrects corneal astigmatism; must align with steep corneal meridian; rotation of 1° = loss of ~3% correction; mark axis before surgery"
+            },
+            {
+              "title": "Multifocal IOLs",
+              "children": [
+                {
+                  "title": "Refractive multifocal: concentric zones of different powers; pupil-dependent"
+                },
+                {
+                  "title": "Diffractive multifocal: diffractive rings on posterior surface; splits light to distance + near; ReSTOR, Tecnis; halos and glare common"
+                },
+                {
+                  "title": "EDOF (extended depth of focus): elongated focal range; reduces halos vs multifocal; good intermediate; near may need glasses; Symfony, Vivity"
+                },
+                {
+                  "title": "Trifocal: distance, intermediate, near simultaneously; Panoptix; increasing popularity"
+                },
+                {
+                  "title": "Contraindications: significant ocular comorbidity (AMD, glaucoma, corneal disease), unrealistic expectations, dry eye"
+                }
+              ]
+            },
+            {
+              "title": "Accommodative IOL: flexes or moves in capsular bag to change power; Crystalens; limited accommodation in practice"
+            },
+            {
+              "title": "Aspheric IOL: reduces spherical aberration; matches corneal prolate shape; improves contrast sensitivity, especially mesopic"
+            },
+            {
+              "title": "Blue-light filtering IOL: blocks UV + short-wavelength visible (blue); may protect macula; slightly yellow tint; theoretical benefit controversial"
+            }
+          ]
+        },
+        {
+          "title": "Lens-Related Optical Disturbances",
+          "children": [
+            {
+              "title": "Halos: diffractive multifocal IOL; pupil-dependent; brain adapts (neuroadaptation) over 3-6 months"
+            },
+            {
+              "title": "Dysphotopsia: positive (bright arc/crescent temporally) or negative (dark crescent near edge of IOL); square-edge design accentuates; may resolve spontaneously or require IOL exchange"
+            },
+            {
+              "title": "PCO (posterior capsule opacification): Elschnig pearls; most common late complication; Nd:YAG capsulotomy; square-edge IOL reduces incidence"
+            },
+            {
+              "title": "Glistening: tiny fluid-filled vacuoles in hydrophobic acrylic IOL; Acrysof; rarely visually significant"
+            }
+          ]
+        },
+        {
+          "title": "Special IOL Calculations",
+          "children": [
+            {
+              "title": "Pediatric eyes: rapidly changing AL; target hyperopia (undercorrect); avoid multifocals; aphakia preferred <1 year"
+            },
+            {
+              "title": "Silicone oil-filled eye: change in refractive index of vitreous space; use Okulix or specific formulas; remove SO before IOL calculation if possible"
+            },
+            {
+              "title": "Post-keratoplasty: K readings may be unreliable early; wait for suture removal and stable refraction"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Optical Considerations in Keratorefractive Surgery",
+      "children": [
+        {
+          "title": "Corneal Shape",
+          "children": [
+            {
+              "title": "Normal cornea: prolate shape (steeper centrally, flatter peripherally); asphericity factor Q = -0.26 (reduces spherical aberration)"
+            },
+            {
+              "title": "Post-myopic LASIK: cornea becomes oblate (flatter centrally); increases spherical aberration; reduces contrast sensitivity"
+            },
+            {
+              "title": "Wavefront-guided LASIK: attempts to minimise induced higher-order aberrations; better night vision than standard treatment"
+            },
+            {
+              "title": "Topography-guided LASIK: centres treatment on corneal apex; better for irregular corneas"
+            }
+          ]
+        },
+        {
+          "title": "Pupil & Angle Kappa",
+          "children": [
+            {
+              "title": "Large pupil: edge of ablation zone within optical pupil → halos and glare"
+            },
+            {
+              "title": "Angle kappa: angle between pupillary axis and visual axis; large angle kappa → decentration of ablation if centred on pupil; centre on Purkinje reflex (coaxially sighted corneal reflex)"
+            },
+            {
+              "title": "Optical zone: diameter of treated cornea; >6mm recommended; smaller → more aberrations and regression"
+            }
+          ]
+        },
+        {
+          "title": "Irregular Astigmatism",
+          "children": [
+            {
+              "title": "Definition: cannot be fully corrected with sphere + cylinder; multiple wavefront aberration terms involved"
+            },
+            {
+              "title": "Causes: keratoconus, post-surgical (decentred ablation, corneal scar, PTK), trauma, dystrophies"
+            },
+            {
+              "title": "Wavefront analysis (Hartmann-Shack): measures aberrations as Zernike polynomial coefficients; lower order (defocus, astigmatism) and higher order (coma, trefoil, SA)"
+            },
+            {
+              "title": "Management: RGP/scleral CLs (tear lens masks irregular surface); wavefront-guided PRK; penetrating or lamellar keratoplasty"
+            }
+          ]
+        },
+        {
+          "title": "Munnerlyn Formula",
+          "children": [
+            {
+              "title": "Ablation depth (μm) ≈ D × S² / 3; D = refractive correction (D), S = optical zone (mm)"
+            },
+            {
+              "title": "Each dioptre of myopic correction removes ~15μm for 6mm zone"
+            },
+            {
+              "title": "Residual stromal bed: minimum 250-300μm to prevent ectasia; pachymetry pre-op essential"
+            }
+          ]
+        },
+        {
+          "title": "Keratorefractive Procedures Overview",
+          "children": [
+            {
+              "title": "PRK: surface ablation; removes epithelium; slower healing; haze risk (MMC prophylaxis); no flap complications; preferred for thin corneas"
+            },
+            {
+              "title": "LASIK: microkeratome or femtosecond flap; immediate recovery; flap complications (striae, dislocation, interface deposits)"
+            },
+            {
+              "title": "SMILE (small incision lenticule extraction): femtosecond laser creates intrastromal lenticule; extracted through small incision; no flap; less dry eye; limits enhancement"
+            },
+            {
+              "title": "LASEK: alcohol loosens epithelium as flap; intermediate between PRK and LASIK"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Optical Instruments",
+      "children": [
+        {
+          "title": "Refraction & Topography Instruments",
+          "children": [
+            {
+              "title": "Lensmeter (Focimeter/Lensometer)",
+              "children": [
+                {
+                  "title": "Measures back vertex power (BVP) of spectacle or contact lens"
+                },
+                {
+                  "title": "Manual: telescope focused on target through unknown lens; read sphere, cylinder, and axis"
+                },
+                {
+                  "title": "Automated: automated lensmeters; also read prism (displacement of measurement target)"
+                },
+                {
+                  "title": "Multifocal: measure through distance and near zones separately"
+                }
+              ]
+            },
+            {
+              "title": "Autorefractor",
+              "children": [
+                {
+                  "title": "Infrared beam into eye; analyses reflected image; gives quick starting estimate for refraction"
+                },
+                {
+                  "title": "Hartmann-Shack wavefront sensor: maps entire wavefront; gives both lower and higher-order aberrations"
+                },
+                {
+                  "title": "Limitations: accommodation affects result; less accurate in media opacities"
+                }
+              ]
+            },
+            {
+              "title": "Keratometer",
+              "children": [
+                {
+                  "title": "Measures radius of curvature of central 3mm of cornea; calculates K readings (D)"
+                },
+                {
+                  "title": "Javal-Schiötz: doubling type; 2 mires; reading axis and power"
+                },
+                {
+                  "title": "Bausch & Lomb type (Placido-derived): single mire; rotating"
+                },
+                {
+                  "title": "Only measures 4 points; misses irregular astigmatism; topography needed for full corneal assessment"
+                },
+                { "title": "Conversion: r (mm) = 337.5 / K (D); approximately" }
+              ]
+            },
+            {
+              "title": "Corneal Topography",
+              "children": [
+                {
+                  "title": "Placido disc: measures anterior surface curvature from reflection of concentric rings; colour-coded map"
+                },
+                {
+                  "title": "Scheimpflug (Pentacam, Galilei): rotating camera; anterior + posterior surface + pachymetry; true elevation maps; essential for refractive surgery screening"
+                },
+                {
+                  "title": "Maps: axial (sagittal), tangential (instantaneous), elevation (above best-fit sphere); tangential most sensitive for KC"
+                },
+                {
+                  "title": "Normal: regular bowtie pattern (with-the-rule astigmatism); inferior steepening suggests keratoconus"
+                }
+              ]
+            },
+            {
+              "title": "Wavefront Aberrometers",
+              "children": [
+                {
+                  "title": "Hartmann-Shack: array of lenslets → measures local wavefront slopes → reconstructed wavefront"
+                },
+                {
+                  "title": "Zernike decomposition: polynomial fitting; Z₂₀ = defocus, Z₂±² = astigmatism, Z₃±¹ = coma, Z₄⁰ = spherical aberration"
+                },
+                {
+                  "title": "Clinical use: guide wavefront-guided LASIK; characterise irregular astigmatism; evaluate IOL performance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Anterior & Posterior Segment Instruments",
+          "children": [
+            {
+              "title": "Slit-Lamp Biomicroscope",
+              "children": [
+                {
+                  "title": "Koehler illumination: uniform illumination; slit beam adjustable width/height/angle/filter"
+                },
+                {
+                  "title": "Magnification: 6×-40× (binocular) via zoom or click-stops"
+                },
+                {
+                  "title": "Working distance: fixed; fundus contact or non-contact lenses extend to posterior segment"
+                }
+              ]
+            },
+            {
+              "title": "Goldmann Applanation Tonometry (GAT)",
+              "children": [
+                {
+                  "title": "Measures IOP by applanating 3.06mm diameter disc; fluorescein + cobalt blue; endpoint: inner edges of two semicircles just touching"
+                },
+                {
+                  "title": "Pressure (mmHg) = force (g) × 10; reading × 10 = mmHg if force in grams"
+                },
+                {
+                  "title": "Errors: CCT (thicker cornea → overestimates; thinner → underestimates; 10μm ≈ 0.5mmHg); corneal curvature, tear film, oedema"
+                },
+                {
+                  "title": "Pascal DCT, ORA (ocular response analyser), ICare: alternatives; less affected by CCT"
+                }
+              ]
+            },
+            {
+              "title": "Ophthalmoscopy",
+              "children": [
+                {
+                  "title": "Direct ophthalmoscope: erect virtual image; magnification ~15×; small field of view; limited by small pupil; image: erect virtual"
+                },
+                {
+                  "title": "Indirect ophthalmoscope: inverted real image; 2-5× magnification; wide field; 20D lens (3× mag, 45° field); used for peripheral retina, ROP; fundus details: INVERTED"
+                },
+                {
+                  "title": "Non-contact slit-lamp lenses: 78D (15×, 43° field), 90D (13×, 62° field), wide-field 60D; inverted image; used for posterior pole examination"
+                },
+                {
+                  "title": "Contact lenses: Goldmann 3-mirror (peripheral retina, gonioscopy); Volk Quad-aspheric; direct slit-lamp fundus view"
+                }
+              ]
+            },
+            {
+              "title": "Optical Coherence Tomography (OCT)",
+              "children": [
+                {
+                  "title": "Principle: low-coherence interferometry; Michelson interferometer; measures optical path length; depth resolution 3-10μm"
+                },
+                {
+                  "title": "Time-domain OCT: moving reference arm; slower; 400 A-scans/sec; older generation"
+                },
+                {
+                  "title": "Spectral-domain (Fourier-domain) OCT: fixed reference; Fourier transform of spectrum; faster (25,000-100,000 A-scans/sec); better resolution; current standard"
+                },
+                {
+                  "title": "Swept-source OCT: longer wavelength (1050nm); better penetration through media opacities, visualises choroid; >100,000 A-scans/sec"
+                },
+                {
+                  "title": "OCT-A (angiography): motion contrast; detects blood flow without dye; en-face maps of capillary layers; quantifies foveal avascular zone"
+                },
+                {
+                  "title": "Clinical applications: macular diseases (AMD, DME, ERM), glaucoma (RNFL/GCC), optic nerve, anterior segment (AS-OCT)"
+                }
+              ]
+            },
+            {
+              "title": "Scanning laser ophthalmoscope (SLO): laser illumination; confocal optical section; reduces scatter; wide field imaging (Optos 200°); used with OCT and FA in modern combined platforms"
+            },
+            {
+              "title": "Adaptive optics (AO): wavefront sensor + deformable mirror corrects ocular aberrations in real-time; enables cellular-level imaging (individual photoreceptors, ganglion cells); research tool advancing to clinical use"
+            },
+            {
+              "title": "Specular microscopy: images corneal endothelium; cell density, polymegethism, pleomorphism; normal >2000 cells/mm²; monitor pre/post surgery"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Vision Rehabilitation",
+      "children": [
+        {
+          "title": "Definitions",
+          "children": [
+            {
+              "title": "Low vision: BCVA <6/18 (20/60) to perception of light, or visual field <10° in better eye, not correctable with standard spectacles/CLs/surgery"
+            },
+            {
+              "title": "Blindness (legal, USA): BCVA ≤6/60 (20/200) in better eye with best correction OR visual field ≤20° diameter"
+            },
+            {
+              "title": "WHO categories: V1 (6/18-6/60), V2 (6/60-3/60), V3 (3/60-1/60), V4 (<1/60), V5 (no light perception)"
+            },
+            {
+              "title": "Vision rehabilitation: comprehensive, multidisciplinary process; maximises remaining visual function and independence"
+            }
+          ]
+        },
+        {
+          "title": "Low Vision Evaluation",
+          "children": [
+            {
+              "title": "Visual acuity: ETDRS (gold standard); near VA (Jaeger, point notation, logMAR); reading speed (critical functional measure)"
+            },
+            {
+              "title": "Refraction: careful refraction first; often missed correction in low vision patients; high adds (+4D to +12D) for near"
+            },
+            {
+              "title": "Contrast sensitivity: Pelli-Robson; Mars Letter; predicts functional vision better than VA alone in some diseases"
+            },
+            {
+              "title": "Central visual field: Amsler grid (10° field, qualitative); tangent screen; microperimetry (maps scotoma relative to fixation point, crucial for eccentric viewing training)"
+            },
+            {
+              "title": "Peripheral field: Goldmann kinetic perimetry; useful for orientation + mobility planning; important in RP, glaucoma"
+            },
+            {
+              "title": "Eccentric viewing: patient with central scotoma learns to use preferred retinal locus (PRL); assessed with scanning laser ophthalmoscope + microperimetry"
+            },
+            {
+              "title": "Patient goals: reading, driving (eligibility), face recognition, ADLs; function-centred evaluation"
+            },
+            {
+              "title": "Charles Bonnet syndrome: formed visual hallucinations in visually impaired (not psychotic); reassure patient; may reduce with low vision aids"
+            }
+          ]
+        },
+        {
+          "title": "Optical Devices",
+          "children": [
+            {
+              "title": "Magnifiers",
+              "children": [
+                {
+                  "title": "Magnification = D/4 for simple lens at standard 25cm reference; or M = (add power) / 4 in practice"
+                },
+                {
+                  "title": "Types: stand magnifier (fixed focal distance), handheld magnifier (flexible), illuminated (improves contrast)"
+                },
+                {
+                  "title": "Trade-off: higher magnification → smaller field of view; shorter working distance (unless telemicroscope)"
+                }
+              ]
+            },
+            {
+              "title": "Spectacle Magnifiers",
+              "children": [
+                {
+                  "title": "High-add glasses (+4D to +12D): short working distance (8-25cm); both hands free; useful for sustained reading"
+                },
+                {
+                  "title": "Telemicroscope: telescope + reading cap; longer working distance; limited field"
+                }
+              ]
+            },
+            {
+              "title": "Telescopes",
+              "children": [
+                {
+                  "title": "Galilean (hand, spectacle-mounted): erect, wide FOV, compact; low power (2-3×)"
+                },
+                {
+                  "title": "Keplerian: higher power; erect via prism; wider FOV; heavier"
+                },
+                {
+                  "title": "Bioptic telescope: mounted high in spectacle lens; drives legally in many states with 20/40 through telescope; controversial"
+                },
+                {
+                  "title": "Miniaturised: Ocutech, IQ Galilean; spectacle-mounted for distance tasks"
+                }
+              ]
+            },
+            {
+              "title": "Prism spectacles for field loss: yoked prisms (both BO) shift image from blind field into seeing area; Peli lens for hemianopia (sector prism in periphery)"
+            }
+          ]
+        },
+        {
+          "title": "Electronic & Non-Optical Aids",
+          "children": [
+            {
+              "title": "CCTV / video magnifiers: electronic; variable magnification (2-60×); large screen; best for reading/writing; high contrast settings"
+            },
+            {
+              "title": "Tablets/smartphones: built-in accessibility (zoom, VoiceOver/TalkBack, high contrast); versatile; front camera as magnifier"
+            },
+            {
+              "title": "Screen readers: NVDA, JAWS, VoiceOver; converts text to speech; for computer/tablet use"
+            },
+            {
+              "title": "Portable electronic magnifiers: hand-held (Pebble, Merlin Go); video display; practical for daily use"
+            },
+            {
+              "title": "AI-powered devices: OrCam MyEye, Envision Glasses; reads text, recognises faces/objects; wearable; emerging category"
+            },
+            {
+              "title": "Non-optical: large-print materials, bold-line paper, task lighting (directed lamp), high contrast (black on white), reading stands, talking clocks"
+            }
+          ]
+        },
+        {
+          "title": "Rehabilitation for Field Loss",
+          "children": [
+            {
+              "title": "Hemianopia: compensatory saccade training (shift eyes into blind field); prism spectacles (Peli lens); orientation + mobility training"
+            },
+            {
+              "title": "Constricted field (tunnel vision): reverse telescope (minifies → increases apparent field); orientation + mobility; cane/guide dog"
+            },
+            {
+              "title": "Central scotoma (AMD): eccentric viewing training using microperimetry; steady eye strategy; low vision aids; text-to-speech"
+            },
+            {
+              "title": "Driving: many states allow bioptic driving with 20/200 general VA and 20/40 through bioptic; visual field requirements vary"
+            }
+          ]
+        },
+        {
+          "title": "Sight Substitution & Training",
+          "children": [
+            {
+              "title": "Orientation & mobility (O&M) training: travel skills, cane use, guide dog training; specialist O&M trainer"
+            },
+            {
+              "title": "Braille: tactile reading; taught by vision specialist; most effective if started young"
+            },
+            {
+              "title": "Audio: talking books (NLS), screen readers, voice assistants (Alexa, Siri)"
+            },
+            {
+              "title": "Retinal prostheses (Argus II, Alpha IMS): electrical stimulation of remaining retinal cells; limited resolution (light/dark discrimination) in RP; not commercially available in most markets"
+            },
+            {
+              "title": "Cortical visual prosthesis: electrodes on visual cortex; Orion; in trials; intended for complete blindness"
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Vision Rehabilitation",
+          "children": [
+            {
+              "title": "Early intervention: first 3 years most critical for visual and motor development; start rehabilitation as soon as visual impairment identified"
+            },
+            {
+              "title": "VI teachers: school-based specialists; braille, ADL, orientation training; IEP development"
+            },
+            {
+              "title": "CVI (cerebral visual impairment): most common cause in developed world; visual skills approach (light response, reach, visual field preference); NVI-CVI scale"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Vergence equation: V' = V + P; power of lens in dioptres; P = 1/focal length in metres"
+        },
+        {
+          "title": "Prentice's rule: prism power (Δ) = lens power (D) × decentration (cm); P = Fc"
+        },
+        {
+          "title": "WTM reflex in retinoscopy → add plus; ATM → add minus; neutralisation = bright full pupil reflex, no motion"
+        },
+        {
+          "title": "Working distance: 67cm = subtract +1.50D; 50cm = subtract +2.00D from gross retinoscopy Rx"
+        },
+        {
+          "title": "JCC axis check: JCC axes at 45° to estimated axis; rotate toward minus axis of preferred flip"
+        },
+        {
+          "title": "JCC power check: JCC aligned with cylinder axis; for each 0.50D cyl added, reduce sphere by 0.25D"
+        },
+        {
+          "title": "Duochrome test: if red clearer → too much plus (overcorrected myope); if green clearer → add more plus"
+        },
+        {
+          "title": "Snell's law: n₁sinθ₁ = n₂sinθ₂; critical angle: sinθc = n₂/n₁; basis of gonioscopy contact lens"
+        },
+        {
+          "title": "Conoid of Sturm: astigmatic beam; circle of least confusion at spherical equivalent"
+        },
+        {
+          "title": "Transposition: new sphere = sphere + cylinder; new cylinder = same power opposite sign; new axis ± 90°"
+        },
+        {
+          "title": "Vertex distance effect: >±4D requires adjustment when changing from trial frame to specs or specs to CL"
+        },
+        {
+          "title": "Chromatic aberration: blue focuses anteriorly; duochrome test uses this — green targets reflect from more anterior focal point"
+        },
+        {
+          "title": "Laser photoablation: Excimer ArF 193nm; cold; removes 0.25μm per pulse; Munnerlyn: depth ≈ D×S²/3"
+        },
+        {
+          "title": "Nd:YAG: 1064nm; photodisruption; posterior capsulotomy, peripheral iridotomy"
+        },
+        {
+          "title": "SLT: 532nm Q-switched; selectively targets TM cells; repeatable; no thermal scar"
+        },
+        {
+          "title": "OCT principle: low-coherence interferometry; SD-OCT 25,000-100,000 A-scans/sec; depth resolution 3-10μm"
+        },
+        {
+          "title": "Goldmann applanation: endpoint = inner edges of semi-circles touching; CCT affects reading (10μm ≈ 0.5mmHg)"
+        },
+        {
+          "title": "Direct ophthalmoscopy: erect virtual image ×15; indirect ophthalmoscopy: inverted real image ×2-5; 20D lens ×3 with 45° FOV"
+        },
+        {
+          "title": "IOL formulas: Barrett Universal II and Kane among most accurate; Hoffer Q for short eyes (<22mm); SRK/T for long eyes (>26mm)"
+        },
+        {
+          "title": "Post-myopic LASIK IOL calc: hyperopic surprise common; use ASCRS online calculator or Barrett True-K"
+        },
+        {
+          "title": "ELP (effective lens position): main source of IOL power error; predicted from K and ACD"
+        },
+        { "title": "RGP CL: SAM = Steeper Add Minus; FAP = Flatter Add Plus" },
+        {
+          "title": "OrthoK (orthokeratology): reverse geometry RGP worn overnight; reshapes cornea; risk of Acanthamoeba with water contact"
+        },
+        {
+          "title": "CL-related keratitis: Pseudomonas most common; Acanthamoeba (radial keratoneuritis, PHMB treatment); never use tap water"
+        },
+        {
+          "title": "Myopia control: low-dose atropine 0.01% ~50% reduction; OrthoK, MiSight CL, DIMS spectacles; outdoor time >2hrs/day"
+        },
+        {
+          "title": "Low vision legal blindness (USA): BCVA ≤20/200 or visual field ≤20° in better eye with best correction"
+        },
+        {
+          "title": "Eccentric viewing: central scotoma → preferred retinal locus (PRL); train with microperimetry; steady eye strategy"
+        },
+        {
+          "title": "Magnification formula: M = D/4 for simple magnifier; or needed magnification = distance VA target / current VA"
+        },
+        {
+          "title": "Slab-off prism: corrects vertical prismatic imbalance at near in anisometropia; ground on lens with more minus; base-up on that lens"
+        },
+        {
+          "title": "PAL (progressive addition lens): no jump; peripheral distortion in lateral zones; hard vs soft design trade-off"
+        }
+      ]
+    }
+  ]
+}

@@ -350,7 +350,9 @@ function renderMindMap(data) {
   let { width, height, xMin } = computeChartDimensions(root, margin);
 
   function setChartContainerHeight(rawHeight) {
-    const chartHeight = Math.max(380, rawHeight);
+    const maxHeightVh = 90;
+    const maxHeightPx = (window.innerHeight * maxHeightVh) / 100;
+    const chartHeight = Math.max(380, Math.min(rawHeight, maxHeightPx));
     chartContainer.style.height = `${chartHeight}px`;
   }
 
@@ -514,6 +516,16 @@ function renderMindMap(data) {
     }
     if (d.children) {
       d.children.forEach(expand);
+    }
+  }
+
+  function expandToDepth(d, maxDepth) {
+    if (d._children && d.depth < maxDepth) {
+      d.children = d._children;
+      d._children = null;
+    }
+    if (d.children) {
+      d.children.forEach((child) => expandToDepth(child, maxDepth));
     }
   }
 
@@ -700,6 +712,7 @@ function renderMindMap(data) {
   }
 
   collapse(root);
+  expandToDepth(root, 2);
   if (searchQuery && typeof highlightMatches === "function") {
     highlightMatches(searchQuery);
   } else {
