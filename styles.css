@@ -305,6 +305,16 @@ button.secondary {
   .viewer-actions #nodeInfo {
     flex: 1 1 100%;
   }
+
+  #saveSvgButton,
+  #openSvgButton {
+    flex: 0 0 auto;
+  }
+
+  .svg-button {
+    display: flex;
+    gap: 8px;
+  }
 }
 
 .note {

@@ -1,0 +1,1282 @@
+{
+  "title": "Lens and Cataract",
+  "type": "root",
+  "children": [
+    {
+      "title": "Epidemiology of Cataract",
+      "children": [
+        {
+          "title": "Prevalence & Global Burden",
+          "children": [
+            {
+              "title": "Leading cause of blindness worldwide (~51% of all blindness); most in low/middle-income countries where surgery access is limited"
+            },
+            {
+              "title": "Age-related cataract most common; prevalence rises sharply after age 60; >90% of persons >80 years have some lens opacity"
+            },
+            {
+              "title": "Cataract surgery most commonly performed operation in medicine; >28 million procedures annually worldwide"
+            }
+          ]
+        },
+        {
+          "title": "Subtypes by Prevalence",
+          "children": [
+            {
+              "title": "Nuclear cataract: most common in developed countries; closely associated with aging + smoking"
+            },
+            {
+              "title": "Cortical cataract: more common in women; UV exposure; diabetes association"
+            },
+            {
+              "title": "Posterior subcapsular (PSC): less prevalent overall but most visually disabling per unit of opacity; steroid/radiation association"
+            },
+            { "title": "Mixed cataract: common in advanced age" }
+          ]
+        },
+        {
+          "title": "Risk Factors",
+          "children": [
+            {
+              "title": "Modifiable: UV-B radiation (strongest environmental), smoking (nuclear cataract ×3 risk), alcohol (cortical), corticosteroids (PSC), diabetes (cortical + PSC), malnutrition (antioxidant deficiency)"
+            },
+            {
+              "title": "Non-modifiable: age (most important), female sex (cortical), myopia (nuclear), genetic predisposition"
+            },
+            {
+              "title": "Protective: statins (possible), antioxidant vitamins C/E (weak epidemiologic evidence), sunglasses"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Lens Anatomy",
+      "children": [
+        {
+          "title": "Overall Structure",
+          "children": [
+            {
+              "title": "Biconvex transparent avascular structure; ~10mm diameter, ~4mm thick (at rest), ~9mm axial in fully accommodated state"
+            },
+            {
+              "title": "Total refracting power ~17-21D (contributes ~1/3 of total 60D eye); shape changes with accommodation"
+            },
+            {
+              "title": "Layers outside-in: capsule → epithelium (anterior only) → cortex → nucleus"
+            }
+          ]
+        },
+        {
+          "title": "Capsule",
+          "children": [
+            {
+              "title": "Thickest basement membrane in body; type IV collagen + laminin + fibronectin + heparan sulfate"
+            },
+            {
+              "title": "Thickness variations: anterior capsule thickest at pre-equatorial zone (~14μm); thinnest at posterior pole (~2-4μm); this posterior thinness explains why posterior capsule ruptures more easily in surgery"
+            },
+            {
+              "title": "Zonular insertion zone: at equatorial region; capsule is reinforced here"
+            }
+          ]
+        },
+        {
+          "title": "Zonular Fibres (Zonule of Zinn)",
+          "children": [
+            {
+              "title": "Fibrillin-1 microfibrils (same protein mutated in Marfan syndrome); synthesised by non-pigmented ciliary epithelium"
+            },
+            {
+              "title": "Run from ciliary body processes to lens equatorial capsule; ~1000 bundles"
+            },
+            {
+              "title": "Tension on zonules (accommodated relaxation) → lens flattens; zonule relaxation (ciliary contraction) → lens rounds (accommodation)"
+            },
+            {
+              "title": "Zonular weakness/absence: Marfan (fibrillin-1), homocystinuria (CBS), pseudoexfoliation (PXF material deposits), trauma, Weill-Marchesani"
+            }
+          ]
+        },
+        {
+          "title": "Lens Epithelium",
+          "children": [
+            {
+              "title": "Single layer of cuboidal cells on anterior and equatorial inner capsule surface; NO epithelium posteriorly"
+            },
+            {
+              "title": "Na/K-ATPase pump maintains lens ion balance; active metabolic activity"
+            },
+            {
+              "title": "Germinative zone (equatorial bow region): mitotically active; daughter cells differentiate → elongate → lose organelles → become lens fibre cells"
+            },
+            {
+              "title": "PCO (posterior capsule opacification): residual epithelial cells migrate to posterior capsule, proliferate, and form Elschnig pearls or fibrous opacification"
+            }
+          ]
+        },
+        {
+          "title": "Nucleus and Cortex",
+          "children": [
+            {
+              "title": "Cortex: youngest fibre cells; more hydrated; clearer; softer (easier phaco)"
+            },
+            {
+              "title": "Nucleus: oldest compacted fibre cells; hardest; LOCS grading 1-4+ for hardness (brunescent = grade 4+, brown-black, very hard)"
+            },
+            {
+              "title": "Nuclear zones (embryonic → fetal → infantile → adult nuclei) laid down sequentially from inside out; each represents a developmental epoch"
+            },
+            {
+              "title": "Lens sutures: Y-shaped anterior suture + inverted-Y posterior suture = junction of fibre ends; appear as spoke-like opacities in sutural cataracts"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Lens Biochemistry & Physiology",
+      "children": [
+        {
+          "title": "Crystallin Proteins",
+          "children": [
+            {
+              "title": "Comprise ~90% of lens protein; essential for transparency"
+            },
+            {
+              "title": "α-crystallin: largest; heat-shock protein family; molecular chaperone (prevents aggregation of damaged proteins); protects against opacification; decreases with age"
+            },
+            {
+              "title": "β-crystallin + γ-crystallin: structural proteins; short-range ordered packing → high refractive index without light scatter"
+            },
+            {
+              "title": "Age-related changes: proteins become water-insoluble (post-translational modification: deamidation, oxidation, truncation); aggregate → scatter light → nuclear cataract"
+            }
+          ]
+        },
+        {
+          "title": "Carbohydrate Metabolism",
+          "children": [
+            {
+              "title": "Primarily anaerobic glycolysis (90%): glucose → pyruvate → lactate; ATP production; no mitochondria in mature fibre cells"
+            },
+            {
+              "title": "Hexose monophosphate (HMP) shunt (5%): produces NADPH → regenerates glutathione (antioxidant)"
+            },
+            {
+              "title": "Sorbitol pathway (polyol pathway): in diabetes/galactosaemia, excess glucose → aldose reductase → sorbitol (cannot leave lens) → osmotic swelling → cortical cataract; aldose reductase inhibitors (experimental)"
+            },
+            {
+              "title": "Galactosaemia: galactose → galactitol (same sorbitol pathway problem) → oil-drop cortical cataract in infants; treat with galactose-free diet"
+            }
+          ]
+        },
+        {
+          "title": "Oxidative Protection",
+          "children": [
+            {
+              "title": "Lens is highly vulnerable to oxidative damage (high O₂ exposure, transparent = no melanin protection)"
+            },
+            {
+              "title": "Antioxidants: reduced glutathione (GSH; most important), ascorbate (vitamin C; high in aqueous), vitamin E (tocopherol; lipid membranes), catalase, SOD"
+            },
+            {
+              "title": "With age: GSH levels fall; protein-SH groups oxidised → protein aggregation → nuclear cataract"
+            },
+            {
+              "title": "Smoking: increases oxidative burden → nuclear cataract; UV radiation → PSC and cortical cataract"
+            }
+          ]
+        },
+        {
+          "title": "Lens Physiology",
+          "children": [
+            {
+              "title": "Ion balance: high K+, low Na+ inside lens (opposite of plasma); Na/K-ATPase in epithelium pumps Na+ out, K+ in; maintains lens hydration at ~65% water"
+            },
+            {
+              "title": "Nutrition: entirely from aqueous humour (no vasculature); glucose, amino acids, antioxidants diffuse across capsule"
+            },
+            {
+              "title": "Accommodation: ciliary muscle contracts → zonule tension released → lens rounds (becomes more spherical, increases power); amplitude decreases with age → presbyopia"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Embryology & Developmental Anomalies",
+      "children": [
+        {
+          "title": "Normal Lens Development",
+          "children": [
+            {
+              "title": "Week 4: surface ectoderm overlying optic vesicle thickens → lens placode (induced by optic cup via Pax6, Sox2, Six3)"
+            },
+            {
+              "title": "Week 4-5: placode invaginates → lens pit → lens vesicle (hollow sphere pinches off from surface ectoderm)"
+            },
+            {
+              "title": "Week 5-7: posterior cells of vesicle elongate → fill cavity → primary lens fibres → embryonic nucleus; anterior cells remain as epithelium"
+            },
+            {
+              "title": "Secondary lens fibres: produced at germinative zone throughout life; each new layer wraps around nucleus"
+            },
+            {
+              "title": "Tunica vasculosa lentis (TVL): vascular capsule surrounds fetal lens; hyaloid artery anterior branch; normally regresses by birth; persistence = PFV (persistent fetal vasculature)"
+            },
+            {
+              "title": "Zonule of Zinn: develops from non-pigmented ciliary epithelium; fibrillin-1 microfibrils"
+            }
+          ]
+        },
+        {
+          "title": "Congenital Anomalies",
+          "children": [
+            {
+              "title": "Congenital aphakia: extremely rare; primary (failure of lens placode/vesicle development); secondary (lens resorbed); associated with anterior segment dysgenesis"
+            },
+            {
+              "title": "Lenticonus: conical deformation of lens surface; posterior lenticonus more common (posterior capsule bulges → axial myopia + oil-droplet reflex); associated with Alport syndrome (COL4A3/4/5; hereditary nephritis + sensorineural deafness)"
+            },
+            {
+              "title": "Lentiglobus: generalised spherical deformation; rarely bilateral"
+            },
+            {
+              "title": "Lens coloboma: notch in inferior lens equator from failed fissure closure; zonular deficiency inferiorly; usually no visual significance; associated with coloboma elsewhere"
+            },
+            {
+              "title": "Mittendorf dot: white spot on posterior lens capsule at insertion of hyaloid artery; remnant of TVL; no visual significance; mark at inferior-nasal lens"
+            },
+            {
+              "title": "Epicapsular star: anterior lens capsule star-shaped pigment deposits; remnant of anterior TVL; no visual significance"
+            },
+            {
+              "title": "Microspherophakia: small spherical lens; Weill-Marchesani syndrome (short stature); zonular laxity → anteriorly displaced lens → pupillary block glaucoma"
+            },
+            {
+              "title": "Persistent fetal vasculature (PFV): failed TVL regression; unilateral microphthalmos; posterior stalk; leukocoria; treat with lensectomy + vitrectomy; distinguish from retinoblastoma (no calcification, unilateral, microphthalmos)"
+            }
+          ]
+        },
+        {
+          "title": "Ectopia Lentis",
+          "children": [
+            {
+              "title": "Displacement of lens from normal position; may be subluxated (partial zonular loss; lens still partly in pupil) or luxated/dislocated (complete; lens in AC or vitreous)"
+            },
+            {
+              "title": "Marfan syndrome (FBN1, AD): superotemporal displacement; iridodonesis; high myopia; tall, arachnodactyly; aortic root dilation; manage with spectacles; lensectomy if vision poor or glaucoma"
+            },
+            {
+              "title": "Homocystinuria (CBS, AR): inferonasal displacement; thromboembolism risk; intellectual disability; Marfanoid habitus; pyridoxine-responsive (50%); HIGH anaesthetic/surgical risk (thrombosis); treat: general anaesthesia only if essential; anticoagulation peri-operatively"
+            },
+            {
+              "title": "Weill-Marchesani syndrome: microspherophakia + lens subluxation + short stature + brachydactyly; AD or AR (FBN1, ADAMTS10); pupillary block glaucoma risk"
+            },
+            {
+              "title": "Ectopia lentis et pupillae: lens and pupil displaced in opposite directions; X-linked or AR; bilateral asymmetric; coloboma-like appearance"
+            },
+            {
+              "title": "PXF syndrome: most common cause of acquired ectopia lentis (zonular weakness from PXF material deposition)"
+            }
+          ]
+        },
+        {
+          "title": "Congenital Cataract",
+          "children": [
+            {
+              "title": "Morphological Types",
+              "children": [
+                {
+                  "title": "Nuclear (embryonal/fetal): dense central opacity; most visually significant; hereditary or metabolic"
+                },
+                {
+                  "title": "Lamellar (zonular): most common type overall; shells around nucleus; spoke-like riders; often bilateral; hereditary; moderate visual impact"
+                },
+                {
+                  "title": "Anterior polar: small, white, anterior capsule; usually bilateral; rarely significant; associated with persistent hyaloid remnants"
+                },
+                {
+                  "title": "Posterior polar: posterior capsule attachment; high risk of inadvertent posterior capsule rupture during surgery (NEVER hydrodissect); associated with Alport, LCA, PFV"
+                },
+                {
+                  "title": "Sutural: along Y-suture lines; usually stable; mild visual impact"
+                },
+                {
+                  "title": "Total/complete: diffuse white opacification; full deprivational amblyopia risk; urgent surgery"
+                }
+              ]
+            },
+            {
+              "title": "Aetiology",
+              "children": [
+                { "title": "Idiopathic: 40-60%; sporadic" },
+                {
+                  "title": "Hereditary: 25%; AD most common (CRYGD, CRYBB2, connexin genes); also AR and X-linked"
+                },
+                {
+                  "title": "Metabolic: galactosaemia (oil-droplet nuclear; newborn screen), galactokinase deficiency (nuclear only; milder), Lowe syndrome (AR; OCRL; dense bilateral + renal tubular acidosis + ID), Wilson disease, Fabry disease, Nance-Horan (X-linked; dense nuclear)"
+                },
+                {
+                  "title": "Intrauterine infection (TORCH): rubella (nuclear pearlescent; dense; first trimester risk; classic triad with deafness + heart defect), CMV, toxoplasmosis, HSV, Zika"
+                },
+                {
+                  "title": "Chromosomal: Trisomy 21 (lamellar; common), Trisomy 13, 18, Turner syndrome"
+                },
+                {
+                  "title": "Ocular: PFV, aniridia, Peters anomaly, coloboma, ROP"
+                }
+              ]
+            },
+            {
+              "title": "Workup for Bilateral Cataracts",
+              "children": [
+                {
+                  "title": "Galactosaemia screen: urine reducing substances; galactokinase + GALT enzyme assays; red cell galactitol"
+                },
+                {
+                  "title": "TORCH titres; blood glucose; calcium (hypoparathyroidism → cataract)"
+                },
+                {
+                  "title": "Urine amino acids (homocystinuria); chromosomal analysis"
+                },
+                { "title": "Renal function/urinalysis (Lowe syndrome, Alport)" }
+              ]
+            },
+            {
+              "title": "Treatment Timing",
+              "children": [
+                {
+                  "title": "Dense unilateral cataract: surgery within 6-8 weeks of birth; immediate optical rehabilitation (CL preferred); patch fellow eye ≥50% waking hours"
+                },
+                {
+                  "title": "Dense bilateral cataract: surgery 6-10 weeks of birth; bilateral simultaneous or sequential within 1 week; spectacles for bilateral aphakia"
+                },
+                {
+                  "title": "IOL implantation: generally defer <1 year (eye still growing; leave hyperopic); consider from 12-18 months with target hyperopia; posterior capsulotomy + anterior vitrectomy required in all young children"
+                },
+                {
+                  "title": "Partial/lamellar cataracts: monitor; surgery only if VA reduced or amblyopia developing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Pathology of Cataract",
+      "children": [
+        {
+          "title": "Age-Related Cataract Types",
+          "children": [
+            {
+              "title": "Nuclear Cataract",
+              "children": [
+                {
+                  "title": "Progressive compaction and oxidation of central nucleus; crystallin protein aggregation → light scatter → haze"
+                },
+                {
+                  "title": "Colour: yellow (early) → amber → brown → black (brunescent); pigment from tryptophan metabolites"
+                },
+                {
+                  "title": "LOCS III grading: NO1-6 (opacity colour), NC1-6 (colour tint)"
+                },
+                {
+                  "title": "Refractive consequences: nucleus becomes denser → higher refractive index → myopic shift ('second sight of the aged': presbyopes can briefly read without glasses as myopia compensates for presbyopia)"
+                },
+                {
+                  "title": "Optics: mainly reduces contrast + causes glare at night; central dimming; worse in bright light (miosis → all light through opacified nucleus)"
+                }
+              ]
+            },
+            {
+              "title": "Cortical Cataract",
+              "children": [
+                {
+                  "title": "Vacuoles and water clefts in cortex; radial spoke-like opacities (cuneiform); begin at equatorial periphery → progress centrally"
+                },
+                {
+                  "title": "Mechanism: breakdown of ion pump → water influx → swelling of fibres; early vacuoles from focal osmotic injury"
+                },
+                { "title": "Associated with UV, diabetes, female sex" },
+                {
+                  "title": "Mature cortical cataract: all cortex opacified (white); hypermature: liquefied cortex, shrunken nucleus ('Morgagnian cataract'); risk of phacolytic glaucoma from leakage of liquefied protein"
+                }
+              ]
+            },
+            {
+              "title": "Posterior Subcapsular Cataract (PSC)",
+              "children": [
+                {
+                  "title": "Opacification at posterior pole just anterior to posterior capsule; granular/plaque-like; on retroillumination best seen"
+                },
+                {
+                  "title": "Most visually disabling per unit of size: at nodal point → most refractive impact; worse in bright light (miosis) and near vision (convergence = miosis); reading severely affected early"
+                },
+                {
+                  "title": "Causes: steroids (most common drug-associated; dose + duration dependent; inhaled steroids also implicated), radiation, uveitis, retinitis pigmentosa, trauma, diabetes"
+                },
+                {
+                  "title": "Mechanism: epithelial cells migrate posteriorly, undergo abnormal differentiation → bladder cells (Wedl cells) at posterior pole"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Drug-Induced Lens Changes",
+          "children": [
+            {
+              "title": "Corticosteroids: PSC (dose + duration; systemic > topical > inhaled; all routes can cause); reversible only early; mechanism: steroid binds lens protein → conformational change"
+            },
+            {
+              "title": "Phenothiazines (chlorpromazine): anterior stellate pigment deposits on anterior lens surface + anterior capsule; usually 1.5-2mm from centre; dosage-related; rarely affect VA"
+            },
+            {
+              "title": "Miotics (echothiophate, phospholine iodide): long-term cholinesterase inhibitors → anterior subcapsular vacuoles and opacity; rarely used now"
+            },
+            {
+              "title": "Amiodarone: deposits in anterior lens epithelium (stellate pattern similar to phenothiazines); also cornea verticillata; rarely cause VA loss"
+            },
+            {
+              "title": "Tamoxifen: crystalline deposits in posterior lens; also maculopathy; dose-related"
+            },
+            {
+              "title": "Statins: possible slight reduction in cataract risk (antioxidant effect); occasional reports of PSC association; overall evidence mixed"
+            }
+          ]
+        },
+        {
+          "title": "Trauma-Related Lens Changes",
+          "children": [
+            {
+              "title": "Contusion: Vossius ring (iris pigment imprinted on anterior lens capsule from sphincter impact); rosette cataract (stellate posterior subcapsular from blunt force, may appear days-weeks later); zonular dehiscence → subluxation"
+            },
+            {
+              "title": "Perforation/penetration: anterior capsule disruption → rapid cortical opacification (capsule as barrier broken); treat surgically; remove IOFB if present"
+            },
+            {
+              "title": "Siderosis: iron IOFB → Fe²⁺ toxic to lens epithelium → brown anterior capsular and cortical deposits (anterior subcapsular); also retinal toxicity; ERG changes (b-wave reduction); remove IOFB urgently"
+            },
+            {
+              "title": "Chalcosis: copper IOFB → sunflower cataract (anterior capsule with greenish-yellow radiating petals); also Kayser-Fleischer ring; deposition similar mechanism to Wilson disease; treat by IOFB removal"
+            },
+            {
+              "title": "Electrical injury: bilateral PSC or anterior subcapsular; AC or lightning; onset weeks-months after injury"
+            }
+          ]
+        },
+        {
+          "title": "Systemic Disease Associations",
+          "children": [
+            {
+              "title": "Diabetes mellitus: cortical cataract (sorbitol pathway → osmotic); PSC in poor control; premature senile cataract; snowflake cataract (rare; juvenile diabetes; bilateral; white cortical flakes; reversible in early stage)"
+            },
+            {
+              "title": "Myotonic dystrophy (DM1, CTG repeat): bilateral Christmas tree cataract (anterior + posterior subcapsular; iridescent multicoloured crystalline deposits); pathognomonic if present; early onset; also ptosis + facial weakness"
+            },
+            {
+              "title": "Atopic dermatitis: anterior subcapsular 'shield-like' plaque (rubbing eyes); PSC; bilateral; young adults; also anterior polar"
+            },
+            {
+              "title": "Wilson disease: sunflower cataract (copper in posterior capsule + anterior subcapsular; petal pattern; green-brown); Kayser-Fleischer ring; treat with D-penicillamine"
+            },
+            {
+              "title": "Hypocalcaemia (hypoparathyroidism, neonatal tetany): bilateral cortical lens opacities (water clefts); may reverse with calcium normalisation if early"
+            },
+            {
+              "title": "Fabry disease (X-linked, GLA): posterior spoke-like cataract (Fabry cataract); cornea verticillata; enzyme replacement therapy"
+            }
+          ]
+        },
+        {
+          "title": "Cataract with Ocular Disorders",
+          "children": [
+            {
+              "title": "Uveitis: PSC most common (inflammation-induced + steroid); also anterior subcapsular from synechiae; fibrin; surgery risks (CMO, hypotony, fibrin); quiet uveitis ≥3 months before surgery"
+            },
+            {
+              "title": "Glaukomflecken: grey-white anterior lens epithelial opacities after acute angle closure glaucoma; ischaemia of anterior epithelium; marker of past angle closure; may persist"
+            },
+            {
+              "title": "Pseudoexfoliation (PXF) syndrome: zonular weakness from PXF material deposits on zonule + lens; poor dilation; small pupil; phacodonesis; high risk of zonular rupture and vitreous loss during surgery; need capsular tension ring (CTR) and capsular hooks"
+            },
+            {
+              "title": "Phacoantigenic uveitis: lens protein escapes → immune reaction (type IV hypersensitivity to lens protein); after capsule disruption (trauma/surgery); granulomatous uveitis; treat with steroids; may need lens removal"
+            }
+          ]
+        },
+        {
+          "title": "Lens-Induced Glaucoma",
+          "children": [
+            {
+              "title": "Phacolytic: hypermature/Morgagnian cataract; liquefied cortex leaks through intact capsule; macrophages engorged with lens protein clog TM → IOP rise; AC flare + cells; white fluffy AC material; treat with urgent cataract surgery"
+            },
+            {
+              "title": "Phacomorphic: intumescent mature cataract → pupillary block (AC angles closed by swollen lens pushing iris forward) → acute angle closure; urgent laser PI + cataract surgery"
+            },
+            {
+              "title": "Lens particle: after trauma or surgery; cortical fragments in AC → macrophage response → TM obstruction; treat by surgical washout"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Evaluation & Management of Cataract",
+      "children": [
+        {
+          "title": "Symptoms & Clinical Features",
+          "children": [
+            {
+              "title": "Decreased VA: gradual, painless; worse with dense nuclear/PSC; nuclear cataract may spare VA until late (worse contrast sensitivity)"
+            },
+            {
+              "title": "Glare/dazzle: PSC worst; bright lights (headlights, sun); halos around lights; posterior location = most backscatter toward fovea"
+            },
+            {
+              "title": "Myopic shift: nuclear cataract increases lens power; needs less + correction; 'second sight'; reversal of presbyopia symptoms"
+            },
+            {
+              "title": "Monocular diplopia/polyopia: irregular refractive index distribution in lens → multiple images; cortical or nuclear; resolves after surgery"
+            },
+            {
+              "title": "Colour vision changes: nuclear cataract → yellowish tint; brunescent → loss of blue-end colour discrimination; patients often unaware until after surgery"
+            }
+          ]
+        },
+        {
+          "title": "Indications for Surgery",
+          "children": [
+            {
+              "title": "Functional: VA <20/40 with symptoms; VA better but bilateral functional impairment (glare, night driving, occupational needs); patient-reported outcomes (VF-14 questionnaire)"
+            },
+            {
+              "title": "Medical (absolute): lens-induced glaucoma (phacolytic, phacomorphic, lens particle); phacoantigenic uveitis; prevent amblyopia (paediatric); improve fundus visualisation"
+            },
+            {
+              "title": "Elective factors: patient's desire + lifestyle needs; monocular vs binocular assessment; dominant eye consideration"
+            },
+            {
+              "title": "Timing ISBCS (immediate sequential bilateral cataract surgery): both eyes on same day; controversial; risk of bilateral endophthalmitis; benefits: convenience, cost; guidelines recommend treating as separate procedures with separate instrument trays/vials"
+            }
+          ]
+        },
+        {
+          "title": "Preoperative Evaluation",
+          "children": [
+            {
+              "title": "VA: distance + near; pinhole; best-corrected; ETDRS for clinical trials"
+            },
+            {
+              "title": "Refraction: manifest + cycloplegic; documents baseline; plans post-op target"
+            },
+            {
+              "title": "Glare testing: brightness acuity tester (BAT); documents functional glare disability"
+            },
+            {
+              "title": "Contrast sensitivity: Pelli-Robson; useful when VA apparently good but symptoms significant"
+            },
+            {
+              "title": "Slit-lamp: cataract morphology + grading (LOCS III); corneal status; anterior chamber depth; pupil size + dilation; iris/zonule integrity; PXF material"
+            },
+            {
+              "title": "Potential acuity estimation (PAE): laser interferometry (Haag-Streit) or super-pinhole; estimates VA if cataract removed; useful when coexisting macular disease present"
+            },
+            {
+              "title": "Macular OCT: detects AMD, ERM, DMO, macular hole before surgery; modifies prognosis; guides IOL choice (avoid multifocal if macular disease)"
+            },
+            {
+              "title": "Corneal evaluation: topography (irregular astigmatism; KC; post-refractive surgery); endothelial cell count (specular microscopy; <1000 cells/mm² → risk of corneal decompensation post-phaco)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Preoperative Considerations & IOL Selection",
+      "children": [
+        {
+          "title": "IOL Characteristics",
+          "children": [
+            {
+              "title": "Materials: hydrophobic acrylic (Acrysof; most popular; sharp edge reduces PCO; glistenings); hydrophilic acrylic (lower PCO rate controversial; may calcify in some situations); PMMA (historical; hard; 5-7mm incision); silicone (foldable; but poor haptic memory; avoid in silicone oil eyes)"
+            },
+            {
+              "title": "Design: one-piece (haptic + optic from same material; in-the-bag only; not for sulcus) vs three-piece (haptic separate; can go in sulcus or AC); square-edge optic (reduces PCO by blocking epithelial migration)"
+            },
+            {
+              "title": "Size: optic 5.5-6mm (standard; covers capsulorhexis edge); haptic-to-haptic 12-13mm for capsular bag"
+            },
+            {
+              "title": "Position: in-the-bag (optimal; most stable; best power calculation); ciliary sulcus (if posterior capsule ruptured; requires 3-piece; add +0.50 to +1.00D to in-bag calculation power due to more anterior position); AC (rarely used now; angle fixated)"
+            }
+          ]
+        },
+        {
+          "title": "IOL Types",
+          "children": [
+            {
+              "title": "Monofocal: single focal point; best distance (or plano); need glasses for near; most predictable; highest satisfaction; appropriate for most patients; target emmetropia (distance) or slight myopia (-1.0D for near)"
+            },
+            {
+              "title": "Monofocal plus (enhanced monofocal): extended range but not true EDOF; e.g. Eyhance (J&J)"
+            },
+            {
+              "title": "Toric: corrects corneal astigmatism; alignment with steep meridian critical; rotation of 1° = 3.3% loss of correction; 30° rotation = total loss; must mark pre-op (sit up: pen on limbus to mark 0° or 180°); appropriate for regular corneal astigmatism >0.75-1.0D"
+            },
+            {
+              "title": "Multifocal (diffractive): ReSTOR (apodised diffractive + refractive), Tecnis Multifocal, Panoptix (trifocal); splits light to distance + near (±intermediate); higher photic phenomena (halos, glare); neuroadaptation needed 3-6 months; contraindications: significant ocular comorbidity (AMD, glaucoma, ERM, KC), pupils <2.5mm, high expectations"
+            },
+            {
+              "title": "EDOF (extended depth of focus): Symfony (J&J), Vivity (Alcon); elongated focal range; better intermediate; less halos than multifocal; near still may need reading glasses; good option for patients worried about dysphotopsia"
+            },
+            {
+              "title": "Trifocal: Panoptix; distance + 60cm intermediate + 40cm near; increasingly popular; good overall performance but still higher dysphotopsia than monofocal"
+            },
+            {
+              "title": "Accommodating: Crystalens; vaulting mechanism; limited real accommodation; largely replaced by EDOF/trifocal"
+            },
+            {
+              "title": "Light-adjustable IOL (LAL, RxSight): photosensitive material; post-op power adjusted with UV light (office procedure); then locked; excellent refractive outcomes in trials; patient must avoid UV exposure until locked"
+            }
+          ]
+        },
+        {
+          "title": "Modifying Astigmatism",
+          "children": [
+            {
+              "title": "Corneal relaxing incisions (CRI): limbal relaxing incisions (LRI) or steep-axis corneal incisions; at limbus (6-7mm OZ) or on cornea; nomogram-based (Donnenfeld, Nichamin); correct up to ~1.5D; less precise than toric IOL"
+            },
+            {
+              "title": "Toric IOL: more precise; recommended if astigmatism >0.75-1.0D; requires stable regular corneal astigmatism (exclude KC, irregular); must align axis; postoperative rotation = residual astigmatism; ASSORT/Barrett Toric calculator for planning"
+            }
+          ]
+        },
+        {
+          "title": "Biometry & IOL Power Calculation",
+          "children": [
+            {
+              "title": "Axial length (AL): most important parameter; 1mm error → ~2.5D refractive error; optical biometry (IOLMaster 700, Lenstar LS900) gold standard; swept-source OCT-based biometry (IOLMaster 700: measures full eye length including to RPE; better for dense cataracts); immersion A-scan if optical not possible"
+            },
+            {
+              "title": "Keratometry: central 3mm anterior corneal power; automated keratometer or topography-derived; errors cause refractive surprise post-LASIK"
+            },
+            {
+              "title": "ACD (anterior chamber depth): predicts effective lens position (ELP); shallower ACD → more anterior ELP → higher needed IOL power"
+            },
+            {
+              "title": "Newer parameters: lens thickness (LT), white-to-white (WTW), posterior corneal curvature (Barrett uses this)"
+            },
+            {
+              "title": "Formulas: 3rd generation (SRK/T, Holladay 1, Hoffer Q); 5th generation (Barrett Universal II, Kane, Hill-RBF); Haigis (uses ACD directly); consensus: use ≥2 formulas and take average/preference; Barrett and Kane best performers in large studies"
+            },
+            {
+              "title": "Short eyes (<22mm): Hoffer Q + Haigis; Long eyes (>26mm): SRK/T; extreme myopes (>28mm): Wang-Koch AL adjustment; Barrett Universal II performs well across all ALs"
+            },
+            {
+              "title": "Post-refractive surgery IOL calc: triple error (instrument, index, ELP); use ASCRS online calculator; Barrett True-K; Shammas no-history; double-K method; aim slightly myopic to avoid hyperopic surprise"
+            }
+          ]
+        },
+        {
+          "title": "Anaesthesia & Antimicrobial Prophylaxis",
+          "children": [
+            {
+              "title": "Topical anaesthesia: most common (proparacaine + intracameral lidocaine 1%); awake; cooperative patient; no akinesia"
+            },
+            {
+              "title": "Peribulbar block: lidocaine + bupivacaine mixture; akinesia + anaesthesia; safer than retrobulbar (less risk of globe perforation + brainstem anaesthesia)"
+            },
+            {
+              "title": "Retrobulbar block: cone anaesthesia; risk of retrobulbar haemorrhage, globe perforation (especially myopes), brainstem spread (cardiorespiratory arrest); less used now"
+            },
+            {
+              "title": "Sub-Tenon block: blunt cannula under Tenon capsule; safe; good anaesthesia; slight chemosis"
+            },
+            {
+              "title": "Antimicrobial prophylaxis: povidone-iodine 5% conjunctival (strongest evidence for endophthalmitis reduction); intracameral cefuroxime 1mg/0.1mL at end of surgery (ESCRS study: reduces risk 5×); no routine postoperative antibiotics as effective as intracameral intraoperative; povidone-iodine pre-op is universal standard"
+            }
+          ]
+        },
+        {
+          "title": "Ophthalmic Viscosurgical Devices (OVDs)",
+          "children": [
+            {
+              "title": "Protect corneal endothelium from mechanical trauma during surgery; maintain space; stabilise structures; cohesive (high viscosity; e.g. Healon GV, Viscoat; stay as bolus; easy removal) vs dispersive (lower viscosity; e.g. Viscoat; coats surfaces; stays during phaco; harder to remove)"
+            },
+            {
+              "title": "Sodium hyaluronate: most common base; viscoelastic; Healon (cohesive); Viscoat (sodium hyaluronate + chondroitin sulfate = dispersive)"
+            },
+            {
+              "title": "Soft shell technique: dispersive OVD on endothelium + cohesive OVD behind to deepen chamber; combines both properties"
+            },
+            {
+              "title": "ALWAYS remove completely at end of surgery: retained OVD → IOP spike"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Phacoemulsification",
+      "children": [
+        {
+          "title": "Instrumentation & Physics",
+          "children": [
+            {
+              "title": "Phaco tip: titanium needle vibrating at 28,000-40,000 Hz; generates mechanical energy → emulsifies lens material; bevel up (cutting) or down; tip at 0° (most efficient emulsification), 45° angle"
+            },
+            {
+              "title": "Pulse mode: interrupted ultrasound; reduces heat + wound burn risk; OZil torsional = rotational oscillation of tip (less chatter, more efficient)"
+            },
+            {
+              "title": "Torsional phaco (OZil, Alcon): side-to-side oscillation; shearing force rather than jackhammer; less repulsion of lens material; lower CDE (cumulative dissipated energy); less corneal endothelial damage"
+            },
+            {
+              "title": "Fluidics: irrigation (BSS inflow maintains chamber stability; bottle height determines IOP in gravity system); aspiration (removes emulsified material + fluid); vacuum (holds material to tip); flow rate (removes material)"
+            },
+            {
+              "title": "Peristaltic pump: flow-controlled; builds vacuum only when occluded; surge risk on occlusion break; smoother control; Alcon/AMO"
+            },
+            {
+              "title": "Venturi pump: vacuum-controlled; instantaneous high vacuum; faster; used in Bausch + Lomb Legacy; less surgeon control compared to peristaltic for novices"
+            }
+          ]
+        },
+        {
+          "title": "Surgical Steps",
+          "children": [
+            {
+              "title": "Incisions",
+              "children": [
+                {
+                  "title": "Clear corneal incision (CCI): most common; 2.2-2.8mm (microcoaxial) or 2.8-3.2mm (standard); self-sealing triplanar architecture; temporal preferred (least astigmatic induction, easiest approach)"
+                },
+                {
+                  "title": "Scleral tunnel: more watertight; useful in high-risk cases (vitrectomised eye, choroidal effusion risk, nanophthalmos)"
+                },
+                {
+                  "title": "Paracentesis: side-port incision; ~1.0mm; for second instrument (chopper) + OVD/medication injection"
+                }
+              ]
+            },
+            {
+              "title": "CCC (Continuous Curvilinear Capsulorhexis)",
+              "children": [
+                {
+                  "title": "Most critical step; 5.0-5.5mm diameter; centred on visual axis; overlaps IOL optic edge by 0.5mm all around (prevents PCO, capsule phimosis)"
+                },
+                {
+                  "title": "Technique: tear initiated with cystotome or forceps; continuous curvilinear tear maintained by redirecting force centripetally"
+                },
+                {
+                  "title": "Complications: radial extension → runout (especially intumescent lens: high intralenticular pressure; use trypan blue to stain; Argentinian flag sign = capsule tears radially); too small → phimosis; too large → IOL edge exposure"
+                },
+                {
+                  "title": "Trypan blue (VisionBlue): stains anterior capsule blue in white/mature cataracts; essential for CCC visualisation when red reflex absent"
+                }
+              ]
+            },
+            {
+              "title": "Hydrodissection & Hydrodelineation",
+              "children": [
+                {
+                  "title": "Hydrodissection: BSS under anterior capsule to separate cortex from capsule; fluid wave passes around lens; free rotation confirms adequate dissection; MUST NOT hydrodissect posterior polar cataract (risk of PCR)"
+                },
+                {
+                  "title": "Hydrodelineation: BSS into nucleus to separate epinucleus from central nucleus; creates 'golden ring'; protects posterior capsule; useful in hard nuclei"
+                }
+              ]
+            },
+            {
+              "title": "Nuclear Disassembly Techniques",
+              "children": [
+                {
+                  "title": "Divide and conquer (4-quadrant cracking): initial groove → second perpendicular groove → crack into 4 pieces; each piece emulsified"
+                },
+                {
+                  "title": "Stop and chop: initial groove + sculpt to thin nucleus, then nuclear chopper to crack; efficient for medium-hard nuclei"
+                },
+                {
+                  "title": "Phaco chop: horizontal chop (chopper under iris, through substance); vertical chop (precracks then fine chops); minimal phaco energy; best for dense nuclei; advanced technique"
+                },
+                {
+                  "title": "Chip and flip: for soft nuclei (paediatric/young adult); sculpt central bowl, flip epinucleus, aspirate"
+                }
+              ]
+            },
+            {
+              "title": "Irrigation & Aspiration (I/A)",
+              "children": [
+                {
+                  "title": "Removes residual cortex after nuclear emulsification; bimanual (sleeveless tips; better control) or coaxial (standard I/A handpiece)"
+                },
+                {
+                  "title": "Cortex cortical cleanup: work systematically; avoid catching posterior capsule; subincisional cortex most difficult to remove"
+                }
+              ]
+            },
+            {
+              "title": "IOL Insertion",
+              "children": [
+                {
+                  "title": "Fill bag with OVD; load IOL into injector; controlled insertion into bag; leading haptic first; verify centration and position"
+                },
+                {
+                  "title": "Viscoelastic removal: complete removal to prevent IOP spike"
+                },
+                {
+                  "title": "Wound hydration: stromal hydration seals incisions; verify watertight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FLACS (Femtosecond Laser-Assisted Cataract Surgery)",
+          "children": [
+            {
+              "title": "Femtosecond laser performs: corneal incisions, CCC (precise sizing/centration), nuclear fragmentation, arcuate incisions for astigmatism"
+            },
+            {
+              "title": "Advantages: precise CCC size + centration; repeatable astigmatic correction; softer nucleus pre-fragmented (less phaco energy)"
+            },
+            {
+              "title": "Disadvantages: cost; docking step (extra time, pressure); miosis from prostaglandin release (IFIS-like); capsule-related complications not eliminated; outcomes no better than manual for most endpoints"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Non-Phacoemulsification Techniques",
+      "children": [
+        {
+          "title": "ICCE (intracapsular cataract extraction): entire lens + capsule removed with cryoprobe; 10-12mm incision; requires AC IOL or aphakic correction; now historical; risk of vitreous prolapse, CMO, bullous keratopathy"
+        },
+        {
+          "title": "ECCE (extracapsular cataract extraction): nucleus expressed through large incision (10-12mm); capsule left behind; still used where phaco unavailable; more induced astigmatism; better than ICCE"
+        },
+        {
+          "title": "MSICS (manual small-incision cataract surgery): modified ECCE; scleral tunnel incision (5-7mm); nucleus delivered manually (fishhook, irrigating vectis, snare); self-sealing; no phaco machine needed; cost-effective; widely used in high-volume settings (India, Africa); outcomes comparable to phaco in developing-world studies; suitable for hard cataracts"
+        }
+      ]
+    },
+
+    {
+      "title": "Intraoperative Complications",
+      "children": [
+        {
+          "title": "Anterior Segment Complications",
+          "children": [
+            {
+              "title": "Intraoperative Floppy Iris Syndrome (IFIS)",
+              "children": [
+                {
+                  "title": "Triad: iris billowing/floppiness, iris prolapse through incisions, progressive intraoperative miosis"
+                },
+                {
+                  "title": "Cause: α1-adrenergic antagonists (tamsulosin = Flomax; most common); prazosin, alfuzosin; can occur even if drug stopped"
+                },
+                {
+                  "title": "Management: inform patient pre-op; iris hooks/Malyugin ring; cohesive OVD; intracameral phenylephrine (1% preservative-free); avoid capsular dilation devices; small CCI helps"
+                }
+              ]
+            },
+            {
+              "title": "Posterior Capsule Rupture (PCR)",
+              "children": [
+                {
+                  "title": "Most feared intraoperative complication; incidence ~1-2% (experienced surgeons); higher in: dense nuclei, IFIS, PXF, posterior polar, deep-set eye, previous vitrectomy"
+                },
+                {
+                  "title": "Recognition: sudden deepening of AC; nucleus drops back; vitreous presents"
+                },
+                {
+                  "title": "Management: stop phaco immediately; remove remaining nuclear material (via anterior approach or PPV if dropped into vitreous); anterior vitrectomy if vitreous in AC (triamcinolone to visualise); IOL placement depends on size of tear and capsule support"
+                },
+                {
+                  "title": "IOL placement with PCR: intact CCC + posterior capsule adequate → in bag (if small PCR) or ciliary sulcus with optic capture; large PCR without capsular support → sulcus 3-piece IOL; no capsular support → AC IOL or iris-fixated or scleral-fixated IOL"
+                },
+                {
+                  "title": "Vitreous in AC: high risk of CMO, RD, endophthalmitis; must be managed with anterior vitrectomy; triamcinolone stains vitreous"
+                }
+              ]
+            },
+            {
+              "title": "Dropped Nucleus",
+              "children": [
+                {
+                  "title": "Nucleus/fragments fall into vitreous through PCR; DO NOT attempt to retrieve from anterior segment without PPV"
+                },
+                {
+                  "title": "Place IOL (if possible), refer promptly to vitreoretinal surgeon for PPV + nucleus removal (PFCL, fragmatome); risk: CMO, RD, uveitis, glaucoma; vision may still be good with prompt PPV"
+                }
+              ]
+            },
+            {
+              "title": "Descemet membrane detachment (DMD): incision entry or OVD cannula edge catches Descemet; inject BSS or air under detached area → re-attaches; if large, intracameral air tamponade for 12-24h"
+            },
+            {
+              "title": "Anterior capsule tear: radial extension; convert to manual ECCE if extends below equator; careful phaco to avoid extending tear further; IOL in sulcus"
+            }
+          ]
+        },
+        {
+          "title": "Haemorrhagic Complications",
+          "children": [
+            {
+              "title": "Expulsive suprachoroidal haemorrhage (SCH): massive arterial bleeding into suprachoroidal space; rare (<0.1%); sudden shallowing AC + high IOP + uveal prolapse through wound; risk: hypertension, atherosclerosis, myopia, glaucoma, large wounds, aphakia"
+            },
+            {
+              "title": "Management of SCH: IMMEDIATELY close wound (lid speculum tight or suture); IV mannitol; lower IOP; when eye quiet (days later) → sclerotomies to drain SCH if needed; often poor outcome"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Postoperative Complications",
+      "children": [
+        {
+          "title": "Corneal Complications",
+          "children": [
+            {
+              "title": "Corneal oedema: transient (common, first few days; from surgical trauma; resolves); persistent (endothelial decompensation; from pre-existing Fuchs dystrophy, low cell count, phaco injury, AC IOL, iris chafing); manage: hypertonic saline drops; if severe → DSAEK/DMEK"
+            },
+            {
+              "title": "Pseudophakic bullous keratopathy (PBK): chronic corneal decompensation; pain from ruptured epithelial bullae; treatment: DSAEK/DMEK; bandage CL for symptoms pending surgery"
+            },
+            {
+              "title": "Descemet membrane detachment (post-op): from intraoperative handling; air tamponade; if not resolved → DSAEK"
+            },
+            {
+              "title": "Wound leak: positive Seidel test; flat AC; IOP low; manage with patching/bandage CL for small leak; surgical closure for persistent"
+            }
+          ]
+        },
+        {
+          "title": "IOP Complications",
+          "children": [
+            {
+              "title": "Early IOP spike: most common cause = retained OVD blocking TM; usually resolves 24h; treat with IOP-lowering drops (avoid acetazolamide in sickle cell); also from inflammation, hyphema, steroid response"
+            },
+            {
+              "title": "Pupillary block: uncommon in phakic eyes post-phaco but can occur with anterior vitreous face; peripheral iridotomy if needed"
+            },
+            {
+              "title": "Steroid-induced IOP rise: topical prednisolone post-op → IOP rise in responders; switch to loteprednol or taper steroids; check IOP at every post-op visit"
+            }
+          ]
+        },
+        {
+          "title": "IOL Complications",
+          "children": [
+            {
+              "title": "Decentration/Dislocation",
+              "children": [
+                {
+                  "title": "Early: from asymmetric capsular bag forces or incomplete zonular support; reposition or exchange IOL"
+                },
+                {
+                  "title": "Late (capsular bag-IOL complex dislocation): most common cause = pseudoexfoliation (progressive zonular weakness); also trauma, Marfan; typically years post-op; entire IOL-bag complex drops into vitreous; PPV + scleral-fixated IOL or iris-fixation"
+                }
+              ]
+            },
+            {
+              "title": "Posterior capsule opacification (PCO): Elschnig pearls (epithelial proliferation) or fibrosis; most common late complication (~20% require Nd:YAG at 2 years in hydrophilic IOLs); prevented by square-edge IOL, in-the-bag placement, overlapping CCC; Nd:YAG capsulotomy (risk: IOP spike, pitting of IOL optic, RD risk increases slightly)"
+            },
+            {
+              "title": "Anterior capsule phimosis/contraction: excessive anterior capsule fibrosis; CCC rim contracts → visual symptoms; Nd:YAG radial cuts to relieve; can cause IOL dislocation in extreme cases"
+            },
+            {
+              "title": "UGH (Uveitis-Glaucoma-Hyphema) syndrome: AC IOL (historical) or malpositioned IOL chafes uveal tissue; recurrent hyphema + uveitis + elevated IOP; IOL repositioning or exchange"
+            },
+            {
+              "title": "Dysphotopsia: positive (bright temporal arc; square-edge optic reflection; common; neuroadaptation in months; reverse optic capture if persistent) or negative (dark crescent temporal; rarer; more bothersome)"
+            },
+            {
+              "title": "Refractive surprise: wrong IOL power; significant error >1D; options: glasses/CL, IOL exchange, piggyback IOL, LASIK/PRK on top (laser touch-up)"
+            }
+          ]
+        },
+        {
+          "title": "Infectious & Inflammatory",
+          "children": [
+            {
+              "title": "Endophthalmitis: acute (<6 weeks; coag-neg Staph, S. aureus, Streptococcus); delayed/chronic (>6 weeks; P. acnes, fungi); presents with pain + reduced VA + hypopyon + vitritis; treatment based on EVS trial (see Ch 09 notes); intravitreal vancomycin + ceftazidime + PPV if VA HM or worse"
+            },
+            {
+              "title": "TASS (Toxic Anterior Segment Syndrome): non-infectious acute sterile anterior segment inflammation within 12-24h; diffuse limbus-to-limbus corneal oedema + flare + fibrin; causes: OVD contaminant, BSS additives, preservatives, autoclave residue, endotoxins, intracameral drugs (benzalkonium chloride)"
+            },
+            {
+              "title": "TASS vs endophthalmitis: TASS = no pain, no vitritis, diffuse corneal oedema, onset 12-24h; endophthalmitis = pain, vitritis, purulent exudate, onset 1-7 days; management: TASS → intensive topical steroids; endophthalmitis → intravitreal antibiotics + vitrectomy"
+            }
+          ]
+        },
+        {
+          "title": "Retinal Complications",
+          "children": [
+            {
+              "title": "Cystoid macular oedema (CMO, Irvine-Gass syndrome): most common cause of reduced VA post-cataract surgery; peak onset 4-6 weeks; FFA: petaloid leakage; OCT: intraretinal cysts; treatment: ketorolac NSAID drops + prednisolone drops; intravitreal dexamethasone implant if refractory; usually resolves within months"
+            },
+            {
+              "title": "Retinal detachment: RRD risk ~0.5-1% post-phaco; higher in: myopia, PCR + vitreous loss, young males, fellow eye RD; vitreoretinal referral for symptoms (flashes + floaters + curtain)"
+            },
+            {
+              "title": "Macular oedema after PCR: PCR + vitreous loss dramatically increases CMO risk; prophylactic NSAID drops recommended post-PCR"
+            },
+            {
+              "title": "Retinal phototoxicity: operating microscope light + prolonged surgery time; foveal burn → paracentral scotoma; use yellow filter; avoid light directly on fovea; keep coaxial illumination short"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Cataract Surgery in Special Situations",
+      "children": [
+        {
+          "title": "Small Pupil",
+          "children": [
+            {
+              "title": "Causes: IFIS (α-blocker), uveitis (synechiae), pseudoexfoliation, age-related sphincter sclerosis, diabetes, miotic drops"
+            },
+            {
+              "title": "Management: phenylephrine 2.5% dilating drops; intracameral preservative-free phenylephrine + lidocaine; mechanical: iris hooks (4 hooks place CCC under tension, provide space), Malyugin ring (8-12mm ring with 8 hooks snags iris; faster than hooks); sphincterotomies; sector iridectomy (severe synechiae)"
+            }
+          ]
+        },
+        {
+          "title": "Posterior Polar Cataract",
+          "children": [
+            {
+              "title": "High risk of posterior capsule rupture (PCR) from adherence of cataract to posterior capsule; capsule is thinnest posteriorly + posterior polar cataract is directly on it"
+            },
+            {
+              "title": "NEVER hydrodissect (pressure can blow out posterior capsule); hydrodelineation only to create epinuclear shell; gentle phaco; low vacuum; be prepared for PCR management"
+            }
+          ]
+        },
+        {
+          "title": "Pseudoexfoliation Syndrome",
+          "children": [
+            {
+              "title": "Weak zonules (PXF material deposits); poor dilation; pseudoexfoliation deposits on lens"
+            },
+            {
+              "title": "High-risk features: phacodonesis, subluxation, poor dilation, previous glaucoma surgery"
+            },
+            {
+              "title": "Management: preop NSAIDs/atropine for dilation; iris hooks + capsular tension ring (CTR) for zonular laxity (distributes capsular forces evenly); low fluidics; avoid vacuum build-up; post-op: increased PCO/phimosis risk; late IOL-bag dislocation risk"
+            }
+          ]
+        },
+        {
+          "title": "Intumescent Cataract",
+          "children": [
+            {
+              "title": "Mature white cataract; high intralenticular pressure from liquefied cortex; no red reflex; risk of radial CCC extension (Argentinian flag sign: loss of anterior capsule integrity)"
+            },
+            {
+              "title": "Management: decompress with 27G needle before CCC; fill AC with trypan blue (stains capsule blue); make small initial opening; decompress slowly; then proceed with CCC"
+            }
+          ]
+        },
+        {
+          "title": "Zonular Dehiscence / Subluxated Lens",
+          "children": [
+            {
+              "title": "Causes: Marfan, homocystinuria, PXF, trauma; degree: partial (phacodonesis) to complete (dislocated lens)"
+            },
+            {
+              "title": "Grading: mild (<90° involvement), moderate (90-180°), severe (>180°)"
+            },
+            {
+              "title": "Management: capsular hooks/CTR for mild-moderate; sutured capsular tension ring (Cionni, Ahmed) for severe (fixated to sclera); consider lensectomy + PPV + scleral-fixated IOL for dislocated lens; avoid standard CCC if excessive movement; iris hooks to stabilise bag"
+            }
+          ]
+        },
+        {
+          "title": "Cataract with Glaucoma",
+          "children": [
+            {
+              "title": "Combined phaco-trabeculectomy: single operation; less controlled than sequential; risk of bleb failure from inflammation"
+            },
+            {
+              "title": "Sequential: phaco first (→ IOP may improve from trabecular meshwork stretching, prostaglandin washout), then trabeculectomy if still uncontrolled; or separate procedures"
+            },
+            {
+              "title": "MIGS combined with phaco: iStent Inject, Hydrus, Kahook blade, trabectome; moderate IOP reduction; no bleb; added during phaco; suitable for mild-moderate glaucoma"
+            },
+            {
+              "title": "Cataract through functioning bleb: superior approach contraindicated (risks bleb failure); use temporal clear corneal incision"
+            }
+          ]
+        },
+        {
+          "title": "Cataract with Uveitis",
+          "children": [
+            {
+              "title": "Defer surgery until uveitis quiet ≥3 months; aggressive perioperative steroids (oral prednisone + topical q1h 1 week pre-op; IV methylprednisolone intraoperatively for severe cases)"
+            },
+            {
+              "title": "Considerations: avoid IOL in severe JIA-associated uveitis (high PCO rate, phimosis, IOL deposits); prefer large CCC; complete cortex removal; in-the-bag placement; single-piece acrylic"
+            },
+            {
+              "title": "Post-op: more intensive steroid taper; watch for CMO, IOP, synechiae, PCO"
+            }
+          ]
+        },
+        {
+          "title": "High Myopia",
+          "children": [
+            {
+              "title": "AL >26mm; risk: inaccurate IOL calculation (use Wang-Koch adjustment for AL); greater myopic surprise; thin sclera + choroid → higher expulsive haemorrhage risk; vitreoretinal complications (larger vitreous cavity, lattice degeneration, RD risk)"
+            },
+            {
+              "title": "Surgical: lower bottle height; slower phaco; gentler fluidics; dilated fundus exam pre-op; DSAEK/DMEK risk assessment if Fuchs dystrophy also present"
+            }
+          ]
+        },
+        {
+          "title": "Post-PPV (Vitrectomised Eye)",
+          "children": [
+            {
+              "title": "Posterior capsule often clear but lens rapidly opacifies post-PPV (vitreous provides lens nutrition + antioxidants)"
+            },
+            {
+              "title": "Surgical challenges: posterior pressure reduced → AC very flat (no vitreous support); iris prolapse risk; zonular laxity more common; posterior capsule more flaccid"
+            },
+            {
+              "title": "Management: scleral tunnel incision better than CCI (watertight); lower infusion bottle height; dispersive OVD; anticipate PCR more"
+            }
+          ]
+        },
+        {
+          "title": "Traumatic Cataract",
+          "children": [
+            {
+              "title": "Assessment: slit-lamp for capsule integrity; gonioscopy (angle recession); B-scan (vitreous, retina, IOFB); CT if IOFB suspected (not MRI if metallic)"
+            },
+            {
+              "title": "IOL timing: acute traumatic cataract with intact globe → wait 4-6 weeks for inflammation to settle; primary repair + secondary IOL; if IOFB → urgent removal + lens if disrupted"
+            },
+            {
+              "title": "IOL selection: often difficult if PAS, vitreous in AC, iris damage; scleral-fixated or iris-fixated if no capsular support"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Posterior capsule is thinnest (~2-4μm at pole); thicker anteriorly (~14μm pre-equatorially); explains why PCR occurs more easily posteriorly"
+        },
+        {
+          "title": "Zonular fibres = fibrillin-1 microfibrils; mutations in Marfan (FBN1) → superotemporal lens dislocation; homocystinuria (CBS) → inferonasal dislocation"
+        },
+        {
+          "title": "Sorbitol pathway: excess glucose → aldose reductase → sorbitol (osmotic) → cortical cataract in diabetes; same mechanism for galactokinase/galactosaemia → galactitol"
+        },
+        {
+          "title": "α-crystallin: molecular chaperone; prevents protein aggregation; decreases with age → nuclear cataract from crystallin aggregation"
+        },
+        {
+          "title": "PSC: most visually disabling per unit size; worst in bright light + near vision (miosis); caused by steroids, radiation, RP, uveitis, DM"
+        },
+        {
+          "title": "Nuclear cataract: myopic shift → 'second sight'; increasing refractive index; associated with smoking"
+        },
+        {
+          "title": "Myotonic dystrophy: Christmas tree cataract (iridescent multicoloured crystalline deposits); pathognomonic"
+        },
+        {
+          "title": "Vossius ring: contusion → iris pigment ring on anterior lens; rosette cataract: blunt trauma PSC with stellate pattern"
+        },
+        {
+          "title": "Siderosis: iron IOFB → brown anterior subcapsular + retinal toxicity; ERG b-wave reduction; remove IOFB urgently"
+        },
+        {
+          "title": "Chalcosis: copper IOFB → sunflower cataract + KF ring; remove IOFB"
+        },
+        {
+          "title": "Phacolytic glaucoma: hypermature cataract leaks protein → macrophage TM obstruction; urgent surgery"
+        },
+        {
+          "title": "Phacomorphic glaucoma: intumescent lens → pupillary block → acute angle closure; laser PI + cataract surgery"
+        },
+        {
+          "title": "PXF syndrome: weak zonules; small pupil; high risk PCR; use CTR (capsular tension ring) + iris hooks"
+        },
+        {
+          "title": "IFIS: tamsulosin/α-blocker history; iris billowing + prolapse + miosis; use Malyugin ring/iris hooks + intracameral phenylephrine"
+        },
+        {
+          "title": "Posterior polar cataract: adherent to posterior capsule; NEVER hydrodissect; hydrodelineation only; be prepared for PCR"
+        },
+        {
+          "title": "Intumescent/mature white cataract: decompress with needle first; trypan blue to stain capsule; risk Argentinian flag sign (radial CCC extension)"
+        },
+        {
+          "title": "IOL power: AL most critical parameter (1mm error → 2.5D surprise); Barrett Universal II and Kane formulas best overall performers"
+        },
+        {
+          "title": "Post-myopic LASIK IOL calc: triple error (instrument, index, ELP); use ASCRS calculator/Barrett True-K; aim slightly myopic"
+        },
+        {
+          "title": "Toric IOL: 1° rotation = 3.3% loss of correction; 30° rotation = 100% loss; mark limbus pre-op at slit lamp"
+        },
+        {
+          "title": "Multifocal IOL contraindications: AMD, glaucoma, ERM, keratoconus, irregular cornea, unrealistic expectations, pupils <2.5mm"
+        },
+        {
+          "title": "CCC diameter: 5.0-5.5mm; should overlap IOL optic by 0.5mm all around; prevents PCO + phimosis"
+        },
+        {
+          "title": "Endophthalmitis: EVS trial - if VA = LP → PPV + IVT antibiotics superior; if VA = HM or better → IVT antibiotics alone equivalent to PPV"
+        },
+        {
+          "title": "TASS vs endophthalmitis: TASS = no pain, no vitritis, diffuse corneal oedema, 12-24h onset; endophthalmitis = pain, vitritis, purulent, 1-7 day onset"
+        },
+        {
+          "title": "PCO: most common late complication; Elschnig pearls; prevented by square-edge IOL; treated with Nd:YAG capsulotomy (risk: IOP spike, pitting, slight RD risk increase)"
+        },
+        {
+          "title": "CMO (Irvine-Gass): peaks at 4-6 weeks post-op; treatment = topical NSAID + steroid; intravitreal dexamethasone if refractory"
+        },
+        {
+          "title": "Congenital cataract: dense unilateral → surgery <6-8 weeks; dense bilateral → surgery 6-10 weeks; IOL generally defer <1 year; posterior capsulotomy + anterior vitrectomy always needed in young children"
+        },
+        {
+          "title": "Rubella cataract: pearlescent nuclear cataract; do NOT operate early if rubella active (virus can persist in lens years after birth → iritis post-surgery)"
+        },
+        {
+          "title": "Lenticonus (posterior): Alport syndrome (COL4A3/4/5); oil-droplet reflex; axial myopia; posterior capsule very thin → high PCR risk"
+        },
+        {
+          "title": "OVD: always remove completely at end of surgery; retained OVD → IOP spike; cohesive (easy removal) + dispersive (better endothelial protection = soft shell technique)"
+        },
+        {
+          "title": "Dropped nucleus: do NOT attempt to retrieve from anterior segment; place IOL if possible; urgent vitreoretinal referral for PPV + fragmatome"
+        }
+      ]
+    }
+  ]
+}

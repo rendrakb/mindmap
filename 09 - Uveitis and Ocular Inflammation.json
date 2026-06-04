@@ -1,0 +1,1681 @@
+{
+  "title": "Uveitis and Ocular Inflammation",
+  "type": "root",
+  "children": [
+    {
+      "title": "Innate Immunity: Effector Cells & Mechanisms",
+      "children": [
+        {
+          "title": "Key Cellular Players",
+          "children": [
+            {
+              "title": "Neutrophils: first responders; phagocytose via FcR + complement receptors; kill with ROS, MPO, elastase, defensins; NET formation (neutrophil extracellular traps); hypopyon in severe anterior uveitis"
+            },
+            {
+              "title": "Eosinophils: allergic/parasitic response; major basic protein + eosinophil cationic protein are cytotoxic; IgE-dependent degranulation; tissue damage in helminthic uveitis"
+            },
+            {
+              "title": "Basophils & Mast cells: IgE-mediated (type I hypersensitivity); histamine + tryptase + leukotrienes; mast cells tissue-resident; basophils circulating; role in allergic conjunctivitis/VKC"
+            },
+            {
+              "title": "Monocytes & Macrophages: monocytes circulate → differentiate to macrophages in tissue; phagocytosis + antigen presentation; M1 (pro-inflammatory; TNF-α, IL-12, ROS) vs M2 (anti-inflammatory; IL-10, TGF-β; repair)"
+            },
+            {
+              "title": "Dendritic cells (DC): professional antigen-presenting cells (APC); bridge innate and adaptive; process antigens → migrate to lymph nodes → activate naïve T cells; Langerhans cells = DC in epithelium (cornea, conjunctiva)"
+            },
+            {
+              "title": "Lymphocytes: T cells (CD4+ helper, CD8+ cytotoxic), B cells (antibody production), NK cells (innate; kill virus-infected/tumour cells without MHC restriction), NKT cells, γδ T cells"
+            }
+          ]
+        },
+        {
+          "title": "Innate Immune Triggers",
+          "children": [
+            {
+              "title": "PAMPs (pathogen-associated molecular patterns): LPS (gram-negative), peptidoglycan (gram-positive), flagellin, bacterial DNA (CpG), dsRNA (viral)"
+            },
+            {
+              "title": "PRRs (pattern recognition receptors): TLRs (Toll-like receptors; TLR4 = LPS receptor); NOD receptors (intracellular); inflammasome (NLRP3 activates IL-1β + IL-18)"
+            },
+            {
+              "title": "DAMPs (danger-associated molecular patterns): released from injured cells; HMGB1, uric acid crystals, heat shock proteins; trigger sterile inflammation"
+            },
+            {
+              "title": "Complement activation: classical (IgG/IgM + antigen), lectin (MBL binds carbohydrates), alternative (spontaneous; amplification) → C3a/C5a (anaphylatoxins; mast cell degranulation) → MAC (C5b-9; lysis)"
+            }
+          ]
+        },
+        {
+          "title": "Key Inflammatory Mediators",
+          "children": [
+            {
+              "title": "Cytokines: IL-1β (fever, acute phase, neutrophil recruitment); IL-6 (acute phase proteins, B-cell differentiation); IL-12 (Th1 polarisation; IFN-γ induction); TNF-α (vascular permeability, apoptosis, NF-κB activation); IL-10 (anti-inflammatory; from Treg, M2 macrophages); TGF-β (immunosuppressive; fibrosis; Treg induction)"
+            },
+            {
+              "title": "Lipid mediators: arachidonic acid pathway → PGE2 (prostaglandins via COX; vasodilation, pain, fever; inhibited by NSAIDs/steroids) → LTB4 (leukotrienes via LOX; neutrophil chemotaxis; asthma) → lipoxins (pro-resolving)"
+            },
+            {
+              "title": "Histamine: immediate hypersensitivity; mast cell/basophil; vasodilation + itch + increased permeability; H1 receptor mediates ocular effects"
+            },
+            {
+              "title": "Complement components: C3a, C5a (chemotaxis + degranulation); C3b (opsonisation); MAC (cell lysis)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Adaptive Immunity",
+      "children": [
+        {
+          "title": "Immune Response Arc",
+          "children": [
+            {
+              "title": "Afferent phase: antigen uptake by DC/macrophage at tissue site → migration to draining lymph node"
+            },
+            {
+              "title": "Processing phase: antigen processed → peptides presented on MHC → T cell activation (signal 1: TCR–MHC; signal 2: co-stimulation CD28–B7; signal 3: cytokine milieu)"
+            },
+            {
+              "title": "Efferent phase: activated lymphocytes expand → differentiate → migrate to target tissue → execute effector function"
+            },
+            {
+              "title": "Primary response: 7-14 days; IgM first, then IgG; low titre; short-lived"
+            },
+            {
+              "title": "Secondary (memory) response: rapid (1-3 days); high-titre IgG; long-lived; basis of vaccination"
+            }
+          ]
+        },
+        {
+          "title": "T Cell Subsets",
+          "children": [
+            {
+              "title": "CD4+ Th1: IFN-γ + TNF-α; macrophage activation; cell-mediated immunity; protective against intracellular pathogens (TB, Toxoplasma); pathogenic in autoimmune uveitis"
+            },
+            {
+              "title": "CD4+ Th2: IL-4 + IL-5 + IL-13; B cell help; IgE production; eosinophil recruitment; allergy + parasitic immunity"
+            },
+            {
+              "title": "CD4+ Th17: IL-17A + IL-17F + IL-22; neutrophil recruitment; mucosal immunity; pathogenic in HLA-B27 uveitis, Behçet, AS"
+            },
+            {
+              "title": "CD4+ Treg: FoxP3+; TGF-β + IL-10; suppress autoreactive T cells; maintain peripheral tolerance; dysfunction → autoimmunity"
+            },
+            {
+              "title": "CD8+ cytotoxic T cells (CTL): kill virus-infected cells + tumour cells; perforin + granzyme; MHC class I restricted"
+            }
+          ]
+        },
+        {
+          "title": "Antibody-Mediated Effector Mechanisms",
+          "children": [
+            {
+              "title": "IgG: most abundant; opsonisation; complement activation; ADCC; placental transfer; subclasses IgG1-4"
+            },
+            {
+              "title": "IgM: first in primary response; best complement activator; pentameric"
+            },
+            {
+              "title": "IgA: mucosal surfaces; secretory IgA in tears; prevents pathogen adherence"
+            },
+            {
+              "title": "IgE: mast cell/basophil sensitisation; type I hypersensitivity; VKC, atopic conjunctivitis"
+            },
+            {
+              "title": "Hypersensitivity types: Type I (IgE-mediated; immediate; allergy); Type II (antibody + complement/ADCC against cell surface antigens; MG, pemphigoid); Type III (immune complexes; vasculitis, serum sickness); Type IV (delayed; T cell-mediated; tuberculin reaction, contact dermatitis, granulomas)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Ocular Immune Responses",
+      "children": [
+        {
+          "title": "Immune Privilege",
+          "children": [
+            {
+              "title": "Anterior chamber-associated immune deviation (ACAID): antigen in AC induces systemic tolerance; Treg-mediated; suppresses delayed hypersensitivity while preserving humoral immunity"
+            },
+            {
+              "title": "Mechanisms: blood-aqueous/blood-retinal barriers; low MHC class II expression; Fas ligand (FasL) on corneal endothelium/RPE induces apoptosis in lymphocytes; TGF-β + PEDF in aqueous humour; neuropeptides (VIP, α-MSH); complement regulatory proteins (CD55, CD59)"
+            },
+            {
+              "title": "Sites of immune privilege: anterior chamber, vitreous cavity, subretinal space, brain; not absolute — privileged, not ignorant"
+            }
+          ]
+        },
+        {
+          "title": "Conjunctival Immunity",
+          "children": [
+            {
+              "title": "CALT (conjunctiva-associated lymphoid tissue): organised lymphoid aggregates; IgA secretion; Langerhans cells in epithelium"
+            },
+            {
+              "title": "Conjunctival immune responses: type I hypersensitivity (allergic; mast cells); type IV (toxic follicular conjunctivitis); viral (follicles = lymphoid aggregates)"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Immunity",
+          "children": [
+            {
+              "title": "Avascularity: key privilege mechanism; maintained by anti-angiogenic factors (PEDF, thrombospondin-1)"
+            },
+            {
+              "title": "Limbal immune cells: dendritic cells + macrophages at periphery; surveillance"
+            },
+            {
+              "title": "Corneal allograft survival better than other tissues due to immune privilege; vascularisation dramatically increases rejection risk"
+            }
+          ]
+        },
+        {
+          "title": "Blood-Ocular Barriers",
+          "children": [
+            {
+              "title": "Blood-aqueous barrier: tight junctions of ciliary epithelium + iris vascular endothelium; disruption → flare + cells in AC (laser flare photometry)"
+            },
+            {
+              "title": "Blood-retinal barrier: inner (retinal vascular endothelium tight junctions) + outer (RPE tight junctions); disruption → macular oedema, subretinal fluid, exudation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "HLA Associations & Special Immunology",
+      "children": [
+        {
+          "title": "MHC & HLA System",
+          "children": [
+            {
+              "title": "MHC class I (HLA-A, B, C): on all nucleated cells; present intracellular (viral/tumour) peptides to CD8+ T cells"
+            },
+            {
+              "title": "MHC class II (HLA-DR, DQ, DP): on APC (DC, macrophages, B cells); present extracellular (bacterial) peptides to CD4+ T cells"
+            },
+            {
+              "title": "Highly polymorphic: allelic variation → differential peptide binding → disease susceptibility"
+            }
+          ]
+        },
+        {
+          "title": "Key HLA-Disease Associations in Uveitis",
+          "children": [
+            {
+              "title": "HLA-B27: ankylosing spondylitis (AS), reactive arthritis, IBD-associated uveitis, psoriatic arthritis; ACUTE, ANTERIOR, UNILATERAL, RECURRENT uveitis; fibrin-rich hypopyon; strong association (odds ratio >100 for AS-uveitis)"
+            },
+            {
+              "title": "HLA-A29: birdshot chorioretinopathy; most specific HLA association in any disease; >95% of birdshot patients; required for diagnosis"
+            },
+            {
+              "title": "HLA-B51: Behçet disease; especially in Mediterranean/Middle Eastern populations"
+            },
+            {
+              "title": "HLA-DR4: VKH syndrome; sympathetic ophthalmia; JIA-associated uveitis"
+            },
+            {
+              "title": "HLA-DR2 (DRB1*1501): multiple sclerosis-associated intermediate uveitis"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Diagnostic Approach to Uveitis",
+      "children": [
+        {
+          "title": "Classification",
+          "children": [
+            {
+              "title": "Anatomical (SUN Working Group)",
+              "children": [
+                {
+                  "title": "Anterior uveitis: iritis (AC only), iridocyclitis (AC + anterior vitreous), anterior cyclitis (anterior vitreous only)"
+                },
+                {
+                  "title": "Intermediate uveitis: vitreous, ora serrata, pars plana; snowbanks/snowballs; includes pars planitis"
+                },
+                {
+                  "title": "Posterior uveitis: retina or choroid; focal, multifocal, or diffuse chorioretinitis, retinitis, vasculitis"
+                },
+                {
+                  "title": "Panuveitis: all three segments; Behçet, VKH, sarcoidosis, sympathetic ophthalmia"
+                }
+              ]
+            },
+            {
+              "title": "Clinical Features",
+              "children": [
+                { "title": "Onset: sudden vs insidious" },
+                {
+                  "title": "Duration: limited (<3 months) vs persistent (>3 months)"
+                },
+                {
+                  "title": "Course: acute (sudden onset, limited), recurrent (repeated episodes + disease-free intervals >3 months off treatment), chronic (persistent; recurs within 3 months of stopping Rx)"
+                },
+                {
+                  "title": "Granulomatous vs non-granulomatous: granulomatous = mutton-fat KP, iris/choroidal granulomas, Busacca + Koeppe nodules; causes: sarcoid, TB, syphilis, VKH, sympathetic ophthalmia, Lyme, Toxocara"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Grading of Inflammation (SUN Criteria)",
+          "children": [
+            {
+              "title": "Cells (per 0.5×0.5mm slit-lamp field at ×1mm beam): 0 (<1), 0.5+ (1-5), 1+ (6-15), 2+ (16-25), 3+ (26-50), 4+ (>50)"
+            },
+            {
+              "title": "Flare (aqueous protein): 0 (none), 1+ (faint), 2+ (moderate; iris/lens visible), 3+ (marked; iris/lens hazy), 4+ (intense; fibrin/plastic aqueous)"
+            },
+            {
+              "title": "Vitreous haze: Nussenblatt scale 0-4+; 1+ = slight haze; 4+ = no fundus view"
+            }
+          ]
+        },
+        {
+          "title": "Signs of Uveitis",
+          "children": [
+            {
+              "title": "Anterior Segment Signs",
+              "children": [
+                {
+                  "title": "KP (keratic precipitates): on corneal endothelium; fine (non-granulomatous; HLA-B27, Fuchs, HSV) vs mutton-fat (granulomatous; large greasy; sarcoid, TB, VKH); stellate (CMV, Fuchs); distribution: inferior triangle (Arlt triangle) for most; diffuse (Fuchs, CMV)"
+                },
+                {
+                  "title": "Flare: proteinaceous aqueous; laser flare photometry quantifies"
+                },
+                { "title": "Cells in AC: inflammatory; 1+ = mild activity" },
+                {
+                  "title": "Hypopyon: layered white cells in inferior AC; HLA-B27 uveitis (non-infectious fibrinous), Behçet (sterile, shifts with head movement), endophthalmitis (infectious)"
+                },
+                {
+                  "title": "Iris nodules: Koeppe (pupillary margin) + Busacca (iris stroma) → granulomatous uveitis; inflammatory"
+                },
+                {
+                  "title": "Posterior synechiae (PS): iris adhesion to anterior lens; dilated pupil prevents; topical mydriatics; can cause iris bombé + pupillary block glaucoma"
+                },
+                {
+                  "title": "Peripheral anterior synechiae (PAS): iris adhesion to angle; can close angle → glaucoma"
+                },
+                {
+                  "title": "Iris atrophy: HSV (sectoral, ischaemic, patchy); Fuchs (diffuse heterochromia)"
+                }
+              ]
+            },
+            {
+              "title": "Intermediate Segment Signs",
+              "children": [
+                {
+                  "title": "Cells in anterior vitreous: spill-over from AC (anterior uveitis) or true intermediate/posterior"
+                },
+                {
+                  "title": "Snowballs: white inflammatory aggregates in inferior vitreous; pars planitis; sarcoid"
+                },
+                {
+                  "title": "Snowbank: fibrovascular exudate over pars plana/ora serrata; pars planitis (pathognomonic when present)"
+                }
+              ]
+            },
+            {
+              "title": "Posterior Segment Signs",
+              "children": [
+                {
+                  "title": "Chorioretinal lesions: active = white/yellow fluffy borders; inactive = pigmented scars with sharp edges"
+                },
+                {
+                  "title": "Retinal vasculitis: periphlebitis (sheathing of veins; sarcoid, TB, MS, Behçet) vs periarteritis (Behçet, PAN); fluorescein leakage"
+                },
+                {
+                  "title": "Disc oedema: VKH, sarcoid, TB, sympathetic ophthalmia; HLA-B27"
+                },
+                {
+                  "title": "CMO (cystoid macular oedema): most common cause of vision loss in uveitis; OCT shows intraretinal cysts; FFA shows petaloid leakage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Workup",
+          "children": [
+            {
+              "title": "Guided by History and Anatomy",
+              "children": [
+                {
+                  "title": "Acute unilateral anterior uveitis (HLA-B27 pattern): HLA-B27, sacroiliac XR, spine MRI, rheumatology referral for AS/IBD/psoriasis"
+                },
+                {
+                  "title": "Bilateral granulomatous uveitis: CXR/chest CT (sarcoidosis), serum ACE + lysozyme, tuberculin (PPD)/IGRA (TB), syphilis serology (RPR + TPPA), Lyme titres"
+                },
+                {
+                  "title": "Young woman with panuveitis: ANA, anti-dsDNA, complement (SLE); VKH workup (audiology, skin exam)"
+                },
+                {
+                  "title": "Immunocompromised: viral panel (CMV, HSV, VZV PCR), Toxoplasma serology, fungal cultures"
+                }
+              ]
+            },
+            {
+              "title": "Imaging",
+              "children": [
+                {
+                  "title": "FFA (fluorescein angiography): retinal vasculitis (leakage + staining), CMO (petaloid), disc leakage, active choroiditis (early block → late stain), white dot syndromes"
+                },
+                {
+                  "title": "ICGA (indocyanine green angiography): choroidal disease; hypofluorescent spots (VKH, birdshot, multifocal choroiditis); invisible on FFA"
+                },
+                {
+                  "title": "OCT: macular oedema (quantify), ERM, subretinal fluid, RPE changes, choroidal thickness (enhanced depth imaging, EDI-OCT)"
+                },
+                {
+                  "title": "FAF (fundus autofluorescence): RPE activity; hyper = active/stressed; hypo = atrophy; birdshot, serpiginous, white dot syndromes"
+                },
+                {
+                  "title": "B-scan ultrasound: posterior scleritis (T-sign = fluid in Tenon space), choroidal thickening, RD, vitreous condensation"
+                },
+                {
+                  "title": "VEP + ERG: monitor visual pathway function in birdshot chorioretinopathy; ERG most sensitive for early birdshot involvement"
+                }
+              ]
+            },
+            {
+              "title": "Ocular Fluid & Tissue Sampling",
+              "children": [
+                {
+                  "title": "Anterior chamber tap (AC paracentesis): PCR for HSV/VZV/CMV/Toxoplasma/TB; Goldmann-Witmer coefficient (GWC): intraocular antibody production ratio; GWC >3 = local production = active infection"
+                },
+                {
+                  "title": "Vitreous tap/biopsy: vitreoretinal lymphoma (large cells, IL-10 dominant); fungal/bacterial endophthalmitis; Toxoplasma PCR"
+                },
+                {
+                  "title": "Chorioretinal biopsy: rarely needed; for diagnostic dilemmas (TB, sarcoid, lymphoma, PVRL masquerade)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Therapy for Uveitis",
+      "children": [
+        {
+          "title": "Corticosteroids",
+          "children": [
+            {
+              "title": "Topical Steroids",
+              "children": [
+                {
+                  "title": "Prednisolone acetate 1%: gold standard for anterior uveitis; q1h for severe → taper based on response"
+                },
+                {
+                  "title": "Difluprednate 0.05%: more potent; q2h; higher IOP risk"
+                },
+                {
+                  "title": "Loteprednol 0.5%: soft steroid; metabolised rapidly; less IOP rise; for mild-moderate anterior uveitis"
+                },
+                {
+                  "title": "Cycloplegics: atropine 1% (most potent, 2 weeks) or cyclopentolate 1% (24h); prevent posterior synechiae; break existing synechiae; reduce pain (ciliary spasm)"
+                }
+              ]
+            },
+            {
+              "title": "Periocular Steroids",
+              "children": [
+                {
+                  "title": "Sub-Tenon triamcinolone acetonide (STTA) 40mg: posterior sub-Tenon for intermediate/posterior/panuveitis; onset days; duration 4-6 months; unilateral benefit; risk: IOP rise, PSC cataract, globe perforation"
+                },
+                {
+                  "title": "Orbital floor injection: trans-lower-lid; posterior targeting"
+                }
+              ]
+            },
+            {
+              "title": "Intravitreal Steroids",
+              "children": [
+                {
+                  "title": "Triamcinolone acetonide (IVTA) 4mg: off-label; duration 3-4 months; for CMO, posterior uveitis"
+                },
+                {
+                  "title": "Dexamethasone implant (Ozurdex, 0.7mg): biodegradable PLGA; sustained release 3-6 months; approved for non-infectious uveitis; IOP rise in ~30%; PSC in phakic eyes"
+                },
+                {
+                  "title": "Fluocinolone acetonide implant (Iluvien 0.19mg): non-biodegradable; 3 years release; FDA-approved for chronic non-infectious posterior uveitis; high rates of IOP rise + cataract; requires surgery for removal"
+                }
+              ]
+            },
+            {
+              "title": "Systemic Steroids",
+              "children": [
+                {
+                  "title": "Oral prednisone: 1mg/kg/day (max 60-80mg); for bilateral/severe/posterior uveitis; taper over weeks-months; long-term SE: DM, osteoporosis, HPA suppression, weight gain, glaucoma, cataract"
+                },
+                {
+                  "title": "IV methylprednisolone: pulse 250-1000mg/day ×3 days; acute severe uveitis (VKH, sympathetic ophthalmia, acute birdshot); faster onset"
+                },
+                {
+                  "title": "Bone protection: bisphosphonates + calcium/vitamin D if on steroids >3 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Systemic Immunomodulatory Therapy (IMT)",
+          "children": [
+            {
+              "title": "Indications for IMT",
+              "children": [
+                {
+                  "title": "Steroid-dependent (requires >10mg/day prednisone to control) or steroid-refractory uveitis"
+                },
+                {
+                  "title": "Bilateral sight-threatening disease; need for long-term treatment; intolerable steroid side effects"
+                },
+                {
+                  "title": "Goal: steroid-sparing; control inflammation on ≤10mg/day prednisone"
+                }
+              ]
+            },
+            {
+              "title": "Antimetabolites",
+              "children": [
+                {
+                  "title": "Methotrexate (MTX): folic acid antagonist; inhibits DHFR; 7.5-25mg weekly; most commonly used; effective for JIA-uveitis, sarcoid, scleritis; supplement folic acid; monitor LFTs; teratogenic"
+                },
+                {
+                  "title": "Mycophenolate mofetil (MMF): inhibits IMPDH (purine synthesis); 1-3g/day; good for posterior uveitis, scleritis, VKH; GI side effects; teratogenic"
+                },
+                {
+                  "title": "Azathioprine: purine analogue (6-MP); 1-3mg/kg/day; Behçet, VKH, intermediate uveitis; check TPMT enzyme before starting; bone marrow suppression; hepatotoxicity"
+                }
+              ]
+            },
+            {
+              "title": "Calcineurin Inhibitors",
+              "children": [
+                {
+                  "title": "Cyclosporine A: inhibits calcineurin → blocks IL-2 production → T cell suppression; 2.5-5mg/kg/day; effective for Behçet, birdshot, VKH; nephrotoxic + hypertensive; monitor creatinine + BP"
+                },
+                {
+                  "title": "Tacrolimus (FK506): similar mechanism; more potent; less commonly used in uveitis; nephrotoxic"
+                }
+              ]
+            },
+            {
+              "title": "Alkylating Agents",
+              "children": [
+                {
+                  "title": "Cyclophosphamide: DNA cross-linking; most immunosuppressive; for necrotising scleritis, GPA-uveitis, sight-threatening refractory uveitis; IV pulse or daily oral; bladder toxicity (haemorrhagic cystitis → mesna prophylaxis); bone marrow suppression; malignancy risk; fertility risk"
+                },
+                {
+                  "title": "Chlorambucil: alkylating; historical use in Behçet; largely replaced by biologics"
+                }
+              ]
+            },
+            {
+              "title": "Biologics",
+              "children": [
+                {
+                  "title": "Anti-TNF-α: adalimumab (Humira; SC; FDA-approved for non-infectious uveitis in adults + children); infliximab (IV; faster onset; Behçet, JIA-uveitis, HLA-B27); screen for TB before starting (IGRA/PPD); risk of reactivation TB, demyelination, lymphoma"
+                },
+                {
+                  "title": "Rituximab (anti-CD20): depletes B cells; for ANCA-vasculitis scleritis (GPA), refractory VKH, MMP"
+                },
+                {
+                  "title": "Abatacept (CTLA4-Ig; co-stimulation blocker): JIA-uveitis; blocks CD28-B7 costimulation"
+                },
+                {
+                  "title": "IL-6 inhibitors (tocilizumab): Castleman disease, refractory JIA-uveitis, scleritis"
+                },
+                {
+                  "title": "Secukinumab/ixekizumab (anti-IL-17): AS-related uveitis; some caution re: IBD exacerbation"
+                },
+                {
+                  "title": "Interferon-α (IFN-α): Behçet; potent; depression and flu-like symptoms limit use"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Surgical Management",
+          "children": [
+            {
+              "title": "Cataract surgery: delay until uveitis quiet ≥3 months; aggressive perioperative steroids; avoid IOL in JIA-uveitis with severe disease; use single-piece acrylic IOL in the bag; higher complication rates"
+            },
+            {
+              "title": "Glaucoma surgery: trabeculectomy + MMC or glaucoma drainage device (GDD preferred in uveitis; lower bleb failure rate); medical treatment first"
+            },
+            {
+              "title": "Vitrectomy: for dense vitreous opacity, vitreous organisation/traction, diagnostic biopsy (PVRL), CMO refractory to medical, ERM, RRD"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Scleritis",
+      "children": [
+        {
+          "title": "Classification & Epidemiology",
+          "children": [
+            {
+              "title": "Anterior (90%): diffuse (most common, 40%), nodular (10%), necrotising (5%; with or without inflammation)"
+            },
+            {
+              "title": "Posterior (10%): pain + proptosis + choroidal folds + exudative RD; T-sign on B-scan"
+            },
+            {
+              "title": "Women > men (2:1); mean age 50s; bilateral in 50% over time"
+            },
+            {
+              "title": "50% associated with systemic disease: RA (most common), GPA, relapsing polychondritis, IBD, SLE, PAN, sarcoid"
+            }
+          ]
+        },
+        {
+          "title": "Clinical Features",
+          "children": [
+            {
+              "title": "Pain: severe, boring, deep aching; worse at night; radiates to forehead/jaw; pathognomonic"
+            },
+            {
+              "title": "Does NOT blanch with topical phenylephrine (episclera does); deep vessel injection"
+            },
+            {
+              "title": "Scleral oedema: violaceous hue (deep vessels); nodules (nodular scleritis)"
+            },
+            {
+              "title": "Necrotising: scleral thinning → uveal show (blue/grey); can perforate; scleromalacia perforans (necrotising without inflammation; RA)"
+            },
+            {
+              "title": "Posterior: no external signs; pain + proptosis + limited motility + exudative RD; B-scan: thickened posterior wall + T-sign (fluid in Tenon)"
+            }
+          ]
+        },
+        {
+          "title": "Diagnosis & Treatment",
+          "children": [
+            {
+              "title": "Workup: c-ANCA/p-ANCA (GPA), RF/CCP (RA), ANA/dsDNA (SLE), chest CT (sarcoid, GPA), IGRA (TB), RPR (syphilis)"
+            },
+            {
+              "title": "Mild (diffuse/nodular): oral NSAIDs (indomethacin 75-150mg/day); if inadequate → oral steroids"
+            },
+            {
+              "title": "Moderate-severe: oral steroids 1mg/kg/day; add IMT (MTX, MMF) for steroid-sparing"
+            },
+            {
+              "title": "Necrotising / GPA: IV cyclophosphamide + steroids; or rituximab; urgent; risk of perforation"
+            },
+            {
+              "title": "Infectious scleritis: targeted antibiotics (Pseudomonas post-pterygium excision); NO steroids without antimicrobials"
+            },
+            {
+              "title": "Surgical: scleral patch graft for thinning/perforation; conjunctival flap for coverage"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Noninfectious Anterior & Intermediate Uveitis",
+      "children": [
+        {
+          "title": "Acute Anterior Uveitis",
+          "children": [
+            {
+              "title": "HLA-B27-Associated Uveitis",
+              "children": [
+                {
+                  "title": "Most common identifiable cause of acute anterior uveitis; 50% of AAU patients HLA-B27 positive"
+                },
+                {
+                  "title": "Presentation: sudden onset unilateral, painful red eye, photophobia, blurred vision; ciliary flush; fine/medium KP; significant flare + cells; hypopyon in severe cases (fibrinous exudate)"
+                },
+                {
+                  "title": "Course: recurrent; alternates between eyes (not simultaneous); each episode lasts 4-8 weeks"
+                },
+                {
+                  "title": "Associated conditions: AS (sacroiliitis, bamboo spine), reactive arthritis (Reiter triad: urethritis + arthritis + uveitis), IBD (Crohn/UC), psoriatic arthritis"
+                },
+                {
+                  "title": "Treatment: intensive topical prednisolone acetate 1% q1h + cyclopentolate 1% BD; taper based on response; systemic NSAIDs for associated arthritis; consider long-term NSAID prophylaxis for recurrent disease"
+                }
+              ]
+            },
+            {
+              "title": "Fuchs Heterochromic Iridocyclitis (FHI)",
+              "children": [
+                {
+                  "title": "Chronic, unilateral, low-grade anterior uveitis; younger adults; insidious onset"
+                },
+                {
+                  "title": "Heterochromia iridis: affected eye lighter (iris stromal atrophy; stellate pattern); may be subtle"
+                },
+                {
+                  "title": "Characteristic KP: fine, stellate, scattered diffusely over entire endothelium (not triangular like others); no posterior synechiae (DISTINGUISHING FEATURE)"
+                },
+                {
+                  "title": "Complications: cataract (PSC, >90%); glaucoma (60%); vitreous cells (floaters)"
+                },
+                {
+                  "title": "Amsler sign: bleeding in AC on gonioscopy (fragile neovascularisation of angle); not pathognomonic"
+                },
+                {
+                  "title": "Aetiology: possibly rubella virus (congenital rubella); CMV in some Asian patients"
+                },
+                {
+                  "title": "Treatment: do NOT use steroids (no benefit; accelerates cataract); treat complications; cataract surgery safe (no postoperative flare-up)"
+                }
+              ]
+            },
+            {
+              "title": "Juvenile Idiopathic Arthritis (JIA) Uveitis",
+              "children": [
+                {
+                  "title": "Most common uveitis in children; chronic, bilateral, anterior; ASYMPTOMATIC (no pain/red eye)"
+                },
+                {
+                  "title": "ANA-positive oligoarticular JIA: highest risk (20-30%); early onset arthritis; young girls; screen every 3-6 months"
+                },
+                {
+                  "title": "Band keratopathy + posterior synechiae + cataract (PSC) + glaucoma are hallmarks of chronic neglected disease"
+                },
+                {
+                  "title": "Treatment: topical steroids + cycloplegics; MTX (first-line steroid-sparing); adalimumab (FDA-approved for paediatric non-infectious uveitis); abatacept for refractory"
+                }
+              ]
+            },
+            {
+              "title": "Psoriatic arthritis uveitis: HLA-B27 or not; anterior uveitis; manage with NSAIDs + topical steroids; anti-TNF (TNF-inhibitors can paradoxically cause uveitis with some agents — etanercept; prefer adalimumab)"
+            }
+          ]
+        },
+        {
+          "title": "Intermediate Uveitis",
+          "children": [
+            {
+              "title": "Pars Planitis",
+              "children": [
+                {
+                  "title": "Idiopathic intermediate uveitis in young adults (<40 years); bilateral; insidious; floaters + blurred vision"
+                },
+                {
+                  "title": "Snowballs (inferior vitreous) + snowbanks (pars plana; classic but not always present)"
+                },
+                {
+                  "title": "Complications: CMO (most common cause of vision loss), cataract, vitreous organisation, rarely exudative RD"
+                },
+                {
+                  "title": "Always rule out: MS (20% of intermediate uveitis have CNS demyelination; MRI brain), sarcoidosis, Lyme, TB, syphilis"
+                },
+                {
+                  "title": "Treatment: periocular triamcinolone (STTA); oral steroids if bilateral/severe; IMT (MTX, MMF) for steroid-sparing; vitrectomy for dense snowbanks + CMO"
+                }
+              ]
+            },
+            {
+              "title": "MS-associated intermediate uveitis: periphlebitis; snowballs; may precede MS diagnosis; MRI brain mandatory; MS treatment reduces uveitis activity"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Posterior Uveitis: White Dot Syndromes",
+      "children": [
+        {
+          "title": "Overview",
+          "children": [
+            {
+              "title": "Heterogeneous group of inflammatory choriocapillaritis/choroiditis/retinitis conditions; mostly young healthy adults; often unilateral; post-viral trigger suspected in many; distinct imaging signatures on FFA/ICGA/OCT/FAF"
+            }
+          ]
+        },
+        {
+          "title": "Birdshot Chorioretinopathy",
+          "children": [
+            {
+              "title": "Bilateral; women > men; 50s; HLA-A29 (>95% sensitive); progressive"
+            },
+            {
+              "title": "Multifocal cream-coloured choroidal lesions radiating from disc ('birdshot' from shotgun); minimal AC/vitreous cells; periphlebitis; disc oedema"
+            },
+            {
+              "title": "Severe complications: CMO, epiretinal membrane, disc atrophy, ERG abnormalities (early sign even before VA loss)"
+            },
+            {
+              "title": "Diagnosis: HLA-A29 testing; ICGA best shows lesions (hypofluorescent spots); ERG (photopic b-wave reduction first)"
+            },
+            {
+              "title": "Treatment: systemic IMT essential (cyclosporine, MMF, MTX); adalimumab for refractory; intravitreal steroids for CMO; long-term; ERG + OCT to monitor"
+            }
+          ]
+        },
+        {
+          "title": "APMPPE (Acute Posterior Multifocal Placoid Pigment Epitheliopathy)",
+          "children": [
+            {
+              "title": "Young adults; post-viral (HLA-B7, DR2); bilateral; acute sudden central visual loss"
+            },
+            {
+              "title": "Multifocal cream-coloured placoid lesions at RPE level; posterior pole"
+            },
+            {
+              "title": "FFA: early block → late stain (pathognomonic; opposite of geographic atrophy); ICGA: persistent hypofluorescence (choroidal ischaemia mechanism)"
+            },
+            {
+              "title": "Self-limited (weeks); good prognosis; most recover to 20/20; rare recurrences"
+            },
+            {
+              "title": "Complication: cerebral vasculitis (stroke); if neurological symptoms → MRI/MRA urgently"
+            },
+            {
+              "title": "Treatment: usually observation; consider short systemic steroids if VA severely affected"
+            }
+          ]
+        },
+        {
+          "title": "Serpiginous Choroiditis",
+          "children": [
+            {
+              "title": "Middle-aged men; bilateral but asymmetric; geographic spreading lesions from peripapillary region outward in snake-like pattern"
+            },
+            {
+              "title": "Active edge: yellow-grey; inactive: atrophic scar; lesions advance contiguously"
+            },
+            {
+              "title": "FFA: active = early hypofluorescence + late hyperfluorescence at edges; ICGA: hypofluorescence throughout (choroidal ischaemia)"
+            },
+            {
+              "title": "Must rule out TB (particularly in endemic regions; TB-serpiginous behaves identically but needs anti-TB treatment; treat empirically if IGRA positive)"
+            },
+            {
+              "title": "Poor prognosis if fovea involved; treatment: systemic steroids + IMT (triple: prednisone + MTX + MMF or azathioprine); anti-VEGF for CNV (frequent complication)"
+            }
+          ]
+        },
+        {
+          "title": "Multifocal Choroiditis & Punctate Inner Choroiditis (PIC)",
+          "children": [
+            {
+              "title": "MFC with panuveitis: bilateral; women; myopes; small yellow-grey lesions; vitreous cells; subretinal fibrosis"
+            },
+            {
+              "title": "PIC: young myopic women; no vitreous cells (key distinction from MFC); small punched-out lesions; posterior pole; high risk of CNV"
+            },
+            {
+              "title": "SFUV (subretinal fibrosis + uveitis syndrome): end-stage MFC with extensive subretinal scarring"
+            },
+            {
+              "title": "Treatment: periocular/intravitreal steroids for active inflammation; anti-VEGF for CNV; immunosuppression for chronic recurrent cases"
+            }
+          ]
+        },
+        {
+          "title": "MEWDS (Multiple Evanescent White Dot Syndrome)",
+          "children": [
+            {
+              "title": "Young women; unilateral; post-viral flu-like illness; acute photopsias + enlarged blind spot + mild VA loss"
+            },
+            {
+              "title": "Faint white dots at level of outer retina/RPE; foveal granularity (characteristic)"
+            },
+            {
+              "title": "FAF: hyper-autofluorescent dots; OCT: outer retinal disruption (EZ/IS-OS line); FFA: wreath-like hyperfluorescence; ERG: reduced a-wave"
+            },
+            {
+              "title": "Self-limited (weeks); excellent prognosis; recurrence rare; observation only"
+            }
+          ]
+        },
+        {
+          "title": "AZOOR (Acute Zonal Occult Outer Retinopathy)",
+          "children": [
+            {
+              "title": "Young women; photopsias + visual field loss; minimal fundus changes ('occult')"
+            },
+            {
+              "title": "OCT: outer retinal atrophy (EZ line disruption); FAF: hyper-AF at borders of affected zone; ERG: reduced in affected zone"
+            },
+            {
+              "title": "May be part of spectrum with MEWDS, MFC; variable prognosis; some recover, some progressive"
+            }
+          ]
+        },
+        {
+          "title": "Autoimmune Retinopathy (AIR)",
+          "children": [
+            {
+              "title": "Paraneoplastic (CAR = cancer-associated retinopathy; MAR = melanoma-associated retinopathy) or non-paraneoplastic"
+            },
+            {
+              "title": "Anti-retinal antibodies: anti-recoverin (CAR; SCLC); anti-α-enolase; anti-TRPM1 (MAR); anti-carbonic anhydrase II"
+            },
+            {
+              "title": "Bilateral progressive visual loss; photopsias; attenuated ERG; no significant fundus inflammation"
+            },
+            {
+              "title": "Treatment: treat underlying malignancy; IVIG, plasma exchange, systemic immunosuppression"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Posterior Uveitis & Panuveitis with Systemic Disease",
+      "children": [
+        {
+          "title": "Sarcoidosis",
+          "children": [
+            {
+              "title": "Systemic granulomatous disease; African Americans + Scandinavians; hilar lymphadenopathy + pulmonary infiltrates + elevated ACE"
+            },
+            {
+              "title": "Ocular manifestations (25-50%): anterior (granulomatous; mutton-fat KP; Busacca + Koeppe nodules; tent-shaped PAS), intermediate (snowballs), posterior (multifocal chorioretinitis, periphlebitis 'candle wax drippings', disc granuloma), lacrimal gland involvement"
+            },
+            {
+              "title": "Heerfordt syndrome: uveitis + parotid enlargement + facial nerve palsy + fever"
+            },
+            {
+              "title": "Diagnosis: chest CT (bilateral hilar LAD); serum ACE + lysozyme (elevated in 75%; non-specific); conjunctival/LN biopsy (non-caseating granuloma); Kveim test (historical); BAL with lymphocytosis; PET-CT"
+            },
+            {
+              "title": "Treatment: topical/periocular/intravitreal steroids for ocular; systemic steroids for bilateral/posterior/severe; MTX or MMF for steroid-sparing"
+            }
+          ]
+        },
+        {
+          "title": "Sympathetic Ophthalmia (SO)",
+          "children": [
+            {
+              "title": "Bilateral granulomatous panuveitis following penetrating trauma or intraocular surgery to one eye (exciting eye)"
+            },
+            {
+              "title": "Latent period: 80% within 3 months to 1 year; rare <2 weeks or >40 years after injury"
+            },
+            {
+              "title": "Pathophysiology: autoimmune reaction to uveal/retinal antigens (melanin, IRBP, S-antigen) released by injury; Th1 + Dalen-Fuchs nodules (focal RPE granulomas)"
+            },
+            {
+              "title": "Clinical features: Dalen-Fuchs nodules (pathognomonic; yellow-white sub-RPE deposits); sunset glow fundus (VKH-like); disc oedema; mutton-fat KP; exudative RD"
+            },
+            {
+              "title": "Prevention: if exciting eye has no visual potential → enucleate within 2 weeks of injury (before sensitisation); after SO established, enucleation does NOT help sympathising eye"
+            },
+            {
+              "title": "Treatment: immediate high-dose systemic steroids; IMT (MMF, azathioprine) for long-term"
+            }
+          ]
+        },
+        {
+          "title": "Vogt-Koyanagi-Harada (VKH) Syndrome",
+          "children": [
+            {
+              "title": "Bilateral granulomatous panuveitis + extraocular manifestations; Japanese, Hispanic, Middle Eastern, Native American; HLA-DR4"
+            },
+            {
+              "title": "Autoimmune attack on melanocytes (uvea, meninges, inner ear, skin)"
+            },
+            {
+              "title": "Four Phases",
+              "children": [
+                {
+                  "title": "Prodromal: flu-like + meningism + headache + tinnitus + dysacusis (CSF pleocytosis)"
+                },
+                {
+                  "title": "Uveitic: bilateral exudative RD + disc oedema + multifocal detachments; sunset glow fundus in chronic phase; mutton-fat KP"
+                },
+                {
+                  "title": "Convalescent: 'sunset glow fundus' (diffuse RPE depigmentation); perilimbal vitiligo (Sugiura sign); poliosis; alopecia; vitiligo"
+                },
+                {
+                  "title": "Chronic recurrent: anterior uveitis flares; subretinal fibrosis; complications"
+                }
+              ]
+            },
+            {
+              "title": "Diagnosis: bilateral exudative RD + prodromal = pathognomonic; FFA shows multifocal pinpoint leakage → pooling in subretinal space; ICGA: choroidal stromal vessel hypofluorescence; B-scan: choroidal thickening + RD"
+            },
+            {
+              "title": "Treatment: IV methylprednisolone pulse immediately → oral prednisone ≥6 months; early aggressive treatment prevents chronicity; add IMT (MMF, MTX, azathioprine) for steroid-sparing; goal: sunset glow = acceptable (late depigmentation normal in resolved VKH)"
+            }
+          ]
+        },
+        {
+          "title": "Behçet Disease",
+          "children": [
+            {
+              "title": "Systemic vasculitis; HLA-B51; Mediterranean/Middle Eastern/East Asian; males more severe; young adults"
+            },
+            {
+              "title": "Diagnostic criteria: recurrent oral aphthous ulcers (major criterion) + 2 of: genital ulcers, skin lesions (erythema nodosum, pseudofolliculitis), ocular disease, pathergy test positive"
+            },
+            {
+              "title": "Ocular manifestations: bilateral (80%); non-granulomatous panuveitis; explosive acute occlusive vasculitis; hypopyon (sterile, mobile, recurs); posterior segment: retinal vasculitis (predominantly occlusive periphlebitis + arteritis), diffuse retinitis; rapid vision loss"
+            },
+            {
+              "title": "FFA: diffuse vascular leakage; arterial + venous occlusion; disc leakage; poor prognosis if macular or optic nerve ischaemia"
+            },
+            {
+              "title": "Treatment: acute = topical steroids + IV methylprednisolone; maintenance = azathioprine (1st-line steroid-sparing) + cyclosporine (best for ocular); for refractory/severe = infliximab (most evidence) or adalimumab or IFN-α; colchicine for mucocutaneous"
+            }
+          ]
+        },
+        {
+          "title": "SLE, PAN, GPA, Susac Syndrome",
+          "children": [
+            {
+              "title": "SLE: cotton-wool spots (retinal vasculitis/ischaemia); vaso-occlusive retinopathy (esp. antiphospholipid syndrome); optic neuropathy; scleritis; episcleritis; keratoconjunctivitis sicca"
+            },
+            {
+              "title": "Polyarteritis nodosa (PAN): peripheral ulcerative keratitis; scleritis; retinal vasculitis; CN palsies; p-ANCA (not pathognomonic; more c-ANCA for GPA)"
+            },
+            {
+              "title": "GPA (Wegener): orbital pseudotumor-like inflammation; scleritis (necrotising); peripheral ulcerative keratitis; CN palsies; c-ANCA; treat with rituximab/cyclophosphamide"
+            },
+            {
+              "title": "Susac syndrome: branch retinal artery occlusions + sensorineural hearing loss + encephalopathy; young women; autoimmune endotheliopathy; FFA: arterial occlusions; audiogram; MRI (snowball lesions corpus callosum); treat with steroids + MMF + IVIG"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Infectious Uveitis: Bacterial",
+      "children": [
+        {
+          "title": "Syphilis",
+          "children": [
+            {
+              "title": "Treponema pallidum; 'the great imitator'; can mimic almost any form of uveitis; always test in any uveitis"
+            },
+            {
+              "title": "Ocular Manifestations",
+              "children": [
+                {
+                  "title": "Anterior: iridocyclitis; roseola iridis (dilated iris vessels); iris papules"
+                },
+                {
+                  "title": "Posterior: chorioretinitis; necrotising retinitis; retinal vasculitis; 'acute syphilitic posterior placoid chorioretinopathy' (ASPPC): large placoid lesion at posterior pole; associated with HIV"
+                },
+                {
+                  "title": "Interstitial keratitis: stromal vascularisation; bilateral; congenital syphilis (Hutchinson triad: IK + deafness + Hutchinson teeth)"
+                },
+                {
+                  "title": "Optic neuritis/papillitis; CN palsies; Argyll Robertson pupils (neurosyphilis)"
+                }
+              ]
+            },
+            {
+              "title": "Diagnosis: non-treponemal (RPR, VDRL; titre correlates with disease activity; revert with treatment); treponemal (TPPA, FTA-ABS; remain positive for life even after treatment); CSF-VDRL for neurosyphilis (low sensitivity but specific)"
+            },
+            {
+              "title": "Treatment: IV benzylpenicillin G 3-4MU q4h ×14 days for neurosyphilis/ocular syphilis (treat ALL ocular syphilis as neurosyphilis); IM benzathine penicillin 2.4MU ×3 weeks for non-ocular; penicillin allergy: doxycycline or ceftriaxone; Jarisch-Herxheimer reaction: fever/rigors hours after first dose; manage with paracetamol"
+            }
+          ]
+        },
+        {
+          "title": "Tuberculosis",
+          "children": [
+            {
+              "title": "Mycobacterium tuberculosis; endemic worldwide; hypersensitivity AND direct infection mechanisms"
+            },
+            {
+              "title": "Ocular Manifestations",
+              "children": [
+                {
+                  "title": "Anterior: granulomatous uveitis; Koeppe + Busacca nodules; broad posterior synechiae"
+                },
+                {
+                  "title": "Posterior: multifocal choroiditis (Dalen-Fuchs-like nodules); choroidal granuloma (tuberculoma); serpiginous-like choroiditis (TB-serpiginous; indistinguishable from idiopathic)"
+                },
+                {
+                  "title": "Vasculitis: Eales disease (periphlebitis + vitreous haemorrhage; association with TB antigen; young Indian males; treat with anti-TB + laser for NV)"
+                },
+                { "title": "Panuveitis; optic nerve TB (disc granuloma)" }
+              ]
+            },
+            {
+              "title": "Diagnosis: IGRA (interferon-gamma release assay; QuantiFERON-TB Gold): more specific than TST; positive = evidence of TB exposure/infection; chest CT; sputum/BAL culture (slow growth); PCR on AC/vitreous"
+            },
+            {
+              "title": "Treatment: anti-TB therapy (RIPE: rifampicin + isoniazid + pyrazinamide + ethambutol ×2 months; then rifampicin + isoniazid ×4 months); ethambutol: optic neuritis risk (monitor VA + colour vision monthly); steroids as adjunct for inflammation; treat empirically if strong clinical suspicion + positive IGRA"
+            }
+          ]
+        },
+        {
+          "title": "Lyme Disease",
+          "children": [
+            {
+              "title": "Borrelia burgdorferi; Ixodes tick bite; endemic Northeast USA, Europe; stages I-III"
+            },
+            {
+              "title": "Ocular: CN VII palsy (most common; Bell's palsy-like), conjunctivitis (early), keratitis (interstitial), episcleritis, anterior uveitis, vitritis, chorioretinitis, disc oedema, ON"
+            },
+            {
+              "title": "Diagnosis: ELISA (screening) + Western blot (confirmatory); two-tier testing"
+            },
+            {
+              "title": "Treatment: doxycycline 100mg BD ×21 days (early/localized); IV ceftriaxone 2g/day ×14-28 days (late/neurological/ocular)"
+            }
+          ]
+        },
+        {
+          "title": "Bartonellosis (Cat-Scratch Disease)",
+          "children": [
+            {
+              "title": "Bartonella henselae; cat scratch/bite; Parinaud oculoglandular syndrome (conjunctival granuloma + preauricular LN)"
+            },
+            {
+              "title": "Posterior: neuroretinitis (disc oedema + macular star = stellate maculopathy; pathognomonic); focal chorioretinitis; branch RAO; serology (IFA or ELISA)"
+            },
+            {
+              "title": "Self-limited; doxycycline + rifampicin for severe/immunocompromised"
+            }
+          ]
+        },
+        {
+          "title": "Whipple Disease",
+          "children": [
+            {
+              "title": "Tropheryma whipplei; malabsorption + arthritis + neurological disease; oculomasticatory myorhythmia (pendular eye oscillations + jaw movements = pathognomonic)"
+            },
+            {
+              "title": "Uveitis; vitritis; retinal vasculitis; PCR on vitreous/aqueous/jejunal biopsy (PAS-positive macrophages)"
+            },
+            { "title": "Treatment: IV ceftriaxone ×2 weeks → TMP-SMX ×1 year" }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Infectious Uveitis: Nonbacterial",
+      "children": [
+        {
+          "title": "Herpesvirus Uveitis",
+          "children": [
+            {
+              "title": "HSV (Types 1 & 2)",
+              "children": [
+                {
+                  "title": "Recurrent unilateral anterior uveitis; elevated IOP (trabecular meshwork inflammation); sectoral iris atrophy (ischaemic sphincter); fine or stellate KP"
+                },
+                {
+                  "title": "Stromal keratitis/disciform endotheliitis: immune-mediated; treat with topical steroids + systemic antiviral cover"
+                },
+                {
+                  "title": "ACR/ARN: see below; HSV-2 more common in younger patients; HSV-1 in older"
+                }
+              ]
+            },
+            {
+              "title": "VZV (Herpes Zoster Ophthalmicus)",
+              "children": [
+                {
+                  "title": "Reactivation of VZV from trigeminal ganglion; V1 dermatome rash; Hutchinson sign"
+                },
+                {
+                  "title": "Anterior uveitis: sectoral iris atrophy + elevated IOP; pseudodendrites (no terminal bulbs)"
+                },
+                {
+                  "title": "Posterior: VZV-ARN (older immunocompetent); CMV retinitis (immunocompromised)"
+                },
+                {
+                  "title": "Treatment: oral valaciclovir 1g TID ×7-10 days within 72h; topical steroids for anterior uveitis + antiviral cover"
+                }
+              ]
+            },
+            {
+              "title": "CMV (Cytomegalovirus)",
+              "children": [
+                {
+                  "title": "CMV retinitis: CD4 <50 cells/μL; haemorrhagic necrosis 'pizza pie/cottage cheese + ketchup'; granular white areas + haemorrhages; slowly progressive; no pain; brushfire pattern"
+                },
+                {
+                  "title": "CMV anterior uveitis (immunocompetent): coin lesion endotheliitis; raised IOP; low-grade AC cells; positive AC CMV PCR"
+                },
+                {
+                  "title": "Treatment: IV ganciclovir or oral valganciclovir; intravitreal ganciclovir injection; fomivirsen (intravitreal; historical); HAART for AIDS-related"
+                }
+              ]
+            },
+            {
+              "title": "Acute Retinal Necrosis (ARN)",
+              "children": [
+                {
+                  "title": "Necrotising retinitis; VZV (most common), HSV-1/2; immunocompetent young adults"
+                },
+                {
+                  "title": "Triad: peripheral necrotising retinitis + retinal vasculitis (arteritis) + anterior uveitis with vitritis"
+                },
+                {
+                  "title": "Rapid progression; circumferential spread; high risk of RRD (necrotic holes + PVR); bilateral in 35% if untreated"
+                },
+                {
+                  "title": "Treatment: IV acyclovir 10mg/kg q8h ×10-14 days → oral valaciclovir ×3 months; intravitreal foscarnet/ganciclovir adjunct; prophylactic laser barrier to prevent RD; PPV + silicone oil for RD"
+                }
+              ]
+            },
+            {
+              "title": "Progressive Outer Retinal Necrosis (PORN)",
+              "children": [
+                {
+                  "title": "VZV in severely immunocompromised (CD4 <50); rapidly progressive outer retinal necrosis starting in macula; minimal inflammation; NO vasculitis; poor prognosis"
+                },
+                {
+                  "title": "Treatment: IV ganciclovir + foscarnet; intravitreal antivirals; HAART urgently"
+                }
+              ]
+            },
+            {
+              "title": "EBV: rare direct ocular involvement; multifocal choroiditis; striae keratopathy; anterior uveitis"
+            }
+          ]
+        },
+        {
+          "title": "Toxoplasmosis",
+          "children": [
+            {
+              "title": "Most common cause of posterior uveitis worldwide; Toxoplasma gondii; cat faeces + undercooked meat; congenital or acquired"
+            },
+            {
+              "title": "'Headlight in the fog': white fluffy active retinochoroiditis lesion adjacent to pigmented inactive scar; satellite lesion"
+            },
+            {
+              "title": "Vitritis overlying lesion; mild-moderate AC cells; disc oedema if near ON (Jensen juxtapapillary)"
+            },
+            {
+              "title": "Immunocompetent: self-limited (~6 weeks); treat if: fovea/disc threatened, large lesion, severe vitritis, immunocompromised patient"
+            },
+            {
+              "title": "Diagnosis: serology (IgG/IgM; most adults seropositive); AC PCR in atypical cases; GWC for intraocular production"
+            },
+            {
+              "title": "Treatment: classic TMP-SMX (first-line; well-tolerated; cheap) OR pyrimethamine + sulfadiazine + folinic acid (Fry-Daraprim); alternative: clindamycin + TMP-SMX; systemic steroids as adjunct (never alone) once antiparasitic started; 6-week course"
+            }
+          ]
+        },
+        {
+          "title": "Toxocariasis",
+          "children": [
+            {
+              "title": "Toxocara canis/cati; children 1-10 years; ingestion of egg-contaminated soil/puppy contact"
+            },
+            {
+              "title": "Presentations: posterior pole granuloma (dense white mass; adjacent vitritis; dragged disc/vessels); peripheral granuloma (tractional bands); endophthalmitis-like; can cause total RD/leukocoria"
+            },
+            {
+              "title": "Distinguish from retinoblastoma: no calcification; no family history; ELISA serology positive; unilateral"
+            },
+            {
+              "title": "Treatment: albendazole 400mg BD + systemic steroids; intravitreal triamcinolone for severe vitritis; PPV for traction/RD; NEVER use topical pilocarpine (causes TRD from ciliary body traction)"
+            }
+          ]
+        },
+        {
+          "title": "Ocular Histoplasmosis Syndrome (OHS)",
+          "children": [
+            {
+              "title": "Histoplasma capsulatum; endemic Mississippi/Ohio River Valley; NOT active infection — immune-mediated reaction to past exposure"
+            },
+            {
+              "title": "Classic triad: peripapillary atrophy + peripheral punched-out chorioretinal scars (histo spots) + macular CNV (vision-threatening complication); NO vitreous cells (distinguishes from MFC/PIC)"
+            },
+            {
+              "title": "Treatment: observation (scars alone); anti-VEGF (bevacizumab/ranibizumab) for CNV; PDT historical; systemic antifungals NOT indicated (no active infection)"
+            }
+          ]
+        },
+        {
+          "title": "Diffuse Unilateral Subacute Neuroretinitis (DUSN)",
+          "children": [
+            {
+              "title": "Nematode larvae (Baylisascaris procyonis - raccoon; Ancylostoma; others) migrating in subretinal space"
+            },
+            {
+              "title": "Unilateral; photopsias + visual field loss; early: white-grey evanescent outer retinal lesions + mild vitritis; late: optic atrophy + retinal vessel attenuation + diffuse RPE degeneration"
+            },
+            {
+              "title": "Worm may be visible on fundus exam (1/2-2mm long; moves between examinations) — direct laser photocoagulation to worm curative"
+            },
+            {
+              "title": "Treatment: laser to visible worm (gold standard); albendazole/ivermectin if worm not visible"
+            }
+          ]
+        },
+        {
+          "title": "Onchocerciasis (River Blindness)",
+          "children": [
+            {
+              "title": "Onchocerca volvulus; blackfly (Simulium) vector; Sub-Saharan Africa; second most common infectious cause of blindness worldwide"
+            },
+            {
+              "title": "Anterior: keratitis (punctate → sclerosing, starts inferiorly — 'corneal snowflakes'); anterior uveitis; limbal deposits; Lissajous pupil"
+            },
+            {
+              "title": "Posterior: optic atrophy (bilateral); chorioretinal atrophy (posterior pole + peripapillary)"
+            },
+            {
+              "title": "Mazzotti reaction: mass die-off of microfilariae → severe inflammation; avoid in treatment"
+            },
+            {
+              "title": "Treatment: ivermectin 150μg/kg annually (kills microfilariae; does not kill adult worm); doxycycline (kills Wolbachia endosymbiont of adult worm → sterilises adults); ivermectin distributed via CDTI (community-directed treatment)"
+            }
+          ]
+        },
+        {
+          "title": "Rubella Virus Uveitis",
+          "children": [
+            {
+              "title": "Congenital rubella: 'salt and pepper' retinopathy + cataract + glaucoma; non-progressive"
+            },
+            {
+              "title": "Fuchs heterochromic iridocyclitis: likely caused by congenital rubella virus persisting in anterior chamber; rubella IgG in AC (high GWC)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "HIV/AIDS Ocular Manifestations",
+      "children": [
+        {
+          "title": "CMV Retinitis",
+          "children": [
+            {
+              "title": "Most common sight-threatening OI in AIDS; CD4 <50 cells/μL; bilateral if untreated"
+            },
+            {
+              "title": "'Pizza pie' retinitis: haemorrhagic necrosis + white fluffy infiltrate; brushfire progression (active leading edge + healed posterior atrophy)"
+            },
+            {
+              "title": "Complications: RRD (necrotic retina; 30%); immune recovery uveitis (IRU) after HAART → paradoxical CME + ERM + fibrin"
+            },
+            {
+              "title": "Treatment: oral valganciclovir 900mg BD (induction ×3 weeks → maintenance); IV ganciclovir for very sick; intravitreal ganciclovir implant (historical); HAART to raise CD4 (most important for long-term control)"
+            }
+          ]
+        },
+        {
+          "title": "Necrotising Herpetic Retinitis in AIDS",
+          "children": [
+            {
+              "title": "PORN (progressive outer retinal necrosis): VZV at CD4 <50; rapidly progressive; outer retinal whitening; no vasculitis; begins in posterior pole; bilateral; very poor prognosis"
+            },
+            { "title": "ARN can occur at higher CD4 counts" }
+          ]
+        },
+        {
+          "title": "Other AIDS-Related Ocular Conditions",
+          "children": [
+            {
+              "title": "HIV retinopathy: most common; cotton-wool spots + intraretinal haemorrhages; from HIV-related microangiopathy; no treatment needed; CWS resolve; does not threaten vision"
+            },
+            {
+              "title": "Kaposi sarcoma: conjunctival or eyelid; HHV-8; bright red vascular lesion; responds to HAART; cryotherapy/excision/radiation"
+            },
+            {
+              "title": "Molluscum contagiosum: atypical/multiple lid lesions; unusual distribution; diagnose by morphology; treat by destruction"
+            },
+            {
+              "title": "Ocular syphilis: more aggressive in HIV; any CD4 count; treat as neurosyphilis regardless of CSF"
+            },
+            {
+              "title": "PML (progressive multifocal leukoencephalopathy): JC virus; visual field defects from retrochiasmal lesions; HAART as treatment"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Endophthalmitis",
+      "children": [
+        {
+          "title": "Acute Postoperative Endophthalmitis",
+          "children": [
+            {
+              "title": "Most common: after cataract surgery (0.05-0.3%); also intravitreal injection (0.05%), trabeculectomy (blebitis), keratoplasty, open globe repair"
+            },
+            {
+              "title": "Organisms: coagulase-negative Staphylococcus (most common; relatively benign), S. aureus (more virulent), Streptococcus species (very virulent; rapid devastating course), gram-negatives (rare; severe)"
+            },
+            {
+              "title": "EVS (Endophthalmitis Vitrectomy Study): VA LP or better → vitreous tap + intravitreal antibiotics vs PPV equivalent; VA hand motions or worse → PPV superior"
+            },
+            {
+              "title": "Standard intravitreal antibiotics: vancomycin 1mg/0.1mL (gram-positive) + ceftazidime 2.25mg/0.1mL (gram-negative); dexamethasone 0.4mg/0.1mL (adjunct; controversial)"
+            },
+            {
+              "title": "Prophylaxis: povidone-iodine 5% conjunctival before surgery (strongest evidence); intracameral cefuroxime at end of cataract surgery (reduces risk by 5×)"
+            }
+          ]
+        },
+        {
+          "title": "Chronic Postoperative Endophthalmitis",
+          "children": [
+            {
+              "title": "Onset >6 weeks post-surgery; low-grade smouldering; white intracapsular plaque (P. acnes); recurrences after steroid treatment"
+            },
+            {
+              "title": "Organism: Propionibacterium acnes (now Cutibacterium acnes; anaerobic gram-positive rod); also fungi"
+            },
+            { "title": "Diagnosis: AC tap + culture (anaerobic); PCR" },
+            {
+              "title": "Treatment: PPV + total capsulectomy + IOL removal + intravitreal vancomycin 1mg; high recurrence without capsulectomy"
+            }
+          ]
+        },
+        {
+          "title": "Endogenous Endophthalmitis",
+          "children": [
+            {
+              "title": "Haematogenous seeding; systemic bacteraemia/fungaemia; bilateral in 25%"
+            },
+            {
+              "title": "Risk factors: IV drug use, indwelling catheters, immunosuppression, recent surgery, diabetes, TPN"
+            },
+            {
+              "title": "Bacterial: Klebsiella (Asia; liver abscess + endogenous endophthalmitis); Staph aureus; Strep species; gram-negative septicaemia; usually very severe"
+            },
+            {
+              "title": "Fungal: Candida most common; white fluffy vitreal balls ('string of pearls'); bilateral; systemic Candida from IV lines; Aspergillus (immunocompromised; destructive)"
+            },
+            {
+              "title": "Treatment: treat systemic source; blood cultures; intravitreal antibiotics/antifungals; PPV for severe; candidal: systemic fluconazole/voriconazole; aspergillus: voriconazole"
+            }
+          ]
+        },
+        {
+          "title": "Intravitreal Injection Endophthalmitis",
+          "children": [
+            {
+              "title": "0.019-0.05% per injection; increasing with injection frequency; Strep species most feared (rapid fulminant course)"
+            },
+            {
+              "title": "Prevention: povidone-iodine 5%; no topical antibiotics (Strep overgrowth); mask for patient and injector; avoid speaking during injection"
+            }
+          ]
+        },
+        {
+          "title": "Intravitreal Antimicrobial Agents (Key Doses)",
+          "children": [
+            { "title": "Vancomycin 1.0mg/0.1mL: gram-positive coverage" },
+            { "title": "Ceftazidime 2.25mg/0.1mL: gram-negative coverage" },
+            {
+              "title": "Amikacin 0.4mg/0.1mL: alternative gram-negative (risk of macular infarction)"
+            },
+            { "title": "Amphotericin B 5-10μg/0.1mL: fungal (Candida)" },
+            {
+              "title": "Voriconazole 100μg/0.1mL: fungal (Aspergillus + Candida)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Masquerade Syndromes",
+      "children": [
+        {
+          "title": "Neoplastic Masquerades",
+          "children": [
+            {
+              "title": "Vitreoretinal Lymphoma (PVRL / PIOL)",
+              "children": [
+                {
+                  "title": "Primary vitreoretinal lymphoma (formerly PIOL); large B-cell lymphoma; elderly (>50); bilateral in 80%; mimics chronic uveitis"
+                },
+                {
+                  "title": "Sub-RPE (between RPE and Bruch) creamy deposits are characteristic; vitreous cells (large lymphocytes); minimal AC reaction"
+                },
+                {
+                  "title": "FFA: geographic RPE pigment epithelial detachments; FAF: hyper and hypo-AF spots"
+                },
+                {
+                  "title": "50-80% develop CNS lymphoma (must evaluate); CSF cytology; brain MRI"
+                },
+                {
+                  "title": "Diagnosis: vitreous biopsy + cytology (large atypical B cells); IL-10:IL-6 ratio >1 (IL-10 dominant = lymphoma); PCR for IgH rearrangement"
+                },
+                {
+                  "title": "Treatment: intravitreal methotrexate 400μg/0.1mL (induction weekly ×4-6 then maintenance) ± intravitreal rituximab; systemic chemotherapy if CNS involvement; whole brain radiation for CNS disease"
+                }
+              ]
+            },
+            {
+              "title": "Uveal lymphoma: primary or secondary; salmon-pink choroidal lesions; B-scan shows solid choroidal mass; treat with radiation"
+            },
+            {
+              "title": "Leukaemia: hypopyon + anterior uveitis (leukaemic cells); retinal haemorrhages + Roth spots; papilledema; white-centred haemorrhages; diagnose by systemic workup"
+            },
+            {
+              "title": "Retinoblastoma: leukocoria; can mimic anterior uveitis with pseudohypopyon (tumour cells in AC); young children; CT for calcification"
+            },
+            {
+              "title": "Bilateral diffuse uveal melanocytic proliferation (BDUMP): paraneoplastic; bilateral rapid cataracts + multiple choroidal naevi; associated with systemic carcinoma (lung, pancreas, ovary, colon)"
+            }
+          ]
+        },
+        {
+          "title": "Non-Neoplastic Masquerades",
+          "children": [
+            {
+              "title": "Retinitis pigmentosa: pigment migration + attenuated vessels + disc pallor; ERG extinguished; can cause anterior uveitis-like picture; vitreous cells in some forms; distinguished by ERG"
+            },
+            {
+              "title": "Ocular ischaemic syndrome: anterior segment ischaemia from carotid stenosis; dilated tortuous retinal veins; low IOP; anterior uveitis-like (rubeosis iridis); neovascularisation; workup with carotid Doppler"
+            },
+            {
+              "title": "Rhegmatogenous retinal detachment (chronic peripheral): Schwartz-Matsuo syndrome: photoreceptor outer segments in AC → anterior uveitis-like cells + raised IOP; repair RD to resolve"
+            },
+            {
+              "title": "IOFB (intraocular foreign body): iron (siderosis = rust deposits in epithelium + lens + retina; dilated pupils; ERG changes) or copper (chalcosis = golden ring in Descemet, sunflower cataract, retinal degeneration); remove IOFB"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Complications of Uveitis",
+      "children": [
+        {
+          "title": "Cataract",
+          "children": [
+            {
+              "title": "Most common: PSC (posterior subcapsular) from chronic uveitis or steroid use; also anterior subcapsular (synechiae-related), cortical, nuclear"
+            },
+            {
+              "title": "Surgery: inflammation quiet ≥3 months; increase topical steroids 1 week pre-op; phacoemulsification safe; in-the-bag IOL (acrylic single-piece); avoid IOL in JIA severe disease; more complications (PCO, CMO, synechiae, hypotony, phthisis)"
+            }
+          ]
+        },
+        {
+          "title": "Glaucoma",
+          "children": [
+            {
+              "title": "Mechanisms: trabecular meshwork dysfunction (inflammatory cells + fibrin), PAS (angle closure), pupillary block (iris bombé from 360° posterior synechiae), steroid-induced IOP rise, neovascular glaucoma (posterior uveitis ischaemia)"
+            },
+            {
+              "title": "Steroid responders: ~30% of general population; 5-6% with marked IOP rise; occurs within 2-6 weeks; loteprednol has less IOP effect; check IOP at every visit when on topical steroids"
+            },
+            {
+              "title": "Treatment: medical (PGA, beta-blocker, CAI, alpha-2 agonist); avoid miotics (can exacerbate inflammation + cause posterior synechiae)"
+            },
+            {
+              "title": "Surgery: trabeculectomy + MMC (risk of bleb failure in inflamed eyes); GDD preferred in uveitic glaucoma (lower failure rate); cyclophotocoagulation for refractory; goniotomy/trabeculotomy for younger patients"
+            }
+          ]
+        },
+        {
+          "title": "Hypotony",
+          "children": [
+            {
+              "title": "IOP <6 mmHg; ciliary body inflammation → reduced aqueous production; tractional/cyclitic membrane on ciliary body"
+            },
+            {
+              "title": "Consequences: macular folds (hypotony maculopathy), choroidal folds, disc oedema, phthisis bulbi"
+            },
+            {
+              "title": "Treatment: control inflammation (steroids); avoid IOP-lowering drugs; cycloplegics (relax ciliary body)"
+            }
+          ]
+        },
+        {
+          "title": "Uveitic Macular Oedema (CMO)",
+          "children": [
+            {
+              "title": "Most common cause of vision loss in uveitis; breakdown of blood-retinal barrier → intraretinal fluid; OCT shows intraretinal cysts; FFA shows petaloid leakage"
+            },
+            {
+              "title": "Treatment: periocular triamcinolone (STTA); intravitreal dexamethasone implant (Ozurdex); intravitreal triamcinolone; topical NSAIDs adjunct; systemic IMT for refractory"
+            },
+            {
+              "title": "Anti-VEGF less effective than in AMD/DR for uveitic CMO; may use as adjunct"
+            },
+            {
+              "title": "Carbonic anhydrase inhibitors (acetazolamide oral, dorzolamide topical): useful in CMO not responding to steroids; reduces fluid transport"
+            }
+          ]
+        },
+        {
+          "title": "Other Complications",
+          "children": [
+            {
+              "title": "Band keratopathy: calcium in Bowman layer; chronic anterior uveitis (especially JIA); EDTA chelation + PTK; may recur"
+            },
+            {
+              "title": "Epiretinal membrane (ERM): proliferative vitreoretinopathy; traction on macula; PPV + membrane peel if symptomatic"
+            },
+            {
+              "title": "Vitreous opacification: dense vitreous cells + organisation; diagnostic vitrectomy (r/o lymphoma) + therapeutic (improve VA + medication delivery)"
+            },
+            {
+              "title": "Rhegmatogenous RD: thin atrophic retina from longstanding inflammation + vitreous traction + peripheral ischaemia; PPV + silicone oil for complex cases; active uveitis increases recurrence risk"
+            },
+            {
+              "title": "Choroidal/retinal neovascularisation: anti-VEGF first-line (bevacizumab, ranibizumab, aflibercept); concurrent anti-inflammatory treatment essential"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "HLA-B27: acute, unilateral, recurrent anterior uveitis; associated with AS, reactive arthritis, IBD, psoriatic arthritis; fibrinous hypopyon"
+        },
+        {
+          "title": "HLA-A29: >95% sensitive for birdshot chorioretinopathy; most specific HLA-disease association"
+        },
+        {
+          "title": "HLA-B51: Behçet disease (Mediterranean/Middle Eastern populations)"
+        },
+        {
+          "title": "Fuchs heterochromic iridocyclitis: stellate diffuse KP + NO posterior synechiae + heterochromia; do NOT use steroids; safe cataract surgery"
+        },
+        {
+          "title": "Sarcoidosis: mutton-fat KP + Busacca/Koeppe nodules + snowballs + candle wax drippings periphlebitis; Heerfordt syndrome; treat with systemic steroids + MTX"
+        },
+        {
+          "title": "VKH: bilateral exudative RD + prodromal meningism/auditory symptoms; sunset glow fundus; HLA-DR4; aggressive early steroids prevent chronicity"
+        },
+        {
+          "title": "Behçet: recurrent oral ulcers + ocular (bilateral occlusive vasculitis + mobile hypopyon) + genital ulcers; azathioprine + infliximab; anti-TNF preferred for severe ocular"
+        },
+        {
+          "title": "Sympathetic ophthalmia: bilateral granulomatous uveitis after penetrating injury; Dalen-Fuchs nodules; enucleate exciting eye within 2 weeks of injury; high-dose steroids"
+        },
+        {
+          "title": "Syphilis: 'great imitator'; test in ALL uveitis; treat ocular syphilis as neurosyphilis (IV penicillin G 14 days)"
+        },
+        {
+          "title": "TB uveitis: TB-serpiginous indistinguishable from idiopathic serpiginous; IGRA/PPD testing; anti-TB therapy; ethambutol → monitor optic nerve"
+        },
+        {
+          "title": "Toxoplasmosis: 'headlight in the fog' adjacent to old scar; TMP-SMX first-line; steroids only WITH antiparasitic cover"
+        },
+        {
+          "title": "Toxocariasis vs retinoblastoma: no calcification; ELISA serology positive; unilateral; child; do NOT give pilocarpine"
+        },
+        {
+          "title": "CMV retinitis: pizza pie appearance; CD4 <50; oral valganciclovir; HAART most important; IRU after HAART recovery"
+        },
+        {
+          "title": "ARN (acute retinal necrosis): VZV/HSV; peripheral necrotising retinitis + arteritis + vitritis; IV acyclovir then oral valaciclovir; high RRD risk; prophylactic laser barrier"
+        },
+        {
+          "title": "PORN: VZV in severely immunocompromised; outer retinal necrosis; no vasculitis; begins at macula; very poor prognosis"
+        },
+        {
+          "title": "OHS: endemic USA; histo spots + peripapillary atrophy + CNV (treat with anti-VEGF); NO vitreous cells; no active infection; antifungals NOT indicated"
+        },
+        {
+          "title": "MEWDS: young women; post-viral; foveal granularity; self-limited; no treatment"
+        },
+        {
+          "title": "APMPPE: FFA early block → late stain (pathognomonic); r/o cerebral vasculitis with neurological symptoms"
+        },
+        {
+          "title": "Birdshot: bilateral; HLA-A29; cream-coloured choroidal lesions; ERG reduced early; cyclosporine/MMF long-term; adalimumab for refractory"
+        },
+        {
+          "title": "Pars planitis: snowballs + snowbank; young adults; rule out MS (20% have CNS demyelination); STTA first-line"
+        },
+        {
+          "title": "PVRL (vitreoretinal lymphoma): elderly; sub-RPE deposits; IL-10:IL-6 >1; vitreous biopsy + cytology; intravitreal MTX; 50-80% develop CNS lymphoma"
+        },
+        {
+          "title": "Endophthalmitis EVS trial: VA LP → vitreous tap + IVT antibiotics = PPV; VA HM or worse → PPV superior"
+        },
+        {
+          "title": "Endophthalmitis intravitreal antibiotics: vancomycin 1mg + ceftazidime 2.25mg; povidone-iodine prophylaxis"
+        },
+        {
+          "title": "P. acnes (Cutibacterium acnes) endophthalmitis: chronic; white capsular plaque; treat with PPV + total capsulectomy + IVT vancomycin"
+        },
+        {
+          "title": "Steroid-induced IOP: ~30% responders; 5-6% marked rise; onset 2-6 weeks; loteprednol less IOP rise; check IOP every visit"
+        },
+        {
+          "title": "Uveitic CMO: most common cause of vision loss; Ozurdex intravitreal most effective; STTA; acetazolamide adjunct"
+        },
+        {
+          "title": "Uveitic glaucoma: GDD preferred over trabeculectomy (lower failure in inflamed eye); avoid miotics"
+        },
+        {
+          "title": "Bartonella neuroretinitis: disc oedema + macular star = pathognomonic; cat scratch; serology; self-limited"
+        },
+        {
+          "title": "DUSN: nematode in subretinal space; direct laser to visible worm curative; albendazole if worm not seen"
+        },
+        {
+          "title": "Onchocerciasis: river blindness; blackfly; ivermectin annually; doxycycline kills adult worm via Wolbachia"
+        }
+      ]
+    }
+  ]
+}
