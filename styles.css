@@ -19,7 +19,7 @@ html,
 body {
   min-height: 100%;
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   font-family:
     Inter,
     system-ui,
@@ -57,14 +57,14 @@ select {
 
 .topbar h1 {
   margin: 0;
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 
 .subtitle {
   margin: 8px 0 0;
   color: var(--muted);
   max-width: 720px;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
 }
 
 .card,
@@ -148,7 +148,7 @@ button {
   cursor: pointer;
   padding: 12px 16px;
   border-radius: 14px;
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   transition:
     transform 0.18s ease,
     background-color 0.18s ease,
@@ -223,7 +223,7 @@ button.secondary {
   border: 1px solid rgba(255, 255, 255, 0.1);
   background: rgba(255, 255, 255, 0.05);
   color: var(--text);
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   outline: none;
 }
 
@@ -317,7 +317,7 @@ button.secondary {
 
 .chart {
   min-height: 480px;
-  max-height: min(100vh, calc(90vh));
+  max-height: 80vh;
   position: relative;
   overflow: hidden;
   border-radius: 18px;
@@ -412,7 +412,7 @@ button.secondary {
   }
 
   .chart {
-    max-height: var(--chart-max-height, calc(90vh));
+    max-height: var(--chart-max-height, calc(70vh));
     overflow: hidden;
   }
 }

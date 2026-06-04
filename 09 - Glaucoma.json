@@ -1,0 +1,1846 @@
+{
+  "title": "Glaucoma",
+  "type": "root",
+  "children": [
+    {
+      "title": "Glaucoma",
+      "children": [
+        {
+          "title": "Optic Nerve Anatomy",
+          "children": [
+            { "title": "Optic nerve head (ONH) = optic disc; ~1.5mm diameter" },
+            {
+              "title": "Cup-to-disc ratio (C/D): normal ≤0.5; asymmetry >0.2 = suspicious"
+            },
+            {
+              "title": "Neuroretinal rim: ISNT rule (Inferior > Superior > Nasal > Temporal thickness)"
+            },
+            {
+              "title": "Retinal nerve fiber layer (RNFL): thickest superiorly and inferiorly (arcuate bundles)"
+            },
+            {
+              "title": "Lamina cribrosa: sieve-like scleral plate where axons exit; vulnerable to IOP-induced damage"
+            },
+            {
+              "title": "4 regions of optic nerve: intraocular (1mm), intraorbital (25mm), intracanalicular (9mm), intracranial (10mm)"
+            }
+          ]
+        },
+        {
+          "title": "Blood Supply to the Optic Nerve",
+          "children": [
+            {
+              "title": "Optic disc: short posterior ciliary arteries (SPCAs) → circle of Zinn-Haller"
+            },
+            { "title": "Prelaminar & laminar regions: branches of SPCAs" },
+            {
+              "title": "Retrolaminar ON: pial arterial plexus from ophthalmic artery"
+            },
+            {
+              "title": "Central retinal artery supplies surface nerve fiber layer only"
+            },
+            {
+              "title": "Vascular insufficiency (ischemia) = key mechanism in NTG and NAION"
+            }
+          ]
+        },
+        {
+          "title": "Pathophysiology",
+          "children": [
+            {
+              "title": "Definition: optic neuropathy with characteristic structural damage + corresponding visual field loss"
+            },
+            {
+              "title": "IOP-dependent mechanism: elevated IOP → mechanical compression at lamina cribrosa → axon loss"
+            },
+            {
+              "title": "IOP-independent mechanism: vascular insufficiency, glutamate excitotoxicity, oxidative stress, neuroinflammation"
+            },
+            {
+              "title": "Retinal ganglion cells (RGCs) are the primary cells lost; irreversible"
+            },
+            {
+              "title": "RNFL thinning precedes detectable visual field loss (structural before functional)"
+            },
+            {
+              "title": "Target IOP: individualized based on baseline, progression rate, life expectancy"
+            }
+          ]
+        },
+        {
+          "title": "Classification",
+          "children": [
+            {
+              "title": "Open Angle",
+              "children": [
+                { "title": "Angle open on gonioscopy; TM accessible" },
+                {
+                  "title": "Increased resistance at JCT (juxtacanalicular TM) → ↑IOP"
+                },
+                { "title": "Includes: POAG, NTG, secondary open-angle types" }
+              ]
+            },
+            {
+              "title": "Angle Closure",
+              "children": [
+                { "title": "Iris physically obstructs TM → ↑IOP" },
+                {
+                  "title": "Mechanisms: pupillary block (most common), plateau iris, lens-induced"
+                },
+                { "title": "Spectrum: PACS → PAC → PACG" }
+              ]
+            },
+            {
+              "title": "Combined Mechanism",
+              "children": [
+                {
+                  "title": "Both trabecular damage AND angle closure contribute"
+                },
+                {
+                  "title": "Example: chronic angle closure with synechiae + concurrent TM dysfunction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Epidemiology",
+          "children": [
+            {
+              "title": "Primary Open-Angle Glaucoma (POAG)",
+              "children": [
+                {
+                  "title": "Most common glaucoma worldwide; leading cause of irreversible blindness"
+                },
+                { "title": "Prevalence ~2-3% in adults >40; ↑with age" },
+                {
+                  "title": "Higher prevalence and severity in African and Hispanic populations"
+                },
+                {
+                  "title": "Risk factors: elevated IOP, age, family history, African ancestry, myopia, thin CCT, large C/D ratio"
+                }
+              ]
+            },
+            {
+              "title": "Primary Angle-Closure Glaucoma (PACG)",
+              "children": [
+                {
+                  "title": "More prevalent in Asian populations (especially East and Southeast Asian)"
+                },
+                {
+                  "title": "Accounts for ~50% of glaucoma blindness globally despite lower prevalence"
+                },
+                {
+                  "title": "Risk factors: female sex, hyperopia, shallow anterior chamber, older age"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Genetics",
+          "children": [
+            {
+              "title": "Juvenile Open-Angle Glaucoma (JOAG)",
+              "children": [
+                { "title": "MYOC gene (myocilin/TIGR); autosomal dominant" },
+                {
+                  "title": "Onset age 3-35; markedly elevated IOP; may need early surgery"
+                }
+              ]
+            },
+            {
+              "title": "Familial Normal-Tension Glaucoma",
+              "children": [
+                { "title": "OPTN gene (optineurin); autosomal dominant" },
+                {
+                  "title": "NTG with strong family history; consider vascular workup"
+                }
+              ]
+            },
+            {
+              "title": "Primary Congenital Glaucoma",
+              "children": [
+                { "title": "CYP1B1 gene; autosomal recessive" },
+                {
+                  "title": "Isolated trabeculodysgenesis → impaired aqueous outflow"
+                }
+              ]
+            },
+            {
+              "title": "Axenfeld-Rieger Syndrome",
+              "children": [
+                { "title": "PITX2 or FOXC1 mutations; autosomal dominant" },
+                {
+                  "title": "Anterior segment dysgenesis: posterior embryotoxon, iris abnormalities, glaucoma in 50%"
+                },
+                {
+                  "title": "Systemic: dental hypoplasia, facial anomalies, umbilical abnormalities"
+                }
+              ]
+            },
+            {
+              "title": "Aniridia",
+              "children": [
+                { "title": "PAX6 mutation; autosomal dominant" },
+                {
+                  "title": "Absent/rudimentary iris; glaucoma develops from angle dysgenesis"
+                },
+                {
+                  "title": "Wilms tumor risk (WAGR syndrome) if deletion of 11p13"
+                }
+              ]
+            },
+            {
+              "title": "Genome-Wide Association Studies (GWAS)",
+              "children": [
+                {
+                  "title": "Loci identified: CDKN2B-AS1 (9p21), TMCO1, CAV1/2, SIX1/6, ABCA1"
+                },
+                {
+                  "title": "Most variants have small individual effect; polygenic risk scores in development"
+                }
+              ]
+            },
+            {
+              "title": "Pseudoexfoliation Syndrome",
+              "children": [
+                {
+                  "title": "LOXL1 gene (most common genetic association in glaucoma)"
+                },
+                {
+                  "title": "Fibrillar exfoliative material deposits on lens, TM, iris"
+                },
+                {
+                  "title": "Strong risk for secondary open-angle glaucoma (PXG)"
+                }
+              ]
+            },
+            {
+              "title": "Genetic Testing: clinical utility limited currently; useful for congenital/juvenile forms; genetic counseling essential"
+            }
+          ]
+        },
+        {
+          "title": "Environmental & Other Risk Factors",
+          "children": [
+            {
+              "title": "IOP: most modifiable risk factor; each 1 mmHg reduction slows progression"
+            },
+            {
+              "title": "CCT (central corneal thickness): thin CCT = independent risk factor for POAG (OHTS data)"
+            },
+            {
+              "title": "Myopia: associated with POAG; tilted disc can mimic glaucomatous damage"
+            },
+            {
+              "title": "Systemic: hypertension, diabetes, cardiovascular disease, sleep apnea (may contribute to NTG)"
+            },
+            {
+              "title": "Ethnicity: African ancestry = higher risk/severity; Asian = higher angle-closure risk"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "IOP & Aqueous Humor Dynamics",
+      "children": [
+        {
+          "title": "Aqueous Humor Production",
+          "children": [
+            {
+              "title": "Site: non-pigmented ciliary epithelium (inner layer of ciliary body)"
+            },
+            {
+              "title": "Mechanisms: active secretion (75-80%, Na/K-ATPase + carbonic anhydrase), ultrafiltration, diffusion"
+            },
+            { "title": "Rate: ~2-2.5 µL/min" },
+            {
+              "title": "Composition: low protein, high ascorbate, glutathione; provides nutrition to avascular lens and cornea"
+            },
+            {
+              "title": "Suppression: beta blockers (↓cAMP), CAIs (↓bicarbonate secretion), alpha-2 agonists"
+            }
+          ]
+        },
+        {
+          "title": "Aqueous Humor Outflow",
+          "children": [
+            {
+              "title": "Conventional (Trabecular) Pathway — ~85-90%",
+              "children": [
+                {
+                  "title": "Flow: TM → Schlemm canal → collector channels → aqueous veins → episcleral veins"
+                },
+                {
+                  "title": "TM layers: uveal → corneoscleral → juxtacanalicular (JCT = main resistance site)"
+                },
+                {
+                  "title": "Pressure-dependent; main site for IOP-lowering drugs (PGs, ROCK inhibitors, miotics)"
+                }
+              ]
+            },
+            {
+              "title": "Uveoscleral (Unconventional) Pathway — ~10-15%",
+              "children": [
+                {
+                  "title": "Aqueous percolates through ciliary muscle interstitium → suprachoroidal space → sclera"
+                },
+                {
+                  "title": "Pressure-independent; enhanced by prostaglandin analogues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aqueous Humor Dynamics Measurements",
+          "children": [
+            {
+              "title": "Aqueous production: fluorophotometry (non-invasive tracer method)"
+            },
+            {
+              "title": "Outflow facility (C): tonography; normal ~0.22-0.28 µL/min/mmHg"
+            },
+            {
+              "title": "Episcleral venous pressure (EVP): ~8-10 mmHg; sets lower limit of achievable IOP"
+            },
+            {
+              "title": "Uveoscleral outflow (Fu): measured by fluorophotometry or mathematical modeling"
+            },
+            { "title": "Friedenwald equation: IOP = (F/C) + EVP" }
+          ]
+        },
+        {
+          "title": "Intraocular Pressure",
+          "children": [
+            {
+              "title": "IOP Distribution & Glaucoma",
+              "children": [
+                {
+                  "title": "Population mean: ~15-16 mmHg; normal range: 10-21 mmHg (statistical, not physiologic)"
+                },
+                {
+                  "title": "IOP >21 mmHg = ocular hypertension; NOT diagnostic of glaucoma"
+                },
+                { "title": "NTG: glaucoma with IOP consistently ≤21 mmHg" },
+                {
+                  "title": "IOP is the only modifiable risk factor proven to slow glaucoma progression"
+                }
+              ]
+            },
+            {
+              "title": "IOP Variations",
+              "children": [
+                {
+                  "title": "Diurnal variation: typically highest in morning (peak 8-10 AM); fluctuation >6 mmHg = significant"
+                },
+                { "title": "Postural: higher supine than sitting (~2-3 mmHg)" },
+                { "title": "Exercise: transient ↓IOP with aerobic exercise" },
+                {
+                  "title": "Valsalva: ↑IOP; relevant during breath-holding, coughing"
+                },
+                {
+                  "title": "CCT effect: thick cornea → falsely high GAT reading; thin cornea → falsely low"
+                }
+              ]
+            },
+            {
+              "title": "Tonometry",
+              "children": [
+                {
+                  "title": "Goldmann Applanation Tonometry (GAT): gold standard; flattens 3.06mm diameter area"
+                },
+                {
+                  "title": "GAT formula: IOP = applied force / area (Imbert-Fick law)"
+                },
+                {
+                  "title": "Affected by CCT, corneal curvature, tear film (fluorescein needed)"
+                },
+                {
+                  "title": "Non-contact tonometry (air puff): screening only; less accurate"
+                },
+                {
+                  "title": "Perkins tonometer: portable version of GAT; useful in supine/pediatric patients"
+                },
+                {
+                  "title": "iCare rebound tonometer: no anesthesia needed; useful in children and home monitoring"
+                },
+                {
+                  "title": "Dynamic contour tonometry (Pascal): CCT-independent; measures ocular pulse amplitude"
+                },
+                {
+                  "title": "Tactile tension: digital palpation; only for gross assessment (e.g., very high or very low IOP)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Clinical Evaluation",
+      "children": [
+        {
+          "title": "Patient History",
+          "children": [
+            {
+              "title": "Chief complaint: usually asymptomatic until advanced; acute angle closure → pain, halos, nausea/vomiting"
+            },
+            {
+              "title": "IOP history: prior measurements, steroid use, trauma, prior eye surgery"
+            },
+            {
+              "title": "Family history: first-degree relative with glaucoma = 4-9× ↑risk"
+            },
+            {
+              "title": "Systemic medications: steroids (topical/inhaled/systemic → IOP rise); anticholinergics (angle closure risk)"
+            },
+            {
+              "title": "Systemic conditions: vasospasm (migraine, Raynaud), sleep apnea, cardiovascular disease → NTG risk"
+            },
+            {
+              "title": "Quality of life: functional impact (driving, reading, mobility); essential for treatment decisions"
+            },
+            {
+              "title": "Social determinants: access to medications, follow-up compliance, health literacy"
+            }
+          ]
+        },
+        {
+          "title": "Anterior Segment Evaluation",
+          "children": [
+            {
+              "title": "Refractive error: myopia (POAG risk), hyperopia (angle closure risk)"
+            },
+            {
+              "title": "Pupillary function: RAPD suggests asymmetric ON damage"
+            },
+            {
+              "title": "Slit-Lamp Biomicroscopy",
+              "children": [
+                {
+                  "title": "Conjunctiva: bleb assessment (post-trabeculectomy), injection pattern"
+                },
+                {
+                  "title": "Episclera/sclera: dilated episcleral vessels → elevated EVP (carotid-cavernous fistula, Sturge-Weber)"
+                },
+                {
+                  "title": "Cornea: Krukenberg spindle (PDS), band keratopathy, corneal edema (acute angle closure)"
+                },
+                {
+                  "title": "Anterior chamber: Van Herick grading (depth estimation); cells/flare (uveitic glaucoma)"
+                },
+                {
+                  "title": "Iris: rubeosis (neovascular glaucoma), transillumination defects (PDS), ruff loss (PXE)"
+                },
+                {
+                  "title": "Lens: exfoliative material on anterior capsule (PXE), phacodonesis (lens instability), pseudophakodonesis"
+                }
+              ]
+            },
+            {
+              "title": "Gonioscopy",
+              "children": [
+                {
+                  "title": "ESSENTIAL for all glaucoma patients; determines open vs closed angle"
+                },
+                {
+                  "title": "Direct gonioscopy (Koeppe lens): real angle view; used in OR, children",
+                  "children": []
+                },
+                {
+                  "title": "Indirect gonioscopy (Goldmann, Zeiss, Posner): mirrored view; most common clinical use",
+                  "children": []
+                },
+                {
+                  "title": "Angle structures (anterior to posterior): Schwalbe line → TM (pigmented) → scleral spur → ciliary band → iris"
+                },
+                {
+                  "title": "Shaffer grading: 0 (closed) → 1 (10°, high risk closure) → 2 (20°, possible closure) → 3 (30°, open) → 4 (40°, wide open)"
+                },
+                {
+                  "title": "Spaeth grading: more detailed; iris insertion level, angle width, iris contour"
+                },
+                {
+                  "title": "Peripheral anterior synechiae (PAS): angle closure evidence; document location and extent"
+                },
+                {
+                  "title": "Pigmentation: grade 0-4 (Scheie); heavy pigment in PDS, PXE; may indicate prior inflammation"
+                },
+                {
+                  "title": "Indentation gonioscopy (Zeiss/Posner): distinguishes appositional from synechial closure"
+                }
+              ]
+            },
+            {
+              "title": "Anterior Segment Imaging",
+              "children": [
+                {
+                  "title": "UBM (Ultrasound Biomicroscopy): 50 MHz; images behind iris plane; plateau iris, ciliary body cysts, PCO"
+                },
+                {
+                  "title": "AS-OCT (Anterior Segment OCT): fast, non-contact; angle imaging, CCT, ACD; limited penetration behind iris"
+                },
+                {
+                  "title": "Specular Microscopy: endothelial cell count and morphology; pre-op assessment, ICE syndrome"
+                },
+                {
+                  "title": "Pachymetry: CCT measurement; Goldmann tonometry correction; OHTS risk stratification"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Posterior Segment: Optic Nerve & RNFL",
+          "children": [
+            {
+              "title": "Optic Nerve Head Examination",
+              "children": [
+                {
+                  "title": "Stereoscopic disc evaluation: essential (90D or 78D lens with slit lamp, or direct ophthalmoscope)"
+                },
+                {
+                  "title": "C/D ratio: vertical C/D more important; asymmetry between eyes >0.2 = suspicious"
+                },
+                {
+                  "title": "Neuroretinal rim: thinning/notching (especially inferior > superior) = classic glaucomatous change"
+                },
+                {
+                  "title": "ISNT rule violation: Inferior or Superior thinner than Temporal = abnormal"
+                },
+                {
+                  "title": "Disc hemorrhage (Drance hemorrhage): splinter at disc margin; associated with NTG; predicts progression"
+                },
+                {
+                  "title": "Parapapillary atrophy: beta-zone (Bruch membrane loss) = more significant; alpha-zone = normal aging"
+                },
+                {
+                  "title": "Laminar dot sign: visible lamina cribrosa pores in deep cupping"
+                }
+              ]
+            },
+            {
+              "title": "RNFL Evaluation",
+              "children": [
+                {
+                  "title": "Slit-lamp RNFL assessment: bright striations in arcuate bundles (best seen with red-free light)"
+                },
+                {
+                  "title": "RNFL defects: wedge defects correspond to scotomas; usually superior/inferior arcuate regions"
+                },
+                { "title": "RNFL loss precedes visual field loss by years" }
+              ]
+            },
+            {
+              "title": "OCT Imaging",
+              "children": [
+                {
+                  "title": "RNFL thickness map: peripapillary RNFL; compares to normative database; inferior/superior thinning most sensitive"
+                },
+                {
+                  "title": "Optic nerve head analysis: C/D, rim area, disc area, cup volume"
+                },
+                {
+                  "title": "Macular ganglion cell layer (GCL+): highly sensitive for early glaucoma; inner inferior macula most vulnerable"
+                },
+                {
+                  "title": "Progression detection: event-based (TSNIT deviation from baseline) vs trend-based (linear regression over time)"
+                },
+                {
+                  "title": "Image quality: signal strength >6 (Cirrus); poor quality = segmentation error → false positives"
+                },
+                {
+                  "title": "Lamina cribrosa OCT: prelaminar depth, curvature; structural marker for IOP-related damage"
+                },
+                {
+                  "title": "OCT-A (Angiography): measures peripapillary flow index; reduced in glaucoma; emerging biomarker"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Perimetry (Visual Field Testing)",
+          "children": [
+            {
+              "title": "Basics",
+              "children": [
+                {
+                  "title": "Standard Automated Perimetry (SAP): Humphrey Field Analyzer most common"
+                },
+                {
+                  "title": "Most common programs: 24-2 (54 test points), 10-2 (central 10°, 68 points), 30-2"
+                },
+                {
+                  "title": "SITA strategies: SITA Standard, SITA Fast, SITA Faster — threshold estimation with adaptive testing"
+                }
+              ]
+            },
+            {
+              "title": "Reliability Indices",
+              "children": [
+                { "title": "Fixation losses: >20% = unreliable" },
+                {
+                  "title": "False positives: >15% = trigger happy patient (overestimates sensitivity)"
+                },
+                {
+                  "title": "False negatives: >33% = fatigue or advanced disease"
+                },
+                {
+                  "title": "Gaze tracking: most modern HFA; provides fixation stability data"
+                }
+              ]
+            },
+            {
+              "title": "Key Indices",
+              "children": [
+                {
+                  "title": "MD (Mean Deviation): overall field depression; negative = worse; <-2 dB = outside normal range"
+                },
+                {
+                  "title": "PSD (Pattern Standard Deviation): localized defects; elevated in focal glaucoma damage"
+                },
+                {
+                  "title": "GHT (Glaucoma Hemifield Test): compares superior vs inferior hemifields; Outside Normal Limits = significant"
+                },
+                {
+                  "title": "VFI (Visual Field Index): 0-100%; 100% = normal; <70% = advanced"
+                }
+              ]
+            },
+            {
+              "title": "Patterns of VF Loss in Glaucoma",
+              "children": [
+                {
+                  "title": "Nasal step: asymmetry across horizontal meridian in nasal field"
+                },
+                {
+                  "title": "Arcuate (Bjerrum) scotoma: follows arcuate nerve fiber bundle; superior or inferior"
+                },
+                {
+                  "title": "Paracentral scotoma: within 10° of fixation; often early sign in NTG"
+                },
+                {
+                  "title": "Temporal wedge: nasal RNFL damage → temporal field defect"
+                },
+                {
+                  "title": "Advanced: altitudinal defect, tubular vision, central island loss (fixation affected late)"
+                }
+              ]
+            },
+            {
+              "title": "Progression Analysis",
+              "children": [
+                {
+                  "title": "Event-based: GCP (Guided Progression Analysis) — flags points consistently worse than baseline"
+                },
+                {
+                  "title": "Trend-based: MD slope (dB/year); >-1 dB/year = rapid progression"
+                },
+                {
+                  "title": "Minimum 5 fields over 2 years needed for reliable progression detection"
+                },
+                {
+                  "title": "Frequency: every 6 months for new/unstable patients; annually when stable"
+                }
+              ]
+            },
+            {
+              "title": "Structure-Function Relationship",
+              "children": [
+                {
+                  "title": "RNFL loss detectable before VF loss (structural precedes functional)"
+                },
+                {
+                  "title": "Floor effect: RNFL cannot thin below ~40-50 µm; beyond this, VF continues to deteriorate"
+                },
+                {
+                  "title": "Combining OCT + VF improves detection sensitivity and progression monitoring"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Primary Open-Angle Glaucoma (POAG)",
+      "children": [
+        {
+          "title": "Clinical Features",
+          "children": [
+            {
+              "title": "Asymptomatic until advanced; bilateral (often asymmetric)"
+            },
+            {
+              "title": "Open angle on gonioscopy; IOP usually >21 mmHg but not required"
+            },
+            {
+              "title": "Characteristic optic nerve changes: cupping, rim thinning/notching, RNFL defects"
+            },
+            { "title": "Corresponding VF defects" }
+          ]
+        },
+        {
+          "title": "Atypical Findings",
+          "children": [
+            { "title": "IOP in normal range (→ consider NTG)" },
+            {
+              "title": "Large physiologic cup (family history; compare disc photos)"
+            },
+            {
+              "title": "Disc drusen: can mimic RNFL loss; evaluate with B-scan, autofluorescence"
+            }
+          ]
+        },
+        {
+          "title": "Risk Factors",
+          "children": [
+            { "title": "Elevated IOP: strongest modifiable risk factor" },
+            { "title": "Age: prevalence doubles each decade after 40" },
+            {
+              "title": "Race: African Americans → 4-5× more prevalent; earlier onset; more severe"
+            },
+            {
+              "title": "Family history: first-degree relative → significantly higher risk"
+            },
+            { "title": "Thin CCT: <555 µm = highest risk category (OHTS)" },
+            {
+              "title": "Large vertical C/D ratio: ≥0.6 suspicious; ≥0.8 high risk"
+            },
+            {
+              "title": "Myopia: ≥-3D associated with POAG; altered laminar biomechanics"
+            },
+            {
+              "title": "Disc hemorrhage: strong predictor of progression, especially NTG"
+            }
+          ]
+        },
+        {
+          "title": "Association With Systemic Conditions",
+          "children": [
+            {
+              "title": "Diabetes: ↑POAG risk; may affect RGC or optic nerve blood flow"
+            },
+            { "title": "Hypothyroidism: associated with glaucoma" },
+            {
+              "title": "Sleep apnea: ↑risk NTG; nocturnal hypoxemia → optic nerve ischemia"
+            },
+            { "title": "Migraines/vasospasm: associated with NTG" },
+            {
+              "title": "Hypertension: complex relationship; both high and low (especially nocturnal dipping) can worsen NTG"
+            }
+          ]
+        },
+        {
+          "title": "Prognosis & Therapy",
+          "children": [
+            {
+              "title": "Goal: preserve vision and quality of life; slow/halt structural and functional progression"
+            },
+            {
+              "title": "Target IOP: typically 20-30% reduction from baseline; lower for advanced/rapid progression"
+            },
+            {
+              "title": "EMGT: showed 25% IOP reduction delayed progression by median 2 years"
+            },
+            {
+              "title": "CIGT: laser trabeculoplasty as effective as medications initially (LiGHT trial: SLT first-line)"
+            }
+          ]
+        },
+        {
+          "title": "Glaucoma Suspect",
+          "children": [
+            {
+              "title": "Ocular Hypertension (OHT): IOP >21 mmHg with normal disc and VF; OHTS: 5-year conversion rate ~10% without treatment"
+            },
+            {
+              "title": "Suspicious disc: large C/D, rim thinning, disc hemorrhage — but normal VF"
+            },
+            {
+              "title": "VF defect without disc changes: scotoma present but disc looks normal"
+            },
+            {
+              "title": "Management: close monitoring (OCT, VF every 6-12 months), treat if high risk"
+            }
+          ]
+        },
+        {
+          "title": "Normal-Tension Glaucoma (NTG)",
+          "children": [
+            {
+              "title": "Glaucomatous optic neuropathy with IOP consistently ≤21 mmHg"
+            },
+            {
+              "title": "Risk factors: female sex, family history, OPTN/TBK1 mutations, vasospasm, sleep apnea, Japanese ancestry"
+            },
+            {
+              "title": "More paracentral scotomas; more disc hemorrhages; greater macular RNFL involvement"
+            },
+            {
+              "title": "Differential Diagnosis",
+              "children": [
+                {
+                  "title": "Anterior ischemic optic neuropathy (AION): pallid edema, altitudinal VF loss, acute onset"
+                },
+                {
+                  "title": "Compressive optic neuropathy: chiasmal lesion, pituitary tumor"
+                },
+                {
+                  "title": "Hereditary optic neuropathies: LHON (young male, cecocentral scotoma)"
+                },
+                {
+                  "title": "Optic neuritis: pain with eye movement, young female, MRI enhancement"
+                }
+              ]
+            },
+            {
+              "title": "Workup: 24-hour IOP phasing, CCT, MRI brain/orbits, blood pressure monitoring (nocturnal dipping)"
+            },
+            {
+              "title": "Therapy: IOP reduction effective (CNTGS: 30% reduction slowed progression); also treat systemic vascular risk"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Secondary Open-Angle Glaucoma",
+      "children": [
+        {
+          "title": "Pseudoexfoliation Syndrome (PXE/PXG)",
+          "children": [
+            {
+              "title": "Fibrillar exfoliative material from epithelial cells; deposits on lens, TM, iris"
+            },
+            {
+              "title": "LOXL1 gene mutations; most common identifiable cause of secondary OAG worldwide"
+            },
+            {
+              "title": "Signs: dandruff-like material on anterior lens capsule (central disc + peripheral ring), pupil margin, iris transillumination, Sampaolesi line (pigment on Schwalbe line)"
+            },
+            {
+              "title": "IOP often markedly elevated and labile; significant diurnal variation"
+            },
+            {
+              "title": "Poor pupil dilation; weak zonules → cataract surgery complications (nucleus drop)"
+            },
+            {
+              "title": "Treatment: same as POAG; often requires surgery earlier; poor medication compliance worsens outcome"
+            }
+          ]
+        },
+        {
+          "title": "Pigment Dispersion Syndrome (PDS) / Pigmentary Glaucoma",
+          "children": [
+            { "title": "Young myopic males; bilateral" },
+            {
+              "title": "Mechanism: iris bowing posteriorly → rubs against zonules → pigment liberation → blocks TM"
+            },
+            {
+              "title": "Signs: Krukenberg spindle (vertical corneal endothelial pigment), iris transillumination defects (radial midperipheral), dense TM pigmentation"
+            },
+            { "title": "IOP spikes after exercise or pupil dilation" },
+            {
+              "title": "Treatment: miosis (pilocarpine prevents posterior bowing), laser iridotomy controversial, IOP lowering meds"
+            }
+          ]
+        },
+        {
+          "title": "Lens-Induced Glaucoma",
+          "children": [
+            {
+              "title": "Phacolytic: hypermature cataract leaks proteins → macrophages clog TM"
+            },
+            {
+              "title": "Phacoantigenic (phacoanaphylactic): lens protein exposure → immune-mediated TM inflammation"
+            },
+            {
+              "title": "Phacomorphic: intumescent lens → pushes iris forward → angle closure (secondary angle closure type)"
+            },
+            { "title": "Treatment: remove lens" }
+          ]
+        },
+        {
+          "title": "Glaucoma from Intraocular Tumors",
+          "children": [
+            {
+              "title": "Melanoma: angle invasion, neovascularization, tumor cells in TM"
+            },
+            {
+              "title": "Melanocytomalytic glaucoma: benign melanocytoma disperses pigment → TM block"
+            },
+            {
+              "title": "Metastatic tumors: angle or ciliary body infiltration"
+            },
+            {
+              "title": "Retinoblastoma: neovascular glaucoma in advanced cases"
+            }
+          ]
+        },
+        {
+          "title": "Ocular Inflammation (Uveitic Glaucoma)",
+          "children": [
+            {
+              "title": "Mechanisms: inflammatory cells/debris in TM, TM dysfunction from cytokines, steroid-induced, PAS formation"
+            },
+            {
+              "title": "Fuchs heterochromic iridocyclitis: heterochromia, fine KPs, no PAS, mild glaucoma"
+            },
+            {
+              "title": "HLA-B27 associated (ankylosing spondylitis, Reiter): aggressive anterior uveitis"
+            },
+            {
+              "title": "Posner-Schlossman syndrome: acute recurrent unilateral elevated IOP with minimal cell; may be herpetic"
+            },
+            {
+              "title": "Treatment: control inflammation first; steroids (beware IOP rise); miotics may help; trabeculectomy with antifibrotics if needed"
+            }
+          ]
+        },
+        {
+          "title": "Elevated Episcleral Venous Pressure (EVP)",
+          "children": [
+            {
+              "title": "EVP sets the lower limit of IOP (Friedenwald: IOP = F/C + EVP)"
+            },
+            {
+              "title": "Causes: carotid-cavernous fistula (CCF), dural sinus fistula, Sturge-Weber syndrome, orbital varix, superior vena cava obstruction, thyroid ophthalmopathy"
+            },
+            {
+              "title": "Signs: dilated tortuous episcleral vessels; blood in Schlemm canal on gonioscopy"
+            },
+            {
+              "title": "Medical treatment limited (IOP won't go below elevated EVP); surgical outflow procedures needed"
+            }
+          ]
+        },
+        {
+          "title": "Trauma & Surgery-Related Glaucoma",
+          "children": [
+            {
+              "title": "Hyphema: RBC obstruction of TM; sickle cell patients highly sensitive to IOP elevation"
+            },
+            {
+              "title": "Angle recession: tear between longitudinal and circular ciliary muscle; risk of late glaucoma (years to decades)"
+            },
+            {
+              "title": "Ghost cell glaucoma: degenerated RBCs (ghost cells) from old vitreous hemorrhage obstruct TM"
+            },
+            {
+              "title": "Post-surgical: aphakic/pseudophakic glaucoma; silicone oil in TM; epithelial downgrowth"
+            }
+          ]
+        },
+        {
+          "title": "Steroid-Induced Glaucoma",
+          "children": [
+            {
+              "title": "Steroids inhibit phagocytosis of ECM in TM → glycosaminoglycan accumulation → ↑resistance"
+            },
+            {
+              "title": "~30% of population are 'steroid responders' (IOP rise >10 mmHg)"
+            },
+            {
+              "title": "Risk: topical > periocular > systemic > inhaled; potency matters (dexamethasone > loteprednol)"
+            },
+            {
+              "title": "POAG patients and relatives: highest steroid response risk"
+            },
+            {
+              "title": "Treatment: stop steroid; switch to NSAIDs or loteprednol; IOP usually normalizes in weeks"
+            }
+          ]
+        },
+        {
+          "title": "Schwartz-Matsuo Syndrome",
+          "children": [
+            {
+              "title": "Rhegmatogenous retinal detachment → photoreceptor outer segment debris in AC → TM obstruction"
+            },
+            { "title": "Elevated IOP + RD; IOP normalizes after RD repair" }
+          ]
+        },
+        {
+          "title": "Drugs & Glaucoma",
+          "children": [
+            {
+              "title": "Angle closure induction: anticholinergics, adrenergics, sulfonamides (topiramate: bilateral acute myopia + angle closure)"
+            },
+            {
+              "title": "Open-angle IOP elevation: steroids, succinylcholine, ketamine"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Primary Angle-Closure Disease",
+      "children": [
+        {
+          "title": "Pathogenesis",
+          "children": [
+            {
+              "title": "Pupillary Block (Most Common Mechanism)",
+              "children": [
+                {
+                  "title": "Relative resistance to aqueous flow from posterior to anterior chamber at the pupillary margin"
+                },
+                {
+                  "title": "Pressure builds in posterior chamber → bows iris forward (iris bombé) → apposes iris to TM"
+                },
+                {
+                  "title": "Mid-dilation (3-5mm pupil) = highest risk (maximum relative block)"
+                }
+              ]
+            },
+            {
+              "title": "Plateau Iris",
+              "children": [
+                {
+                  "title": "Anteriorly positioned ciliary processes push peripheral iris into angle (without pupillary block)"
+                },
+                {
+                  "title": "Iridotomy does NOT prevent closure; requires iridoplasty or lens extraction"
+                },
+                {
+                  "title": "Diagnosis confirmed by gonioscopy (double hump sign) or UBM"
+                }
+              ]
+            },
+            {
+              "title": "Medications That Can Trigger Angle Closure",
+              "children": [
+                {
+                  "title": "Mydriatics: tropicamide, phenylephrine → pupil dilation in predisposed eye"
+                },
+                {
+                  "title": "Topiramate: idiosyncratic bilateral acute angle closure + myopia; mechanism = suprachoroidal effusion"
+                },
+                {
+                  "title": "Sulfonamides, promethazine, SSRIs: reported cases of acute angle closure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Risk Factors",
+          "children": [
+            {
+              "title": "Asian ethnicity: especially East/South Asian (smaller eyes, shallower angles)"
+            },
+            { "title": "Female sex: 2-4× more common" },
+            {
+              "title": "Hyperopia: shorter axial length → smaller anterior segment"
+            },
+            {
+              "title": "Increasing age: lens thickens and moves anteriorly; iris-lens contact increases"
+            },
+            { "title": "Shallow ACD (<2.5mm): strong independent risk factor" },
+            { "title": "Family history: first-degree relative with PACG" },
+            {
+              "title": "Provocative factors: dim lighting, emotional stress, prolonged reading (near vision → miosis then pupil fatigue)"
+            }
+          ]
+        },
+        {
+          "title": "PACD Spectrum",
+          "children": [
+            {
+              "title": "Primary Angle-Closure Suspect (PACS)",
+              "children": [
+                {
+                  "title": "Iridotrabecular contact (ITC) in ≥2 quadrants; no peripheral anterior synechiae (PAS); normal IOP; normal disc"
+                },
+                {
+                  "title": "Management: observation vs prophylactic iridotomy (debated; ZAP trial: LPI prevented significant events)"
+                }
+              ]
+            },
+            {
+              "title": "Primary Angle Closure (PAC)",
+              "children": [
+                {
+                  "title": "ITC + PAS or elevated IOP; no glaucomatous optic neuropathy"
+                },
+                { "title": "Treat with laser peripheral iridotomy (LPI)" }
+              ]
+            },
+            {
+              "title": "Primary Angle-Closure Glaucoma (PACG)",
+              "children": [
+                { "title": "PAC + glaucomatous optic neuropathy ± VF defect" },
+                {
+                  "title": "More aggressive treatment: LPI + IOP-lowering meds; consider lens extraction"
+                }
+              ]
+            },
+            {
+              "title": "Symptomatic (Acute) Angle Closure",
+              "children": [
+                {
+                  "title": "Severe eye pain, headache, nausea/vomiting, halos around lights, blurred vision"
+                },
+                {
+                  "title": "Signs: conjunctival injection, corneal edema, mid-dilated fixed pupil, very elevated IOP (often >40-50 mmHg), shallow AC"
+                },
+                {
+                  "title": "Emergency treatment: systemic CAI (acetazolamide 500mg IV/PO), topical beta blocker, alpha agonist, pilocarpine 1-2%; IV mannitol if needed"
+                },
+                {
+                  "title": "Definitive: LPI after IOP control; fellow eye prophylactic LPI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Plateau Iris Management",
+          "children": [
+            { "title": "LPI first (to eliminate pupillary block component)" },
+            {
+              "title": "If angle still closes (confirmed on gonioscopy post-LPI): laser iridoplasty (ALPI)"
+            },
+            {
+              "title": "Long-term pilocarpine: keeps iris pulled away from angle"
+            },
+            {
+              "title": "Lens extraction: increasingly preferred (removes both pupillary block and pushes iris away)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Secondary Angle-Closure Glaucoma",
+      "children": [
+        {
+          "title": "With Pupillary Block",
+          "children": [
+            {
+              "title": "Phacomorphic: large intumescent lens → pupillary block → treat with lens extraction"
+            },
+            {
+              "title": "Ectopia lentis: subluxed lens blocks pupil; treat with surgical lens removal"
+            },
+            {
+              "title": "Aphakic pupillary block: vitreous face blocks pupil post-cataract surgery (no IOL); treat with LPI"
+            },
+            {
+              "title": "Posterior synechiae (360° seclusio pupillae): uveitis causes iris bombé; treat underlying inflammation + LPI"
+            }
+          ]
+        },
+        {
+          "title": "Without Pupillary Block — Pulling Mechanism",
+          "children": [
+            {
+              "title": "Neovascular glaucoma (NVG): rubeosis iridis → fibrovascular membrane contracts → closes angle; causes: PDR, CRVO, ocular ischemic syndrome"
+            },
+            {
+              "title": "ICE syndrome: endothelial proliferation → PAS, angle closure; unilateral; Chandler, Cogan-Reese, essential iris atrophy"
+            },
+            {
+              "title": "Epithelial/fibrous ingrowth: post-surgical; membrane over angle"
+            }
+          ]
+        },
+        {
+          "title": "Without Pupillary Block — Pushing Mechanism",
+          "children": [
+            {
+              "title": "Malignant glaucoma (aqueous misdirection): aqueous enters vitreous → posterior push → entire lens-iris diaphragm forward; treat with cycloplegics, vitrectomy"
+            },
+            {
+              "title": "Suprachoroidal hemorrhage: pushes angle forward; post-surgical or spontaneous"
+            },
+            {
+              "title": "Uveal effusion/ciliochoroidal detachment: topiramate, posterior scleritis, nanophthalmos"
+            },
+            {
+              "title": "Retinopathy of prematurity, persistent fetal vasculature: retrolental mass pushes iris-lens forward"
+            }
+          ]
+        },
+        {
+          "title": "Neovascular Glaucoma (NVG) — High Yield",
+          "children": [
+            {
+              "title": "Etiology: ischemia → VEGF ↑ → rubeosis iridis → fibrovascular membrane over angle"
+            },
+            {
+              "title": "Stages: rubeosis only → open angle (early NVG) → closed angle (late NVG)"
+            },
+            {
+              "title": "Causes: PDR (most common), CRVO, ocular ischemic syndrome, carotid artery disease"
+            },
+            {
+              "title": "Treatment: anti-VEGF (intravitreal) first → pan-retinal photocoagulation → glaucoma surgery (tube shunt preferred over trab)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Glaucoma in Children & Adolescents",
+      "children": [
+        {
+          "title": "Classification",
+          "children": [
+            {
+              "title": "Primary congenital glaucoma (PCG): isolated trabeculodysgenesis; birth to age 3"
+            },
+            {
+              "title": "Juvenile open-angle glaucoma (JOAG): age 3-35; MYOC gene"
+            },
+            {
+              "title": "Secondary glaucoma with anterior segment dysgenesis: Peters, Axenfeld-Rieger, Aniridia"
+            },
+            {
+              "title": "Secondary glaucoma without dysgenesis: Sturge-Weber, trauma, uveitis"
+            }
+          ]
+        },
+        {
+          "title": "Primary Congenital Glaucoma (PCG)",
+          "children": [
+            {
+              "title": "Incidence: ~1:10,000 births; bilateral in 70%; sporadic or AR (CYP1B1)"
+            },
+            {
+              "title": "Pathophysiology: abnormal development of TM → ↑outflow resistance → ↑IOP → globe enlargement (buphthalmos)"
+            },
+            {
+              "title": "Classic Triad",
+              "children": [
+                { "title": "Epiphora (tearing)" },
+                { "title": "Photophobia" },
+                { "title": "Blepharospasm" }
+              ]
+            },
+            {
+              "title": "Signs: buphthalmos (enlarged cornea >12mm in infant), Haab striae (horizontal corneal breaks from Descemet), corneal edema, increased C/D"
+            },
+            {
+              "title": "Differential: nasolacrimal duct obstruction (no IOP elevation, no corneal changes), megalocornea, birth trauma"
+            },
+            {
+              "title": "Treatment: SURGICAL first-line (not medical); goniotomy or trabeculotomy"
+            },
+            {
+              "title": "Goniotomy: direct angle incision under direct visualization; requires clear cornea"
+            },
+            {
+              "title": "Trabeculotomy: external approach; works with cloudy cornea"
+            },
+            {
+              "title": "Prognosis: if treated early, ~80% achieve IOP control; amblyopia management essential"
+            }
+          ]
+        },
+        {
+          "title": "Secondary Glaucomas",
+          "children": [
+            {
+              "title": "Axenfeld-Rieger Syndrome",
+              "children": [
+                {
+                  "title": "PITX2 or FOXC1; AD; spectrum of anterior segment dysgenesis"
+                },
+                {
+                  "title": "Posterior embryotoxon (prominent Schwalbe line), iris strands to Schwalbe line, iris holes"
+                },
+                {
+                  "title": "Glaucoma in 50%; systemic: dental, facial, umbilical anomalies"
+                }
+              ]
+            },
+            {
+              "title": "Peters Anomaly",
+              "children": [
+                {
+                  "title": "Central corneal opacity + absence of Descemet/endothelium + iridocorneal or lens-corneal adhesions"
+                },
+                {
+                  "title": "Type I: corneoiridic adhesions; Type II: also lens adherent to cornea"
+                },
+                {
+                  "title": "Glaucoma in ~50-70%; poor visual prognosis; consider corneal transplant"
+                }
+              ]
+            },
+            {
+              "title": "Aniridia",
+              "children": [
+                {
+                  "title": "PAX6 mutation; autosomal dominant (sporadic cases: Wilms tumor risk → check WAGR)"
+                },
+                {
+                  "title": "Rudimentary iris stump; associated: nystagmus, foveal hypoplasia, cataract, corneal pannus (aniridia-related keratopathy)"
+                },
+                {
+                  "title": "Glaucoma develops from progressive angle closure by iris stump; treat with surgery (goniotomy poor results → tube shunt)"
+                }
+              ]
+            },
+            {
+              "title": "Sturge-Weber Syndrome",
+              "children": [
+                {
+                  "title": "Port-wine stain (facial nevus flammeus) → ipsilateral glaucoma (elevated EVP + possibly dysgenetic angle)"
+                },
+                {
+                  "title": "Glaucoma in ~30%; early onset → goniotomy/trabeculotomy; late onset → filtering surgery (beware suprachoroidal hemorrhage risk)"
+                },
+                {
+                  "title": "No gene identified; sporadic GNAQ somatic mutation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Glaucoma Evaluation",
+          "children": [
+            {
+              "title": "Exam under anesthesia (EUA): IOP (note anesthesia effect; ketamine raises IOP; halogenated agents lower it), corneal diameter, pachymetry, gonioscopy, disc evaluation"
+            },
+            {
+              "title": "Cycloplegic refraction: detect amblyogenic refractive error (myopia in PCG, hyperopia in some secondary glaucomas)"
+            },
+            {
+              "title": "B-scan ultrasonography: vitreous hemorrhage, retinal detachment"
+            },
+            {
+              "title": "A-scan: axial length monitoring (globe enlargement = poor IOP control)"
+            }
+          ]
+        },
+        {
+          "title": "Pediatric Glaucoma Treatment",
+          "children": [
+            {
+              "title": "Surgical first-line for PCG; medical adjunct post-surgery or for older children"
+            },
+            {
+              "title": "Surgical options: goniotomy, trabeculotomy, combined trabeculotomy-trabeculectomy, tube shunts (Baerveldt, Ahmed)"
+            },
+            {
+              "title": "Medical options: beta blockers (caution in infants: apnea, bradycardia), CAI drops, brimonidine (AVOID <2 years: CNS depression), PGA (some data)"
+            },
+            {
+              "title": "Amblyopia treatment: patching, glasses — essential for visual development"
+            },
+            {
+              "title": "Prognosis: PCG with early surgery ~80% success; secondary glaucomas generally worse prognosis"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Medical Management of Glaucoma",
+      "children": [
+        {
+          "title": "Prostaglandin Analogues (PGAs) — 1st Line",
+          "children": [
+            {
+              "title": "Agents: latanoprost (Xalatan), bimatoprost (Lumigan), travoprost (Travatan Z), tafluprost (preservative-free)"
+            },
+            {
+              "title": "Mechanism: ↑uveoscleral (unconventional) outflow via FP receptor; also ↑trabecular outflow"
+            },
+            { "title": "IOP reduction: 25-35% (most effective class)" },
+            { "title": "Dosing: once daily (evening preferred)" },
+            {
+              "title": "Side effects: iris/periocular skin darkening (prostaglandin pigmentation), eyelash growth (hypertrichosis), periorbital fat atrophy (DUES = deepening upper eyelid sulcus), conjunctival hyperemia, CME (aphakic/pseudophakic), reactivation of herpes"
+            },
+            {
+              "title": "Sustained-release bimatoprost implant (Durysta): biodegradable intracameral implant; single injection; ~4 months IOP reduction"
+            }
+          ]
+        },
+        {
+          "title": "Beta Blockers",
+          "children": [
+            {
+              "title": "Agents: timolol (non-selective β1+β2), betaxolol (selective β1)"
+            },
+            {
+              "title": "Mechanism: ↓aqueous production by blocking β-adrenergic receptors on ciliary epithelium"
+            },
+            { "title": "IOP reduction: 20-27%" },
+            { "title": "Dosing: BID (timolol); QD gel-forming solution" },
+            {
+              "title": "Contraindications: asthma, COPD, bradycardia, heart block, decompensated heart failure"
+            },
+            {
+              "title": "Betaxolol: safer in reactive airway; slightly less effective; possible neuroprotective effect"
+            },
+            {
+              "title": "Long-term drift: IOP lowering diminishes over time (tachyphylaxis)"
+            }
+          ]
+        },
+        {
+          "title": "Carbonic Anhydrase Inhibitors (CAIs)",
+          "children": [
+            {
+              "title": "Topical: dorzolamide (Trusopt) BID-TID; brinzolamide (Azopt) BID-TID"
+            },
+            {
+              "title": "Systemic: acetazolamide (Diamox) 250-500mg; dichlorphenamide; methazolamide"
+            },
+            {
+              "title": "Mechanism: inhibit CA-II in ciliary epithelium → ↓bicarbonate → ↓aqueous secretion"
+            },
+            { "title": "IOP reduction: 15-20% (topical); 25-30% (systemic)" },
+            {
+              "title": "Side effects (topical): stinging, altered taste, corneal decompensation (pre-existing endothelial disease)"
+            },
+            {
+              "title": "Side effects (systemic): metabolic acidosis, renal stones, aplastic anemia (rare), paresthesias, malaise, sulfa allergy (cross-reactivity)"
+            },
+            {
+              "title": "Contraindications: sulfa allergy; systemic CAI contraindicated in renal failure, hepatic failure"
+            }
+          ]
+        },
+        {
+          "title": "Alpha-2 Agonists",
+          "children": [
+            {
+              "title": "Agents: brimonidine (Alphagan P 0.1%) BID-TID; apraclonidine (Iopidine, short-term only)"
+            },
+            {
+              "title": "Mechanism: ↓aqueous production + ↑uveoscleral outflow; also possible neuroprotective effect"
+            },
+            { "title": "IOP reduction: 18-27%" },
+            {
+              "title": "Side effects: ocular allergy (up to 25% with brimonidine), dry mouth, fatigue, CNS depression (contraindicated in children <2 years)"
+            },
+            {
+              "title": "Apraclonidine: short-term use only (high allergy rate); useful perioperatively to prevent IOP spikes"
+            }
+          ]
+        },
+        {
+          "title": "Rho Kinase (ROCK) Inhibitors",
+          "children": [
+            {
+              "title": "Agent: netarsudil (Rhopressa) QD; also in combo with latanoprost (Rocklatan)"
+            },
+            {
+              "title": "Mechanism: ↑trabecular outflow (relaxes TM cells), ↓aqueous production, ↓EVP"
+            },
+            {
+              "title": "IOP reduction: ~20%; most effective at lower baseline IOPs"
+            },
+            {
+              "title": "Side effects: conjunctival hyperemia (most common), cornea verticillata (benign, reversible), subconjunctival hemorrhage"
+            }
+          ]
+        },
+        {
+          "title": "Nitric Oxide Donors",
+          "children": [
+            { "title": "Agent: latanoprostene bunod (Vyzulta) QD" },
+            {
+              "title": "Mechanism: PGA component (uveoscleral outflow) + NO release → ↑trabecular outflow via cGMP pathway"
+            },
+            {
+              "title": "IOP reduction: slightly superior to latanoprost alone (VOYAGER trial)"
+            }
+          ]
+        },
+        {
+          "title": "Parasympathomimetics (Miotics)",
+          "children": [
+            { "title": "Agent: pilocarpine 1-4% QID; carbachol" },
+            {
+              "title": "Mechanism: ciliary muscle contraction → opens TM → ↑trabecular outflow; also closes angle by pulling iris root"
+            },
+            { "title": "IOP reduction: 20-25%" },
+            {
+              "title": "Side effects: miosis (poor night vision), induced myopia, brow ache, retinal detachment risk (myopes), cataract (nuclear), rare: retinal detachment"
+            },
+            {
+              "title": "Role: now mostly for angle closure (acute attack), pilocarpine insert for presbyopia"
+            }
+          ]
+        },
+        {
+          "title": "Hyperosmotic Agents",
+          "children": [
+            {
+              "title": "Agents: mannitol 20% IV (1-2 g/kg); glycerin 50% oral"
+            },
+            {
+              "title": "Mechanism: draws fluid from vitreous (osmotic gradient) → rapidly lowers IOP"
+            },
+            {
+              "title": "Use: acute IOP elevation (angle closure attack, before surgery)"
+            },
+            {
+              "title": "Side effects: headache, fluid overload, CHF risk; glycerin metabolized → avoid in DM"
+            }
+          ]
+        },
+        {
+          "title": "Combination Medications",
+          "children": [
+            { "title": "Cosopt: dorzolamide + timolol BID" },
+            { "title": "Combigan: brimonidine + timolol BID" },
+            {
+              "title": "Simbrinza: brimonidine + brinzolamide BID-TID (beta-blocker free)"
+            },
+            { "title": "Rocklatan: latanoprost + netarsudil QD" },
+            {
+              "title": "Advantage: better adherence; fewer preservative doses; may have additive IOP reduction"
+            }
+          ]
+        },
+        {
+          "title": "General Approach to Medical Treatment",
+          "children": [
+            {
+              "title": "Start monotherapy (PGA 1st line); reassess at 4-6 weeks"
+            },
+            {
+              "title": "Assess IOP at peak and trough; consider phasing for diurnal fluctuation"
+            },
+            {
+              "title": "Add or switch if inadequate response; prefer fewer drops → better adherence"
+            },
+            {
+              "title": "Benzalkonium chloride (BAC) preservative: toxic to ocular surface; consider preservative-free drops in dry eye patients"
+            },
+            {
+              "title": "Pregnancy: CAIs and brimonidine relatively contraindicated; beta blockers relatively safer but monitor fetus; consult OB"
+            },
+            {
+              "title": "Patient adherence: ~50% of patients non-adherent at 1 year; simplify regimen; use blister packs or apps; monitor at follow-up"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Surgical Therapy for Glaucoma",
+      "children": [
+        {
+          "title": "Laser Trabeculoplasty",
+          "children": [
+            {
+              "title": "Types",
+              "children": [
+                {
+                  "title": "ALT (Argon Laser Trabeculoplasty): 50µm spot, photocoagulates TM; limited retreatment"
+                },
+                {
+                  "title": "SLT (Selective Laser Trabeculoplasty): Q-switched Nd:YAG, 532nm; selectively targets pigmented TM cells; can be repeated"
+                }
+              ]
+            },
+            {
+              "title": "Mechanism: thermal/photochemical effect → ↑TM cell activity → improved outflow; also cytokine-mediated remodeling"
+            },
+            {
+              "title": "IOP reduction: ~20-30%; comparable to PGA (LiGHT trial: SLT equivalent to drops as initial therapy)"
+            },
+            {
+              "title": "Indications: newly diagnosed POAG/OHT (1st line per LiGHT), adjunct therapy, medication intolerance"
+            },
+            {
+              "title": "Contraindications: uveitic glaucoma, NVG with rubeosis, angle closure (inadequate angle view)"
+            },
+            {
+              "title": "Technique: 360° or 180° TM; 100 non-overlapping spots; energy titrated to champagne bubbling"
+            },
+            {
+              "title": "Post-op: IOP spike first few hours (pre-treat with apraclonidine); monitor at 1 hour"
+            },
+            {
+              "title": "Complications: transient IOP spike, mild inflammation, failure over time"
+            }
+          ]
+        },
+        {
+          "title": "Cyclophotocoagulation (CPC)",
+          "children": [
+            {
+              "title": "Mechanism: destroys ciliary epithelium → ↓aqueous production"
+            },
+            {
+              "title": "Modes: trans-scleral (TSCPC) using diode laser; endoscopic (ECP) under direct visualization; micropulse CPC (titrated, less destructive)"
+            },
+            {
+              "title": "Indications: refractory glaucoma, painful blind eye, poor surgical candidate"
+            },
+            {
+              "title": "Complications: hypotony, phthisis bulbi, inflammation, sympathetic ophthalmia (rare), vision loss"
+            },
+            {
+              "title": "Micropulse: more titrated; lower risk profile; increasing use earlier in disease"
+            }
+          ]
+        },
+        {
+          "title": "Laser Peripheral Iridotomy (LPI)",
+          "children": [
+            {
+              "title": "Creates opening in peripheral iris → equalizes pressure between posterior and anterior chambers → opens angle"
+            },
+            {
+              "title": "Indications: PACS (controversial), PAC, PACG, acute angle closure (after IOP control), prophylaxis of fellow eye"
+            },
+            {
+              "title": "Technique: Nd:YAG laser; superior iris 11-1 o'clock position (under lid); penetrate full thickness"
+            },
+            {
+              "title": "Post-op: apraclonidine 1 hour prior; steroid drops post-procedure"
+            },
+            {
+              "title": "Complications: transient IOP spike, hyphema, iritis, dysphotopsia (if not under lid)"
+            },
+            {
+              "title": "Efficacy: very effective for pupillary block; does NOT help plateau iris (need ALPI or lens extraction)"
+            }
+          ]
+        },
+        {
+          "title": "Laser Iridoplasty (ALPI)",
+          "children": [
+            {
+              "title": "Argon laser applied to peripheral iris → contracts stroma → pulls iris from angle"
+            },
+            {
+              "title": "Indications: plateau iris syndrome (after LPI), acute angle closure when LPI cannot be done (corneal edema)"
+            },
+            {
+              "title": "Technique: 500µm spot, low power, long duration; peripheral iris, 24-32 spots per 360°"
+            }
+          ]
+        },
+        {
+          "title": "Trabeculectomy",
+          "children": [
+            {
+              "title": "Gold standard filtering surgery; creates fistula from anterior chamber to subconjunctival space (bleb)"
+            },
+            {
+              "title": "IOP reduction: 30-50%; target IOP achievable in low teens"
+            },
+            {
+              "title": "Antifibrotic agents: MMC (mitomycin C) most effective; 5-FU (5-fluorouracil); reduce bleb scarring"
+            },
+            {
+              "title": "Indications: POAG/PACG not controlled medically; NTG requiring very low IOP; failed SLT"
+            },
+            {
+              "title": "Contraindications: relative: active inflammation, conjunctival scarring, neovascularization"
+            },
+            {
+              "title": "Post-op Complications",
+              "children": [
+                {
+                  "title": "Early: shallow AC (wound leak, overfiltration, choroidal detachment), hyphema, infection"
+                },
+                {
+                  "title": "Late: bleb failure (encapsulation/scarring), blebitis, bleb-related endophthalmitis, hypotony maculopathy"
+                },
+                {
+                  "title": "Blebitis → endophthalmitis: aggressive treatment (intravitreal antibiotics)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Plate-Based Tube Shunt Surgery",
+          "children": [
+            {
+              "title": "Types: Ahmed valve (FP7, FP8 — valved), Baerveldt (250, 350mm² — non-valved), Molteno"
+            },
+            {
+              "title": "Mechanism: tube from AC or PC → equatorial plate → aqueous drains to fibrous capsule → episcleral veins"
+            },
+            {
+              "title": "IOP reduction: similar to trabeculectomy long-term (TVT study: equivalent at 3 years)"
+            },
+            {
+              "title": "Indications: prior failed trab, conjunctival scarring, uveitic/NVG/silicone oil glaucoma, pediatric glaucoma"
+            },
+            {
+              "title": "Ahmed: valved → lower risk of early hypotony; hypertensive phase (fibrosis 6-12 weeks) is common"
+            },
+            {
+              "title": "Baerveldt: non-valved → rigate tube initially; deeper IOP reduction long-term"
+            },
+            {
+              "title": "Complications",
+              "children": [
+                {
+                  "title": "Tube-cornea touch → endothelial damage → corneal decompensation"
+                },
+                { "title": "Tube exposure → endophthalmitis" },
+                { "title": "Diplopia from plate restricting EOM" },
+                {
+                  "title": "Hypertensive phase: IOP spike at 4-8 weeks post Baerveldt (add meds temporarily)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Microinvasive Glaucoma Surgery (MIGS)",
+          "children": [
+            {
+              "title": "Characteristics",
+              "children": [
+                {
+                  "title": "Ab interno approach; minimal tissue disruption; combined with cataract surgery or standalone"
+                },
+                {
+                  "title": "Safety profile superior to trab/tube; less IOP reduction"
+                }
+              ]
+            },
+            {
+              "title": "Types by Mechanism",
+              "children": [
+                {
+                  "title": "Trabecular bypass: iStent inject W (2 stents, Schlemm canal), Hydrus microstent (18mm Schlemm canal scaffold)"
+                },
+                {
+                  "title": "Schlemm canal/TM ablation: Kahook dual blade (excises TM), Goniotomy, GATT (gonioscopy-assisted transluminal trabeculotomy)"
+                },
+                {
+                  "title": "Suprachoroidal: CyPass (withdrawn 2018 due to late endothelial loss); iStent Supra"
+                },
+                {
+                  "title": "Subconjunctival: XEN gel stent (gelatin, 45µm lumen) → bleb without conjunctival incision; Preserflo MicroShunt (SIBS polymer)"
+                }
+              ]
+            },
+            {
+              "title": "Best candidates: mild-moderate POAG + cataract; trabecular bypass best when angle open and pigmented"
+            },
+            {
+              "title": "XEN/Preserflo: more IOP reduction; bleb-related complications still possible"
+            }
+          ]
+        },
+        {
+          "title": "Nonpenetrating Glaucoma Surgery",
+          "children": [
+            {
+              "title": "Deep sclerectomy: removes inner wall of Schlemm canal + TM outer wall; leaves trabeculo-Descemet membrane"
+            },
+            { "title": "Viscocanalostomy: dilates Schlemm canal with OVD" },
+            {
+              "title": "Lower bleb-related complication rate vs trabeculectomy; IOP reduction less predictable"
+            }
+          ]
+        },
+        {
+          "title": "Cataract Surgery in Glaucoma",
+          "children": [
+            {
+              "title": "Phacoemulsification lowers IOP ~2-4 mmHg; effect greatest in angle-closure glaucoma (opens angle)"
+            },
+            {
+              "title": "Combined phaco + trabeculectomy (phacotrabeculectomy): lower IOP but more complications vs trabeculectomy alone"
+            },
+            {
+              "title": "Combined phaco + MIGS: growing preference for mild-moderate glaucoma with cataract"
+            },
+            {
+              "title": "Angle closure: lens extraction alone is highly effective (EAGLE trial: lens extraction > LPI for PAC/PACG)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 20 Glaucoma Exam Facts",
+      "children": [
+        {
+          "title": "Glaucoma = optic neuropathy with characteristic structural loss + VF defect (IOP alone is NOT diagnostic)"
+        },
+        {
+          "title": "RNFL thinning precedes detectable VF loss (structural damage before functional)"
+        },
+        {
+          "title": "JCT (juxtacanalicular TM) = main site of aqueous outflow resistance"
+        },
+        {
+          "title": "Aqueous flow: ciliary epithelium → posterior chamber → pupil → anterior chamber → TM → Schlemm canal → episcleral veins"
+        },
+        {
+          "title": "Goldmann tonometry (GAT): gold standard for IOP; thick CCT → falsely high reading; thin CCT → falsely low"
+        },
+        {
+          "title": "Normal IOP range: 10-21 mmHg; NTG = glaucoma with IOP ≤21 mmHg"
+        },
+        {
+          "title": "POAG risk factors: elevated IOP, thin CCT, large C/D, African ancestry, family history, myopia"
+        },
+        {
+          "title": "PCG classic triad: epiphora + photophobia + blepharospasm; SURGICAL treatment first (goniotomy/trabeculotomy)"
+        },
+        {
+          "title": "Angle closure emergency: severe pain + halos + N/V + mid-dilated fixed pupil + ↑IOP → treat with IV acetazolamide + mannitol + topical meds → definitive LPI"
+        },
+        {
+          "title": "Pupillary block = most common mechanism of angle closure; treat with LPI"
+        },
+        {
+          "title": "Plateau iris: LPI does NOT prevent closure; needs ALPI or lens extraction"
+        },
+        {
+          "title": "NVG: rubeosis → fibrovascular membrane → angle closure; causes: PDR, CRVO, OIS; treat with anti-VEGF + PRP + tube shunt"
+        },
+        {
+          "title": "LOXL1 gene: most common genetic association in glaucoma (Pseudoexfoliation)"
+        },
+        {
+          "title": "PDS: Krukenberg spindle + iris transillumination defects (radial, mid-peripheral) + dense TM pigment; young myopic male"
+        },
+        {
+          "title": "SLT: equivalent to drops as first-line therapy (LiGHT trial); can be repeated; 1st line option"
+        },
+        {
+          "title": "Trabeculectomy: gold standard filtering surgery; MMC antifibrotic; risk of bleb-related endophthalmitis (bleb leaks!)"
+        },
+        {
+          "title": "Tube shunts: preferred in uveitic, NVG, silicone oil glaucoma, prior failed trab; TVT: similar IOP reduction to trab"
+        },
+        {
+          "title": "MIGS: trabecular bypass stents (iStent, Hydrus) combined with cataract surgery; safest, least IOP reduction"
+        },
+        {
+          "title": "EAGLE trial: lens extraction superior to LPI for PAC and PACG → consider as first-line in angle closure"
+        },
+        {
+          "title": "Disc hemorrhage (Drance): splinter hemorrhage at disc margin; strong predictor of glaucoma progression, especially NTG"
+        }
+      ]
+    }
+  ]
+}
