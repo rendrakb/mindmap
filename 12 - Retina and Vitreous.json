@@ -1,0 +1,1741 @@
+{
+  "title": "Retina and Vitreous",
+  "type": "root",
+  "children": [
+    {
+      "title": "PART I: Fundamentals & Diagnostic Approaches",
+      "children": [
+        {
+          "title": "Basic Anatomy",
+          "children": [
+            {
+              "title": "Vitreous",
+              "children": [
+                {
+                  "title": "Composition: 99% water + collagen type II (0.05%) + hyaluronic acid (hyaluronan); gel in youth → liquefied lacunae with age"
+                },
+                {
+                  "title": "Volume ~4mL; fills posterior 4/5 of globe; bounded by retina, pars plana, posterior lens capsule, zonules"
+                },
+                {
+                  "title": "Vitreous base: strongest adhesion; straddles ora serrata (2mm anterior + 3mm posterior); resists PVD; tears occur here"
+                },
+                {
+                  "title": "Other adhesions: optic disc, fovea, retinal vessels, vitreoretinal tufts (paravascular, zonular, non-involuted)"
+                },
+                {
+                  "title": "Cortex: outermost condensed collagen layer; hyalocytes (type A = phagocytic, type B = synthetic) embedded in posterior cortex"
+                },
+                {
+                  "title": "Cloquet canal: remnant of hyaloid artery channel; runs from optic disc to posterior lens"
+                },
+                {
+                  "title": "PVD (posterior vitreous detachment): liquefied vitreous enters retrocortical space; Weiss ring (annular floater = detached peripapillary vitreous); acute symptoms: floaters + flashes; must examine for retinal tear"
+                }
+              ]
+            },
+            {
+              "title": "Neurosensory Retina",
+              "children": [
+                {
+                  "title": "Topography",
+                  "children": [
+                    {
+                      "title": "Total retinal area ~1100mm²; extends from optic disc to ora serrata"
+                    },
+                    {
+                      "title": "Macula: 5.5mm diameter centred temporal to disc; contains xanthophyll (lutein + zeaxanthin); yellow appearance"
+                    },
+                    {
+                      "title": "Fovea: 1.5mm diameter; steep depression; thinnest retina; highest cone density; no inner layers (displaced laterally = Henle fibre layer); subregions: foveola (0.35mm; central pit), parafovea (0.5mm ring), perifovea (1.5mm ring)"
+                    },
+                    {
+                      "title": "FAZ (foveal avascular zone): 0.5mm diameter; avascular; nourished by choriocapillaris via RPE diffusion"
+                    },
+                    {
+                      "title": "Ora serrata: anterior retinal termination; nasal (3mm from limbus) closer than temporal (6mm)"
+                    },
+                    {
+                      "title": "Disc: optic nerve head; 1.5mm diameter; no photoreceptors = blind spot (15° temporal, 1.5° below fixation)"
+                    }
+                  ]
+                },
+                {
+                  "title": "10 Retinal Layers (inside → out)",
+                  "children": [
+                    {
+                      "title": "1. ILM (internal limiting membrane): basement membrane of Müller cells; interface with vitreous"
+                    },
+                    {
+                      "title": "2. NFL (nerve fibre layer): axons of RGCs; thickest around disc (OCT RNFL); arcuate defects in glaucoma"
+                    },
+                    {
+                      "title": "3. GCL (ganglion cell layer): RGC bodies; thickest at parafovea; thinned in glaucoma/ON disease"
+                    },
+                    {
+                      "title": "4. IPL (inner plexiform layer): RGC dendrites + bipolar + amacrine synapses"
+                    },
+                    {
+                      "title": "5. INL (inner nuclear layer): bipolar, horizontal, amacrine, Müller cell nuclei"
+                    },
+                    {
+                      "title": "6. OPL (outer plexiform layer): photoreceptor synapses with bipolar cells; Henle fibres at fovea"
+                    },
+                    {
+                      "title": "7. ONL (outer nuclear layer): rod + cone nuclei"
+                    },
+                    {
+                      "title": "8. ELM (external limiting membrane): junctional complexes between Müller cells + photoreceptors"
+                    },
+                    {
+                      "title": "9. Photoreceptor layer: IS/OS (inner + outer segments); OS contains visual pigment discs; EZ (ellipsoid zone) on OCT = IS/OS junction; loss of EZ = photoreceptor disease"
+                    },
+                    {
+                      "title": "10. RPE (retinal pigment epithelium): monolayer of hexagonal pigmented cells; apical villi interdigitate with OS"
+                    }
+                  ]
+                },
+                {
+                  "title": "Photoreceptors",
+                  "children": [
+                    {
+                      "title": "Rods: ~120 million; periphery; scotopic vision (dim light); rhodopsin (opsin + 11-cis retinal); very sensitive; no colour discrimination"
+                    },
+                    {
+                      "title": "Cones: ~6 million; concentrated at fovea; photopic/mesopic; 3 types: L (red, 558nm), M (green, 530nm), S (blue, 420nm); trichromatic colour vision"
+                    },
+                    {
+                      "title": "Phototransduction: photon → rhodopsin activation → transducin (Gα) → PDE activation → cGMP hydrolysis → channel closure → hyperpolarisation → glutamate release decreases"
+                    }
+                  ]
+                },
+                {
+                  "title": "Retinal Vasculature",
+                  "children": [
+                    {
+                      "title": "Central retinal artery (CRA): branch of ophthalmic artery; enters through optic nerve; divides into superior/inferior nasal/temporal branches"
+                    },
+                    {
+                      "title": "Capillary layers: superficial (NFL/GCL) + deep (INL) + radial peripapillary (NFL) + intermediate (IPL)"
+                    },
+                    {
+                      "title": "Terminal arterioles: end-arteries with no anastomoses (hence BRAO/CRAO are infarcts)"
+                    },
+                    {
+                      "title": "Cilio-retinal artery: ~30-35% of eyes; from posterior ciliary artery (not CRA); can preserve central vision in CRAO"
+                    },
+                    {
+                      "title": "Blood-retinal barrier: inner (tight junctions of retinal vascular endothelium) + outer (RPE tight junctions)"
+                    },
+                    {
+                      "title": "Autoregulation: maintains constant flow despite IOP/BP changes; CO₂ is most potent vasodilator"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "RPE, Bruch Membrane, Choroid",
+              "children": [
+                {
+                  "title": "RPE functions: visual cycle (11-cis retinal regeneration), phagocytosis of OS discs (~10% daily), nutrient transport, blood-retina barrier (outer), VEGF/PEDF secretion, light absorption"
+                },
+                {
+                  "title": "Bruch membrane (5 layers): RPE basement membrane + inner collagenous + elastin + outer collagenous + choriocapillaris basement membrane; thickens + lipid accumulation with age → AMD; splits in angioid streaks"
+                },
+                {
+                  "title": "Choroid: layers (inner → outer): choriocapillaris (fenestrated; supplies RPE + outer retina) → Sattler layer (medium vessels) → Haller layer (large vessels) → suprachoroid; Bruch membrane on inner surface"
+                },
+                {
+                  "title": "Choroid blood flow: highest per unit weight in body; auto-regulated differently from retina; vortex veins drain choroid (4 ampullae)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Diagnostic Approach",
+          "children": [
+            {
+              "title": "Ophthalmoscopy",
+              "children": [
+                {
+                  "title": "BIO (binocular indirect ophthalmoscope): inverted real image; 20D lens = ×3, 45° FOV; best for peripheral retina, RD, ROP; scleral depression for extreme periphery"
+                },
+                {
+                  "title": "Slit-lamp lenses: 78D (×15, 43° FOV), 90D (×13, 62°), Volk Superfield (×16, 60°); inverted image; 60D = widest field; Goldmann 3-mirror = direct non-inverted image, gonioscopy, peripheral retina"
+                }
+              ]
+            },
+            {
+              "title": "Imaging Technologies",
+              "children": [
+                {
+                  "title": "FFA (Fundus Fluorescein Angiography)",
+                  "children": [
+                    {
+                      "title": "Sodium fluorescein 10-20%; excitation 490nm, emission 530nm; peak ICT 12-15 seconds; phases: choroidal flush (5-10s) → arterial (10-12s) → AV (12-15s) → venous (15-20s) → late (>60s)"
+                    },
+                    {
+                      "title": "Hyperfluorescence: leakage (vessel/RPE breakdown; bright + enlarges = wet AMD, CMO, vasculitis), pooling (fluid-filled space; CSC, RD), staining (fibrous scar, drusen late), window defect (RPE atrophy; bright early, no late enlargement)"
+                    },
+                    {
+                      "title": "Hypofluorescence: blockage (blood/pigment/exudate; blocks fluorescence), filling defect (ischaemia; no dye enters; CRAO, capillary non-perfusion)"
+                    },
+                    {
+                      "title": "Adverse reactions: nausea (common, 10%), urticaria (<1%), anaphylaxis (1/200,000)"
+                    }
+                  ]
+                },
+                {
+                  "title": "ICGA (Indocyanine Green Angiography)",
+                  "children": [
+                    {
+                      "title": "ICG binds plasma proteins → stays in choroidal vessels; NIR excitation (800nm)/emission (830nm); penetrates RPE/melanin; choroidal imaging"
+                    },
+                    {
+                      "title": "Uses: choroidal disease (CSC, PCV, VKH), white dot syndromes (hypofluorescent spots = birdshot, APMPPE, MFC), polypoidal CVN"
+                    }
+                  ]
+                },
+                {
+                  "title": "OCT (Optical Coherence Tomography)",
+                  "children": [
+                    {
+                      "title": "Principle: low-coherence interferometry; SD-OCT: 25,000-100,000 A-scans/sec; axial resolution 3-10μm; standard of care"
+                    },
+                    {
+                      "title": "SS-OCT (swept-source): 1050nm; better choroidal/scleral penetration; through media opacities"
+                    },
+                    {
+                      "title": "Key findings: EZ (ellipsoid zone) line = IS/OS junction; loss = photoreceptor damage; IZ (interdigitation zone) = OS/RPE; Bruch membrane appears as thin hyperreflective line; choriocapillaris = inner irregular layer below Bruch"
+                    },
+                    {
+                      "title": "Enhanced depth imaging (EDI-OCT): inverted SD-OCT signal maximised at choroid; measures choroidal thickness (normal ~250μm subfoveal; ↑ in pachychoroid, CSC; ↓ in pathologic myopia, AMD atrophy)"
+                    },
+                    {
+                      "title": "OCT-A (angiography): motion contrast (speckle variance/OCTA); flow-based; 4 layers: superficial capillary plexus, deep capillary plexus, outer retina (avascular normally), choriocapillaris; FAZ quantification; detect CNV, DME capillary dropout"
+                    }
+                  ]
+                },
+                {
+                  "title": "FAF (Fundus Autofluorescence)",
+                  "children": [
+                    {
+                      "title": "Source: RPE lipofuscin (A2E bisretinoid, photoreceptor OS phagocytosis byproduct); excitation 488nm, emission 500-750nm"
+                    },
+                    {
+                      "title": "Hyper-AF: stressed/active RPE accumulating lipofuscin (active disease margins: GA, CSC, birdshot); photoreceptor OS over-phagocytosis"
+                    },
+                    {
+                      "title": "Hypo-AF: RPE cell death/atrophy (GA, end-stage dystrophies); blocked by subretinal blood, melanin, lipofuscin depletion"
+                    },
+                    {
+                      "title": "Uses: GA mapping/progression (hypo-AF zone), drusen characterisation, AMD prognosis, white dot syndromes, RP, inherited dystrophies"
+                    }
+                  ]
+                },
+                {
+                  "title": "Ultra-widefield imaging (Optos, Clarus): up to 200° field; captures peripheral retina in single image; useful for DR, vein occlusion, vasculitis, RD, peripheral breaks; pseudo-colour (different from true colour fundus photo)"
+                },
+                {
+                  "title": "Adaptive optics: wavefront correction + SLO; cellular-level imaging (individual photoreceptor cones, RGCs); research tool; used for photoreceptor mosaic mapping in IRDs, AMD"
+                },
+                {
+                  "title": "B-scan ultrasound: 10MHz probe; 2D cross-section; when media opaque (VH, dense cataract); RD (mobile high reflectivity; no aftermovement), retinoschisis (immobile; low reflectivity), choroidal detachment (bullous; high; crosses ora), PVR, vitreous opacities, posterior scleritis (T-sign)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Retinal Physiology & Electrophysiology",
+          "children": [
+            {
+              "title": "Electroretinography (ERG)",
+              "children": [
+                {
+                  "title": "Measures mass electrical response of retina to light stimulus; corneal electrode; ISCEV standards"
+                },
+                {
+                  "title": "a-wave: negative; from photoreceptors (rods + cones); Phototransduction hyperpolarisation"
+                },
+                {
+                  "title": "b-wave: positive; from bipolar cells (on-bipolar) + Müller cells; largest wave; reduced/absent in CSNB, retinoschisis, siderosis"
+                },
+                {
+                  "title": "Full-field (Ganzfeld) ERG responses: dark-adapted (scotopic) 0.01 = rod response; 3.0 = mixed rod-cone maximal; 3.0 oscillatory potentials (OPs) = inner retinal function (DR, occlusions); light-adapted (photopic) 3.0 = cone; 30Hz flicker = cone only"
+                },
+                {
+                  "title": "Negative ERG: normal a-wave + reduced b-wave → b:a ratio <1; causes: CSNB (complete type), XLRS, siderosis, ischaemia (central artery occlusion), quinine toxicity, melanoma-associated retinopathy (MAR)"
+                },
+                {
+                  "title": "Extinguished ERG (flat): RP, LCA, total retinal detachment, Usher syndrome, severe advanced disease"
+                },
+                {
+                  "title": "mfERG (multifocal): simultaneous topographic response from 61-103 retinal regions; macular function mapping; AMD, macular dystrophies, hydroxychloroquine toxicity detection"
+                },
+                {
+                  "title": "Pattern ERG (PERG): reversing checkerboard stimulus; steady-state P50 (macular ganglion cells) + N95 (RGC axons); macular disease vs optic nerve; reduced in both macular disease (P50↓) and optic nerve (N95↓)"
+                }
+              ]
+            },
+            {
+              "title": "Other Electrophysiology",
+              "children": [
+                {
+                  "title": "EOG (electro-oculogram): standing potential between cornea and Bruch membrane; Arden ratio = light peak / dark trough; normal >1.85; reduced in Best disease (BEST1 mutation), fundus flavimaculatus"
+                },
+                {
+                  "title": "VEP (visual evoked potential): occipital P100 wave; delayed in optic neuritis/demyelination; reduced in optic atrophy; flash VEP for infants (no fixation needed)"
+                },
+                {
+                  "title": "Microperimetry (macular perimetry): visual field testing fixation-stabilised to fundus image; maps scotomata relative to anatomical features; measures preferred retinal locus (PRL) in AMD; functional overlay on OCT morphology"
+                }
+              ]
+            },
+            {
+              "title": "Psychophysical Testing",
+              "children": [
+                {
+                  "title": "Colour vision: Ishihara (screening red-green); HRR (screening + classification); Farnsworth-Munsell 100 hue (quantify and classify); D-15 (screening acquired colour deficiency); Nagel anomaloscope (gold standard classification)"
+                },
+                {
+                  "title": "Contrast sensitivity: Pelli-Robson chart (letter contrast threshold); Mars Letter; spatial frequency gratings; reduced early in disease before VA drops (glaucoma, optic neuritis, AMD)"
+                },
+                {
+                  "title": "Dark adaptometry: measures threshold after bright light exposure; rod dark adaptation ~20-30 min to maximum sensitivity; cone-rod break at ~7-10 min; slowed/elevated in AMD, Vitamin A deficiency, RP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART II: Diseases of the Retina and Vitreous",
+      "children": [
+        {
+          "title": "Age-Related Macular Degeneration (AMD)",
+          "children": [
+            {
+              "title": "Epidemiology & Genetics",
+              "children": [
+                {
+                  "title": "Leading cause of irreversible central vision loss in developed world (>50 years); prevalence 1.5% 40-49y → 15% >75y"
+                },
+                {
+                  "title": "Major genes: CFH (complement factor H; Y402H variant; most significant; ~30-50% attributable risk), ARMS2/HTRA1 (10q26 locus; ~25-30%), C3, CFB, C2"
+                },
+                {
+                  "title": "Modifiable risk factors: smoking (strongest modifiable; 2-4× risk), hypertension, obesity, low antioxidant diet; protective: lutein/zeaxanthin, omega-3, AREDS supplements, exercise"
+                }
+              ]
+            },
+            {
+              "title": "Non-Neovascular (Dry) AMD",
+              "children": [
+                {
+                  "title": "Drusen",
+                  "children": [
+                    {
+                      "title": "Hard drusen: small (<63μm), discrete, sharp borders; minimal risk"
+                    },
+                    {
+                      "title": "Soft drusen: large (>63μm), indistinct borders; confluent; significant risk factor for progression to advanced AMD"
+                    },
+                    {
+                      "title": "Reticular pseudodrusen (subretinal drusenoid deposits): above RPE; between OS and RPE; greater progression risk than soft drusen; OCT/FAF/NIR best seen"
+                    },
+                    {
+                      "title": "Drusen composition: lipids (phospholipids, cholesterol), complement components (C3d, C5b-9), vitronectin, TIMP-3; between RPE and Bruch membrane"
+                    }
+                  ]
+                },
+                {
+                  "title": "Geographic Atrophy (GA)",
+                  "children": [
+                    {
+                      "title": "End-stage dry AMD; RPE + photoreceptor + choriocapillaris loss; sharply demarcated hypo-AF zones on FAF"
+                    },
+                    {
+                      "title": "OCT: outer retinal atrophy with choroidal hypertransmission (signal passes through Bruch into choroid)"
+                    },
+                    {
+                      "title": "Progression: ~1.7mm² per year; pericentral or extrafoveal initially; bilateral; slowly loses central vision"
+                    },
+                    {
+                      "title": "New treatments: pegcetacoplan (APL-2; intravitreal complement C3 inhibitor); avacincaptad pegol (intravitreal complement C5 inhibitor); both FDA-approved 2023 — reduce GA progression ~20-35% vs sham"
+                    }
+                  ]
+                },
+                {
+                  "title": "AMD staging (AREDS): AREDS scale 0-4; Steps 3+4 = high risk; AREDS2 vitamins (vitamin C 500mg + E 400IU + lutein 10mg + zeaxanthin 2mg + zinc 80mg + copper 2mg): reduces progression to advanced AMD by 25% in Steps 3-4; beta-carotene removed (lung cancer risk in smokers)"
+                }
+              ]
+            },
+            {
+              "title": "Neovascular (Wet) AMD",
+              "children": [
+                {
+                  "title": "Choroidal Neovascularisation (CNV) Classification",
+                  "children": [
+                    {
+                      "title": "Type 1 CNV (sub-RPE; occult): beneath RPE; PED (pigment epithelial detachment); less exudation; slower progression"
+                    },
+                    {
+                      "title": "Type 2 CNV (subretinal; classic): above RPE; between RPE and neurosensory retina; more exudation; greyish-green subretinal membrane; rapid VA loss"
+                    },
+                    {
+                      "title": "Type 3 CNV (retinal angiomatous proliferation, RAP): intraretinal + subretinal; retinal-choroidal anastomosis; bilateral in 50% within 1 year"
+                    },
+                    {
+                      "title": "PCV (polypoidal choroidal vasculopathy): abnormal branching choroidal vessels + polyp-like saccular dilations; common in Asians (50% of 'wet AMD'); less responsive to anti-VEGF alone; ICGA diagnostic (pulsating polyps); PDT + anti-VEGF combination"
+                    }
+                  ]
+                },
+                {
+                  "title": "Clinical Features & Imaging",
+                  "children": [
+                    {
+                      "title": "Symptoms: sudden central distortion (metamorphopsia), central scotoma, rapid VA loss; Amsler grid monitoring"
+                    },
+                    {
+                      "title": "FFA: classic CNV = early hyperfluorescence with leakage (well-defined); occult = late stippled hyperfluorescence"
+                    },
+                    {
+                      "title": "OCT: subretinal fluid (SRF), intraretinal fluid (IRF), PED (pigment epithelial detachment); IRF = worst prognosis; SRF = tolerated in some protocols"
+                    }
+                  ]
+                },
+                {
+                  "title": "Anti-VEGF Treatment",
+                  "children": [
+                    {
+                      "title": "Mechanism: inhibit VEGF-A → reduce vascular permeability + neovascularisation; intravitreal injection"
+                    },
+                    {
+                      "title": "Ranibizumab (Lucentis): Fab fragment; anti-VEGF-A; FDA-approved; MARINA + ANCHOR trials established efficacy"
+                    },
+                    {
+                      "title": "Bevacizumab (Avastin): full antibody; off-label; CATT trial = non-inferior to ranibizumab; much cheaper; widely used"
+                    },
+                    {
+                      "title": "Aflibercept (Eylea): VEGF-trap (fusion protein: VEGFR1+R2 + IgG Fc); binds VEGF-A, VEGF-B, PlGF; high binding affinity; VIEW 1+2 trials; q8wk maintenance; 8mg higher dose available"
+                    },
+                    {
+                      "title": "Faricimab (Vabysmo): bispecific antibody; anti-VEGF-A + anti-Ang2; TENAYA/LUCERNE trials; q4-16 week dosing (personalized); allows extended intervals"
+                    },
+                    {
+                      "title": "Brolucizumab (Beovu): anti-VEGF scFv; small molecule; q12wk after loading; higher rates of retinal vasculitis/occlusion (rare but severe complication)"
+                    },
+                    {
+                      "title": "Dosing regimens: PRN (as needed); treat-and-extend (T&E; increase interval if dry, reduce if wet; most popular); fixed monthly (best outcomes, impractical)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other Causes of CNV",
+              "children": [
+                {
+                  "title": "OHS (ocular histoplasmosis syndrome): histo spots + peripapillary atrophy + CNV; NO vitritis; endemic USA; anti-VEGF for CNV; antifungals NOT indicated"
+                },
+                {
+                  "title": "Angioid streaks: breaks in Bruch membrane radiating from disc; associated with PXE (pseudoxanthoma elasticum, ABCC6 gene; most common), sickle cell, Paget disease, Ehlers-Danlos; risk of CNV on minor trauma; anti-VEGF; avoid contact sports"
+                },
+                {
+                  "title": "Pathologic myopia: AL >26mm; lacquer cracks (Bruch breaks); myopic CNV (usually type 2; smaller; better prognosis than AMD CNV; anti-VEGF); Fuchs spot = old regressed myopic CNV scar"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Diabetic Retinopathy",
+          "children": [
+            {
+              "title": "Pathogenesis",
+              "children": [
+                {
+                  "title": "Chronic hyperglycaemia → polyol pathway (sorbitol accumulation) + advanced glycation end-products (AGEs) + PKC activation + oxidative stress → pericyte loss (selective early) → microaneurysms → BRB breakdown → VEGF upregulation → neovascularisation"
+                },
+                {
+                  "title": "Pericyte loss: first histological change; loss of endothelial support → endothelial cell dysfunction; capillary occlusion → retinal ischaemia → VEGF production"
+                }
+              ]
+            },
+            {
+              "title": "Classification (ETDRS-based)",
+              "children": [
+                {
+                  "title": "NPDR (Non-Proliferative Diabetic Retinopathy)",
+                  "children": [
+                    {
+                      "title": "Mild NPDR: microaneurysms only; ≥1 microaneurysm"
+                    },
+                    {
+                      "title": "Moderate NPDR: microaneurysms + dot-blot haemorrhages + hard exudates ± soft exudates; any severity less than severe"
+                    },
+                    {
+                      "title": "Severe NPDR (4:2:1 rule): any one of: haemorrhages/MAs in all 4 quadrants, VB (venous beading) in ≥2 quadrants, IRMA in ≥1 quadrant; 50% progress to PDR in 1 year"
+                    },
+                    { "title": "Very severe NPDR: two or more 4:2:1 criteria" }
+                  ]
+                },
+                {
+                  "title": "PDR (Proliferative Diabetic Retinopathy)",
+                  "children": [
+                    {
+                      "title": "NVD (new vessels on disc) or NVE (new vessels elsewhere); traction from fibrovascular proliferation"
+                    },
+                    {
+                      "title": "High-risk PDR: NVD >1/3 disc area, NVD + VH, NVE >½ disc area + VH; treat immediately"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Screening",
+              "children": [
+                {
+                  "title": "T1DM: screen at 5 years after diagnosis; T2DM: screen at diagnosis (may already have DR)"
+                },
+                {
+                  "title": "Frequency: no DR → every 1-2 years; mild NPDR → annually; moderate-severe NPDR → every 3-6 months; PDR → every 2-3 months"
+                },
+                {
+                  "title": "Pregnancy + DM: screen at first trimester; every trimester if DR present; post-partum if advanced"
+                }
+              ]
+            },
+            {
+              "title": "Systemic Management",
+              "children": [
+                {
+                  "title": "Most important: optimise glycaemic control (HbA1c <7%), blood pressure (<130/80mmHg), lipids (statins)"
+                },
+                {
+                  "title": "DCCT (T1DM): intensive glycaemic control reduced DR by 76%, progression 54%; UKPDS (T2DM): similar benefits"
+                },
+                {
+                  "title": "Fenofibrate (lipid-lowering): reduces DR progression independent of lipid-lowering; FIELD + ACCORD trials; add for progressive DR despite good glycaemic/lipid control"
+                },
+                {
+                  "title": "Semaglutide/GLP-1 agonists: HbA1c lowering → initial worsening of DR (rapid fall phenomenon); monitor DR after starting"
+                }
+              ]
+            },
+            {
+              "title": "Treatment",
+              "children": [
+                {
+                  "title": "NPDR (no CI-DME): observe (mild-moderate); consider PRP or anti-VEGF for severe NPDR in high-risk settings (fellow eye with PDR, upcoming cataract/pregnancy)"
+                },
+                {
+                  "title": "PRP (panretinal photocoagulation): >1200 burns to peripheral avascular retina; eliminates ischaemia → reduces VEGF → regression of NV; DRS + ETDRS established; causes: peripheral field loss, night vision, colour vision reduction; performed in 2-4 sessions"
+                },
+                {
+                  "title": "Anti-VEGF for PDR: PROTOCOL S trial: ranibizumab q4 weeks non-inferior to PRP for VA; fewer side effects; allows DME treatment simultaneously; but requires compliance; PRP remains standard if follow-up unreliable"
+                },
+                {
+                  "title": "Vitrectomy (PPV): for TRD threatening macula, non-clearing VH (>3-6 months), combined TRD/RRD, DRTRD involving fovea; use endolaser intraoperatively; may need SO if high PVR risk"
+                }
+              ]
+            },
+            {
+              "title": "Diabetic Macular Oedema (DMO/DME)",
+              "children": [
+                {
+                  "title": "Most common cause of vision loss in diabetes; breakdown of inner BRB → fluid accumulates in retina"
+                },
+                {
+                  "title": "CI-DME (centre-involving DME): foveal involvement on OCT; main treatment target"
+                },
+                {
+                  "title": "OCT features: intraretinal cysts (IRF), subretinal fluid (SRF), thickened fovea, disorganisation of inner retinal layers (DRIL) = poor prognosis marker, RNFL hyperreflective spots (hard exudates)"
+                },
+                {
+                  "title": "Anti-VEGF first-line: ranibizumab (RISE/RIDE), bevacizumab (DRCR.net Protocol T), aflibercept (VISTA/VIVID), faricimab (YOSEMITE/RHINE) — all effective; aflibercept superior in eyes with VA <69 ETDRS letters (Protocol T)"
+                },
+                {
+                  "title": "DRCR.net Protocol T: at 1 year, aflibercept superior when baseline VA ≤69 letters; all three agents equivalent for better baseline VA"
+                },
+                {
+                  "title": "Intravitreal steroids (Ozurdex, Iluvien): for anti-VEGF non-responders, pseudophakic eyes, patients unable to commit to monthly injections; higher IOP + cataract risk"
+                },
+                {
+                  "title": "Focal/grid laser: ETDRS standard historically; now adjunct (not first-line); for non-foveal CI-DME or as adjunct to anti-VEGF"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Retinal Vascular Diseases",
+          "children": [
+            {
+              "title": "Hypertensive Retinopathy",
+              "children": [
+                {
+                  "title": "Keith-Wagener-Barker classification: Grade 1 (mild arteriolar narrowing), Grade 2 (focal/generalised narrowing, AV nipping), Grade 3 (Grade 2 + flame haemorrhages + CWS + hard exudates), Grade 4 (Grade 3 + disc oedema = hypertensive emergency)"
+                },
+                {
+                  "title": "AV nipping: arteriole compression of vein at crossing; predisposes to BRVO"
+                },
+                {
+                  "title": "CWS (cotton wool spots): ischaemia of nerve fibre layer; appear white, fluffy; resolve in 4-12 weeks"
+                },
+                {
+                  "title": "Hypertensive choroidopathy: Elschnigspots (RPE infarcts over occluded choriocapillaris); Siegrist streaks (linear RPE pigment changes); eclampsia/malignant HTN"
+                }
+              ]
+            },
+            {
+              "title": "Retinal Vein Occlusion (RVO)",
+              "children": [
+                {
+                  "title": "CRVO (Central Retinal Vein Occlusion)",
+                  "children": [
+                    {
+                      "title": "Occlusion at lamina cribrosa level; disc oedema + haemorrhages in all 4 quadrants ('blood and thunder'); dilated tortuous veins; may have VA loss"
+                    },
+                    {
+                      "title": "Ischaemic vs non-ischaemic: ischaemic = >10 disc areas of capillary non-perfusion on FFA; poor VA (<6/60); RAPD; high risk of rubeosis (NVI; 33% within 3 months = '90-day glaucoma'); ERG may show b-wave reduction"
+                    },
+                    {
+                      "title": "Risk factors: hypertension (most common), hyperviscosity, thrombophilia, glaucoma, OCP use; workup: BP, FBC, ESR, lipids, coagulation, hypercoagulable panel if young"
+                    },
+                    {
+                      "title": "Macular oedema: anti-VEGF first-line (ranibizumab CRUISE trial, aflibercept GALILEO/COPERNICUS, bevacizumab off-label); OZURDEX (dexamethasone implant) for non-responders"
+                    },
+                    {
+                      "title": "Ischaemic CRVO: PRP when NV develops; prompt NVI treatment; Ahmed valve/trabeculectomy for NVG; anti-VEGF reduces rubeosis progression"
+                    }
+                  ]
+                },
+                {
+                  "title": "BRVO (Branch Retinal Vein Occlusion)",
+                  "children": [
+                    {
+                      "title": "Occlusion at AV crossing; haemorrhages + oedema in one sector; superior temporal most common (corresponds to nasal inferior visual field loss)"
+                    },
+                    {
+                      "title": "BVOS trial: sector laser for macular oedema (±VA gain); now replaced by anti-VEGF"
+                    },
+                    {
+                      "title": "Anti-VEGF: ranibizumab (BRAVO trial), aflibercept (VIBRANT), bevacizumab off-label; first-line for ME"
+                    },
+                    {
+                      "title": "NVE from BRVO: sector PRP to involved area; anti-VEGF for regression"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Arterial Occlusive Disease",
+              "children": [
+                {
+                  "title": "CRAO (Central Retinal Artery Occlusion)",
+                  "children": [
+                    {
+                      "title": "Sudden painless monocular vision loss; VA usually LP to CF; RAPD; retinal whitening (ischaemic oedema of inner layers); cherry-red spot at fovea (choroidal circulation shows through thin fovea where inner layers absent)"
+                    },
+                    {
+                      "title": "Cherry-red spot: preserved red fovea contrasting with surrounding white ischaemic retina; resolves as oedema clears → leaves pale atrophic retina"
+                    },
+                    {
+                      "title": "Causes: embolism (carotid plaque most common; cardiac; fat; calcific), thrombosis, GCA (elderly; bilateral; urgent), vasculitis; workup = stroke protocol (same day; urgent)"
+                    },
+                    {
+                      "title": "CRA spared if cilioretinal artery present: central VA preserved; segmental whitening sparing papillomacular bundle area"
+                    },
+                    {
+                      "title": "Treatment: no proven treatment; window is <4-6 hours; IOP-lowering (AC tap, topical), ocular massage, carbogen (5% CO₂), tPA (intra-arterial thrombolysis if <4.5h; highly selected; EAGLE trial no benefit of IV tPA)"
+                    },
+                    {
+                      "title": "CRAO = stroke equivalent: 5% stroke in first week; cardioembolic workup + carotid Doppler + cardiac echo + Holter monitor; aspirin; liaise with stroke team"
+                    }
+                  ]
+                },
+                {
+                  "title": "BRAO (Branch Retinal Artery Occlusion)",
+                  "children": [
+                    {
+                      "title": "Sudden visual field loss corresponding to occluded artery territory; usually temporal branch; whitening along affected arteriole distribution; emboli often visible at bifurcation"
+                    },
+                    {
+                      "title": "Hollenhorst plaque: bright yellow refractile cholesterol emboli (carotid); calcific emboli: dull white (cardiac valvular); fibrin-platelet: dull grey"
+                    },
+                    {
+                      "title": "Visual field recovery: ~30% improve; workup same as CRAO"
+                    }
+                  ]
+                },
+                {
+                  "title": "Amaurosis fugax (transient monocular visual loss): complete or partial monocular vision loss seconds-minutes; embolic most common; same workup as CRAO; indicates high risk of subsequent CRAO/stroke; urgent evaluation"
+                },
+                {
+                  "title": "Cotton-wool spots: ischaemia/infarction of nerve fibre layer; list of causes: HTN, DM, HIV retinopathy, CRVO, CRAO, vasculitis, anaemia, high-altitude retinopathy, Purtscher, radiation; self-resolve weeks; may leave NFL defect"
+                }
+              ]
+            },
+            {
+              "title": "Ocular Ischaemic Syndrome (OIS)",
+              "children": [
+                {
+                  "title": "Carotid artery occlusion (>90% stenosis) → chronic ocular hypoperfusion"
+                },
+                {
+                  "title": "Signs: dilated tortuous veins (low-pressure, not pulsatile like RVO), dot/blot haemorrhages mid-peripheral, NVE/NVI, low IOP (paradoxically low), prolonged arteriovenous transit on FFA, asymmetric DR"
+                },
+                {
+                  "title": "Symptoms: dull periorbital ache; prolonged visual recovery after bright light (photostress test); amaurosis fugax"
+                },
+                {
+                  "title": "Treatment: carotid endarterectomy/stenting (only definitive treatment); PRP for NV; anti-VEGF; treat cardiovascular risk factors; 5-year mortality 40% (cardiovascular)"
+                }
+              ]
+            },
+            {
+              "title": "Arterial Macroaneurysm",
+              "children": [
+                {
+                  "title": "Acquired focal dilatation of retinal artery; elderly women; associated with HTN; superior temporal artery most common; often found at AV crossing"
+                },
+                {
+                  "title": "Presents with haemorrhage (pre-retinal, intraretinal, subretinal, VH) or hard exudate ring near fovea; may spontaneously regress"
+                },
+                {
+                  "title": "Treatment: observe (most resolve spontaneously); laser for symptomatic (foveal exudate, non-resolving); anti-VEGF for oedema; control hypertension"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Other Retinal Vascular Diseases",
+          "children": [
+            {
+              "title": "Sickle Cell Retinopathy",
+              "children": [
+                {
+                  "title": "HbSC > HbSS for proliferative disease (SS has more systemic disease, less peripheral); peripheral vascular occlusions → ischaemia → NV"
+                },
+                {
+                  "title": "Non-proliferative: 'salmon-patch' haemorrhages (fresh blood periphery), 'schisis cavity' (haemolysis), 'iridescent spots' (haemosiderin), 'black sunbursts' (RPE hyperplasia after haemorrhage)"
+                },
+                {
+                  "title": "Proliferative (Goldberg classification): Stage 1 (peripheral arteriole occlusion) → 2 (peripheral arteriolar-venular anastomosis) → 3 (NV = 'sea fan' fan-shaped neovascularisation) → 4 (VH) → 5 (TRD)"
+                },
+                {
+                  "title": "Treatment: laser for stage 3 (feeder vessel photocoagulation or scatter); vitrectomy for VH/TRD; avoid: CAIs (acidosis worsens sickling), tight blood pressure management; DO NOT lower IOP with acetazolamide in anterior segment (sickling in AC)"
+                }
+              ]
+            },
+            {
+              "title": "CMO (Cystoid Macular Oedema)",
+              "children": [
+                {
+                  "title": "Causes: post-cataract surgery (Irvine-Gass), uveitis, DR, CRVO/BRVO, RP (10-25%), ERM, drug-induced (niacin, fingolimod, paclitaxel, tamoxifen)"
+                },
+                {
+                  "title": "Pathophysiology: breakdown of blood-retinal barrier → fluid accumulates in OPL (outer plexiform layer) honeycomb cystic pattern on OCT; petaloid pattern on FFA"
+                },
+                {
+                  "title": "Treatment: topical NSAID + steroid (post-surgical); anti-VEGF; intravitreal steroids; acetazolamide (RP-related CMO, epinephrine-induced); treat underlying cause"
+                }
+              ]
+            },
+            {
+              "title": "Coats Disease",
+              "children": [
+                {
+                  "title": "Idiopathic retinal telangiectasia + exudation; unilateral; males (80%); children (mean age 8-10) and young adults"
+                },
+                {
+                  "title": "Massive lipid-rich exudation; exudative RD; leukocoria/strabismus; distinguish from Rb (no calcification, no family history)"
+                },
+                {
+                  "title": "Stages: 1 (telangiectasia only) → 2A (extrafoveal exudate) → 2B (foveal exudate) → 3A (subtotal RD) → 3B (total RD) → 4 (total RD + glaucoma) → 5 (end-stage)"
+                },
+                {
+                  "title": "Treatment: laser photocoagulation + cryotherapy to telangiectasia (stages 1-2); anti-VEGF adjunct; SB + drainage for RD (stage 3); enucleation for painful blind eye"
+                }
+              ]
+            },
+            {
+              "title": "Macular Telangiectasia (MacTel)",
+              "children": [
+                {
+                  "title": "MacTel Type 1: unilateral; men; exudative; associated with Coats; rare"
+                },
+                {
+                  "title": "MacTel Type 2: most important; bilateral symmetric; equal sex; temporal to fovea; atrophic; associated with systemic disease (DM2, hypertension, low serine levels)"
+                },
+                {
+                  "title": "MacTel Type 2 OCT: temporal foveal cavitation, EZ disruption, retinal pigment migration (inner retinal pigment), crystalline deposits, CNV (late)"
+                },
+                {
+                  "title": "MacTel Type 2 treatment: photocoagulation not beneficial; anti-VEGF for CNV; NTMT-01 (AAV-delivered CNTF neuroprotection) in trials"
+                }
+              ]
+            },
+            {
+              "title": "Phakomatoses (Retinal Vascular Hamartomas)",
+              "children": [
+                {
+                  "title": "Von Hippel-Lindau: VHL gene (3p25; tumour suppressor); AD; retinal capillary haemangioblastoma (peripheral; feeding artery + draining vein; exudation); CNS haemangioblastoma + clear cell RCC + phaeochromocytoma"
+                },
+                {
+                  "title": "Treatment retinal haemangioblastoma: laser (small peripheral), cryotherapy, PDT, anti-VEGF, vitrectomy (TRD/VH); treat BEFORE exudation reaches macula; screen family members; annual ophthalmology"
+                },
+                {
+                  "title": "Wyburn-Mason: unilateral retinal arteriovenous malformation (AVM) + intracranial AVM; no treatment; risk of intracranial haemorrhage"
+                },
+                {
+                  "title": "Retinal cavernous haemangioma: cluster of saccular aneurysms ('bunch of grapes'); whitish fibrous tissue; little exudation; associated with intracranial cavernomas; observe if asymptomatic"
+                }
+              ]
+            },
+            {
+              "title": "Other Vascular Conditions",
+              "children": [
+                {
+                  "title": "Radiation retinopathy: delayed 6 months to years after radiation; DR-like (microaneurysms, CWS, NV); teletherapy dose-dependent (>45Gy risk); proton beam, plaque radiotherapy; anti-VEGF for NV/oedema; PDT for NV"
+                },
+                {
+                  "title": "Valsalva retinopathy: sudden increase intrathoracic pressure → sudden IOP rise → rupture of superficial perifoveal capillaries → preretinal/sub-ILM haemorrhage; usually paracentral; spontaneous resolution; Nd:YAG to decompress if fovea threatened"
+                },
+                {
+                  "title": "Purtscher retinopathy: acute post-traumatic (head/chest/long bone/crush injury) or Purtscher-like (pancreatitis, fat embolism, childbirth, renal failure, autoimmune); bilateral white retinal patches + haemorrhages around disc + CWS from complement-activated leucocyte aggregation; Purtscher flecken = angular white spots; treat underlying cause; variable recovery"
+                },
+                {
+                  "title": "Terson syndrome: vitreous haemorrhage from subarachnoid or subdural haemorrhage; arterial pressure transmitted through subarachnoid space to optic nerve → sub-ILM and VH; treat with vitrectomy if VH does not clear; prognosis depends on neurological outcome"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Retinopathy of Prematurity (ROP)",
+          "children": [
+            {
+              "title": "Pathophysiology",
+              "children": [
+                {
+                  "title": "Phase 1: premature birth → loss of maternal IGF-1 + VEGF → vaso-obliteration (retinal vessels regress)"
+                },
+                {
+                  "title": "Phase 2: relative hypoxia of avascular retina → VEGF upregulation → pathological neovascularisation at vascularised/avascular junction"
+                }
+              ]
+            },
+            {
+              "title": "Classification",
+              "children": [
+                {
+                  "title": "Zone I: posterior; circle with optic disc at centre, radius = 2× disc-fovea distance; most severe zone"
+                },
+                {
+                  "title": "Zone II: circle from Zone I edge to nasal ora serrata; temporal equator"
+                },
+                { "title": "Zone III: remaining temporal crescent" },
+                {
+                  "title": "Stage 1: demarcation line (flat white line at vascularised/avascular junction)"
+                },
+                {
+                  "title": "Stage 2: ridge (raised 3D structure at junction; white/pink)"
+                },
+                {
+                  "title": "Stage 3: ridge + extraretinal fibrovascular proliferation (NV extending into vitreous)"
+                },
+                {
+                  "title": "Stage 4: partial RD; 4A (fovea spared) vs 4B (fovea involved)"
+                },
+                { "title": "Stage 5: total RD" },
+                {
+                  "title": "Plus disease: dilation + tortuosity of posterior retinal vessels ≥2 quadrants; indicates active disease; pre-plus = not quite meeting criteria"
+                },
+                {
+                  "title": "Aggressive ROP (A-ROP; formerly AP-ROP): Zone I/posterior Zone II; rapid progression; prominent plus disease without classic staging; treat immediately"
+                }
+              ]
+            },
+            {
+              "title": "Screening",
+              "children": [
+                {
+                  "title": "Criteria: BW <1500g OR GA <32 weeks; selected 1500-2000g with unstable course (oxygen, sepsis)"
+                },
+                {
+                  "title": "First exam: 31 weeks PMA (postmenstrual age) or 4 weeks postnatal, whichever later"
+                },
+                {
+                  "title": "Intervals: Zone I no ROP → every 1 week; Zone II no ROP → every 1-2 weeks; Zone I stage 1-2 → every week; Type 1 → treat within 72h"
+                }
+              ]
+            },
+            {
+              "title": "Treatment",
+              "children": [
+                {
+                  "title": "Type 1 (treat): Zone I any stage with plus; Zone I Stage 3 without plus; Zone II Stage 2 or 3 with plus"
+                },
+                {
+                  "title": "Type 2 (observe closely): Zone I Stage 1 or 2 without plus; Zone II Stage 3 without plus"
+                },
+                {
+                  "title": "Anti-VEGF (bevacizumab, ranibizumab): intravitreal; rapid regression; allows continued vascularisation toward periphery (laser ablates zone III permanently); preferred for Zone I, A-ROP; recurrence possible (months later) → continued screening"
+                },
+                {
+                  "title": "BEAT-ROP trial: bevacizumab superior to laser for Zone I Stage 3+ ROP; no difference for Zone II"
+                },
+                {
+                  "title": "Laser photocoagulation: ablates avascular retina; permanent destruction of zone III; gold standard for Zone II disease; 1200-1800 confluent burns to avascular zone"
+                },
+                {
+                  "title": "Surgery Stage 4-5: SB (scleral buckle) for Stage 4A/B with rhegmatogenous component; vitrectomy for Stage 4B/5; prognosis poor for Stage 5 (fibrous membrane, macula detached)"
+                }
+              ]
+            },
+            {
+              "title": "Late sequelae: high myopia, strabismus, amblyopia, angle-closure glaucoma, RD (risk remains lifelong); regular ophthalmology follow-up after discharge"
+            }
+          ]
+        },
+
+        {
+          "title": "Choroidal Disease",
+          "children": [
+            {
+              "title": "Central Serous Chorioretinopathy (CSC)",
+              "children": [
+                {
+                  "title": "Type A (acute): young-middle aged males (male:female 6:1); 'type A' personality; SRF beneath neurosensory retina; unilateral; acute blurred vision + metamorphopsia; spontaneous resolution 85% within 3-4 months"
+                },
+                {
+                  "title": "Type B (chronic): older; bilateral; persistent SRF >3-4 months; diffuse RPE atrophy; 'bearing track' RPE changes; may develop CNV"
+                },
+                {
+                  "title": "Risk factors: corticosteroids (topical/systemic/inhaled; most common precipitant), Cushing syndrome, hypertension, OSA, stress, Helicobacter pylori, testosterone"
+                },
+                {
+                  "title": "Imaging: FFA = 'ink blot' (expanding spot) or 'smokestack' (10%; plume of fluorescein ascending and mushrooming); OCT = SRF + RPE detachment; ICGA = choroidal venous dilation + hyperfluorescence = pachychoroid; FAF = hyper-AF from lipofuscin in chronic"
+                },
+                {
+                  "title": "Treatment: stop steroids; observe 3 months (acute); focal thermal laser (outside fovea; shortens duration; may cause scotoma); PDT (half-dose verteporfin; first-line for chronic/subfoveal); mineralocorticoid antagonists (eplerenone, spironolactone; emerging evidence); anti-VEGF (limited evidence); thermal laser does NOT treat chronic diffuse"
+                }
+              ]
+            },
+            {
+              "title": "Choroidal Folds",
+              "children": [
+                {
+                  "title": "Folds in Bruch membrane-choroid-RPE complex; horizontal folds (temporal to disc); alternating hyper/hypo-AF + FFA lines"
+                },
+                {
+                  "title": "Causes: orbital mass, TED (compressive), hypotony, posterior scleritis, long hyperopic eye, scleral buckle, choroidal tumour, intracranial hypertension"
+                }
+              ]
+            },
+            {
+              "title": "Choroidal Hemangiomas",
+              "children": [
+                {
+                  "title": "Circumscribed: solitary; posterior pole; orange-red elevated; exudative RD; treat with PDT (gold standard) or photcoagulation; distinguish from amelanotic melanoma"
+                },
+                {
+                  "title": "Diffuse: Sturge-Weber syndrome; 'tomato ketchup fundus' (diffuse orange-red); exudative RD; secondary glaucoma; PDT + laser; poor prognosis"
+                }
+              ]
+            },
+            {
+              "title": "Uveal effusion syndrome: non-rhegmatogenous shifting exudative RD; abnormally thick sclera impairs protein egress; nanophthalmos risk factor; treat with scleral windows/vortex vein decompression"
+            },
+            {
+              "title": "BDUMP (bilateral diffuse uveal melanocytic proliferation): paraneoplastic; multiple flat/elevated uveal naevi + rapid bilateral cataracts + exudative RD; associated systemic malignancy (ovary, lung, GI); treat underlying cancer"
+            }
+          ]
+        },
+
+        {
+          "title": "Pathologic Myopia",
+          "children": [
+            {
+              "title": "Definition: AL >26mm or >-6D; global epidemic; estimated 10% of world population by 2050"
+            },
+            {
+              "title": "Retinal changes: posterior staphyloma (outpouching of sclera), lattice degeneration, peripheral breaks, lacquer cracks (Bruch membrane breaks → risk of CNV and subretinal haemorrhage), Fuchs spot (old CNV scar), optic disc tilt/crescent, chorioretinal atrophy"
+            },
+            {
+              "title": "Myopic CNV: type 2 (classic); smaller than AMD CNV; better prognosis; anti-VEGF is treatment of choice (ranibizumab RADIANCE trial; bevacizumab off-label)"
+            },
+            {
+              "title": "Myopic traction maculopathy (MTM): vitreous traction + staphyloma contour mismatch → foveoschisis + foveal detachment + macular hole; OCT staged (MTS classification); vitrectomy + ILM peeling ± SO for advanced cases"
+            },
+            {
+              "title": "Prevention of progression: atropine 0.01%, orthokeratology, MiSight CL, DIMS spectacles, outdoor time >2hrs/day"
+            }
+          ]
+        },
+
+        {
+          "title": "Retinal Inflammation (Cross-reference Ch 09 Uveitis)",
+          "children": [
+            {
+              "title": "White Dot Syndromes Summary",
+              "children": [
+                {
+                  "title": "APMPPE: young adults; bilateral; acute visual loss; placoid lesions; FFA early block late stain; self-limited; r/o cerebral vasculitis"
+                },
+                {
+                  "title": "Birdshot: HLA-A29; bilateral; cream lesions; ERG monitoring; cyclosporine/MMF long-term"
+                },
+                {
+                  "title": "Serpiginous: geographic spread from disc; TB-serpiginous identical → IGRA; poor prognosis if foveal"
+                },
+                {
+                  "title": "MFC + PIC: PIC (young myopic women; no vitritis; high CNV risk); MFC (vitritis present; anti-VEGF for CNV; systemic IMT)"
+                },
+                {
+                  "title": "MEWDS: young women; post-viral; foveal granularity; self-limited; excellent prognosis"
+                }
+              ]
+            },
+            {
+              "title": "Infectious Retinal Disease Summary",
+              "children": [
+                {
+                  "title": "CMV retinitis: pizza pie; CD4 <50; valganciclovir; HAART; IRU after immune recovery"
+                },
+                {
+                  "title": "ARN: VZV/HSV; peripheral necrosis + arteritis + vitritis; IV acyclovir + oral prophylaxis; prophylactic laser barrier for RD prevention"
+                },
+                {
+                  "title": "Toxoplasmosis: headlight in fog; TMP-SMX + steroids; self-limited if immunocompetent"
+                },
+                {
+                  "title": "DUSN: nematode; laser to visible worm; albendazole if not visible"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Hereditary Retinal & Choroidal Disease",
+          "children": [
+            {
+              "title": "Colour Vision Deficiencies",
+              "children": [
+                {
+                  "title": "Red-green: X-linked; males (8%); females rare (0.4%); OPN1LW (L-cone) + OPN1MW (M-cone) genes on Xq28"
+                },
+                {
+                  "title": "Protan: L-cone defect; red-axis affected; more dangerous (traffic light confusion)"
+                },
+                {
+                  "title": "Deutan: M-cone defect; most common; less impactful"
+                },
+                {
+                  "title": "Tritan: blue-yellow; rare; AD (OPN1SW); acquired causes (glaucoma, CSC) mimic"
+                },
+                {
+                  "title": "Achromatopsia: absence of all cone function; AR (CNGA3, CNGB3); nystagmus + photophobia + no colour vision + VA ~20/200; ERG: absent photopic; gene therapy in trials"
+                }
+              ]
+            },
+            {
+              "title": "Night Vision Disorders",
+              "children": [
+                {
+                  "title": "CSNB (congenital stationary night blindness): non-progressive; night blindness from birth; normal fundus"
+                },
+                {
+                  "title": "Complete CSNB (Schubert-Bornschein): reduced b-wave with normal a-wave (negative ERG); X-linked (NYX gene); myopia"
+                },
+                {
+                  "title": "Incomplete CSNB: CACNA1F; X-linked; less severe; both a and b affected"
+                },
+                {
+                  "title": "Fundus albipunctatus: AR (RDH5); static night blindness; white dots throughout fundus; EOG normal; delayed dark adaptation but recovers with prolonged dark"
+                },
+                {
+                  "title": "Oguchi disease: AR (SAG or GRK1); night blindness; golden metallic fundus in light (Mizuo-Nakamura phenomenon; reverts to normal colour after dark adaptation)"
+                }
+              ]
+            },
+            {
+              "title": "Photoreceptor Dystrophies",
+              "children": [
+                {
+                  "title": "Retinitis Pigmentosa (RP)",
+                  "children": [
+                    {
+                      "title": "Most common IRD; 1:4000; progressive rod → cone dysfunction; AD (25%; rhodopsin RHO most common, PRPF mutations), AR (25%; ABCA4, PDE6 genes), X-linked (15%; RPGR; most severe)"
+                    },
+                    {
+                      "title": "Symptoms: night blindness (first) → progressive peripheral visual field loss (ring scotoma) → tunnel vision → eventual central VA loss"
+                    },
+                    {
+                      "title": "Signs: bone spicule pigmentation (mid-peripheral), arteriolar attenuation, disc pallor (waxy), CMO (10-25%), PSC cataract"
+                    },
+                    {
+                      "title": "ERG: rod response extinguished first → mixed maximal reduced → eventually flat"
+                    },
+                    {
+                      "title": "Associations: Usher syndrome (RP + sensorineural deafness; most common cause syndromic RP), Bardet-Biedl syndrome, Refsum disease (elevated phytanic acid), Kearns-Sayre (mitochondrial), NARP (mitochondrial), Abetalipoproteinaemia (Bassen-Kornzweig), RP + hearing loss + obesity = Usher"
+                    },
+                    {
+                      "title": "Treatment: no approved cure; vitamin A palmitate 15,000 IU/day (BERSON trial; slows ERG decline; avoid in pregnancy); lutein supplement; low vision aids; DHA omega-3; avoid vitamin E supplementation; CMO → acetazolamide/dorzolamide; gene therapy in development for specific mutations (RPGR, CNGA3, CNGB3 trials)"
+                    }
+                  ]
+                },
+                {
+                  "title": "LCA (Leber Congenital Amaurosis): most severe early-onset IRD; birth-1 year; flat ERG; oculo-digital sign; nystagmus; genes: RPE65, CEP290, GUCY2D, CRX, RPGRIP1; voretigene neparvovec (Luxturna; FDA 2017) for RPE65-LCA; subretinal AAV2 injection; remarkable vision improvement"
+                },
+                {
+                  "title": "Choroideremia: X-linked (CHM; encodes REP-1); progressive RPE + choroid + photoreceptor atrophy in males; carriers have patchy RPE changes; night blindness → tunnel vision; gene therapy (AAV2-REP1) in trials"
+                },
+                {
+                  "title": "Gyrate atrophy: AR (OAT; ornithine aminotransferase); hyperornithinaemia; circular areas of chorioretinal atrophy starting mid-periphery; arginine-restricted diet + pyridoxine"
+                }
+              ]
+            },
+            {
+              "title": "Macular Dystrophies",
+              "children": [
+                {
+                  "title": "Stargardt Disease",
+                  "children": [
+                    {
+                      "title": "Most common juvenile macular dystrophy; AR (ABCA4; ATP-binding cassette transporter); accumulation of bisretinoid lipofuscin (A2E) in RPE → RPE death → photoreceptor loss"
+                    },
+                    {
+                      "title": "Onset 6-20 years; central VA loss; colour vision reduced; bull's eye maculopathy; pisciform flecks (yellow-white); 'beaten bronze' macula"
+                    },
+                    {
+                      "title": "FFA: dark choroid (choroidal fluorescence blocked by lipofuscin in RPE; 80%); late RPE staining; pisciform staining"
+                    },
+                    {
+                      "title": "ERG: normal or mildly reduced initially; mfERG abnormal macular function; EOG usually normal"
+                    },
+                    {
+                      "title": "Treatment: avoid vitamin A (increases A2E); low-vision aids; sunglasses; gene therapy (AAV5-ABCA4 subretinal trials); fenretinide (visual cycle inhibitor) trials"
+                    }
+                  ]
+                },
+                {
+                  "title": "Best vitelliform macular dystrophy: AD (BEST1/bestrophin-1 Cl⁻ channel); EOG Arden ratio <1.5 (pathognomonic; reduced light-rise); stages: pre-vitelliform → vitelliform (egg-yolk) → scrambled egg → pseudohypopyon → atrophic/scar; VA usually preserved until late; no treatment; CNV → anti-VEGF"
+                },
+                {
+                  "title": "PRPH2/RDS-related dystrophies: peripherin/RDS gene; highly variable; pattern dystrophies, butterfly, vitelliform, RP-like; AD; variable expressivity; prognosis depends on pattern"
+                },
+                {
+                  "title": "North Carolina macular dystrophy (MCDR1): AD; PRDM13 gene; non-progressive; phenotype highly variable (drusen-like to deep chorioretinal excavation); not dystrophy; prognosis generally good"
+                },
+                {
+                  "title": "Sorsby fundus dystrophy: AD (TIMP3); complement/drusen accumulation; night blindness + central scotoma mid-life; responds to vitamin A (unlike most dystrophies); choroidal neovascularisation; anti-VEGF"
+                }
+              ]
+            },
+            {
+              "title": "Inner Retinal Dystrophies",
+              "children": [
+                {
+                  "title": "X-linked juvenile retinoschisis (XLRS): RS1 gene (retinoschisin); bilateral foveal schisis (spoke-wheel/stellate on OCT); peripheral schisis in ~50%; negative ERG (b:a <1); topical carbonic anhydrase inhibitors may help; gene therapy (AAV8-RS1) trials"
+                },
+                {
+                  "title": "Enhanced S-cone syndrome (Goldmann-Favre): AR (NR2E3); excess S-cones; cystic maculopathy + retinoschisis + pigmentary changes; night blindness; ERG: enhanced S-cone response + reduced rod response"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Retinal Degenerations with Systemic Disease",
+          "children": [
+            {
+              "title": "Usher syndrome: AR; most common cause hereditary deaf-blindness; USH2A (most common; type 2A) + MYO7A (type 1B); type 1 = profound hearing loss + RP + no vestibular function; type 2 = moderate hearing loss + RP + intact vestibular; type 3 = progressive; cochlear implants for hearing; RP treatment supportive"
+            },
+            {
+              "title": "Bardet-Biedl syndrome (BBS): AR; ciliopathy; >20 BBS genes; RP + obesity + polydactyly + hypogonadism + renal anomalies + intellectual disability; manage complications; setmelanotide (MC4R agonist) for obesity"
+            },
+            {
+              "title": "Kearns-Sayre syndrome: mitochondrial deletion; before age 20; CPEO + ptosis + pigmentary retinopathy + heart block (must get ECG; pacemaker if needed) + cerebellar ataxia"
+            },
+            {
+              "title": "NARP (neurogenic ataxia + RP): mitochondrial mutation (MT-ATP6, T8993G); RP + peripheral neuropathy + ataxia; milder than Leigh disease (same mutation higher heteroplasmy)"
+            },
+            {
+              "title": "Abetalipoproteinaemia (Bassen-Kornzweig): AR (MTTP); fat-soluble vitamin malabsorption; RP + ataxia + acanthocytosis + absent VLDL/LDL; treat with high-dose vitamins A + E + K; spinocerebellar degeneration if untreated"
+            },
+            {
+              "title": "Refsum disease: AR (PHYH/PEX7); inability to oxidise phytanic acid; RP + peripheral neuropathy + deafness + anosmia + cerebellar ataxia; treat with phytanic acid-restricted diet (avoid chlorophyll-containing foods)"
+            },
+            {
+              "title": "Paraneoplastic Retinopathy",
+              "children": [
+                {
+                  "title": "CAR (cancer-associated retinopathy): SCLC most common; anti-recoverin antibodies; bilateral rapidly progressive VA loss; photoreceptor loss; ERG reduced; treat underlying cancer + immunosuppression + IVIG"
+                },
+                {
+                  "title": "MAR (melanoma-associated retinopathy): anti-TRPM1 antibodies (against ON bipolar cells); night blindness + flashes; negative ERG (reduced b-wave); melanoma treated → some improvement"
+                }
+              ]
+            },
+            {
+              "title": "Lysosomal Storage Diseases",
+              "children": [
+                {
+                  "title": "Tay-Sachs (GM2 gangliosidosis type 1): AR (HEXA); cherry-red spot + progressive neurological decline + blindness; Ashkenazi Jewish; diagnosis: hexosaminidase A assay; no treatment"
+                },
+                {
+                  "title": "Niemann-Pick type A: AR (SMPD1); sphingomyelinase deficiency; cherry-red spot + hepatosplenomegaly"
+                },
+                {
+                  "title": "Cherry-red spot differential: CRAO (unilateral, transient), Tay-Sachs, Niemann-Pick, Farber disease, sialidosis, GM1 gangliosidosis, Sandhoff disease"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Drug-Induced Retinal Toxicity",
+          "children": [
+            {
+              "title": "Hydroxychloroquine/Chloroquine (Antimalarials)",
+              "children": [
+                {
+                  "title": "Most important drug retinal toxicity in clinical practice; HCQ more commonly used (lower toxicity than CQ); cumulative dose + daily dose + duration are key risk factors"
+                },
+                {
+                  "title": "Risk: >5 years use; daily dose >5mg/kg/day (HCQ); cumulative dose >1000g; renal disease; tamoxifen use; underlying retinal disease"
+                },
+                {
+                  "title": "Toxicity pattern: pericentral (parafoveal) ring scotoma → 'bull's eye' maculopathy; outer photoreceptor/RPE damage; Asians: more extrafoveal/peripheral pattern (may miss on standard testing)"
+                },
+                {
+                  "title": "Screening (AAO 2016 guidelines): baseline at start, then annual from year 5 (sooner if high-risk); mfERG + SD-OCT + 10-2 Humphrey + FAF (all preferred); Amsler grid insensitive"
+                },
+                {
+                  "title": "Early detection: mfERG and 10-2 HVF most sensitive; SD-OCT shows EZ line disruption; FAF shows hyper-AF ring; once toxicity detected → stop drug; no proven treatment"
+                }
+              ]
+            },
+            {
+              "title": "Other Drug Toxicities",
+              "children": [
+                {
+                  "title": "Thioridazine (phenothiazine): RPE damage; bull's eye maculopathy; nyctalopia; dose-dependent; largely historical"
+                },
+                {
+                  "title": "Tamoxifen: crystalline deposits in inner retina + macular oedema; bilateral; also seen with lower doses than historically thought; OCT shows foveal cystic change"
+                },
+                {
+                  "title": "Vigabatrin (anti-epileptic): irreversible bilateral peripheral visual field constriction; ERG shows reduced oscillatory potentials; screen with Goldmann + ERG before and during treatment"
+                },
+                {
+                  "title": "Ethambutol: optic neuropathy primarily (bilateral centrocecal scotoma); monitor VA + colour vision monthly"
+                },
+                {
+                  "title": "Quinine: massive acute toxicity → negative ERG (b-wave); macular cherry-red spot-like; visual field constriction; dose-related"
+                },
+                {
+                  "title": "Niacin (nicotinic acid): CMO-like macular oedema (unique: FFA does NOT leak = pseudo-CMO, not real BRB breakdown); reversible on stopping"
+                },
+                {
+                  "title": "Fingolimod (S1P modulator for MS): CMO (sight-threatening); baseline OCT before starting; monitor; treat with topical NSAID/steroid; stop drug if severe"
+                },
+                {
+                  "title": "MEK inhibitors (selumetinib, trametinib): serous RD + CMO; usually resolves with dose reduction"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Vitreous & Vitreoretinal Interface Diseases",
+          "children": [
+            {
+              "title": "Posterior Vitreous Detachment (PVD)",
+              "children": [
+                {
+                  "title": "Natural age-related process; vitreous liquefaction → gel collapses → separates from retinal surface; usually occurs 50-70s; myopia → earlier; post-trauma/vitrectomy → induced"
+                },
+                {
+                  "title": "Symptoms: acute floaters (Weiss ring = annular floater from peripapillary glial separation) + photopsias (phosphenes from traction at attachment sites)"
+                },
+                {
+                  "title": "Complications: retinal tear (10-15% symptomatic PVD); horseshoe/flap tear most common; full-thickness macular hole (rare); vitreous haemorrhage"
+                },
+                {
+                  "title": "Management: dilated fundus exam at 6 weeks (most tears within 6 weeks); return immediately if new symptoms; laser treatment if retinal tear found (prevents RD)"
+                }
+              ]
+            },
+            {
+              "title": "Epiretinal Membrane (ERM)",
+              "children": [
+                {
+                  "title": "Proliferation of cells (RPE, fibrous astrocytes, hyalocytes, Müller cells) on ILM surface; contractive → retinal wrinkling (macular pucker)"
+                },
+                {
+                  "title": "Idiopathic (most common; age-related PVD triggers) or secondary (uveitis, RD repair, laser, DM, CRVO)"
+                },
+                {
+                  "title": "Symptoms: metamorphopsia, decreased VA, monocular diplopia; graded on OCT by presence of ectopic inner foveal layers (EIFL = poor prognosis), retinal folds, thickening"
+                },
+                {
+                  "title": "Surgery: PPV + ILM peeling; indicated when VA <20/40 or significant metamorphopsia; most patients improve but rarely return to 20/20; wait 6-12 months (may spontaneously improve)"
+                }
+              ]
+            },
+            {
+              "title": "Vitreomacular Traction (VMT) & Macular Hole",
+              "children": [
+                {
+                  "title": "VMT: incomplete PVD with persistent foveal adhesion; vitreous traction on macula → metamorphopsia, reduced VA, macular pseudohole; OCT diagnosis (foveal distortion with vitreous attached)"
+                },
+                {
+                  "title": "Ocriplasmin (microplasmin): intravitreal; cleaves fibronectin/laminin at VRI; FDA-approved for VMT ± small full-thickness macular hole; 26% PVD induction; more effective in phakic, <1500μm adhesion, no ERM; avoid if large ERM"
+                },
+                {
+                  "title": "Idiopathic Macular Hole (IMH)",
+                  "children": [
+                    {
+                      "title": "Gass stages: Stage 1A (foveal detachment; yellow spot/ring) → 1B (occult hole) → 2 (small full-thickness hole <400μm) → 3 (hole 400μm, opercula; vitreous still attached) → 4 (hole + complete PVD)"
+                    },
+                    {
+                      "title": "OCT: full-thickness defect through all retinal layers; diameter measured at narrowest point (MHD); MHI (macular hole index) = MHD/base diameter; MHI >0.5 = good prognosis for closure"
+                    },
+                    {
+                      "title": "Surgery: PPV + ILM peeling + gas tamponade (C3F8 or SF6); face-down positioning 1-2 weeks; 90-95% closure Stage 2-3; visual recovery dependent on MHD and duration"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Vitreous Opacities",
+              "children": [
+                {
+                  "title": "Asteroid hyalosis: calcium-lipid spheres (hydroxyapatite) suspended in vitreous gel; unilateral (75%); bright white sparkles on BIO ('snow globes'); benign; no treatment; rarely affects VA despite dramatic appearance"
+                },
+                {
+                  "title": "Synchysis scintillans (cholesterolosis): crystalline cholesterol deposits in liquid vitreous (post-haemorrhage); golden sparkles; shift with eye movement; typically in damaged eyes"
+                },
+                {
+                  "title": "Vitreous amyloidosis: bilateral dense vitreous opacification; familial amyloid polyneuropathy (TTR mutations; V30M most common; AD); gel-like vitreous strands; PPV for opacities; tafamidis/inotersen/patisiran for systemic TTR amyloidosis"
+                },
+                {
+                  "title": "Vitreous haemorrhage: causes = PDR (most common), PVD with retinal tear, trauma, Terson, VH from NVE/NVD, sickle cell; B-scan mandatory (r/o RD); manage: observe (clear ~3 months) → PPV if no clearing or RD; avoid anticoagulants"
+                }
+              ]
+            },
+            {
+              "title": "Hereditary Vitreoretinal Disorders",
+              "children": [
+                {
+                  "title": "Stickler syndrome: AD (COL2A1 most common; also COL11A1, COL11A2); optically empty vitreous (type 1; 'membranous') or beaded (type 2); high myopia + RD (50% risk) + hearing loss + joint problems + cleft palate; prophylactic 360° laser recommended"
+                },
+                {
+                  "title": "Wagner syndrome: AD (CSPG2/versican); optically empty vitreous; no systemic features (unlike Stickler); less RD risk; vitreoschisis"
+                },
+                {
+                  "title": "FEVR (familial exudative vitreoretinopathy): incomplete peripheral retinal vascularisation; NV at periphery; similar to ROP without prematurity; AD (FZD4, LRP5, TSPAN12) or X-linked (NDP); treat with laser/anti-VEGF if NV; screen family members"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Retinal Detachment & Predisposing Lesions",
+          "children": [
+            {
+              "title": "Predisposing Lesions",
+              "children": [
+                {
+                  "title": "Lattice degeneration: peripheral retinal thinning with overlying vitreous liquefaction + vitreous adherence at edges; white lattice lines (sclerosed vessels); 8-10% of population; associated with myopia; RD risk 1%; atrophic holes within lattice (low RD risk) vs horseshoe tear at edge (higher risk)"
+                },
+                {
+                  "title": "Retinal breaks (holes): atrophic (full-thickness; round; minimal vitreous traction; lower risk), horseshoe/flap tear (vitreous traction pulls flap; high risk; symptomatic = treat), operculated (flap removed; risk reduced), giant tear (≥90° circumference; very high risk)"
+                },
+                {
+                  "title": "Cystic retinal tufts: vitreoretinal adhesion; small elevated tufts; paravascular; may tear with PVD"
+                },
+                {
+                  "title": "Paving-stone (cobblestone) degeneration: peripheral RPE + outer retinal atrophy; NOT predisposing to RD; common incidental finding"
+                }
+              ]
+            },
+            {
+              "title": "Retinal Detachment Types",
+              "children": [
+                {
+                  "title": "Rhegmatogenous RD (RRD)",
+                  "children": [
+                    {
+                      "title": "Most common; full-thickness break + liquefied vitreous enters subretinal space; risk factors: myopia (most important), male, PVD, trauma, aphakia/pseudophakia, lattice degeneration, hereditary vitreoretinal disorders"
+                    },
+                    {
+                      "title": "Symptoms: floaters + photopsias → shadow/curtain (peripheral field loss = bullous RD approaches); VA loss if macula off"
+                    },
+                    {
+                      "title": "Signs: tobacco dust (Shafer sign = RPE cells in vitreous = pathognomonic of full-thickness break); bullous peripheral RD; undulating on eye movement; retinal break (horseshoe tear at posterior edge of PVD) found with indirect BIO + scleral depression"
+                    },
+                    {
+                      "title": "Prognosis: macula-on RD → VA excellent post-repair (urgent); macula-off <1 week → good VA; macula-off >1 week → poorer VA recovery; elective surgery acceptable for macula-off chronic RD"
+                    }
+                  ]
+                },
+                {
+                  "title": "Traction RD (TRD)",
+                  "children": [
+                    {
+                      "title": "Vitreoretinal membranes contract and pull retina; no break; concave configuration; does not extend to ora serrata; causes: PDR (fibrovascular proliferation), PVR (posterior vitreous contraction after RRD/trauma), sickle cell, FEVR, ROP"
+                    },
+                    {
+                      "title": "Treatment: PPV + membrane dissection; segmentation and delamination of fibrovascular membranes; silicone oil tamponade often needed"
+                    }
+                  ]
+                },
+                {
+                  "title": "Exudative (Serous) RD",
+                  "children": [
+                    {
+                      "title": "No break, no traction; subretinal fluid from RPE/choroidal disease; shifting fluid (moves with gravity); causes: VKH, posterior scleritis, CSC, choroidal tumour, uveal effusion, Coats disease"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Retinoschisis vs RD",
+              "children": [
+                {
+                  "title": "Retinoschisis: splitting within retinal layers (usually OPL in acquired; ONL in XLRS); thin translucent inner layer; absolute scotoma; no shifting fluid; B-scan: immobile low reflectivity; no tobacco dust"
+                },
+                {
+                  "title": "RRD vs retinoschisis: RD: mobile high reflectivity, shifting fluid, Shafer sign, absolute scotoma; retinoschisis: fixed, immobile, relative scotoma, low reflectivity"
+                }
+              ]
+            },
+            {
+              "title": "Prophylactic Treatment",
+              "children": [
+                {
+                  "title": "Treat: symptomatic retinal tears (horseshoe with flap), giant tears, tears with subclinical RD, tears in aphakic/pseudophakic eyes, tears in highly myopic eyes, tears in fellow eye of RD"
+                },
+                {
+                  "title": "Observe: asymptomatic atrophic holes (low risk), asymptomatic horseshoe tears in non-myopic phakic eyes, asymptomatic lattice without tears, paving-stone degeneration"
+                },
+                {
+                  "title": "Methods: laser photocoagulation (3 rows around break; standard) or cryotherapy (if anterior or poor visualisation); chorioretinal scar forms in 2 weeks"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Posterior Segment Trauma",
+          "children": [
+            {
+              "title": "Commotio retinae: inner retinal oedema from blunt trauma; grey-white opacity (Berlin oedema) at posterior pole; photoreceptor disruption; OCT: IS/OS disruption; usually resolves; macular commotio may leave permanent VA loss; no treatment"
+            },
+            {
+              "title": "Choroidal rupture: full-thickness Bruch membrane + RPE + choriocapillaris tear; crescent-shaped concentric to disc; subretinal haemorrhage acutely; CNV weeks-months later → anti-VEGF"
+            },
+            {
+              "title": "Traumatic macular hole: blunt trauma; full-thickness; OCT diagnosis; PPV + ILM peeling; lower closure rate than idiopathic"
+            },
+            {
+              "title": "IOFB (intraocular foreign body): CT orbits (not MRI if metallic); Bacillus cereus or coagulase-negative Staph endophthalmitis; siderosis (iron) or chalcosis (copper) if retained; PPV + IOFB removal + endolaser + SO if needed; prognosis related to zone of entry and associated injuries"
+            },
+            {
+              "title": "OGS (ocular trauma score): calculated from initial VA + rupture + endophthalmitis + perforating injury + retinal detachment + afferent pupillary defect → predicts final VA"
+            },
+            {
+              "title": "Abusive head trauma: bilateral multilayered retinal haemorrhages extending to periphery; retinoschisis; perimacular folds; differentiate from accidental (birth trauma, increased ICP, Terson) → ophthalmology report critical for legal proceedings"
+            },
+            {
+              "title": "Solar retinopathy: phototoxic injury from staring at sun; bilateral foveal lesion; OCT: EZ loss; central scotoma; no proven treatment; counsel on UV protection; partial recovery possible"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "PART III: Therapeutic Topics",
+      "children": [
+        {
+          "title": "Laser & Cryotherapy",
+          "children": [
+            {
+              "title": "Photocoagulation Principles",
+              "children": [
+                {
+                  "title": "Thermal energy absorbed by melanin (RPE/choroid) → protein denaturation; light-to-heat conversion; spot becomes white/cream at end-point; wavelength determines penetration depth + absorption"
+                },
+                {
+                  "title": "Green (532nm): absorbed by melanin + haemoglobin + xanthophyll; standard retinal laser; minimal choroidal penetration; avoid if: pre-retinal haemorrhage (absorbed by blood), subretinal blood (absorbed)"
+                },
+                {
+                  "title": "Yellow (577nm): poor haemoglobin absorption; safer through haemorrhage; subretinal blood barrier less; better for parafoveal"
+                },
+                {
+                  "title": "Red/deep red (647nm/810nm): deeper penetration; choroidal work; transpupillary thermotherapy (TTT) for choroidal tumours"
+                },
+                {
+                  "title": "Pattern scan laser (PASCAL): multiple spots in rapid sequence; reduces pain + time; subthreshold possible (MicroPulse)"
+                }
+              ]
+            },
+            {
+              "title": "Clinical Applications",
+              "children": [
+                {
+                  "title": "PRP (panretinal photocoagulation): 1200-1800+ burns covering peripheral avascular retina; zones 2-3; 500μm spot, 0.1s, threshold (grey-white burn); 2-4 sessions; for PDR, ischaemic CRVO/BRVO NV, sickle cell Stage 3+"
+                },
+                {
+                  "title": "Focal/grid laser for DME: ETDRS protocol; direct treatment of microaneurysms leaking within 500μm of fovea (focal); grid for diffuse oedema zone 500-3000μm from fovea; largely replaced by anti-VEGF"
+                },
+                {
+                  "title": "Laser for retinal breaks: 3 confluent rows around tear; creates chorioretinal adhesion in 2 weeks; power: whitening of retina around break; spot 200-500μm"
+                },
+                {
+                  "title": "PDT (photodynamic therapy): verteporfin (photosensitiser) IV → accumulates in CNV; 689nm laser (non-thermal) → singlet oxygen → vessel closure; half-dose/reduced fluence protocol for CSC; still used for PCV (combination with anti-VEGF)"
+                }
+              ]
+            },
+            {
+              "title": "Cryotherapy",
+              "children": [
+                {
+                  "title": "Extreme cold (-80°C) applied externally through sclera; destroys RPE + photoreceptors + creates chorioretinal adhesion; indirect visualisation required"
+                },
+                {
+                  "title": "Uses: peripheral retinal breaks (when anterior or poor view), ROP treatment (historical; now laser/anti-VEGF), retinal tumours, cyclophotocoagulation (glaucoma)"
+                },
+                {
+                  "title": "Complications: CMO, PVR (especially over-treatment), VH, sympathetic ophthalmia (rare)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Vitreoretinal Surgery & Intravitreal Injections",
+          "children": [
+            {
+              "title": "Pars Plana Vitrectomy (PPV)",
+              "children": [
+                {
+                  "title": "3-port technique: infusion (3.5-4mm from limbus temporally inferior) + two instrument ports (superior temporal + nasal); 23G, 25G (microincision = MIVS), 27G; self-sealing or sutured"
+                },
+                {
+                  "title": "Core vitrectomy → shave vitreous base → membrane peeling → endolaser → tamponade"
+                },
+                {
+                  "title": "Tamponade options: air (1-2 weeks), SF6 20% (2 weeks), C3F8 14% (6-8 weeks), silicone oil (permanent until removed; used for complex RD, PVR, giant tear, trauma)"
+                },
+                {
+                  "title": "PFCL (perfluorocarbon liquid): heavy liquid; intraoperative; flattens retina from behind; removes subretinal fluid; facilitates membrane peeling"
+                }
+              ]
+            },
+            {
+              "title": "RD Surgery",
+              "children": [
+                {
+                  "title": "Pneumatic retinopexy: intravitreal gas + postural positioning + laser/cryo; for superior breaks; phakic; <1 clock hour of break; quick; office procedure; 70-80% success single procedure; disadvantage: requires compliance with positioning; high failure if PVR or inferior breaks"
+                },
+                {
+                  "title": "Scleral buckle (SB): external; silicone band/sponge indents sclera → reduces vitreous traction; drain SRF optionally; cryo or laser to break; 85-90% success; good for young phakic, inferior breaks, no PVR; disadvantages: myopic shift, buckle extrusion, diplopia, anterior segment ischaemia"
+                },
+                {
+                  "title": "PPV + gas: versatile; excellent for posterior breaks, pseudophakic, PVR; 90-95% success; ILM peeling in selected cases; requires gas positioning; cataract induced faster"
+                },
+                {
+                  "title": "PVR (proliferative vitreoretinopathy): RPE + glial cells proliferate on retinal surfaces after RD/trauma → starfold contraction; grading A (vitreous haze) → B (retinal stiffness) → C (fixed folds); PPV + membrane peeling + SO; challenging; multiple surgeries often needed"
+                }
+              ]
+            },
+            {
+              "title": "Macular Surgery",
+              "children": [
+                {
+                  "title": "PPV + ILM peeling + gas: macular hole (90-95% closure Stages 2-3); ERM (PPV + ILM peeling); VMT (PPV or ocriplasmin)"
+                },
+                {
+                  "title": "Submacular haemorrhage: massive subretinal blood → blind spot; pneumatic displacement (C3F8 gas + tPA SRI) or vitrectomy + tPA + PFCL; anti-VEGF if CNV source"
+                }
+              ]
+            },
+            {
+              "title": "Intravitreal Injections",
+              "children": [
+                {
+                  "title": "Technique: povidone-iodine 5% conjunctival; no eyelid speculum touching cornea; measure 3.5mm (phakic) or 3.0mm (pseudophakic) from limbus; inject superotemporal or inferotemporal; check perfusion post-injection; no touching cotton tip to injection site"
+                },
+                {
+                  "title": "Anti-VEGF: ranibizumab, bevacizumab, aflibercept, faricimab, brolucizumab; indications: wet AMD, DME, RVO-ME, CNV, PDR (off-label), myopic CNV"
+                },
+                {
+                  "title": "Steroids: triamcinolone (off-label; 4mg), dexamethasone implant (Ozurdex; 0.7mg; 3-6 months), fluocinolone implant (Iluvien; 3 years); indications: uveitic CMO, post-surgical CMO, non-infectious uveitis"
+                },
+                {
+                  "title": "Anti-complement: pegcetacoplan (GA; APL-2), avacincaptad pegol (GA); complement C3/C5 inhibition; reduce GA progression"
+                },
+                {
+                  "title": "Endophthalmitis risk: 0.019-0.05% per injection; Strep most virulent; povidone-iodine prophylaxis; no spoken words near open eye; no routine topical antibiotics (Strep colonisation risk)"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "title": "Gene Therapy",
+          "children": [
+            {
+              "title": "Principle: deliver functional copy of gene to target cells; vectors: AAV (adeno-associated virus; gold standard for retina; serotypes 2, 5, 8, 9 most used; non-integrating; long-term expression); lentivirus (integrating; RPE cells); non-viral (emerging)"
+            },
+            {
+              "title": "Subretinal injection: precise delivery to RPE and photoreceptors; bleb = local SRF; high transduction efficiency; requires surgical vitrectomy; AAV2, AAV5, AAV8 preferred routes"
+            },
+            {
+              "title": "Intravitreal injection: less invasive; lower transduction of outer retina; better for inner retinal cells (RGC for optogenetics); may require higher dose"
+            },
+            {
+              "title": "Voretigene neparvovec (Luxturna, Spark Therapeutics/Roche): AAV2-RPE65; subretinal; FDA-approved 2017; treats RPE65-LCA/RP; bilateral injections (separate sessions); remarkable improvement in mobility course/VA; price ~$850,000 per eye"
+            },
+            {
+              "title": "Ongoing trials: ABCA4 (Stargardt, subretinal AAV5/AAVS), RPGR (X-linked RP), CHM (choroideremia), CNGB3/CNGA3 (achromatopsia), RS1 (XLRS), GUCY2D (LCA), MYO7A (Usher 1B), RDH12 (LCA13)"
+            },
+            {
+              "title": "Optogenetics: introduce light-sensitive proteins (channelrhodopsins) into surviving inner retinal cells (bipolar cells, RGCs) of degenerate retinas; allows limited vision restoration regardless of original mutation; intravitreal delivery; requires light-amplifying goggles; RST-001, GS030 trials; can restore basic visual function in completely blind patients"
+            },
+            {
+              "title": "Genome editing (CRISPR-Cas9): site-specific DNA cuts; currently in trials for CEP290-LCA (CPCB-RPE1), VEGF reduction for wet AMD; InVivo genome editing of eye - less off-target concerns than systemic"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Fovea: only cones, no inner layers (displaced in Henle fibre layer), avascular (FAZ 0.5mm), thinnest retina, highest acuity; outer 1/3 retina (photoreceptors) nourished by choriocapillaris via RPE diffusion"
+        },
+        {
+          "title": "ERG a-wave = photoreceptors; b-wave = ON bipolar cells/Müller cells; negative ERG (b:a <1) = CSNB, XLRS, siderosis, MAR, ischaemia"
+        },
+        {
+          "title": "EOG Arden ratio <1.85 (reduced) = Best vitelliform macular dystrophy (BEST1 mutation); also fundus flavimaculatus"
+        },
+        {
+          "title": "FFA: hyperfluorescence that enlarges = leakage (wet AMD, CMO, vasculitis); bright but doesn't enlarge = window defect (RPE atrophy); late pooling = CSC/RD"
+        },
+        {
+          "title": "FAF: hyper-AF = active/stressed RPE (lipofuscin); hypo-AF = RPE atrophy (GA margins hyper-AF, central hypo-AF)"
+        },
+        {
+          "title": "AMD genetics: CFH Y402H most important variant (~30-50% risk); ARMS2/HTRA1 second; complement pathway central to AMD pathogenesis"
+        },
+        {
+          "title": "AREDS2 vitamins (C + E + lutein/zeaxanthin + zinc + copper): 25% reduction in progression to advanced AMD for Step 3-4; no beta-carotene (lung cancer in smokers)"
+        },
+        {
+          "title": "GA new treatments: pegcetacoplan (C3 inhibitor) and avacincaptad pegol (C5 inhibitor) FDA-approved 2023; ~20-35% reduction in GA progression vs sham"
+        },
+        {
+          "title": "Anti-VEGF AMD: faricimab (anti-VEGF-A + anti-Ang2; bispecific); brolucizumab (q12wk but retinal vasculitis risk); aflibercept 8mg (high-dose extended dosing)"
+        },
+        {
+          "title": "NPDR severe = 4:2:1 rule (haemorrhages 4 quadrants, VB 2 quadrants, IRMA 1 quadrant); 50% risk PDR in 1 year; consider treatment"
+        },
+        {
+          "title": "DME anti-VEGF: Protocol T: aflibercept superior for VA ≤69 letters at baseline; all similar for better VA; faricimab q4-16 week dosing available"
+        },
+        {
+          "title": "CRVO ischaemic: >10 DA capillary non-perfusion on FFA; rubeosis within 3 months ('90-day glaucoma'); treat with PRP +/- anti-VEGF"
+        },
+        {
+          "title": "CRAO: cherry-red spot; treat as stroke (same-day workup); window 4-6h; no proven treatment; cilioretinal artery spared = central VA preserved"
+        },
+        {
+          "title": "OIS: carotid stenosis >90%; low IOP + dilated veins; rubeosis; high cardiovascular mortality; carotid endarterectomy only definitive treatment"
+        },
+        {
+          "title": "Hydroxychloroquine toxicity: pericentral bull's eye maculopathy; screen annually from year 5 (earlier if high-risk); mfERG + 10-2 HVF + SD-OCT + FAF; Asians have peripheral pattern"
+        },
+        {
+          "title": "Retinitis pigmentosa: nyctalopia first → ring scotoma → tunnel vision; ERG rods extinguished first; vitamin A palmitate 15,000 IU/day slows ERG decline (avoid in pregnancy)"
+        },
+        {
+          "title": "LCA: flat ERG + oculo-digital sign; Luxturna (voretigene neparvovec) FDA-approved for RPE65-LCA; subretinal AAV2 injection"
+        },
+        {
+          "title": "Stargardt: ABCA4; dark choroid on FFA (80%); beaten bronze macula + pisciform flecks; avoid vitamin A; gene therapy in trials"
+        },
+        {
+          "title": "Best disease: BEST1; EOG Arden ratio pathognomonically reduced; vitelliform (egg yolk) lesion; anti-VEGF if CNV"
+        },
+        {
+          "title": "XLRS: RS1 gene; spoke-wheel foveal schisis on OCT; negative ERG; topical CAI may help; gene therapy trials"
+        },
+        {
+          "title": "ROP: Type 1 = treat; Zone I any stage + plus, Zone I Stage 3, Zone II Stage 2 or 3 + plus; anti-VEGF preferred for Zone I/A-ROP; laser for Zone II"
+        },
+        {
+          "title": "CSC: young male type A; FFA smokstack/inkblot; OCT SRF + RPE detachment; ICGA pachychoroid; half-dose PDT for chronic; stop steroids; eplerenone/spironolactone emerging"
+        },
+        {
+          "title": "PVD: floaters + Weiss ring + photopsias; 10-15% risk retinal tear; dilated exam with scleral depression at 6 weeks; treat any horseshoe tear found"
+        },
+        {
+          "title": "Macular hole: Gass stages; PPV + ILM peeling + C3F8/SF6 gas; face-down positioning; 90-95% closure; ocriplasmin for VMT ± small hole"
+        },
+        {
+          "title": "ERM: PPV + ILM peeling when VA <20/40 or significant metamorphopsia; wait 6-12 months (may improve spontaneously)"
+        },
+        {
+          "title": "RRD: Shafer sign (tobacco dust) = pathognomonic of full-thickness break; macula-on → urgent same-day; macula-off <1 week → urgent; options: pneumatic retinopexy, SB, PPV"
+        },
+        {
+          "title": "PVR: RPE cells on retinal surfaces after RD; treatment = PPV + membrane peeling + silicone oil; multiple surgeries; poor prognosis if severe"
+        },
+        {
+          "title": "Angioid streaks: Bruch membrane breaks; PXE (most common cause); sickle cell; Paget; CNV risk with minor trauma; anti-VEGF for CNV; avoid contact sports"
+        },
+        {
+          "title": "VHL: retinal capillary haemangioblastoma; feeding artery + draining vein; treat before exudation (laser/cryo/PDT); screen family members (AD)"
+        },
+        {
+          "title": "PVRL (vitreoretinal lymphoma): sub-RPE deposits + vitreous cells; IL-10:IL-6 >1; 50-80% CNS lymphoma; intravitreal MTX; see full workup in Ch 09 notes"
+        }
+      ]
+    }
+  ]
+}
