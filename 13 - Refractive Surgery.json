@@ -1,0 +1,1313 @@
+{
+  "title": "Refractive Surgery",
+  "type": "root",
+  "children": [
+    {
+      "title": "The Science of Refractive Surgery",
+      "children": [
+        {
+          "title": "Corneal Optics",
+          "children": [
+            {
+              "title": "Cornea provides ~43D of total ~60D eye power; most refraction occurs at air-tear film interface (largest refractive index change)"
+            },
+            {
+              "title": "Normal cornea: prolate shape (steeper centrally, flatter peripherally); Q value ~-0.26; negative Q = prolate; post-myopic LASIK cornea becomes oblate (flatter centrally, steeper peripherally) → increased spherical aberration"
+            },
+            {
+              "title": "Anterior surface: main refracting surface (~48D); posterior surface: contributes ~-6D (subtracts from total); instruments that measure only anterior cornea (keratometry, Placido topography) tend to overestimate total corneal power by ignoring posterior"
+            },
+            {
+              "title": "Total corneal power (TCP): requires both anterior and posterior measurements; Scheimpflug (Pentacam) measures both; critical for IOL calculation post-refractive surgery"
+            }
+          ]
+        },
+        {
+          "title": "Wavefront Analysis & Aberrations",
+          "children": [
+            {
+              "title": "Lower-Order Aberrations (LOA)",
+              "children": [
+                {
+                  "title": "Comprise ~90% of total ocular aberrations; fully correctable with spectacles/CLs"
+                },
+                {
+                  "title": "Z₂⁰ = defocus (sphere); Z₂±² = astigmatism (regular cylinder)"
+                },
+                {
+                  "title": "Residual defocus after refractive surgery = regression/undercorrection"
+                }
+              ]
+            },
+            {
+              "title": "Higher-Order Aberrations (HOA)",
+              "children": [
+                {
+                  "title": "Not correctable with spherocylindrical correction; measured by wavefront aberrometer"
+                },
+                {
+                  "title": "Z₃±¹ = coma (asymmetric blur; comet-shaped PSF; causes decentration symptoms)"
+                },
+                { "title": "Z₃±³ = trefoil" },
+                {
+                  "title": "Z₄⁰ = spherical aberration (SA); peripheral rays focus differently from paraxial; causes halos, glare; INCREASES after myopic LASIK (oblate cornea)"
+                },
+                { "title": "Z₄±² = secondary astigmatism; Z₄±⁴ = quadrafoil" },
+                {
+                  "title": "Root mean square (RMS): total HOA magnitude; normal eye HOA RMS ~0.3μm; >0.5μm symptomatic"
+                },
+                {
+                  "title": "Zernike polynomials: mathematical orthogonal functions describing wavefront shape over pupil; each term = specific aberration"
+                }
+              ]
+            },
+            {
+              "title": "Wavefront Measurement",
+              "children": [
+                {
+                  "title": "Hartmann-Shack sensor: grid of lenslets focuses wavefront onto CCD; deviation of spots from ideal grid = local wavefront slope; reconstructs wavefront map"
+                },
+                {
+                  "title": "Tscherning aberrometer: grid of dots projected onto retina; deviation of dot pattern = wavefront error"
+                },
+                {
+                  "title": "Ray tracing: individual laser beams sequentially projected; refraction measured at each location"
+                },
+                {
+                  "title": "Limitations: poor quality with irregular corneas (KC, post-LASIK), media opacities, small pupils <4mm (insufficient data points)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Corneal Imaging",
+          "children": [
+            {
+              "title": "Corneal Topography (Placido-based)",
+              "children": [
+                {
+                  "title": "Measures anterior corneal surface curvature; concentric ring reflection from anterior tear film; Placido disc"
+                },
+                {
+                  "title": "Map types: axial/sagittal (most used; shows overall curvature; smoothed), tangential/instantaneous (most sensitive for localised irregularities; best for KC screening), elevation (height above reference sphere; best for posterior ectasia)"
+                },
+                {
+                  "title": "Colour scale: warm colours (red/orange) = steeper; cool (blue) = flatter; ABSOLUTE (fixed scale, compare between patients) vs NORMALISED (relative to exam, more detail)"
+                },
+                {
+                  "title": "Normal: regular bowtie (WTR astigmatism); symmetric bowtie; inferior steepening → keratoconus suspect"
+                },
+                {
+                  "title": "KISA% index (Rabinowitz): KC screening; uses K2-K1, inferior-superior difference, inferior skewed radial axis; >60% = KC; 60-100% = suspect"
+                }
+              ]
+            },
+            {
+              "title": "Corneal Tomography (Scheimpflug + Placido)",
+              "children": [
+                {
+                  "title": "Scheimpflug camera (Pentacam HR, Galilei): rotating camera captures 25-50 cross-sections; anterior + posterior surfaces + pachymetry + ACD; true elevation maps"
+                },
+                {
+                  "title": "Posterior elevation map: most sensitive for early ectasia; posterior surface changes before anterior in forme fruste KC"
+                },
+                {
+                  "title": "BAD-D (Belin-Ambrosio Display): composite score incorporating anterior elevation, posterior elevation, pachymetry progression, best-fit sphere deviation; D score >1.6 = high ectasia risk"
+                },
+                {
+                  "title": "Pachymetric map: thinnest point location; normal 520-540μm central; displaced thinnest point (infero-temporal) → KC suspect; minimum pachymetry value for LASIK ≥480-500μm"
+                },
+                {
+                  "title": "Indications for tomography in refractive surgery: ALL LASIK/PRK candidates; detect forme fruste KC, pellucid marginal degeneration, post-LASIK ectasia risk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Corneal Biomechanics",
+          "children": [
+            {
+              "title": "Stroma provides structural strength: interwoven collagen lamellae; anterior third has more interlacing → greater stiffness; posterior two-thirds more parallel lamellae → less stiffness"
+            },
+            {
+              "title": "Residual stromal bed (RSB): stromal tissue remaining after flap and ablation; minimum 250-300μm to prevent ectasia; RSB < 250μm = high ectasia risk"
+            },
+            {
+              "title": "Measurement",
+              "children": [
+                {
+                  "title": "Ocular Response Analyser (ORA; Reichert): air-pulse tonometry; measures 2 pressure readings as cornea deforms and recovers; CH (corneal hysteresis) = energy absorption = viscoelastic dampening; CRF (corneal resistance factor) = overall stiffness; CH reduced in KC, post-LASIK, glaucoma"
+                },
+                {
+                  "title": "Corvis ST (Oculus): air-puff + Scheimpflug high-speed imaging; dynamic corneal response parameters; DA ratio (deformation amplitude ratio) = best single biomechanical KC discriminator; TBI (Tomographic-Biomechanical Index): combines tomography + biomechanics"
+                }
+              ]
+            },
+            {
+              "title": "Corneal crosslinking (CXL): riboflavin + UV-A; creates new collagen cross-links; increases CH and CRF; halts KC progression; standard Dresden protocol: epithelium removed, 0.1% riboflavin + dextran, 370nm UV-A 3mW/cm² ×30 min (total 5.4 J/cm²)"
+            }
+          ]
+        },
+        {
+          "title": "Laser Biophysics",
+          "children": [
+            {
+              "title": "Excimer laser (ArF): 193nm UV light; photodecomposition (photoablation); breaks molecular bonds directly (C-C bonds of stromal collagen); cold process; no heat generation → precise ablation without thermal damage; ablates ~0.25μm per pulse"
+            },
+            {
+              "title": "Femtosecond laser: 1053nm infrared; ultrashort pulses (10⁻¹⁵ s); photodisruption (ionisation → plasma → shock wave → tissue separation); used for LASIK flap creation, SMILE lenticule, arcuate keratotomy; precise intrastromal cuts with minimal thermal damage"
+            },
+            {
+              "title": "Munnerlyn formula: ablation depth (μm) = D × S² / 3; D = dioptre correction, S = optical zone diameter (mm); each additional dioptre of myopia or each mm increase in OZ = significant increase in tissue removal"
+            },
+            {
+              "title": "Fluence (J/cm²): energy per unit area; determines ablation efficiency; controlled by pulse energy + spot size; calibration essential before each procedure"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Wound Healing",
+          "children": [
+            {
+              "title": "Surface ablation wound healing: epithelial removal → keratocyte apoptosis in anterior stroma → myofibroblast activation (TGF-β) → haze formation (scar tissue) → re-epithelialisation (3-5 days) → keratocyte repopulation"
+            },
+            {
+              "title": "Corneal haze: subepithelial fibrosis; more in PRK (surface ablation) than LASIK; higher with greater ablation depth; prevented by MMC 0.02% intraoperatively (applied for 12-60 seconds post-ablation)"
+            },
+            {
+              "title": "LASIK wound healing: flap interface heals minimally; stromal bed heals by keratocyte repopulation without myofibroblast activation (no TGF-β) → minimal haze"
+            },
+            {
+              "title": "Regression: gradual return toward original refractive error; more in high corrections; from epithelial hyperplasia (surface ablation) + keratocyte/collagen remodelling"
+            },
+            {
+              "title": "MMC: anti-metabolite; inhibits keratocyte proliferation; prevents myofibroblast transformation; essential for high-myopia PRK, retreatment PRK, post-LASIK haze treatment; avoid in thin corneas (toxic to endothelium if concentration too high or duration too long)"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Patient Evaluation",
+      "children": [
+        {
+          "title": "Patient Selection Criteria",
+          "children": [
+            {
+              "title": "Age: typically ≥21 years (stable refraction); ≥18 for selected stable cases; upper limit: consider RLE after ~45-50 (presbyopia management)"
+            },
+            {
+              "title": "Stable refraction: <0.5D change per year for ≥1-2 years; exclude progressive myopia, uncontrolled diabetes, pregnancy (corneal changes)"
+            },
+            {
+              "title": "Realistic expectations: understand: halos/glare (especially multifocal ablations), regression, dry eye (especially LASIK), need for reading glasses post-surgery (presbyopia), residual error possible"
+            }
+          ]
+        },
+        {
+          "title": "Absolute Contraindications",
+          "children": [
+            {
+              "title": "Keratoconus (frank or forme fruste): progressive ectasia risk"
+            },
+            {
+              "title": "Thin cornea: residual stromal bed <250μm post-ablation; total pachymetry <480μm (LASIK) or <400μm (PRK)"
+            },
+            {
+              "title": "Active ocular disease: herpetic keratitis (active), severe dry eye, pellucid marginal degeneration (controversial), autoimmune corneal disease"
+            },
+            { "title": "Unstable refraction: change >0.5D/year" },
+            { "title": "Unrealistic expectations or inability to consent" }
+          ]
+        },
+        {
+          "title": "Relative Contraindications",
+          "children": [
+            {
+              "title": "Autoimmune/collagen vascular disease: RA, SLE, Sjögren (impaired wound healing; dry eye risk); PRK > LASIK if proceeding"
+            },
+            {
+              "title": "Controlled diabetes: poor wound healing; corneal neuropathy; increased infection risk; PRK > LASIK"
+            },
+            {
+              "title": "HIV: caution if immunocompromised; otherwise treat as normal if stable"
+            },
+            {
+              "title": "Pregnancy/nursing: refractive changes; delay until 3 months post-partum and 3 cycles of stable refraction"
+            },
+            {
+              "title": "Amblyopia: will not improve with refractive surgery; counsel accordingly; benefit still for anisometropic correction"
+            },
+            {
+              "title": "Large pupils (>7mm in mesopic): higher risk of halos/glare with standard ablation zones"
+            },
+            {
+              "title": "High correction: >-10D myopia (tissue removal limits), >+4D hyperopia (less predictable)"
+            }
+          ]
+        },
+        {
+          "title": "Preoperative Examination",
+          "children": [
+            {
+              "title": "Uncorrected VA + BCVA: establishes baseline; BCVA must be achievable (reduced BCVA = other pathology)"
+            },
+            {
+              "title": "Manifest + cycloplegic refraction: compare; large difference (>0.75D sphere) = significant latent hyperopia; always treat cycloplegic in hyperopic corrections; use manifest in myopia"
+            },
+            {
+              "title": "Dominant eye determination: important for monovision planning; +1D fogging test"
+            },
+            {
+              "title": "Corneal topography + tomography: mandatory; screen for KC, PMD, irregular astigmatism; posterior elevation map critical"
+            },
+            {
+              "title": "Pachymetry: central + minimum; must calculate RSB; optical pachymetry (Pentacam, AS-OCT) preferred; ultrasound alternative"
+            },
+            {
+              "title": "Wavefront aberrometry: guides treatment type (wavefront-guided vs optimised); poor quality scan → contraindication for wavefront-guided"
+            },
+            {
+              "title": "Pupil size: mesopic pupil diameter; predict dysphotopsia risk; align ablation zone accordingly"
+            },
+            {
+              "title": "IOP: measure before surgery and account for underestimation after (post-LASIK IOP readings falsely low by 4-6mmHg)"
+            },
+            {
+              "title": "Dry eye evaluation: TBUT, Schirmer, meibomian gland assessment; treat moderate-severe dry eye before proceeding; LASIK worsens dry eye more than PRK; SMILE least dry eye"
+            },
+            {
+              "title": "Dilated fundus exam: lattice degeneration (RD risk post-refractive surgery with myopia); peripheral breaks; macular disease; optic disc"
+            }
+          ]
+        },
+        {
+          "title": "Contact Lens Discontinuation",
+          "children": [
+            {
+              "title": "Soft CLs: discontinue 2-7 days (ideally 1-2 weeks) before evaluation and surgery; allow cornea to return to natural shape"
+            },
+            {
+              "title": "RGP/hard CLs: discontinue 2-4 weeks minimum; longer if worn many years (corneal moulding)"
+            },
+            {
+              "title": "Orthokeratology: discontinue 4+ weeks; longer for higher corrections; confirm stable topography before surgery"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Incisional Corneal Surgery",
+      "children": [
+        {
+          "title": "Radial Keratotomy (RK)",
+          "children": [
+            {
+              "title": "Historical; radial incisions 4-16 cuts; 90-95% depth; peripheral to central clear zone (3-4mm); flatten central cornea → reduce myopia; largely replaced by excimer laser"
+            },
+            {
+              "title": "Postoperative effects: hyperopic drift (progressive flattening over years); diurnal fluctuation (morning myopia, evening hyperopia from corneal hydration changes); unstable refraction; weakened corneal structure"
+            },
+            {
+              "title": "Complications: undercorrection (most common), overcorrection, progressive hyperopia, glare/starburst (weakened incision scars), corneal perforation, infection, irregular astigmatism"
+            },
+            {
+              "title": "Patients with prior RK: IOL calculation difficult (flattened anterior surface, altered K/posterior ratio); ASCRS online calculator essential; unpredictable outcomes; warn of hyperopic surprise; more than post-LASIK challenge"
+            }
+          ]
+        },
+        {
+          "title": "Arcuate Keratotomy (AK) & Limbal Relaxing Incisions (LRI)",
+          "children": [
+            {
+              "title": "Curved incisions at optical zone (AK) or limbus (LRI) to flatten steep meridian; correct astigmatism by coupling effect"
+            },
+            {
+              "title": "Coupling: flattening effect in incision meridian paired with steepening in perpendicular meridian; coupling ratio ~1:1 at limbus; varies with OZ"
+            },
+            {
+              "title": "DACE procedure (direction, axis, centration, effect): guides planning; nomogram-based (Donnenfeld, Nichamin, NAPA)"
+            },
+            {
+              "title": "AK parameters: arc length (more arc = more effect), optical zone (smaller OZ = more effect), depth (90-95% corneal thickness), number of incisions"
+            },
+            {
+              "title": "LRI: at limbus (6-7mm OZ); less effect per mm arc than corneal; safer (further from visual axis); preferred for <1.5D astigmatism at time of cataract surgery"
+            },
+            {
+              "title": "Femtosecond AK: more precise depth control; lower perforation risk; FLACS allows intraoperative AK"
+            },
+            {
+              "title": "Effect: up to ~1.5-3D correction of astigmatism; less accurate than toric IOL for higher astigmatism"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Photoablation: Techniques & Outcomes",
+      "children": [
+        {
+          "title": "Excimer Laser Fundamentals",
+          "children": [
+            {
+              "title": "ArF excimer: 193nm; 10-15ns pulses; spot sizes 0.25-6.5mm (scanning slit or flying spot); broad-beam systems (older) vs scanning spot (most modern)"
+            },
+            {
+              "title": "Flying spot (small gaussian beam): 0.5-1mm spot; high repetition rate; smooth ablation; less thermal effect; current standard"
+            },
+            {
+              "title": "Laser calibration: PMMA test plates; calibrate ablation depth and profile before each session; eye tracker calibration; temperature/humidity affect ablation rate (nomogram adjustments)"
+            },
+            {
+              "title": "Eye tracking: active tracking follows pupil/limbus centre during treatment; IR pupil camera; 500-1000Hz; compensates for involuntary eye movements; critical for ablation centration"
+            }
+          ]
+        },
+        {
+          "title": "Surface Ablation (PRK, LASEK, epi-LASIK, TransPRK)",
+          "children": [
+            {
+              "title": "PRK (Photorefractive Keratectomy)",
+              "children": [
+                {
+                  "title": "Epithelium removed manually (blade/brush/alcohol/spatula) → Bowman exposed → ablation → bandage CL placed"
+                },
+                {
+                  "title": "Advantages: no flap (no flap complications, stronger biomechanics, better for thin corneas, dry eye less severe long-term, suitable for contact sports/military)"
+                },
+                {
+                  "title": "Disadvantages: painful (2-5 days), slower visual recovery (1-4 weeks), haze risk (higher corrections), MMC required for >-5D, cannot enhance easily (open Bowman)"
+                }
+              ]
+            },
+            {
+              "title": "LASEK: alcohol 20% loosens epithelial sheet as flap; fold aside → ablation → replace epithelial flap; faster healing than PRK; less pain; epithelial flap usually removed anyway"
+            },
+            {
+              "title": "TransPRK (no-touch transepithelial PRK): single laser step ablates epithelium + stroma without physical removal; Schwind AMARIS; faster; least handling; increasing popularity"
+            },
+            {
+              "title": "MMC application: 0.02-0.04% mitomycin C; sponge applied to stroma for 12-60 seconds after ablation (before CL placement); prevents myofibroblast activation; essential for >-5D, retreatment, previous haze; rinse copiously afterward"
+            }
+          ]
+        },
+        {
+          "title": "LASIK",
+          "children": [
+            {
+              "title": "Flap Creation",
+              "children": [
+                {
+                  "title": "Microkeratome (mechanical): oscillating blade; metal or single-use; 100-180μm flap thickness; ring + suction; risk: incomplete flap, buttonhole flap (steep cornea), free cap, irregular cut"
+                },
+                {
+                  "title": "Femtosecond laser flap (IntraLASIK): precise programmable thickness (90-140μm); planar geometry; side cut angle customisable; vertically cut edges (better wound sealing); lower incidence of flap complications; still risk of OBL (opaque bubble layer)"
+                },
+                {
+                  "title": "Flap dimensions: diameter 8.5-9.5mm; hinge nasally or superiorly; 300-360μm minimum flap thickness above hinge"
+                }
+              ]
+            },
+            {
+              "title": "Steps",
+              "children": [
+                {
+                  "title": "1. Suction ring placement + IOP elevation; 2. Microkeratome/femtosecond pass; 3. Flap reflection; 4. Stromal bed drying; 5. Ablation (eye tracker on); 6. Irrigation of interface; 7. Flap replacement; 8. Smoothing + drying; 9. Verify seating (no striae); 10. Patient instructed not to rub"
+                }
+              ]
+            },
+            {
+              "title": "Advantages vs PRK",
+              "children": [
+                {
+                  "title": "Faster visual recovery (1-2 days); minimal pain; less regression; easier retreatment (lift old flap)"
+                }
+              ]
+            },
+            {
+              "title": "Disadvantages vs PRK",
+              "children": [
+                {
+                  "title": "Flap complications; more severe dry eye (corneal nerve cut); flap displacement risk (trauma); cannot use in very thin corneas; flap never fully adheres permanently"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ablation Profile Types",
+          "children": [
+            {
+              "title": "Standard (conventional): treat manifest refraction; does not account for HOAs; slightly increases SA (oblates cornea)"
+            },
+            {
+              "title": "Wavefront-optimised (WFO): standard treatment + peripheral compensation to maintain prolate shape; reduces SA induction; most common current approach; does not treat pre-existing HOAs"
+            },
+            {
+              "title": "Wavefront-guided (WFG): custom treatment based on patient-specific wavefront map; corrects pre-existing HOAs; best for eyes with significant HOAs; requires high-quality wavefront measurement; Contoura Vision adds topography"
+            },
+            {
+              "title": "Topography-guided (TG): uses corneal topography to plan ablation; centres on corneal apex (visual axis); reduces irregular astigmatism and HOAs; FDA-approved Contoura Vision (OASIS trial: superior to wavefront-guided for some outcomes)"
+            }
+          ]
+        },
+        {
+          "title": "Retreatment",
+          "children": [
+            {
+              "title": "Indications: residual myopia/astigmatism/hyperopia causing symptoms; stable refraction for ≥3 months after primary procedure"
+            },
+            {
+              "title": "LASIK retreat: lift old flap (even years later); preferred over cutting new flap (avoid double flap); surface ablation alternative if flap not liftable"
+            },
+            {
+              "title": "PRK retreat: re-treat Bowman; must account for residual stromal depth; MMC mandatory; higher haze risk than primary"
+            },
+            {
+              "title": "Enhancement rate: ~5-10% for standard corrections; higher for high corrections, hyperopia, thin corneas; must confirm sufficient residual stromal bed before proceeding"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Photoablation: Complications",
+      "children": [
+        {
+          "title": "General Complications (Both PRK & LASIK)",
+          "children": [
+            {
+              "title": "Undercorrection: most common; from regression, nomogram error, poor wound healing; manage with re-treatment after stable ≥3 months"
+            },
+            {
+              "title": "Overcorrection: less common; myopes → hyperopia (usually temporary; manage with glasses until stable); hyperopes → myopia"
+            },
+            {
+              "title": "Dry eye: very common (LASIK >>  PRK > SMILE); corneal nerve transection → reduced sensation → reduced blink reflex + reduced tear production; treat aggressively with lubricants, cyclosporine A, punctal plugs; usually resolves 3-6 months; more persistent in LASIK"
+            },
+            {
+              "title": "Optical aberrations: glare, halos, starbursts; from large pupil overlapping small OZ, increased SA (oblate cornea), decentration; wavefront-optimised ablations reduce but don't eliminate"
+            },
+            {
+              "title": "Decentred ablation: pupil misidentification; large angle kappa; cornea irregular topography; asymmetric HOA; treatment: topography-guided retreatment; most challenging complication to manage"
+            },
+            {
+              "title": "Central islands: area of insufficient ablation in centre; from beam inhomogeneity, debris; smooth topography; management: topography-guided retreatment; less common with modern lasers"
+            }
+          ]
+        },
+        {
+          "title": "Surface Ablation-Specific Complications",
+          "children": [
+            {
+              "title": "Corneal haze: subepithelial fibrosis; worse with higher corrections (>-6D), UV exposure, deeper ablation; prevent with MMC; treat with topical steroids + MMC retreatment; phototherapeutic keratectomy (PTK)"
+            },
+            {
+              "title": "Persistent epithelial defect (PED): healing >5 days; recurrent corneal erosion; neurotrophic cornea; treat with bandage CL, preservative-free lubricants, autologous serum; AVOID epithelial debridement again"
+            },
+            {
+              "title": "Sterile infiltrates: immune reaction (staphylococcal hypersensitivity most common); peripheral white infiltrates; no organisms on culture; treat with topical steroids; culture to exclude infectious keratitis first"
+            }
+          ]
+        },
+        {
+          "title": "LASIK-Specific Complications",
+          "children": [
+            {
+              "title": "Flap Complications",
+              "children": [
+                {
+                  "title": "Incomplete flap: microkeratome stops mid-cut; abort procedure; use remaining flap; try again in 3 months (scar forms)"
+                },
+                {
+                  "title": "Thin/irregular flap: irregular cutting; abort; surface ablation later"
+                },
+                {
+                  "title": "Buttonhole: flap perforation over steep cornea (KC suspect?); abort; high irregular astigmatism; surface ablation 3-6 months later"
+                },
+                {
+                  "title": "Free cap: no hinge created; treat entire stroma; replace with correct orientation; mark 12 o'clock pre-op"
+                },
+                {
+                  "title": "Opaque bubble layer (OBL): from femtosecond gas bubbles; delays flap lift; usually dissipates in minutes; wait before treating; can cause eye tracker interference"
+                }
+              ]
+            },
+            {
+              "title": "Flap Striae",
+              "children": [
+                {
+                  "title": "Wrinkles in flap; micro-striae (fine; no VA loss) vs macro-striae (significant; VA reduced); from improper replacement or flap displacement"
+                },
+                {
+                  "title": "Management: early (within 24h) = lift and reposition (irrigation + smoothing); late = lift + epithelial debridement of underside + reposition"
+                }
+              ]
+            },
+            {
+              "title": "Flap Dislocation",
+              "children": [
+                {
+                  "title": "Trauma (even minor rubbing) can displace LASIK flap months-years post-op; flap never fully adheres"
+                },
+                {
+                  "title": "Management: surgical flap replacement under sterile conditions; irrigate debris; smooth; suture if necessary"
+                }
+              ]
+            },
+            {
+              "title": "Interface Complications",
+              "children": [
+                {
+                  "title": "DLK (diffuse lamellar keratitis = Sands of Sahara): sterile interface inflammation; white granular cells between flap and stroma; Stage 1 (peripheral, <25%) → 4 (central with stromal melting)"
+                },
+                {
+                  "title": "DLK cause: bacterial endotoxin (instrument cleaning), meibomian secretions, blood, metallic particles, ICG"
+                },
+                {
+                  "title": "DLK treatment: Stage 1-2: intensive topical steroids q1-2h; Stage 3-4: lift flap, irrigate, steroids"
+                },
+                {
+                  "title": "Epithelial ingrowth: epithelial cells grow under flap; usually peripheral, innocuous; if central (dense) → reduce VA + cause irregular astigmatism → lift and remove; more common with retreatment"
+                },
+                {
+                  "title": "PISK (pressure-induced stromal keratitis): masquerades as DLK but from steroid-induced IOP rise (falsely low IOP measurement post-LASIK); treat by stopping steroids + IOP-lowering drops; IOP monitoring essential"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ectasia",
+          "children": [
+            {
+              "title": "Progressive corneal thinning and ectatic protrusion after LASIK/PRK; similar to keratoconus; from biomechanical instability"
+            },
+            {
+              "title": "Risk factors: pre-existing ectasia/KC (absolute contraindication), thin cornea, RSB <250-300μm, high myopia, steep cornea, young age, forme fruste KC (ABCD tomography, BAD-D, Corvis TBI), abnormal biomechanics"
+            },
+            {
+              "title": "Clinical: progressive myopia + astigmatism + VA loss + inferior steepening on topography; onset months to years post-LASIK"
+            },
+            {
+              "title": "Management: spectacles/RGP lenses → scleral lenses → CXL (halts progression; FDA-approved for post-LASIK ectasia) → ICRS (Intacs, flatten cone) → DALK/PKP if severe"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Femtosecond Lenticule Extraction (SMILE)",
+      "children": [
+        {
+          "title": "Principles & Technique",
+          "children": [
+            {
+              "title": "SMILE (small incision lenticule extraction): femtosecond laser (VisuMax, Zeiss) creates two intrastromal planes + small cap incision; lenticule of tissue between planes is manually extracted through 2-3mm incision; no flap, no excimer laser"
+            },
+            {
+              "title": "Relex SMILE: approved for myopia up to -10D and astigmatism up to -5D; older RELEX-FLEx was full-flap version (largely abandoned)"
+            },
+            {
+              "title": "Surgical steps: 1. Docking (suction cup attaches); 2. Femtosecond cuts (posterior lenticule surface, anterior cap surface, edge incision); 3. Tissue planes separated with special dissectors (double-hoe dissector); 4. Lenticule grasped and extracted through 2-3mm incision; 5. Pocket irrigated"
+            }
+          ]
+        },
+        {
+          "title": "Advantages vs LASIK",
+          "children": [
+            {
+              "title": "No flap: no flap displacement/dislocation risk; safer for contact sports, military, police"
+            },
+            {
+              "title": "Less dry eye: corneal nerve preservation better (only anterior stromal nerves cut at small incision; LASIK cuts nerve ring around entire flap)"
+            },
+            {
+              "title": "No flap striae, no OBL (usually), no epithelial ingrowth"
+            },
+            {
+              "title": "Less HOA induction: preserves more anterior stromal biomechanics"
+            }
+          ]
+        },
+        {
+          "title": "Disadvantages vs LASIK",
+          "children": [
+            {
+              "title": "Longer learning curve; technically more difficult (extracting lenticule through small incision)"
+            },
+            {
+              "title": "Limited retreatment options: no simple flap lift; retreatment = surface ablation (PRK on cap) or convert to 'SMILE flex' (open cap to LASIK-like flap)"
+            },
+            {
+              "title": "No hyperopia correction (currently); limited to myopia and myopic astigmatism"
+            },
+            {
+              "title": "Cannot combine with custom wavefront treatment (at present); no topography-guided SMILE available"
+            },
+            {
+              "title": "Higher tissue bridge required: cap ≥100μm; cap + lenticule + residual bed ≥250μm"
+            }
+          ]
+        },
+        {
+          "title": "Outcomes & Complications",
+          "children": [
+            {
+              "title": "Outcomes comparable to LASIK for myopia/astigmatism in current literature; slightly slower early visual recovery; ultimately similar VA outcomes"
+            },
+            {
+              "title": "Suction loss: most serious; if during cap cut → complete loss of lenticule orientation; attempt to re-dock vs abort"
+            },
+            {
+              "title": "Opaque bubble layer: less common than LASIK femtosecond (smooth cap surface, no interface to create OBL)"
+            },
+            {
+              "title": "Incomplete lenticule dissection: difficult extraction, torn lenticule → residual tissue → irregular astigmatism; avoid aggressive extraction"
+            },
+            {
+              "title": "Cap perforation: rare; from dissector slip through thin tissue; manage conservatively; risk of haze/scarring"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Refractive Surgery in Ocular & Systemic Disease",
+      "children": [
+        {
+          "title": "Ocular Conditions",
+          "children": [
+            {
+              "title": "Dry Eye Disease",
+              "children": [
+                {
+                  "title": "Must treat and optimise before refractive surgery; aqueous tear deficiency + MGD require separate treatment"
+                },
+                {
+                  "title": "LASIK vs PRK in dry eye: LASIK worsens dry eye more severely; PRK preferred in moderate dry eye"
+                },
+                {
+                  "title": "SMILE: least dry eye among corneal refractive procedures; preferred if significant pre-existing dry eye"
+                },
+                {
+                  "title": "Management: cyclosporine A 0.05-0.1% for 3+ months pre-op; warm compresses/lid hygiene; omega-3; punctal plugs if severe; delay surgery until stable"
+                }
+              ]
+            },
+            {
+              "title": "Herpes Simplex / Zoster",
+              "children": [
+                {
+                  "title": "Active HSV: absolute contraindication to any laser refractive surgery"
+                },
+                {
+                  "title": "Inactive HSV stromal keratitis: relative contraindication; risk of reactivation from UV/laser; if proceeding: confirm no active disease, acyclovir 400mg BD prophylaxis starting 2 weeks pre-op and continuing 3+ months; PRK preferred (no suction from LASIK)"
+                },
+                {
+                  "title": "VZV (HZO): similar precautions; higher reactivation risk; caution with any corneal procedure"
+                }
+              ]
+            },
+            {
+              "title": "Keratoconus",
+              "children": [
+                {
+                  "title": "ABSOLUTE CONTRAINDICATION to corneal laser refractive surgery (LASIK, PRK, SMILE) — all are contraindicated; risk of progressive ectasia"
+                },
+                {
+                  "title": "Exception: CXL-combined surface ablation (combined topography-guided PRK + same-day CXL = Athens Protocol); experimental; halts and partially reverses ectasia; NOT standard care; only for progressive KC with sufficient pachymetry"
+                },
+                {
+                  "title": "Mild forme fruste KC: also contraindicated; identify with tomography (BAD-D, TBI) before proceeding"
+                }
+              ]
+            },
+            {
+              "title": "Corneal Dystrophies",
+              "children": [
+                {
+                  "title": "EBMD/map-dot-fingerprint: can cause irregular epithelium under LASIK flap; PRK preferred (removes abnormal epithelium); recurrent erosions post-op risk"
+                },
+                {
+                  "title": "Fuchs endothelial dystrophy: risk of corneal decompensation from refractive surgery; low endothelial cell count contraindication; consider RLE instead"
+                },
+                {
+                  "title": "Lattice dystrophy (TGFBI): PTK effective for anterior stromal lesions; PRK can be done if stroma adequate; LASIK risks flap irregularity"
+                }
+              ]
+            },
+            {
+              "title": "Post-PKP",
+              "children": [
+                {
+                  "title": "High astigmatism common after keratoplasty; sequential treatment: suture removal + CL → AK/LASIK/PRK after refraction stable (≥1 year post-suture removal)"
+                },
+                {
+                  "title": "PRK preferred (no suction pressure of LASIK; no risk of corneal wound dehiscence); surface ablation + MMC; wait until graft stable"
+                },
+                {
+                  "title": "LASIK: possible but suction pressure risks wound dehiscence; use femtosecond laser preferred over microkeratome"
+                }
+              ]
+            },
+            {
+              "title": "Glaucoma",
+              "children": [
+                {
+                  "title": "Post-LASIK IOP underestimation: cornea thinner/flatter → Goldmann tonometry reads low (4-6mmHg below true); critically important for glaucoma monitoring"
+                },
+                {
+                  "title": "Correction formulas: no perfect formula; dynamic contour tonometry (Pascal DCT) least affected by corneal properties; ORA (corneal-compensated IOP = IOPcc) more accurate post-refractive surgery"
+                },
+                {
+                  "title": "High IOP at LASIK suction ring: brief IOP >40mmHg during suction; safe for most; risk in pre-existing advanced glaucoma (optic nerve at risk); alternative: PRK or SMILE (lower peak IOP)"
+                },
+                {
+                  "title": "Stable glaucoma well-controlled: refractive surgery generally acceptable; unstable/advanced glaucoma = relative contraindication; document pre-op optic nerve status"
+                }
+              ]
+            },
+            {
+              "title": "Retinal Disease & Myopia",
+              "children": [
+                {
+                  "title": "High myopia + lattice degeneration: treat symptomatic breaks before refractive surgery; asymptomatic lattice with holes: controversial (prophylactic laser often recommended pre-LASIK for high myopes)"
+                },
+                {
+                  "title": "Prior RD repair: scleral buckle can affect corneal topography (cylinder); wait until stable; PRK > LASIK (suction complications with buckle)"
+                },
+                {
+                  "title": "Refractive surgery does NOT increase RD risk beyond that already present from myopia itself; but patient should understand pre-existing RD risk from myopia"
+                }
+              ]
+            },
+            {
+              "title": "Amblyopia & Strabismus",
+              "children": [
+                {
+                  "title": "Anisometropic amblyopia in children: refractive surgery can reduce anisometropia → improve amblyopia treatment (spectacle compliance poor); evidence emerging for paediatric PRK"
+                },
+                {
+                  "title": "Adults with amblyopia: will not improve BCVA with refractive surgery; counsel that surgery corrects refractive error but not amblyopia; UCVA improves but BCVA ceiling unchanged"
+                },
+                {
+                  "title": "Strabismus: monovision LASIK can destabilise accommodative esotropia (reduces accommodation convergence); screen for strabismus pre-op; binocular assessment essential"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Systemic Conditions",
+          "children": [
+            {
+              "title": "HIV: well-controlled, normal immune function: acceptable; no major increased risk; caution if immunocompromised (CD4 <200 cells/μL = relative contraindication; poor wound healing, infection risk)"
+            },
+            {
+              "title": "Diabetes mellitus: controlled DM with good HbA1c: acceptable; PRK preferred (slower healing with LASIK flap); counsel about slower visual recovery; dry eye more common; avoid if significant corneal neuropathy (DES questionnaire, corneal aesthesiometry)"
+            },
+            {
+              "title": "Connective tissue/autoimmune: RA, SLE, Sjögren, vasculitis: generally contraindicated; risk of non-healing, peripheral ulcerative keratitis, severe dry eye, abnormal scarring; corneal melt reported post-LASIK; RLE may be safer alternative"
+            },
+            {
+              "title": "Isotretinoin (Accutane): causes severe dry eye; discontinue ≥6 months before surgery; monitor dry eye aggressively post-op"
+            },
+            {
+              "title": "Amiodarone: corneal deposits (verticillata) but do not interfere with ablation; not a contraindication; document deposits pre-op"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Considerations After Refractive Surgery",
+      "children": [
+        {
+          "title": "IOL Calculations Post-Refractive Surgery",
+          "children": [
+            {
+              "title": "Triple Problem (post-myopic LASIK)",
+              "children": [
+                {
+                  "title": "Problem 1 — Instrument measurement error: keratometer/Placido topography measure anterior surface, assume standard anterior/posterior ratio (0.82); post-LASIK anterior flattened but posterior unchanged → instrument underestimates total power"
+                },
+                {
+                  "title": "Problem 2 — Index of refraction error: standard refractive index (1.3375) assumes normal anterior/posterior ratio; altered by laser → calculated power wrong"
+                },
+                {
+                  "title": "Problem 3 — ELP (effective lens position) error: modern formulas predict ELP from K readings; flat post-LASIK K → predicted ELP too anterior → IOL power underestimated → hyperopic surprise"
+                }
+              ]
+            },
+            {
+              "title": "Solutions",
+              "children": [
+                {
+                  "title": "ASCRS Online Post-Refractive IOL Power Calculator (www.ascrs.org/corneal-power): multiple methods averaged; best current approach; free to use"
+                },
+                {
+                  "title": "Barrett True-K formula: uses Gaussian optics; no pre-op data needed; among best performers; corrects for anterior/posterior corneal discrepancy"
+                },
+                {
+                  "title": "Shammas no-history method: requires only current post-operative K; useable when no pre-op data available"
+                },
+                {
+                  "title": "Double-K method: use post-op K for power calculation; use pre-op K for ELP prediction; corrects ELP error"
+                },
+                {
+                  "title": "Contact lens over-refraction (CL method): uses flat BCVA + CL parameters to back-calculate true corneal power; accurate but requires specific testing"
+                },
+                {
+                  "title": "Post-hyperopic LASIK: opposite errors; risk of myopic surprise; similar approach with specific methods"
+                }
+              ]
+            },
+            {
+              "title": "Clinical pearl: always aim slightly myopic (-0.5 to -0.75D) in post-LASIK eyes for cataract surgery; hyperopic surprise more bothersome; anti-LASIK patients fear glasses more for near"
+            }
+          ]
+        },
+        {
+          "title": "Glaucoma After Refractive Surgery",
+          "children": [
+            {
+              "title": "GAT underestimates IOP post-LASIK by 4-8mmHg; post-PRK: 2-3mmHg underestimate; post-RK: varies"
+            },
+            {
+              "title": "Dynamic contour tonometry (Pascal): measures corneal-independent IOP; most accurate post-refractive surgery"
+            },
+            {
+              "title": "ORA (IOPcc): compensated IOP from corneal-compensated algorithm; less affected than GAT"
+            },
+            {
+              "title": "Inform all patients: IOP readings will be falsely low after surgery; must inform all future physicians; wear medical alert bracelet? important for emergency eye care"
+            },
+            {
+              "title": "IOP correction formulas: Dougherty formula: adjusted IOP = GAT + 0.43 × ablation depth (μm) / 10; others available; imprecise; use dynamic tonometry when possible"
+            }
+          ]
+        },
+        {
+          "title": "Retinal Detachment After Refractive Surgery",
+          "children": [
+            {
+              "title": "RD risk in myopia is from myopia itself (axial length), NOT from laser refractive surgery per se; 1 Snellen line of myopia reduction does not change axial length or peripheral retinal pathology"
+            },
+            {
+              "title": "Precautions: dilated fundus exam + scleral depression pre-op; treat significant peripheral lesions pre-op; advise any new floaters/flashes/curtain requires urgent assessment despite normal surgical outcome"
+            },
+            {
+              "title": "RD repair post-LASIK: standard vitreoretinal approaches; scleral buckle: minor concern of suction pressure on flap area (usually not a problem)"
+            }
+          ]
+        },
+        {
+          "title": "Corneal Transplantation After Refractive Surgery",
+          "children": [
+            {
+              "title": "Post-LASIK ectasia: DALK preferred (preserves endothelium, avoids endothelial rejection); PKP if significant scarring or failed DALK"
+            },
+            {
+              "title": "Post-LASIK PKP: flap increases surgical complexity; flap may dehisce at edge; scleral-tunnel incision preferred; predict HOA induction from flap edges"
+            },
+            {
+              "title": "IOL calculations after post-refractive surgery keratoplasty: doubly difficult; use mean keratometry + conservative approaches; aim myopic"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Intraocular Refractive Surgery",
+      "children": [
+        {
+          "title": "Phakic IOL (pIOL)",
+          "children": [
+            {
+              "title": "Background & Advantages",
+              "children": [
+                {
+                  "title": "Implant added power lens inside the eye (between cornea and crystalline lens); does NOT remove corneal tissue; reversible (explantable)"
+                },
+                {
+                  "title": "Advantages: corrects higher myopia than LASIK (up to -20D); preserves corneal thickness + shape; better optical quality (no corneal aberrations induced); reversible; preserves accommodation"
+                }
+              ]
+            },
+            {
+              "title": "Types",
+              "children": [
+                {
+                  "title": "Angle-supported AC IOL: historical (Baikoff, NuVita); angle fixation; endothelial cell loss, PAS, pupil ovalization; largely abandoned"
+                },
+                {
+                  "title": "Iris-fixated (iris-claw) AC IOL: Artisan/Verisyse (PMMA), Artiflex/Veriflex (foldable); enclavated to iris midperiphery; requires PI (to prevent pupillary block); good long-term safety data; risk of chronic endothelial cell loss; requires adequate ACD >3.2mm"
+                },
+                {
+                  "title": "Posterior chamber pIOL (Implantable Collamer Lens, ICL/EVO ICL): most popular current pIOL; sulcus/sulcus fixation; KS-AquaPORT (central hole in lens) = no peripheral iridotomy needed; UV-absorbing collamer material; myopia range -3 to -20D, astigmatism up to -6D"
+                }
+              ]
+            },
+            {
+              "title": "ICL Selection & Sizing",
+              "children": [
+                {
+                  "title": "Vault: distance between ICL optic and anterior crystalline lens; ideal 250-750μm on Scheimpflug; too low vault (<100μm) → cataract formation from crystalline lens contact; too high vault (>1000μm) → angle closure from iris bombe"
+                },
+                {
+                  "title": "ICL sizing: white-to-white (WTW) + sulcus-to-sulcus (STS) UBM measurement; ICL size = STS or WTW + 0.5mm; if UBM available, use STS-based sizing"
+                },
+                {
+                  "title": "Toric ICL: for myopic astigmatism; must align with steep axis; mark with pendular marker before surgery; rotational stability excellent (99% within 5° at 1 year)"
+                }
+              ]
+            },
+            {
+              "title": "Patient Selection",
+              "children": [
+                {
+                  "title": "Age: 21-45 years (stable refraction, pre-presbyopia); older → consider RLE"
+                },
+                {
+                  "title": "Myopia: -3 to -20D (ideal range for ICL: -6 to -15D; best outcomes)"
+                },
+                {
+                  "title": "ACD: ≥2.8mm (minimum, prefer ≥3.0mm) for ICL; ≥3.2mm for iris-claw"
+                },
+                {
+                  "title": "Endothelial cell count: ≥2000 cells/mm² (ideally ≥2500); insufficient endothelium → risk of bullous keratopathy"
+                },
+                {
+                  "title": "No pre-existing cataract, narrow angles, uveitis; clear media required"
+                },
+                {
+                  "title": "Contraindications: KC (absolute), shallow AC, poor endothelial count, cataract, uncontrolled glaucoma"
+                }
+              ]
+            },
+            {
+              "title": "Complications",
+              "children": [
+                {
+                  "title": "Cataract: anterior subcapsular; from chronic ICL contact with crystalline lens (inadequate vault); more common in early non-KS-PORT lens; manage by explanting ICL early"
+                },
+                {
+                  "title": "Pupillary block glaucoma (iris-claw, old designs): PI essential pre-op; EVO ICL KS-AquaPORT eliminates need for PI"
+                },
+                {
+                  "title": "Angle closure: excessive vault; ICL too large; pupil block; treat with iridoplasty or explant ICL + replace smaller size"
+                },
+                {
+                  "title": "Endothelial cell loss: ~1-2% per year (more with angle-supported AC IOLs; less with posterior chamber ICL); monitor annually with specular microscopy"
+                },
+                {
+                  "title": "Under/overcorrection: phakic IOL power can be exchanged; more flexible than LASIK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Refractive Lens Exchange (RLE / Clear Lens Extraction)",
+          "children": [
+            {
+              "title": "Indications",
+              "children": [
+                {
+                  "title": "High hyperopia (>+4D) where corneal surgery less predictable and safe"
+                },
+                {
+                  "title": "High myopia (>-10 to -12D) beyond ICL or corneal laser range"
+                },
+                {
+                  "title": "Presbyopia with high refractive error (eliminates cataracts + corrects presbyopia simultaneously)"
+                },
+                {
+                  "title": "Patient >50 years with myopia who wants spectacle independence (no accommodation remaining; trades clear intermediate for improved near and distance with premium IOL)"
+                }
+              ]
+            },
+            {
+              "title": "Advantages",
+              "children": [
+                {
+                  "title": "Eliminates future cataracts; opportunity for multifocal/EDOF IOL; permanent correction; IOL power exchangeable"
+                }
+              ]
+            },
+            {
+              "title": "Disadvantages",
+              "children": [
+                {
+                  "title": "Loss of accommodation (irreversible in patients <45 years with any residual accommodation)"
+                },
+                {
+                  "title": "RD risk: higher in high myopia (thin retina, vitreous degeneration); most important concern; dilated fundus exam + prophylactic peripheral laser essential pre-op in myopes"
+                },
+                { "title": "PCO: Nd:YAG needed in 20-30% within 5 years" },
+                {
+                  "title": "Intraocular procedure: endophthalmitis risk (0.05-0.1%)"
+                }
+              ]
+            },
+            {
+              "title": "IOL Selection for RLE",
+              "children": [
+                {
+                  "title": "Hyperopic RLE: monofocal (best VA but reading glasses); multifocal/trifocal (spectacle independence; higher photic phenomena); EDOF (intermediate + partial near)"
+                },
+                {
+                  "title": "Myopic RLE: difficult target (high myopia = long AL = formula errors); use Wang-Koch AL adjustment; aim -0.5D; be conservative with premium IOLs (realistic expectations)"
+                },
+                {
+                  "title": "Consider patient age, occupation, lifestyle before IOL selection; bilateral RLE planning (simultaneous vs sequential)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bioptics",
+          "children": [
+            {
+              "title": "Combination of pIOL + corneal laser ablation; pIOL corrects bulk of myopia, laser corrects residual refractive error + fine-tunes astigmatism"
+            },
+            {
+              "title": "Advantage: each procedure within safe range; better predictability for extreme myopia; excellent optical quality"
+            },
+            {
+              "title": "pIOL first → wait 3 months for refraction stability → PRK/LASIK for residual error; laser must account for post-pIOL corneal flattening"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Treatment of Presbyopia",
+      "children": [
+        {
+          "title": "Theories of Accommodation",
+          "children": [
+            {
+              "title": "Helmholtz (classic): ciliary muscle contraction → zonule release → lens rounds (increases curvature) → power increase; ciliary muscle function preserved until late; lens stiffening = primary cause of presbyopia"
+            },
+            {
+              "title": "Schachar (alternative): tension on equatorial zonules steepens lens centre while relaxing periphery; controversial; basis for scleral expansion procedures"
+            },
+            {
+              "title": "Presbyopia cause: lens nucleus hardens (α-crystallin loss, protein denaturation, oxidation) → cannot change shape; NOT ciliary muscle failure"
+            }
+          ]
+        },
+        {
+          "title": "Accommodative Approaches",
+          "children": [
+            {
+              "title": "Scleral surgery (Scleral Expansion Bands, LaserACE): create scleral expansion to restore equatorial space for zonular function (Schachar theory); limited evidence; not widely adopted; small randomised trials show modest near improvement"
+            },
+            {
+              "title": "Accommodating IOLs: Crystalens (single-optic vaulting mechanism; moves forward with accommodation); FluidVision (fluid fills optic on accommodation); limited true accommodation achieved; largely replaced by EDOF for presbyopia correction"
+            },
+            {
+              "title": "Lens refilling: remove lens content, inject gel polymer to recreate elastic lens; early trials; challenges with sealing capsule opening"
+            }
+          ]
+        },
+        {
+          "title": "Non-Accommodative Approaches",
+          "children": [
+            {
+              "title": "Monovision",
+              "children": [
+                {
+                  "title": "Dominant eye corrected for distance; non-dominant eye for near (-1.25 to -1.75D); brain suppresses blur from each eye based on task"
+                },
+                {
+                  "title": "Trial with CLs essential before surgical monovision; 30-40% patients cannot tolerate; reduced stereoacuity (important for night driving)"
+                },
+                {
+                  "title": "Mini-monovision: smaller anisometropia (-0.75 to -1.25D); better stereo; less near benefit; compromise"
+                },
+                {
+                  "title": "Can be combined with LASIK, PRK, RLE, ICL; straightforward to plan and execute"
+                }
+              ]
+            },
+            {
+              "title": "Multifocal Corneal Ablations (PresbyLASIK)",
+              "children": [
+                {
+                  "title": "Central add (SUPRACOR): steepen central 2-3mm for near (myopic add); peripheral distance correction; reduces contrast sensitivity"
+                },
+                {
+                  "title": "Peripheral add: steepen peripheral annular zone; theoretically less visual quality compromise"
+                },
+                {
+                  "title": "Both: outcome variable; younger presbyopes better; patients must accept reduced contrast sensitivity and some halos; not widely adopted in US"
+                }
+              ]
+            },
+            {
+              "title": "Conductive Keratoplasty (CK)",
+              "children": [
+                {
+                  "title": "Radiofrequency energy applied to peripheral cornea (ring pattern) → collagen shrinkage → central steepening → myopic correction for near"
+                },
+                {
+                  "title": "Used for distance-corrected hyperopic presbyopes; creates monovision in non-dominant eye"
+                },
+                {
+                  "title": "Regression over 1-2 years; repeat treatment needed; largely historical now"
+                }
+              ]
+            },
+            {
+              "title": "Pharmacological Presbyopia Treatment",
+              "children": [
+                {
+                  "title": "Pilocarpine 1.25% (Vuity, AbbVie): creates pupil miosis → increased depth of focus; FDA-approved 2021; once daily; 6-hour effect; dim light/night vision trade-off; not for angle-closure risk; side effects: brow ache, myopia shift, dim vision"
+                },
+                { "title": "Carbachol/brimonidine combinations in development" }
+              ]
+            },
+            {
+              "title": "Corneal Inlays",
+              "children": [
+                {
+                  "title": "Kamra inlay (AcuFocus): small-aperture (1.6mm opening, 3.8mm disc); implanted in non-dominant eye stroma intrastromally (LASIK pocket or femtosecond pocket); increases depth of focus through pinhole effect; FDA-approved; currently not available commercially (withdrawn from market)"
+                },
+                {
+                  "title": "Raindrop inlay (ReVision Optics): reshapes corneal curvature; created exudate in corneal stroma → removed from market (corneal haze)"
+                },
+                {
+                  "title": "Presbia Flexivue: refractive annular inlay; near zone peripheral; not available in US"
+                }
+              ]
+            },
+            {
+              "title": "Multifocal & EDOF IOLs (See Ch 9/11 for full details)",
+              "children": [
+                {
+                  "title": "Gold standard for bilateral spectacle independence; bifocal (PanOptix, ReSTOR), trifocal, EDOF (Symfony, Vivity), EDOF+toric (Symfony Toric)"
+                },
+                {
+                  "title": "Halos/glare trade-off; patient selection critical; neuroadaptation 3-6 months; IOL exchange if intolerant (rare)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Top 30 Exam Facts",
+      "children": [
+        {
+          "title": "Excimer laser: ArF 193nm; photoablation (cold); breaks molecular bonds; 0.25μm per pulse; Munnerlyn: depth = D × S² / 3"
+        },
+        {
+          "title": "Femtosecond laser: 1053nm; photodisruption (ionisation + plasma); intrastromal cuts; used for LASIK flap + SMILE lenticule + AK"
+        },
+        {
+          "title": "Normal cornea: prolate (Q ~-0.26); post-myopic LASIK: oblate → increases spherical aberration (Z₄⁰)"
+        },
+        {
+          "title": "Wavefront HOAs: Z₃±¹ = coma (decentration); Z₄⁰ = spherical aberration (increases after LASIK); RMS >0.5μm = symptomatic"
+        },
+        {
+          "title": "Corneal topography maps: axial = general overview; tangential = most sensitive for KC; elevation = best for ectasia screening (posterior elevation most important)"
+        },
+        {
+          "title": "BAD-D >1.6 and TBI >0.29 = high ectasia risk; ABSOLUTE contraindications to LASIK"
+        },
+        {
+          "title": "Minimum RSB (residual stromal bed) for LASIK: 250-300μm; minimum pre-op pachymetry for LASIK: ≥480-500μm total"
+        },
+        {
+          "title": "Keratoconus: absolute contraindication to ALL corneal laser refractive surgery (LASIK, PRK, SMILE)"
+        },
+        {
+          "title": "CXL Dresden protocol: epithelium off, 0.1% riboflavin + dextran, 3mW/cm² UV-A ×30 min; accelerated (9-45mW); halts KC progression; FDA-approved for post-LASIK ectasia"
+        },
+        {
+          "title": "PRK vs LASIK: PRK = no flap, better biomechanics, more dry eye long-term; LASIK = faster recovery, more dry eye early, flap risks; SMILE = least dry eye, no flap, no hyperopia correction"
+        },
+        {
+          "title": "IFIS-like reaction in SMILE: miosis from prostaglandin release during femtosecond docking — less problematic than LASIK's IFIS from systemic alpha-blockers"
+        },
+        {
+          "title": "DLK (diffuse lamellar keratitis): sterile interface inflammation; Stages 1-4; Stage 1-2 → intensive topical steroids; Stage 3-4 → lift flap + irrigate"
+        },
+        {
+          "title": "PISK: mimics DLK but caused by steroid-induced IOP rise; check IOP; stop steroids + IOP-lowering drops; distinguish by IOP measurement under flap"
+        },
+        {
+          "title": "Epithelial ingrowth: beneath LASIK flap; treat if central/dense (VA impact) by lifting and removing; more common after retreatment"
+        },
+        {
+          "title": "Haze prevention: MMC 0.02% for >-5D surface ablation, retreatment PRK; applied 12-60 seconds post-ablation; rinse thoroughly"
+        },
+        {
+          "title": "SMILE retreatment: PRK on cap preferred; or convert to SMILE-flex (open cap to LASIK-like); cannot lift lenticule pocket as flap for standard re-ablation"
+        },
+        {
+          "title": "Post-LASIK IOP underestimation: 4-6mmHg below true IOP; Pascal DCT or IOPcc less affected; warn all patients and future physicians"
+        },
+        {
+          "title": "Post-LASIK IOL calculation triple error: instrument error + index error + ELP error → hyperopic surprise; use ASCRS calculator or Barrett True-K; aim slightly myopic (-0.5D)"
+        },
+        {
+          "title": "ICL vault: ideal 250-750μm; <100μm → anterior subcapsular cataract; >1000μm → angle closure; measure on Pentacam post-op"
+        },
+        {
+          "title": "EVO ICL (KS-AquaPORT): central hole eliminates need for laser peripheral iridotomy; reduces pupillary block risk vs older ICL designs"
+        },
+        {
+          "title": "ICL sizing: WTW + 0.5mm (or STS-based); undersized → low vault → cataract; oversized → high vault → angle closure"
+        },
+        {
+          "title": "Phakic IOL contraindications: keratoconus, ACD <2.8mm, endothelial count <2000, cataract, narrow angles, uncontrolled glaucoma"
+        },
+        {
+          "title": "RLE high myopia risk: RD risk is highest concern; dilated fundus + peripheral laser treatment pre-op essential; loss of accommodation (irreversible)"
+        },
+        {
+          "title": "Monovision: trial with CLs before surgical commitment; dominant eye = distance; non-dominant = near (-1.25 to -1.75D); 30-40% cannot tolerate; reduces stereopsis"
+        },
+        {
+          "title": "Presbyopia drugs: pilocarpine 1.25% (Vuity); FDA-approved 2021; miosis → depth of focus; 6h duration; dim light trade-off; not if narrow angles"
+        },
+        {
+          "title": "Post-LASIK ectasia management: CXL (halts progression); ICRS (Intacs improve shape); scleral lenses (optical rehabilitation); DALK/PKP if severe"
+        },
+        {
+          "title": "Radial keratotomy late effects: progressive hyperopia (myopic drift then hyperopic), diurnal fluctuation, weakened cornea; IOL calculation extremely difficult post-RK; flatter K + no pre-op data = worst calculation scenario"
+        },
+        {
+          "title": "AK/LRI coupling: incision flattens one meridian + steepens perpendicular; coupling ratio ~1:1 at limbus; less precise than toric IOL for >1.5D astigmatism"
+        },
+        {
+          "title": "HSV and refractive surgery: active HSV = absolute contraindication; inactive stromal keratitis = relative contraindication; acyclovir prophylaxis 2 weeks pre-op and 3 months post-op if proceeding; PRK preferred over LASIK"
+        },
+        {
+          "title": "Toric IOL rotation: 1° rotation = 3.3% correction loss; 30° rotation = total loss of effect; mark steep meridian at slit lamp pre-op with patient sitting upright"
+        }
+      ]
+    }
+  ]
+}
